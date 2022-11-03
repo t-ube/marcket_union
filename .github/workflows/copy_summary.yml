@@ -30,7 +30,7 @@ jobs:
             token: ${{ secrets.GITHUB_TOKEN }}
         - name: copy data
           run: |
-            mkdir marcket
+            mkdir -p marcket
             find marcket_g8_n1/dist/* -type f -maxdepth 0 -exec cp {} marcket/ \;
             find marcket_g8_m1/dist/* -type f -maxdepth 0 -exec cp {} marcket/ \;
             find marcket_g8_l1/dist/* -type f -maxdepth 0 -exec cp {} marcket/ \;
