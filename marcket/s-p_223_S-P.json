@@ -1,0 +1,362 @@
+{
+    "price": {
+        "current": null,
+        "summary7Days": {
+            "datetime": "2022-11-02 00:00:00",
+            "count": 0.0,
+            "mean": null,
+            "std": null,
+            "min": null,
+            "25%": null,
+            "50%": null,
+            "75%": null,
+            "max": null
+        },
+        "weekly": {
+            "archive": {
+                "count": 7,
+                "data": [
+                    {
+                        "datetime": "2022-10-27 00:00:00",
+                        "count": 0.0,
+                        "mean": null,
+                        "std": null,
+                        "min": null,
+                        "25%": null,
+                        "50%": null,
+                        "75%": null,
+                        "max": null
+                    },
+                    {
+                        "datetime": "2022-10-28 00:00:00",
+                        "count": 0.0,
+                        "mean": null,
+                        "std": null,
+                        "min": null,
+                        "25%": null,
+                        "50%": null,
+                        "75%": null,
+                        "max": null
+                    },
+                    {
+                        "datetime": "2022-10-29 00:00:00",
+                        "count": 0.0,
+                        "mean": null,
+                        "std": null,
+                        "min": null,
+                        "25%": null,
+                        "50%": null,
+                        "75%": null,
+                        "max": null
+                    },
+                    {
+                        "datetime": "2022-10-30 00:00:00",
+                        "count": 0.0,
+                        "mean": null,
+                        "std": null,
+                        "min": null,
+                        "25%": null,
+                        "50%": null,
+                        "75%": null,
+                        "max": null
+                    },
+                    {
+                        "datetime": "2022-10-31 00:00:00",
+                        "count": 0.0,
+                        "mean": null,
+                        "std": null,
+                        "min": null,
+                        "25%": null,
+                        "50%": null,
+                        "75%": null,
+                        "max": null
+                    },
+                    {
+                        "datetime": "2022-11-01 00:00:00",
+                        "count": 0.0,
+                        "mean": null,
+                        "std": null,
+                        "min": null,
+                        "25%": null,
+                        "50%": null,
+                        "75%": null,
+                        "max": null
+                    },
+                    {
+                        "datetime": "2022-11-02 00:00:00",
+                        "count": 0.0,
+                        "mean": null,
+                        "std": null,
+                        "min": null,
+                        "25%": null,
+                        "50%": null,
+                        "75%": null,
+                        "max": null
+                    }
+                ]
+            },
+            "diff": {
+                "count": 7,
+                "data": [
+                    {
+                        "datetime": "2022-10-27 00:00:00",
+                        "count": null,
+                        "mean": null,
+                        "std": null,
+                        "min": null,
+                        "25%": null,
+                        "50%": null,
+                        "75%": null,
+                        "max": null
+                    },
+                    {
+                        "datetime": "2022-10-28 00:00:00",
+                        "count": 0.0,
+                        "mean": null,
+                        "std": null,
+                        "min": null,
+                        "25%": null,
+                        "50%": null,
+                        "75%": null,
+                        "max": null
+                    },
+                    {
+                        "datetime": "2022-10-29 00:00:00",
+                        "count": 0.0,
+                        "mean": null,
+                        "std": null,
+                        "min": null,
+                        "25%": null,
+                        "50%": null,
+                        "75%": null,
+                        "max": null
+                    },
+                    {
+                        "datetime": "2022-10-30 00:00:00",
+                        "count": 0.0,
+                        "mean": null,
+                        "std": null,
+                        "min": null,
+                        "25%": null,
+                        "50%": null,
+                        "75%": null,
+                        "max": null
+                    },
+                    {
+                        "datetime": "2022-10-31 00:00:00",
+                        "count": 0.0,
+                        "mean": null,
+                        "std": null,
+                        "min": null,
+                        "25%": null,
+                        "50%": null,
+                        "75%": null,
+                        "max": null
+                    },
+                    {
+                        "datetime": "2022-11-01 00:00:00",
+                        "count": 0.0,
+                        "mean": null,
+                        "std": null,
+                        "min": null,
+                        "25%": null,
+                        "50%": null,
+                        "75%": null,
+                        "max": null
+                    },
+                    {
+                        "datetime": "2022-11-02 00:00:00",
+                        "count": 0.0,
+                        "mean": null,
+                        "std": null,
+                        "min": null,
+                        "25%": null,
+                        "50%": null,
+                        "75%": null,
+                        "max": null
+                    }
+                ]
+            }
+        },
+        "halfYear": {
+            "archive": {
+                "count": 7,
+                "data": [
+                    {
+                        "datetime": "2022-08-08 00:00:00",
+                        "count": 0.0,
+                        "mean": 845.0,
+                        "std": 110.0,
+                        "min": 680.0,
+                        "25%": 845.0,
+                        "50%": 900.0,
+                        "75%": 900.0,
+                        "max": 900.0
+                    },
+                    {
+                        "datetime": "2022-08-22 00:00:00",
+                        "count": 3.0,
+                        "mean": 700.0,
+                        "std": 0.0,
+                        "min": 700.0,
+                        "25%": 700.0,
+                        "50%": 700.0,
+                        "75%": 700.0,
+                        "max": 700.0
+                    },
+                    {
+                        "datetime": "2022-09-05 00:00:00",
+                        "count": 3.0,
+                        "mean": 700.0,
+                        "std": 0.0,
+                        "min": 700.0,
+                        "25%": 700.0,
+                        "50%": 700.0,
+                        "75%": 700.0,
+                        "max": 700.0
+                    },
+                    {
+                        "datetime": "2022-09-19 00:00:00",
+                        "count": 4.0,
+                        "mean": 670.0,
+                        "std": 60.0,
+                        "min": 580.0,
+                        "25%": 670.0,
+                        "50%": 700.0,
+                        "75%": 700.0,
+                        "max": 700.0
+                    },
+                    {
+                        "datetime": "2022-10-03 00:00:00",
+                        "count": 3.0,
+                        "mean": 726.6666666666666,
+                        "std": 46.18802153517006,
+                        "min": 700.0,
+                        "25%": 700.0,
+                        "50%": 700.0,
+                        "75%": 740.0,
+                        "max": 780.0
+                    },
+                    {
+                        "datetime": "2022-10-17 00:00:00",
+                        "count": 2.0,
+                        "mean": 700.0,
+                        "std": 0.0,
+                        "min": 700.0,
+                        "25%": 700.0,
+                        "50%": 700.0,
+                        "75%": 700.0,
+                        "max": 700.0
+                    },
+                    {
+                        "datetime": "2022-10-31 00:00:00",
+                        "count": 2.0,
+                        "mean": 700.0,
+                        "std": 0.0,
+                        "min": 700.0,
+                        "25%": 700.0,
+                        "50%": 700.0,
+                        "75%": 700.0,
+                        "max": 700.0
+                    }
+                ]
+            },
+            "diff": {
+                "count": 7,
+                "data": [
+                    {
+                        "datetime": "2022-08-08 00:00:00",
+                        "count": null,
+                        "mean": null,
+                        "std": null,
+                        "min": null,
+                        "25%": null,
+                        "50%": null,
+                        "75%": null,
+                        "max": null
+                    },
+                    {
+                        "datetime": "2022-08-22 00:00:00",
+                        "count": 3.0,
+                        "mean": -145.0,
+                        "std": -110.0,
+                        "min": 20.0,
+                        "25%": -145.0,
+                        "50%": -200.0,
+                        "75%": -200.0,
+                        "max": -200.0
+                    },
+                    {
+                        "datetime": "2022-09-05 00:00:00",
+                        "count": 0.0,
+                        "mean": 0.0,
+                        "std": 0.0,
+                        "min": 0.0,
+                        "25%": 0.0,
+                        "50%": 0.0,
+                        "75%": 0.0,
+                        "max": 0.0
+                    },
+                    {
+                        "datetime": "2022-09-19 00:00:00",
+                        "count": 1.0,
+                        "mean": -30.0,
+                        "std": 60.0,
+                        "min": -120.0,
+                        "25%": -30.0,
+                        "50%": 0.0,
+                        "75%": 0.0,
+                        "max": 0.0
+                    },
+                    {
+                        "datetime": "2022-10-03 00:00:00",
+                        "count": -1.0,
+                        "mean": 56.66666666666663,
+                        "std": -13.811978464829942,
+                        "min": 120.0,
+                        "25%": 30.0,
+                        "50%": 0.0,
+                        "75%": 40.0,
+                        "max": 80.0
+                    },
+                    {
+                        "datetime": "2022-10-17 00:00:00",
+                        "count": -1.0,
+                        "mean": -26.66666666666663,
+                        "std": -46.18802153517006,
+                        "min": 0.0,
+                        "25%": 0.0,
+                        "50%": 0.0,
+                        "75%": -40.0,
+                        "max": -80.0
+                    },
+                    {
+                        "datetime": "2022-10-31 00:00:00",
+                        "count": 0.0,
+                        "mean": 0.0,
+                        "std": 0.0,
+                        "min": 0.0,
+                        "25%": 0.0,
+                        "50%": 0.0,
+                        "75%": 0.0,
+                        "max": 0.0
+                    }
+                ]
+            }
+        },
+        "OneYear": {
+            "archive": {
+                "count": 0,
+                "data": []
+            },
+            "diff": {
+                "count": 0,
+                "data": []
+            }
+        }
+    },
+    "calc": {
+        "latest_date": null,
+        "updated_at": "2022-11-02 21:08:44"
+    }
+}
