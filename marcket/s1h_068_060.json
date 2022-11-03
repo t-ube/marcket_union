@@ -24,14 +24,28 @@
         },
         "volatility": {
             "weekly": {
-                "basePrice": 155400.0,
-                "latestPrice": 180000.0,
-                "percent": 15.83
+                "min": {
+                    "basePrice": 74100.0,
+                    "latestPrice": 65000.0,
+                    "percent": -12.28
+                },
+                "50%": {
+                    "basePrice": 155400.0,
+                    "latestPrice": 180000.0,
+                    "percent": 15.83
+                }
             },
             "daily": {
-                "basePrice": 165000.0,
-                "latestPrice": 180000.0,
-                "percent": 9.09
+                "min": {
+                    "basePrice": 65000.0,
+                    "latestPrice": 65000.0,
+                    "percent": 0.0
+                },
+                "50%": {
+                    "basePrice": 165000.0,
+                    "latestPrice": 180000.0,
+                    "percent": 9.09
+                }
             }
         },
         "weekly": {
@@ -379,6 +393,6 @@
     },
     "calc": {
         "latest_date": "2022-11-03 00:00:00",
-        "updated_at": "2022-11-03 20:01:13"
+        "updated_at": "2022-11-03 21:20:01"
     }
 }
