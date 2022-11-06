@@ -31,9 +31,13 @@ jobs:
         - name: copy data
           run: |
             mkdir -p marcket
+            mkdir -p log
             find marcket_g8_n1/dist/* -type f -maxdepth 0 -exec cp {} marcket/ \;
             find marcket_g8_m1/dist/* -type f -maxdepth 0 -exec cp {} marcket/ \;
             find marcket_g8_l1/dist/* -type f -maxdepth 0 -exec cp {} marcket/ \;
+            find marcket_g8_n1/log/* -type f -maxdepth 0 -exec cp {} log/ \;
+            find marcket_g8_m1/log/* -type f -maxdepth 0 -exec cp {} log/ \;
+            find marcket_g8_l1/log/* -type f -maxdepth 0 -exec cp {} log/ \;
         - name: clean marckets
           run: | 
             rm -rf marcket_g8_n1
@@ -44,6 +48,7 @@ jobs:
             git config --local user.email "ube@coder.okinawa.jp"
             git config --local user.name "Tomoyuki UBE"
             git add marcket
+            git add log
             git diff-index --quiet HEAD || git commit -m "[BOT] Copy from repo"
         - name: Push changes
           uses: ad-m/github-push-action@master
