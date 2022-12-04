@@ -1,4 +1,4 @@
-name: Copy setting repository
+name: Copy Event
 
 on:
   workflow_dispatch:
@@ -10,27 +10,24 @@ jobs:
       steps:
         - name: checkout
           uses: actions/checkout@v2
-        - name: clone ptc_g8
+        - name: clone ptc_event
           uses: actions/checkout@v2
           with:
-            repository: t-ube/ptc_g8
-            path: ptc_g8
+            repository: t-ube/ptc_event
+            path: ptc_event
             token: ${{ secrets.GITHUB_TOKEN }}
         - name: copy data
           run: |
-            mkdir -p card
-            mkdir -p expansion
-            find ptc_g8/dist/app/g8.csv -type f -maxdepth 0 -exec cp {} card/ \;
-            find ptc_g8/data/g8.json -type f -maxdepth 0 -exec cp {} expansion/ \;
+            mkdir -p event
+            find ptc_event/dist/* -type f -maxdepth 0 -exec cp {} event/ \;
         - name: clean repository
           run: | 
-            rm -rf ptc_g8
+            rm -rf ptc_event
         - name: Commit files
           run: |
             git config --local user.email "ube@coder.okinawa.jp"
             git config --local user.name "Tomoyuki UBE"
-            git add card
-            git add expansion
+            git add event
             git diff-index --quiet HEAD || git commit -m "[BOT] Copy from repo"
         - name: Push changes
           uses: ad-m/github-push-action@master
