@@ -1,0 +1,39 @@
+name: Copy marcket repository
+
+on:
+  workflow_dispatch:
+
+jobs:
+  copy-target:
+      name: copy target.yml
+      runs-on: ubuntu-latest
+      steps:
+        - name: checkout
+          uses: actions/checkout@v2
+        - name: clone ptc_g8
+          uses: actions/checkout@v2
+          with:
+            repository: t-ube/ptc_g8
+            path: ptc_g8
+            token: ${{ secrets.GITHUB_TOKEN }}
+        - name: copy data
+          run: |
+            mkdir -p card
+            mkdir -p expansion
+            find ptc_g8/dist/app/g8.csv -type f -maxdepth 0 -exec cp {} card/ \;
+            find ptc_g8/data/g8.json -type f -maxdepth 0 -exec cp {} expansion/ \;
+        - name: clean repository
+          run: | 
+            rm -rf ptc_g8
+        - name: Commit files
+          run: |
+            git config --local user.email "ube@coder.okinawa.jp"
+            git config --local user.name "Tomoyuki UBE"
+            git add card
+            git add expansion
+            git diff-index --quiet HEAD || git commit -m "[BOT] Copy from repo"
+        - name: Push changes
+          uses: ad-m/github-push-action@master
+          with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            branch: ${{ steps.extract_branch.outputs.branch }}
