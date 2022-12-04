@@ -1,4 +1,4 @@
-name: Copy marcket repository
+name: Copy setting repository
 
 on:
   workflow_dispatch:
