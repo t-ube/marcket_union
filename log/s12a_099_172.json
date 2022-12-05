@@ -1,0 +1,60 @@
+﻿{
+    "items": [
+        {
+            "market": "magi",
+            "link": "/items/1125817828",
+            "price": 100,
+            "name": "ドータクン(R仕様)",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26122",
+            "price": 50,
+            "name": "ドータクン(CP){",
+            "date": "2022-12-04",
+            "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38183",
+            "price": 50,
+            "name": "ドータクン099/1",
+            "date": "2022-12-04",
+            "stock": 525
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26122",
+            "price": 50,
+            "name": "ドータクン(CP){",
+            "date": "2022-12-03",
+            "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38183",
+            "price": 50,
+            "name": "ドータクン099/1",
+            "date": "2022-12-03",
+            "stock": 524
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26122",
+            "price": 50,
+            "name": "ドータクン(CP){",
+            "date": "2022-12-02",
+            "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38183",
+            "price": 50,
+            "name": "ドータクン099/1",
+            "date": "2022-12-02",
+            "stock": 524
+        }
+    ]
+}
