@@ -6,12 +6,14 @@ import numpy as np
 from pathlib import Path
 import random
 import datetime
+import urllib.request
+
 
 # シティリーグ使用されたIDを表示
 class cityLeagueLister:
     def getList(self):
         array_id_4w = []
-        with open("event/cl.json", "r") as f:
+        with open("event/cl.json", "r", encoding="utf_8_sig") as f:
             data = json.load(f)
 
         if 'items' in data:
@@ -25,11 +27,96 @@ class cityLeagueLister:
         array_id_4w = list(set(array_id_4w))
         return array_id_4w
 
+# デッキタイプのインデックスを生成する
+class deckTypeIndexGen:
+    def _get(self):
+        temp_dict = {'items':[]}
+        with open("event/cl.json", "r", encoding="utf_8_sig") as f:
+            data = json.load(f)
+        if 'items' in data:
+            for item in data['items']:
+                if 'index' in item:
+                    if item['index'] == 0:
+                        if 'deck_type' in item:
+                            keys = item['deck_type'].keys()
+                            for key in keys:
+                                temp_dict['items'].append(key)
+        return temp_dict
+    def output(self, file_name: str):
+        dict_tmp = self._get()
+        with open(file_name, 'w', encoding='utf_8_sig') as f:
+            json.dump(dict_tmp, f, ensure_ascii=False)
+
+# デッキ画像を生成するための構成情報を出力する
+class cityLeagueDeckImageIDProvider:
+    only_poke = False
+
+    def get(self):
+        temp_dict = {'items':[]}
+        with open("event/cl.json", "r", encoding="utf_8_sig") as f:
+            data = json.load(f)
+        if 'items' in data:
+            for item in data['items']:
+                if 'index' in item:
+                    if item['index'] == 0:
+                        if 'deck_type' in item:
+                            keys = item['deck_type'].keys()
+                            for key in keys:
+                                deck_item = item['deck_type'][key]
+                                l = []
+                                if 'deck_info' in deck_item:
+                                    for info in deck_item['deck_info']:
+                                        l.append({
+                                            'deck_id': info['deck_id'],
+                                            'datetime': info['datetime'],
+                                            'rank': info['rank'],
+                                            'event_name': info['event_name'],
+                                            'sponsorship': info['sponsorship'],
+                                            'player_name': info['player_name'],
+                                            'items': self._getRecipe(item,info['deck_id']),
+                                            'count': self._getRecipeCount(item,info['deck_id']),
+                                        })
+                                temp_dict['items'].append({
+                                    'deck_type': key,
+                                    'items': l
+                                })
+        return temp_dict
+
+    def save(self, data: dict, file_name: str):
+        with open(file_name, 'w', encoding='utf_8_sig') as f:
+            json.dump(data, f, ensure_ascii=False)
+
+    def _getRecipe(self, item, deck_id):
+        if item == None:
+            return []
+        if 'deck_recipe' in item:
+            if deck_id in item['deck_recipe']:
+                if 'items' in item['deck_recipe'][deck_id]:
+                    return self._filteredPoke(item['deck_recipe'][deck_id]['items'])
+        return []
+
+    def _filteredPoke(self, list):
+        if self.only_poke == True:
+            return [d for d in list if d["card_type"] == "P"]
+        else:
+            return list
+
+    def _getRecipeCount(self, item, deck_id):
+        count = 0
+        if item == None:
+            return 0
+        if 'deck_recipe' in item:
+            if deck_id in item['deck_recipe']:
+                if 'items' in item['deck_recipe'][deck_id]:
+                    for item in self._filteredPoke(item['deck_recipe'][deck_id]['items']):
+                        count += item['count']
+        return count
+
 # シティリーグで使用されたデッキの分類をカウントする
 class cityLeagueDeckCounter:
     def get(self):
         array = []
-        with open("event/cl.json", "r") as f:
+        with open("event/cl.json", "r", encoding="utf_8_sig") as f:
             data = json.load(f)
 
         if 'items' in data:
@@ -50,7 +137,7 @@ class cityLeagueDeckCounter:
 
     def getRank1(self):
         array = []
-        with open("event/cl.json", "r") as f:
+        with open("event/cl.json", "r", encoding="utf_8_sig") as f:
             data = json.load(f)
 
         if 'items' in data:
@@ -90,6 +177,61 @@ class cityLeagueDeckCounter:
             json.dump(dict_tmp, f, ensure_ascii=False)
 
 
+# ログを生成
+class logGen:
+    expansion_files = "./log/*.json"
+
+    def _readFileDf(self, file_name: str):
+        dfMarket = pd.DataFrame(index=[], columns=['market','link','price','name','date','stock'])
+        with open(file_name, encoding='utf_8_sig') as f:
+            dict_tmp = {}
+            data = json.load(f)
+            counter = 0
+            for item in data['items']:
+                dict_tmp[counter] = {
+                    'market':item['market'],
+                    'link':item['link'],
+                    'price':item['price'],
+                    'name':item['name'],
+                    'date':item['date'],
+                    'stock':item['stock']
+                }
+                counter += 1
+            dfMarket = dfMarket.from_dict(dict_tmp, orient="index")
+        return dfMarket
+
+    def _getHeadRecord(self, df: pd.DataFrame):
+        df = df.sort_values(by=['stock'], ascending=[False])
+        df = df.head(2)
+        return df
+
+    def output(self, file_name: str):
+        dict_tmp = {'items':[]}
+        files = glob.glob(self.expansion_files)
+        print('output log')
+        for file in files:
+            masterid = os.path.splitext(os.path.basename(file))[0]
+            df = self._readFileDf(file)
+            #print(masterid)
+            if len(df) == 0: 
+                dict_tmp['items'].append({
+                    'master_id': masterid,
+                    'log': []
+                })
+                continue
+            dfMagi = self._getHeadRecord(df[df['market'] == 'magi'])
+            dfHare = self._getHeadRecord(df[df['market'] == 'hareruya2'])
+            dfCaRu = self._getHeadRecord(df[df['market'] == 'cardrush'])
+            dfToCo = self._getHeadRecord(df[df['market'] == 'torecolo'])
+            writeDf = pd.concat([dfMagi, dfHare, dfCaRu, dfToCo])
+            writeDf = writeDf.sort_values(by=['date','market'], ascending=[False,True])
+            dict_tmp['items'].append({
+                'master_id': masterid,
+                'log': writeDf.to_dict(orient="record")
+            })
+        with open(file_name, 'w', encoding='utf_8_sig') as f:
+            json.dump(dict_tmp, f, ensure_ascii=False)
+
 # エキスパンションの名前情報を生成
 class expansionFactory:
     expansion_files = "./expansion/*.json"
@@ -108,6 +250,29 @@ class expansionFactory:
                 dfExpansion = dfExpansion.from_dict(dict_tmp, orient="index")
         return dfExpansion
 
+# 型安全なデータを生成する
+class safeTypeDfFactory:
+    def get(self, df: pd.DataFrame):
+        # 現在の型
+        #print(df.dtypes)
+        print(df.info())
+        return df
+
+# チャンクデータを生成する
+class chunkDfFactory:
+    def get(self, df: pd.DataFrame):
+        df = df.drop(columns={'price_list_hy'})
+        chunks = [df[i:i+2000] for i in range(0, len(df), 2000)]
+        return chunks
+
+# マスターIDのインデックスを生成する
+class masterIdIndexGen:
+    def output(self, df: pd.DataFrame, file_name: str):
+        col_array = df['master_id'].to_numpy().tolist()
+        dict_tmp = {'items': col_array}
+        with open(file_name, 'w', encoding='utf_8_sig') as f:
+            json.dump(dict_tmp, f, ensure_ascii=False)
+       
 # 価格情報の基本情報を生成
 class dailyPriceFactory:
     marcket_files = "./marcket/*.json"
@@ -117,6 +282,7 @@ class dailyPriceFactory:
         listDaily = {}
         listStock = {}
         listWeeklyPriceList = {}
+        listHalfYearPriceList = {}
         files = glob.glob(self.marcket_files)
         for file in files:
             with open(file, encoding='utf_8_sig') as f:
@@ -154,15 +320,23 @@ class dailyPriceFactory:
                         'master_id': masterid,
                         'price_list_7d': weeklyPriceList,
                     }
+                halfYearPriceList = self.getHalfYearPriceList(data)
+                if halfYearPriceList is not None:
+                    listHalfYearPriceList[len(listHalfYearPriceList)] = {
+                        'master_id': masterid,
+                        'price_list_hy': halfYearPriceList,
+                    }
 
         dfDaily = pd.DataFrame.from_dict(listDaily, orient='index')
         dfWeekly = pd.DataFrame.from_dict(listWeekly, orient='index')
         dfStock = pd.DataFrame.from_dict(listStock, orient='index')
         dfWeeklyPriceList = pd.DataFrame.from_dict(listWeeklyPriceList, orient='index')
+        dfHalfYearPriceList = pd.DataFrame.from_dict(listHalfYearPriceList, orient='index')
 
         dfDaily = pd.merge(dfDaily,dfWeekly,how='inner',on='master_id')
         dfDaily = pd.merge(dfDaily,dfStock,how='inner',on='master_id')
         dfDaily = pd.merge(dfDaily,dfWeeklyPriceList,how='inner',on='master_id')
+        dfDaily = pd.merge(dfDaily,dfHalfYearPriceList,how='inner',on='master_id')
         dfDaily = dfDaily.drop(columns={'latest_price_y'})
         dfDaily = dfDaily.drop(columns={'min_price_y'})
         dfDaily = dfDaily.rename(columns={
@@ -221,12 +395,20 @@ class dailyPriceFactory:
                     return current['count']
         return None
 
+
     def getWeeklyPriceList(self,data):
+        return (self._getDurationPriceList(data,'weekly'))
+
+    def getHalfYearPriceList(self,data):
+        return (self._getDurationPriceList(data,'halfYear'))
+
+    # duration : halfYear / weekly
+    def _getDurationPriceList(self,data,duration):
         if 'price' in data:
-            if 'weekly' in data['price'] and data['price']['weekly'] is not None:
-                weekly = data['price']['weekly']
-                if 'archive' in weekly and weekly['archive'] is not None:
-                    archive = weekly['archive']
+            if duration in data['price'] and data['price'][duration] is not None:
+                durationData = data['price'][duration]
+                if 'archive' in durationData and durationData['archive'] is not None:
+                    archive = durationData['archive']
                     if 'data' in archive and archive['data'] is not None:
                         l = []
                         startPrice = None
@@ -331,6 +513,7 @@ class rankCalculator:
         dfPrice.loc[dfPrice.percent_24h == 'n/a','percent_24h']=0
         dfPrice.loc[dfPrice.percent_7d == 'n/a','percent_7d']=0
         dfPrice.loc[dfPrice.is_mirror == 'n/a','is_mirror']=False
+        dfPrice.loc[dfPrice.copyright == 'n/a','copyright']=False
         dfPrice = dfPrice.fillna({'percent_24h': 0, 'percent_7d': 0})
         dfPrice = dfPrice.fillna('n/a')
         dfPrice = self._filterDuplicatedRank(dfPrice)
@@ -427,6 +610,61 @@ class calcTopPrice:
         with open(file_name, 'w', encoding='utf_8_sig') as f:
             json.dump(dict, f, ensure_ascii=False)
 
+# 値動きを取得
+class priceChartDataProvider:
+    def getData(self, df: pd.DataFrame):
+        l = []
+        for id, row in df.iterrows():
+            l.append(self._get(row))
+        return {'items': l}
+    
+    def _getRecords(self, row: pd.Series, duration: str):
+        item = row[duration]
+        records = list()
+        for i in range(len(item['items'])):
+            records.append({
+                'date' : None,
+                'p50': None,
+                'min': None,
+                'stock': None,
+            })
+
+        for i, dateData in enumerate(item['items']):
+            dt = datetime.datetime.strptime(dateData['datetime'], "%Y-%m-%d %H:%M:%S")
+            records[i]['date'] = dt.strftime("%Y-%m-%d")
+            records[i]['p50'] = dateData['p50']
+            records[i]['min'] = dateData['min']
+            records[i]['stock'] = dateData['stock']
+        return records
+    
+    def _get(self, row: pd.Series):
+        legend = {
+            'master_id' : row['master_id'],
+            'rank': row['rank'],
+            'name': row['name'],
+            'expansion': row['expansion'],
+            'expansion_name': row['expansion_name'],
+            'rarity': row['rarity'],
+            'cn': row['cn'],
+            'card_type': row['card_type'],
+            'sub_type': row['sub_type'],
+        }
+        
+        dict_tmp = {
+            'master_id': row['master_id'],
+            'chart_line' : {
+                'legend': legend,
+                'items_7d': self._getRecords(row,'price_list_7d'),
+                'items_hy': self._getRecords(row,'price_list_hy')
+            }
+        }
+        return dict_tmp
+
+    def save(self, dict: dict, file_name: str):
+        with open(file_name, 'w', encoding='utf_8_sig') as f:
+            json.dump(dict, f, ensure_ascii=False)
+            
+
 # 集計監査
 class auditStockLogger:
     # df : priceCalculator:get で出力した df
@@ -452,6 +690,18 @@ class auditStockLogger:
 
 output_dir = './dist'
 Path(output_dir).mkdir(parents=True, exist_ok=True)
+rank_dir = output_dir+'/rank'
+Path(rank_dir).mkdir(parents=True, exist_ok=True)
+chunk_dir = rank_dir+'/chunk'
+Path(chunk_dir).mkdir(parents=True, exist_ok=True)
+recipe_dir = output_dir+'/recipe'
+Path(recipe_dir).mkdir(parents=True, exist_ok=True)
+chart_dir = output_dir+'/chart'
+Path(chart_dir).mkdir(parents=True, exist_ok=True)
+index_dir = output_dir+'/index'
+Path(index_dir).mkdir(parents=True, exist_ok=True)
+log_dir = output_dir+'/log'
+Path(log_dir).mkdir(parents=True, exist_ok=True)
 
 exp_fact = expansionFactory()
 daily_fact = dailyPriceFactory()
@@ -462,23 +712,39 @@ dailyDf = daily_fact.get()
 topCalc = calcTopPrice()
 ranks = rankCalculator()
 priceDf = ranks.getPriceRank(dailyDf,expDf)
-ranks.save(priceDf,output_dir+'/all.json')
-ranks.save(priceDf.head(50),output_dir+'/all_head.json')
+
+safeFact= safeTypeDfFactory()
+priceDf = safeFact.get(priceDf)
+
+# 検索用チャンクデータ生成
+chunkFact = chunkDfFactory()
+chunksDf = chunkFact.get(priceDf)
+for i, chunk in enumerate(chunksDf):
+    ranks.save(chunk,chunk_dir+f'/all_chunk_{i}.json')
+
+indexer = masterIdIndexGen()
+indexer.output(priceDf,index_dir+'/id.json')
+
+ranks.save(priceDf,rank_dir+'/all.json')
+ranks.save(priceDf.head(50),rank_dir+'/all_head.json')
+
+pchartProvider = priceChartDataProvider()
+pchartProvider.save(pchartProvider.getData(priceDf), chart_dir+'/all_line_charts.json')
 
 audit = auditStockLogger()
-audit.saveRegulation(priceDf, output_dir+'/all_stock_regu.json')
-audit.saveRarity(priceDf, output_dir+'/all_stock_rarity.json')
+audit.saveRegulation(priceDf, rank_dir+'/all_stock_regu.json')
+audit.saveRarity(priceDf, rank_dir+'/all_stock_rarity.json')
 
 ranks.is_filtered_dupcard = True
 priceDf = ranks.getPriceRank(dailyDf,expDf)
 topDf = topCalc.get7daysTopPrice(priceDf)
-topCalc.save(topDf, output_dir+'/all_price_top.json')
+topCalc.save(topDf, rank_dir+'/all_price_top.json')
 
 ranks.rank_price_type = 'percent_24h'
 ranks.is_filtered_dupcard = True
 priceDf = ranks.getPriceRank(dailyDf,expDf)
 topDf = topCalc.get7daysTopPrice(priceDf)
-topCalc.save(topDf, output_dir+'/all_price_rise_24h_top.json')
+topCalc.save(topDf, rank_dir+'/all_price_rise_24h_top.json')
 
 
 # シティリーグ対象
@@ -486,29 +752,43 @@ topCalc = calcTopPrice()
 ranksCL = rankCalculator()
 ranksCL.filtered_id_list = cityLeagueLister().getList()
 priceDf = ranksCL.getPriceRank(dailyDf,expDf)
-ranksCL.save(priceDf,output_dir+'/cl.json')
-ranksCL.save(priceDf.head(50),output_dir+'/cl_head.json')
+#ranksCL.save(priceDf,rank_dir+'/cl.json')
+#ranksCL.save(priceDf.head(50),rank_dir+'/cl_head.json')
 #ranksCL.rank_price_type = 'diff_7d'
 ranksCL.rank_price_type = 'percent_7d'
 ranksCL.is_filtered_dupcard = True
 priceDf = ranksCL.getPriceRank(dailyDf,expDf)
 topDf = topCalc.get7daysTopPrice(priceDf)
-topCalc.save(topDf, output_dir+'/cl_price_rise_top.json')
+topCalc.save(topDf, rank_dir+'/cl_price_rise_top.json')
 ranksCL.is_rank_invert = True
 priceDf = ranksCL.getPriceRank(dailyDf,expDf)
 topDf = topCalc.get7daysTopPrice(priceDf)
-topCalc.save(topDf, output_dir+'/cl_price_fall_top.json')
+topCalc.save(topDf, rank_dir+'/cl_price_fall_top.json')
 
 counterCL = cityLeagueDeckCounter()
 counterDf = counterCL.get()
-counterCL.save(counterDf,output_dir+'/cl_deck_top.json')
+counterCL.save(counterDf,rank_dir+'/cl_deck_top.json')
 counterDf = counterCL.getRank1()
-counterCL.save(counterDf,output_dir+'/cl_deck_rank1_top.json')
+counterCL.save(counterDf,rank_dir+'/cl_deck_rank1_top.json')
 
 # 新弾対象
 topCalc = calcTopPrice()
 ranksNew = rankCalculator()
-ranksNew.filtered_expansion = 'S12'
+ranksNew.filtered_expansion = 'S12a'
 priceDf = ranksNew.getPriceRank(dailyDf,expDf)
 topDf = topCalc.get7daysTopPrice(priceDf)
-topCalc.save(topDf, output_dir+'/new_product_price_top.json')
+topCalc.save(topDf, rank_dir+'/new_product_price_top.json')
+
+# デッキインデックス
+dtypeGen = deckTypeIndexGen()
+dtypeGen.output(index_dir+'/deck_type.json')
+
+# デッキ画像生成用データ
+imageLoader = cityLeagueDeckImageIDProvider()
+imageLoader.save(imageLoader.get(), recipe_dir+'/deck_recipe.json')
+imageLoader.only_poke = True
+imageLoader.save(imageLoader.get(), recipe_dir+'/deck_recipe_p.json')
+
+# マーケットログ生成
+log = logGen()
+log.output(log_dir+'/market_price_log.json')
