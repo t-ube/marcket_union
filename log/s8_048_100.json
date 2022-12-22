@@ -2,42 +2,10 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/2068431623",
-            "price": 246,
-            "name": "【特価】メロエッタ ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1651975684",
-            "price": 300,
-            "name": "メロエッタ U 04",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/845003509",
             "price": 100,
             "name": "メロエッタ U 04",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1153620241",
-            "price": 200,
-            "name": "メロエッタ U 04",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/763727989",
-            "price": 150,
-            "name": "メロエッタ U 04",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -45,151 +13,39 @@
             "link": "https://www.hareruya2.com/product/20415",
             "price": 150,
             "name": "メロエッタ(U){超",
-            "date": "2022-12-04",
-            "stock": 121
+            "date": "2022-12-22",
+            "stock": 54
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g048-100-S8-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ◇メロエ",
-            "date": "2022-12-04",
-            "stock": 36
-        },
-        {
-            "market": "magi",
-            "link": "/items/763727989",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32532",
             "price": 150,
-            "name": "メロエッタ U 04",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1651975684",
-            "price": 300,
-            "name": "メロエッタ U 04",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1153620241",
-            "price": 200,
-            "name": "メロエッタ U 04",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/675275948",
-            "price": 100,
-            "name": "メロエッタ U 04",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2068431623",
-            "price": 246,
-            "name": "【特価】メロエッタ ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1113544584",
-            "price": 100,
-            "name": "【100円セール】メ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/845003509",
-            "price": 100,
-            "name": "メロエッタ U 04",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20415",
-            "price": 150,
-            "name": "メロエッタ(U){超",
-            "date": "2022-12-03",
-            "stock": 140
+            "name": "メロエッタ048/1",
+            "date": "2022-12-22",
+            "stock": 11
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22123",
-            "price": 80,
+            "price": 180,
             "name": "メロエッタ048/1",
-            "date": "2022-12-03",
-            "stock": 1
+            "date": "2022-12-22",
+            "stock": 9
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g048-100-S8-B/",
-            "price": 110,
+            "price": 165,
             "name": "【ポケカ】Ｕ◇メロエ",
-            "date": "2022-12-03",
-            "stock": 35
-        },
-        {
-            "market": "magi",
-            "link": "/items/1113544584",
-            "price": 100,
-            "name": "【100円セール】メ",
-            "date": "2022-12-02",
-            "stock": 1
+            "date": "2022-12-22",
+            "stock": 29
         },
         {
             "market": "magi",
             "link": "/items/845003509",
             "price": 100,
             "name": "メロエッタ U 04",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2068431623",
-            "price": 246,
-            "name": "【特価】メロエッタ ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/763727989",
-            "price": 150,
-            "name": "メロエッタ U 04",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1153620241",
-            "price": 200,
-            "name": "メロエッタ U 04",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/675275948",
-            "price": 100,
-            "name": "メロエッタ U 04",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1651975684",
-            "price": 300,
-            "name": "メロエッタ U 04",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -197,71 +53,39 @@
             "link": "https://www.hareruya2.com/product/20415",
             "price": 150,
             "name": "メロエッタ(U){超",
-            "date": "2022-12-02",
-            "stock": 147
+            "date": "2022-12-21",
+            "stock": 52
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22123",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/32532",
+            "price": 150,
             "name": "メロエッタ048/1",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
             "stock": 15
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22123",
+            "price": 180,
+            "name": "メロエッタ048/1",
+            "date": "2022-12-21",
+            "stock": 18
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g048-100-S8-B/",
-            "price": 110,
+            "price": 165,
             "name": "【ポケカ】Ｕ◇メロエ",
-            "date": "2022-12-02",
-            "stock": 35
+            "date": "2022-12-21",
+            "stock": 29
         },
         {
             "market": "magi",
-            "link": "/items/1153620241",
-            "price": 200,
+            "link": "/items/1717773597",
+            "price": 242,
             "name": "メロエッタ U 04",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1651975684",
-            "price": 300,
-            "name": "メロエッタ U 04",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1113544584",
-            "price": 100,
-            "name": "【100円セール】メ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2068431623",
-            "price": 246,
-            "name": "【特価】メロエッタ ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/763727989",
-            "price": 150,
-            "name": "メロエッタ U 04",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/675275948",
-            "price": 100,
-            "name": "メロエッタ U 04",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -269,7 +93,7 @@
             "link": "/items/845003509",
             "price": 100,
             "name": "メロエッタ U 04",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -277,344 +101,208 @@
             "link": "https://www.hareruya2.com/product/20415",
             "price": 150,
             "name": "メロエッタ(U){超",
-            "date": "2022-12-01",
-            "stock": 141
+            "date": "2022-12-20",
+            "stock": 51
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22123",
-            "price": 80,
+            "price": 180,
             "name": "メロエッタ048/1",
-            "date": "2022-12-01",
-            "stock": 21
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g048-100-S8-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ◇メロエ",
-            "date": "2022-12-01",
-            "stock": 35
-        },
-        {
-            "market": "magi",
-            "link": "/items/1651975684",
-            "price": 300,
-            "name": "メロエッタ U 04",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/845003509",
-            "price": 100,
-            "name": "メロエッタ U 04",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1113544584",
-            "price": 100,
-            "name": "【100円セール】メ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2068431623",
-            "price": 246,
-            "name": "【特価】メロエッタ ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/763727989",
-            "price": 150,
-            "name": "メロエッタ U 04",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1153620241",
-            "price": 200,
-            "name": "メロエッタ U 04",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/675275948",
-            "price": 100,
-            "name": "メロエッタ U 04",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20415",
-            "price": 150,
-            "name": "メロエッタ(U){超",
-            "date": "2022-11-30",
-            "stock": 141
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22123",
-            "price": 80,
-            "name": "メロエッタ048/1",
-            "date": "2022-11-30",
+            "date": "2022-12-20",
             "stock": 25
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g048-100-S8-B/",
-            "price": 110,
+            "price": 165,
             "name": "【ポケカ】Ｕ◇メロエ",
-            "date": "2022-11-30",
-            "stock": 35
-        },
-        {
-            "market": "magi",
-            "link": "/items/1651975684",
-            "price": 300,
-            "name": "メロエッタ U 04",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/845003509",
-            "price": 100,
-            "name": "メロエッタ U 04",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1113544584",
-            "price": 100,
-            "name": "【100円セール】メ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1153620241",
-            "price": 200,
-            "name": "メロエッタ U 04",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/763727989",
-            "price": 150,
-            "name": "メロエッタ U 04",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2068431623",
-            "price": 246,
-            "name": "【特価】メロエッタ ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/675275948",
-            "price": 100,
-            "name": "メロエッタ U 04",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20415",
-            "price": 150,
-            "name": "メロエッタ(U){超",
-            "date": "2022-11-29",
-            "stock": 142
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22123",
-            "price": 80,
-            "name": "メロエッタ048/1",
-            "date": "2022-11-29",
-            "stock": 27
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g048-100-S8-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ◇メロエ",
-            "date": "2022-11-29",
-            "stock": 35
-        },
-        {
-            "market": "magi",
-            "link": "/items/1153620241",
-            "price": 200,
-            "name": "メロエッタ U 04",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1113544584",
-            "price": 100,
-            "name": "【100円セール】メ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/763727989",
-            "price": 150,
-            "name": "メロエッタ U 04",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2068431623",
-            "price": 246,
-            "name": "【特価】メロエッタ ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/845003509",
-            "price": 100,
-            "name": "メロエッタ U 04",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/675275948",
-            "price": 100,
-            "name": "メロエッタ U 04",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1651975684",
-            "price": 300,
-            "name": "メロエッタ U 04",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20415",
-            "price": 100,
-            "name": "メロエッタ(U){超",
-            "date": "2022-11-28",
-            "stock": 144
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22123",
-            "price": 80,
-            "name": "メロエッタ048/1",
-            "date": "2022-11-28",
+            "date": "2022-12-20",
             "stock": 29
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g048-100-S8-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ◇メロエ",
-            "date": "2022-11-28",
-            "stock": 35
+            "market": "magi",
+            "link": "/items/1717773597",
+            "price": 242,
+            "name": "メロエッタ U 04",
+            "date": "2022-12-19",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/845003509",
             "price": 100,
             "name": "メロエッタ U 04",
-            "date": "2022-11-27",
+            "date": "2022-12-19",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20415",
+            "price": 150,
+            "name": "メロエッタ(U){超",
+            "date": "2022-12-19",
+            "stock": 54
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22123",
+            "price": 180,
+            "name": "メロエッタ048/1",
+            "date": "2022-12-19",
+            "stock": 39
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g048-100-S8-B/",
+            "price": 165,
+            "name": "【ポケカ】Ｕ◇メロエ",
+            "date": "2022-12-19",
+            "stock": 29
+        },
+        {
+            "market": "magi",
+            "link": "/items/1717773597",
+            "price": 245,
+            "name": "メロエッタ U 04",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/845003509",
+            "price": 100,
+            "name": "メロエッタ U 04",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20415",
+            "price": 150,
+            "name": "メロエッタ(U){超",
+            "date": "2022-12-18",
+            "stock": 60
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22123",
+            "price": 180,
+            "name": "メロエッタ048/1",
+            "date": "2022-12-18",
+            "stock": 48
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g048-100-S8-B/",
+            "price": 165,
+            "name": "【ポケカ】Ｕ◇メロエ",
+            "date": "2022-12-18",
+            "stock": 31
+        },
+        {
+            "market": "magi",
+            "link": "/items/1717773597",
+            "price": 249,
+            "name": "メロエッタ U 04",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/845003509",
+            "price": 100,
+            "name": "メロエッタ U 04",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20415",
+            "price": 150,
+            "name": "メロエッタ(U){超",
+            "date": "2022-12-17",
+            "stock": 70
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22123",
+            "price": 180,
+            "name": "メロエッタ048/1",
+            "date": "2022-12-17",
+            "stock": 55
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g048-100-S8-B/",
+            "price": 165,
+            "name": "【ポケカ】Ｕ◇メロエ",
+            "date": "2022-12-17",
+            "stock": 30
+        },
+        {
+            "market": "magi",
+            "link": "/items/845003509",
+            "price": 100,
+            "name": "メロエッタ U 04",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20415",
+            "price": 150,
+            "name": "メロエッタ(U){超",
+            "date": "2022-12-16",
+            "stock": 70
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22123",
+            "price": 180,
+            "name": "メロエッタ048/1",
+            "date": "2022-12-16",
+            "stock": 80
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g048-100-S8-B/",
+            "price": 165,
+            "name": "【ポケカ】Ｕ◇メロエ",
+            "date": "2022-12-16",
+            "stock": 30
         },
         {
             "market": "magi",
             "link": "/items/763727989",
             "price": 150,
             "name": "メロエッタ U 04",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1153620241",
-            "price": 200,
-            "name": "メロエッタ U 04",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1651975684",
-            "price": 300,
-            "name": "メロエッタ U 04",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/675275948",
+            "link": "/items/845003509",
             "price": 100,
             "name": "メロエッタ U 04",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2068431623",
-            "price": 247,
-            "name": "【特価】メロエッタ ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1113544584",
-            "price": 100,
-            "name": "【100円セール】メ",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20415",
-            "price": 100,
+            "price": 150,
             "name": "メロエッタ(U){超",
-            "date": "2022-11-27",
-            "stock": 145
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22123",
-            "price": 80,
-            "name": "メロエッタ048/1",
-            "date": "2022-11-27",
-            "stock": 31
+            "date": "2022-12-15",
+            "stock": 72
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g048-100-S8-B/",
-            "price": 110,
+            "price": 165,
             "name": "【ポケカ】Ｕ◇メロエ",
-            "date": "2022-11-27",
-            "stock": 35
+            "date": "2022-12-15",
+            "stock": 30
         }
     ]
 }

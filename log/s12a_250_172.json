@@ -2,67 +2,275 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1378913509",
-            "price": 990,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/362518879",
-            "price": 999,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2072870930",
-            "price": 990,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38430",
-            "price": 1280,
-            "name": "ボスの指令アカギ25",
-            "date": "2022-12-04",
-            "stock": 58
-        },
-        {
-            "market": "magi",
-            "link": "/items/2072870930",
-            "price": 990,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38430",
-            "price": 1280,
-            "name": "ボスの指令アカギ25",
-            "date": "2022-12-03",
-            "stock": 28
-        },
-        {
-            "market": "magi",
-            "link": "/items/1871850589",
+            "link": "/items/1709240333",
             "price": 1000,
             "name": "ボスの指令[アカギ]",
-            "date": "2022-12-02",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1757149952",
+            "price": 1100,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1240287065",
+            "price": 1200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38430",
-            "price": 1280,
+            "price": 1080,
             "name": "ボスの指令アカギ25",
-            "date": "2022-12-02",
-            "stock": 34
+            "date": "2022-12-22",
+            "stock": 52
+        },
+        {
+            "market": "magi",
+            "link": "/items/1709240333",
+            "price": 1000,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1083482502",
+            "price": 2300,
+            "name": "プレゼント付き×5 ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1308655209",
+            "price": 939,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1757149952",
+            "price": 1100,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38430",
+            "price": 1080,
+            "name": "ボスの指令アカギ25",
+            "date": "2022-12-21",
+            "stock": 63
+        },
+        {
+            "market": "magi",
+            "link": "/items/1308655209",
+            "price": 999,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1709240333",
+            "price": 1000,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1083482502",
+            "price": 2300,
+            "name": "プレゼント付き×5 ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38430",
+            "price": 1080,
+            "name": "ボスの指令アカギ25",
+            "date": "2022-12-20",
+            "stock": 54
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38911",
+            "price": 880,
+            "name": "ボスの指令アカギ25",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1083482502",
+            "price": 2300,
+            "name": "プレゼント付き×5 ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1308655209",
+            "price": 999,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1709240333",
+            "price": 1000,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38430",
+            "price": 1080,
+            "name": "ボスの指令アカギ25",
+            "date": "2022-12-19",
+            "stock": 48
+        },
+        {
+            "market": "magi",
+            "link": "/items/1083482502",
+            "price": 2300,
+            "name": "プレゼント付き×5 ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1709240333",
+            "price": 1100,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1308655209",
+            "price": 999,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38430",
+            "price": 1080,
+            "name": "ボスの指令アカギ25",
+            "date": "2022-12-18",
+            "stock": 43
+        },
+        {
+            "market": "magi",
+            "link": "/items/1308655209",
+            "price": 999,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1083482502",
+            "price": 2300,
+            "name": "プレゼント付き×5 ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1709240333",
+            "price": 1100,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38430",
+            "price": 1080,
+            "name": "ボスの指令アカギ25",
+            "date": "2022-12-17",
+            "stock": 69
+        },
+        {
+            "market": "magi",
+            "link": "/items/1308655209",
+            "price": 999,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1709240333",
+            "price": 1100,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1083482502",
+            "price": 2400,
+            "name": "プレゼント付き×5 ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38430",
+            "price": 1080,
+            "name": "ボスの指令アカギ25",
+            "date": "2022-12-16",
+            "stock": 69
+        },
+        {
+            "market": "magi",
+            "link": "/items/1083482502",
+            "price": 2400,
+            "name": "プレゼント付き×5 ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1709240333",
+            "price": 1100,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1308655209",
+            "price": 999,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38430",
+            "price": 1080,
+            "name": "ボスの指令アカギ25",
+            "date": "2022-12-15",
+            "stock": 56
         }
     ]
 }

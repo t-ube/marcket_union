@@ -2,123 +2,531 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1720194707",
-            "price": 1100,
+            "link": "/items/1771149329",
+            "price": 280,
             "name": "アブソル AR 19",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2079628161",
-            "price": 800,
+            "link": "/items/455711956",
+            "price": 400,
             "name": "アブソル AR 19",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1855107076",
+            "price": 300,
+            "name": "アブソル AR 19",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1383948597",
+            "price": 600,
+            "name": "アブソル AR 19",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/617439341",
-            "price": 800,
+            "price": 390,
             "name": "アブソル AR 19",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2014566868",
-            "price": 480,
-            "name": "アブソル AR 19",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26330",
-            "price": 150,
+            "price": 300,
             "name": "アブソル(AR){悪",
-            "date": "2022-12-04",
-            "stock": 15
+            "date": "2022-12-22",
+            "stock": 37
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38371",
             "price": 280,
             "name": "アブソル191/17",
-            "date": "2022-12-04",
-            "stock": 59
+            "date": "2022-12-22",
+            "stock": 52
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38638",
+            "price": 260,
+            "name": "アブソル191/17",
+            "date": "2022-12-22",
+            "stock": 3
         },
         {
             "market": "magi",
-            "link": "/items/2079628161",
-            "price": 980,
+            "link": "/items/1383948597",
+            "price": 600,
             "name": "アブソル AR 19",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1720194707",
-            "price": 1100,
+            "link": "/items/1771149329",
+            "price": 280,
             "name": "アブソル AR 19",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2014566868",
-            "price": 480,
+            "link": "/items/617439341",
+            "price": 390,
             "name": "アブソル AR 19",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/455711956",
+            "price": 400,
+            "name": "アブソル AR 19",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1855107076",
+            "price": 300,
+            "name": "アブソル AR 19",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26330",
-            "price": 150,
+            "price": 300,
             "name": "アブソル(AR){悪",
-            "date": "2022-12-03",
-            "stock": 30
+            "date": "2022-12-21",
+            "stock": 38
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38371",
-            "price": 220,
+            "price": 280,
             "name": "アブソル191/17",
-            "date": "2022-12-03",
-            "stock": 17
+            "date": "2022-12-21",
+            "stock": 44
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38638",
+            "price": 260,
+            "name": "アブソル191/17",
+            "date": "2022-12-21",
+            "stock": 3
         },
         {
             "market": "magi",
-            "link": "/items/2079628161",
-            "price": 1000,
+            "link": "/items/1855107076",
+            "price": 300,
             "name": "アブソル AR 19",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1720194707",
-            "price": 1100,
+            "link": "/items/1771149329",
+            "price": 280,
             "name": "アブソル AR 19",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/455711956",
+            "price": 400,
+            "name": "アブソル AR 19",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/617439341",
+            "price": 450,
+            "name": "アブソル AR 19",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1383948597",
+            "price": 600,
+            "name": "アブソル AR 19",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26330",
-            "price": 150,
+            "price": 300,
             "name": "アブソル(AR){悪",
-            "date": "2022-12-02",
-            "stock": 34
+            "date": "2022-12-20",
+            "stock": 32
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38371",
-            "price": 220,
+            "price": 280,
             "name": "アブソル191/17",
-            "date": "2022-12-02",
-            "stock": 132
+            "date": "2022-12-20",
+            "stock": 38
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38638",
+            "price": 260,
+            "name": "アブソル191/17",
+            "date": "2022-12-20",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1383948597",
+            "price": 600,
+            "name": "アブソル AR 19",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1771149329",
+            "price": 300,
+            "name": "アブソル AR 19",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/617439341",
+            "price": 450,
+            "name": "アブソル AR 19",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1855107076",
+            "price": 300,
+            "name": "アブソル AR 19",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/455711956",
+            "price": 400,
+            "name": "アブソル AR 19",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26330",
+            "price": 300,
+            "name": "アブソル(AR){悪",
+            "date": "2022-12-19",
+            "stock": 32
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38371",
+            "price": 280,
+            "name": "アブソル191/17",
+            "date": "2022-12-19",
+            "stock": 18
+        },
+        {
+            "market": "magi",
+            "link": "/items/1481595392",
+            "price": 250,
+            "name": "アブソル AR 19",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1771149329",
+            "price": 300,
+            "name": "アブソル AR 19",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/617439341",
+            "price": 450,
+            "name": "アブソル AR 19",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1855107076",
+            "price": 300,
+            "name": "アブソル AR 19",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1383948597",
+            "price": 600,
+            "name": "アブソル AR 19",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/455711956",
+            "price": 400,
+            "name": "アブソル AR 19",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26330",
+            "price": 300,
+            "name": "アブソル(AR){悪",
+            "date": "2022-12-18",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38371",
+            "price": 280,
+            "name": "アブソル191/17",
+            "date": "2022-12-18",
+            "stock": 100
+        },
+        {
+            "market": "magi",
+            "link": "/items/617439341",
+            "price": 450,
+            "name": "アブソル AR 19",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1481595392",
+            "price": 250,
+            "name": "アブソル AR 19",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1771149329",
+            "price": 300,
+            "name": "アブソル AR 19",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1855107076",
+            "price": 300,
+            "name": "アブソル AR 19",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1383948597",
+            "price": 600,
+            "name": "アブソル AR 19",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/455711956",
+            "price": 400,
+            "name": "アブソル AR 19",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26330",
+            "price": 300,
+            "name": "アブソル(AR){悪",
+            "date": "2022-12-17",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38638",
+            "price": 260,
+            "name": "アブソル191/17",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38371",
+            "price": 280,
+            "name": "アブソル191/17",
+            "date": "2022-12-17",
+            "stock": 107
+        },
+        {
+            "market": "magi",
+            "link": "/items/1481595392",
+            "price": 250,
+            "name": "アブソル AR 19",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1771149329",
+            "price": 300,
+            "name": "アブソル AR 19",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/617439341",
+            "price": 450,
+            "name": "アブソル AR 19",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1855107076",
+            "price": 300,
+            "name": "アブソル AR 19",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26330",
+            "price": 300,
+            "name": "アブソル(AR){悪",
+            "date": "2022-12-16",
+            "stock": 9
+        },
+        {
+            "market": "magi",
+            "link": "/items/455711956",
+            "price": 400,
+            "name": "アブソル AR 19",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1383948597",
+            "price": 600,
+            "name": "アブソル AR 19",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38638",
+            "price": 260,
+            "name": "アブソル191/17",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38371",
+            "price": 280,
+            "name": "アブソル191/17",
+            "date": "2022-12-16",
+            "stock": 100
+        },
+        {
+            "market": "magi",
+            "link": "/items/1383948597",
+            "price": 600,
+            "name": "アブソル AR 19",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/617439341",
+            "price": 450,
+            "name": "アブソル AR 19",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1771149329",
+            "price": 320,
+            "name": "アブソル AR 19",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1481595392",
+            "price": 250,
+            "name": "アブソル AR 19",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1855107076",
+            "price": 300,
+            "name": "アブソル AR 19",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/455711956",
+            "price": 400,
+            "name": "アブソル AR 19",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26330",
+            "price": 300,
+            "name": "アブソル(AR){悪",
+            "date": "2022-12-15",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38371",
+            "price": 280,
+            "name": "アブソル191/17",
+            "date": "2022-12-15",
+            "stock": 57
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38638",
+            "price": 260,
+            "name": "アブソル191/17",
+            "date": "2022-12-15",
+            "stock": 1
         }
     ]
 }

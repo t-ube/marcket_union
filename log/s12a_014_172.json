@@ -2,10 +2,50 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/563706421",
+            "price": 400,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1755912814",
+            "price": 399,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1867334652",
+            "price": 400,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1363240124",
+            "price": 296,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1684018981",
+            "price": 350,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/895299326",
             "price": 550,
             "name": "リザードンVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,7 +53,7 @@
             "link": "/items/1246897851",
             "price": 270,
             "name": "リザードンVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -21,47 +61,55 @@
             "link": "/items/880366342",
             "price": 300,
             "name": "リザードンVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/194228931",
-            "price": 120,
-            "name": "リザードンVSTAR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1684018981",
-            "price": 550,
-            "name": "リザードンVSTAR",
-            "date": "2022-12-04",
+            "link": "/items/1093513008",
+            "price": 600,
+            "name": "プレゼント付き　リザ",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26037",
-            "price": 100,
+            "price": 150,
             "name": "リザードンVSTAR",
-            "date": "2022-12-04",
-            "stock": 18
+            "date": "2022-12-22",
+            "stock": 19
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38098",
             "price": 120,
             "name": "リザードンVSTAR",
-            "date": "2022-12-04",
-            "stock": 264
+            "date": "2022-12-22",
+            "stock": 106
+        },
+        {
+            "market": "magi",
+            "link": "/items/895299326",
+            "price": 550,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1684018981",
+            "price": 350,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/880366342",
-            "price": 400,
+            "price": 300,
             "name": "リザードンVSTAR",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -69,7 +117,95 @@
             "link": "/items/1246897851",
             "price": 270,
             "name": "リザードンVSTAR",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1093513008",
+            "price": 600,
+            "name": "プレゼント付き　リザ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1363240124",
+            "price": 296,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1867334652",
+            "price": 400,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1755912814",
+            "price": 399,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/563706421",
+            "price": 400,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26037",
+            "price": 150,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-21",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38098",
+            "price": 120,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-21",
+            "stock": 80
+        },
+        {
+            "market": "magi",
+            "link": "/items/880366342",
+            "price": 300,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/563706421",
+            "price": 400,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1755912814",
+            "price": 399,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1093513008",
+            "price": 680,
+            "name": "プレゼント付き　リザ",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -77,64 +213,368 @@
             "link": "/items/895299326",
             "price": 550,
             "name": "リザードンVSTAR",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1684018981",
-            "price": 550,
-            "name": "リザードンVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26037",
-            "price": 100,
-            "name": "リザードンVSTAR",
-            "date": "2022-12-03",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38098",
-            "price": 120,
-            "name": "リザードンVSTAR",
-            "date": "2022-12-03",
-            "stock": 162
         },
         {
             "market": "magi",
             "link": "/items/1246897851",
             "price": 270,
             "name": "リザードンVSTAR",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/880366342",
+            "link": "/items/1867334652",
             "price": 400,
             "name": "リザードンVSTAR",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1684018981",
+            "price": 350,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1363240124",
+            "price": 296,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26037",
-            "price": 100,
+            "price": 150,
             "name": "リザードンVSTAR",
-            "date": "2022-12-02",
-            "stock": 36
+            "date": "2022-12-20",
+            "stock": 21
+        },
+        {
+            "market": "magi",
+            "link": "/items/1684018981",
+            "price": 350,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1867334652",
+            "price": 400,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/563706421",
+            "price": 400,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1755912814",
+            "price": 399,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1363240124",
+            "price": 296,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1246897851",
+            "price": 270,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/880366342",
+            "price": 300,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1093513008",
+            "price": 680,
+            "name": "プレゼント付き　リザ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/895299326",
+            "price": 550,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26037",
+            "price": 150,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-19",
+            "stock": 24
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38098",
             "price": 120,
             "name": "リザードンVSTAR",
-            "date": "2022-12-02",
-            "stock": 125
+            "date": "2022-12-19",
+            "stock": 26
+        },
+        {
+            "market": "magi",
+            "link": "/items/1246897851",
+            "price": 270,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/880366342",
+            "price": 300,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1363240124",
+            "price": 297,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1867334652",
+            "price": 400,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1684018981",
+            "price": 350,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/895299326",
+            "price": 550,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1755912814",
+            "price": 399,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26037",
+            "price": 150,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-18",
+            "stock": 24
+        },
+        {
+            "market": "magi",
+            "link": "/items/880366342",
+            "price": 300,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1246897851",
+            "price": 270,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1363240124",
+            "price": 297,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1867334652",
+            "price": 400,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1684018981",
+            "price": 350,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/895299326",
+            "price": 550,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26037",
+            "price": 150,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-17",
+            "stock": 24
+        },
+        {
+            "market": "magi",
+            "link": "/items/1246897851",
+            "price": 270,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/895299326",
+            "price": 550,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1684018981",
+            "price": 350,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1867334652",
+            "price": 400,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1363240124",
+            "price": 297,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/880366342",
+            "price": 300,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26037",
+            "price": 150,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-16",
+            "stock": 26
+        },
+        {
+            "market": "magi",
+            "link": "/items/1246897851",
+            "price": 270,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/880366342",
+            "price": 300,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1867334652",
+            "price": 400,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1363240124",
+            "price": 297,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/895299326",
+            "price": 550,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1684018981",
+            "price": 350,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26037",
+            "price": 150,
+            "name": "リザードンVSTAR",
+            "date": "2022-12-15",
+            "stock": 26
         }
     ]
 }

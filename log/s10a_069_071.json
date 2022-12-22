@@ -2,10 +2,42 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1890689024",
+            "price": 190,
+            "name": "ヒナツ(ミラー) U",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1822613798",
+            "price": 145,
+            "name": "ヒナツ(ミラー) U",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/806414347",
+            "price": 120,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/475509856",
+            "price": 75,
+            "name": "【４枚セット】ヒナツ",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/690115357",
             "price": 37,
             "name": "ヒナツ U 069/",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 4
         },
         {
@@ -13,31 +45,47 @@
             "link": "/items/1010379117",
             "price": 200,
             "name": "ヒナツ U 069/",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1822613798",
-            "price": 150,
-            "name": "ヒナツ(ミラー) U",
-            "date": "2022-12-04",
-            "stock": 1
+            "link": "/items/900689412",
+            "price": 37,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-22",
+            "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/120129154",
             "price": 198,
             "name": "【特価】ヒナツ U ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/605447868",
+            "link": "/items/602206430",
+            "price": 113,
+            "name": "No.758 P屋　",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1409542911",
+            "price": 113,
+            "name": "No.746 P屋　",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/353326542",
             "price": 120,
             "name": "ヒナツ U 069/",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -45,7 +93,79 @@
             "link": "/items/2049513057",
             "price": 280,
             "name": "ヒナツ U 069/",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23454",
+            "price": 100,
+            "name": "ヒナツ:ミラー(U)",
+            "date": "2022-12-22",
+            "stock": 118
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23405",
+            "price": 100,
+            "name": "ヒナツ(U){サポー",
+            "date": "2022-12-22",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35293",
+            "price": 80,
+            "name": "ヒナツ069/071",
+            "date": "2022-12-22",
+            "stock": 45
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35342",
+            "price": 120,
+            "name": "ヒナツ069/071",
+            "date": "2022-12-22",
+            "stock": 210
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g069-071-S10A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｕ）ミラー",
+            "date": "2022-12-22",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1822613798",
+            "price": 145,
+            "name": "ヒナツ(ミラー) U",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/353326542",
+            "price": 120,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1890689024",
+            "price": 190,
+            "name": "ヒナツ(ミラー) U",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1409542911",
+            "price": 113,
+            "name": "No.746 P屋　",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -53,135 +173,7 @@
             "link": "/items/602206430",
             "price": 113,
             "name": "No.758 P屋　",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1409542911",
-            "price": 113,
-            "name": "No.746 P屋　",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1890689024",
-            "price": 190,
-            "name": "ヒナツ(ミラー) U",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/353326542",
-            "price": 120,
-            "name": "ヒナツ U 069/",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/900689412",
-            "price": 37,
-            "name": "ヒナツ U 069/",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23405",
-            "price": 100,
-            "name": "ヒナツ(U){サポー",
-            "date": "2022-12-04",
-            "stock": 9
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23454",
-            "price": 100,
-            "name": "ヒナツ:ミラー(U)",
-            "date": "2022-12-04",
-            "stock": 116
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35293",
-            "price": 80,
-            "name": "ヒナツ069/071",
-            "date": "2022-12-04",
-            "stock": 72
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35342",
-            "price": 120,
-            "name": "ヒナツ069/071",
-            "date": "2022-12-04",
-            "stock": 214
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g069-071-S10A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1010379117",
-            "price": 200,
-            "name": "ヒナツ U 069/",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/690115357",
-            "price": 37,
-            "name": "ヒナツ U 069/",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1409542911",
-            "price": 113,
-            "name": "No.746 P屋　",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/900689412",
-            "price": 37,
-            "name": "ヒナツ U 069/",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1890689024",
-            "price": 190,
-            "name": "ヒナツ(ミラー) U",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/353326542",
-            "price": 120,
-            "name": "ヒナツ U 069/",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1822613798",
-            "price": 150,
-            "name": "ヒナツ(ミラー) U",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -189,23 +181,7 @@
             "link": "/items/2049513057",
             "price": 280,
             "name": "ヒナツ U 069/",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/605447868",
-            "price": 120,
-            "name": "ヒナツ U 069/",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/602206430",
-            "price": 113,
-            "name": "No.758 P屋　",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -213,239 +189,7 @@
             "link": "/items/120129154",
             "price": 198,
             "name": "【特価】ヒナツ U ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23405",
-            "price": 100,
-            "name": "ヒナツ(U){サポー",
-            "date": "2022-12-03",
-            "stock": 12
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23454",
-            "price": 100,
-            "name": "ヒナツ:ミラー(U)",
-            "date": "2022-12-03",
-            "stock": 116
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35342",
-            "price": 120,
-            "name": "ヒナツ069/071",
-            "date": "2022-12-03",
-            "stock": 215
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35293",
-            "price": 80,
-            "name": "ヒナツ069/071",
-            "date": "2022-12-03",
-            "stock": 72
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g069-071-S10A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/605447868",
-            "price": 120,
-            "name": "ヒナツ U 069/",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/120129154",
-            "price": 198,
-            "name": "【特価】ヒナツ U ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1010379117",
-            "price": 200,
-            "name": "ヒナツ U 069/",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1822613798",
-            "price": 150,
-            "name": "ヒナツ(ミラー) U",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2049513057",
-            "price": 290,
-            "name": "ヒナツ U 069/",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/602206430",
-            "price": 113,
-            "name": "No.758 P屋　",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1409542911",
-            "price": 113,
-            "name": "No.746 P屋　",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1890689024",
-            "price": 190,
-            "name": "ヒナツ(ミラー) U",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/353326542",
-            "price": 120,
-            "name": "ヒナツ U 069/",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/900689412",
-            "price": 37,
-            "name": "ヒナツ U 069/",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/690115357",
-            "price": 37,
-            "name": "ヒナツ U 069/",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23405",
-            "price": 100,
-            "name": "ヒナツ(U){サポー",
-            "date": "2022-12-02",
-            "stock": 12
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23454",
-            "price": 100,
-            "name": "ヒナツ:ミラー(U)",
-            "date": "2022-12-02",
-            "stock": 116
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35342",
-            "price": 120,
-            "name": "ヒナツ069/071",
-            "date": "2022-12-02",
-            "stock": 215
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35293",
-            "price": 80,
-            "name": "ヒナツ069/071",
-            "date": "2022-12-02",
-            "stock": 72
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g069-071-S10A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1010379117",
-            "price": 200,
-            "name": "ヒナツ U 069/",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/120129154",
-            "price": 198,
-            "name": "【特価】ヒナツ U ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/353326542",
-            "price": 120,
-            "name": "ヒナツ U 069/",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/605447868",
-            "price": 120,
-            "name": "ヒナツ U 069/",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1890689024",
-            "price": 190,
-            "name": "ヒナツ(ミラー) U",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2049513057",
-            "price": 290,
-            "name": "ヒナツ U 069/",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1822613798",
-            "price": 150,
-            "name": "ヒナツ(ミラー) U",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1409542911",
-            "price": 113,
-            "name": "No.746 P屋　",
-            "date": "2022-12-01",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -453,15 +197,23 @@
             "link": "/items/690115357",
             "price": 37,
             "name": "ヒナツ U 069/",
-            "date": "2022-12-01",
+            "date": "2022-12-21",
             "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/602206430",
-            "price": 113,
-            "name": "No.758 P屋　",
-            "date": "2022-12-01",
+            "link": "/items/1010379117",
+            "price": 200,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/806414347",
+            "price": 120,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -469,7 +221,15 @@
             "link": "/items/900689412",
             "price": 37,
             "name": "ヒナツ U 069/",
-            "date": "2022-12-01",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/475509856",
+            "price": 75,
+            "name": "【４枚セット】ヒナツ",
+            "date": "2022-12-21",
             "stock": 4
         },
         {
@@ -477,55 +237,55 @@
             "link": "https://www.hareruya2.com/product/23454",
             "price": 100,
             "name": "ヒナツ:ミラー(U)",
-            "date": "2022-12-01",
-            "stock": 116
+            "date": "2022-12-21",
+            "stock": 118
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23405",
             "price": 100,
             "name": "ヒナツ(U){サポー",
-            "date": "2022-12-01",
-            "stock": 12
+            "date": "2022-12-21",
+            "stock": 16
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35293",
             "price": 80,
             "name": "ヒナツ069/071",
-            "date": "2022-12-01",
-            "stock": 76
+            "date": "2022-12-21",
+            "stock": 45
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35342",
             "price": 120,
             "name": "ヒナツ069/071",
-            "date": "2022-12-01",
-            "stock": 215
+            "date": "2022-12-21",
+            "stock": 210
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g069-071-S10A-BM/",
             "price": 110,
             "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-12-01",
-            "stock": 4
+            "date": "2022-12-21",
+            "stock": 3
         },
         {
             "market": "magi",
-            "link": "/items/690115357",
+            "link": "/items/900689412",
             "price": 37,
             "name": "ヒナツ U 069/",
-            "date": "2022-11-30",
+            "date": "2022-12-20",
             "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/1822613798",
-            "price": 150,
+            "price": 145,
             "name": "ヒナツ(ミラー) U",
-            "date": "2022-11-30",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -533,63 +293,7 @@
             "link": "/items/602206430",
             "price": 113,
             "name": "No.758 P屋　",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/900689412",
-            "price": 37,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/605447868",
-            "price": 120,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/353326542",
-            "price": 120,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1890689024",
-            "price": 190,
-            "name": "ヒナツ(ミラー) U",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/120129154",
-            "price": 198,
-            "name": "【特価】ヒナツ U ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1010379117",
-            "price": 200,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2049513057",
-            "price": 290,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-30",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -597,7 +301,71 @@
             "link": "/items/1409542911",
             "price": 113,
             "name": "No.746 P屋　",
-            "date": "2022-11-30",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1890689024",
+            "price": 190,
+            "name": "ヒナツ(ミラー) U",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2049513057",
+            "price": 280,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/120129154",
+            "price": 198,
+            "name": "【特価】ヒナツ U ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1010379117",
+            "price": 200,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/353326542",
+            "price": 120,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/690115357",
+            "price": 37,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/475509856",
+            "price": 75,
+            "name": "【４枚セット】ヒナツ",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/806414347",
+            "price": 120,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -605,7 +373,415 @@
             "link": "https://www.hareruya2.com/product/23405",
             "price": 100,
             "name": "ヒナツ(U){サポー",
-            "date": "2022-11-30",
+            "date": "2022-12-20",
+            "stock": 16
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23454",
+            "price": 100,
+            "name": "ヒナツ:ミラー(U)",
+            "date": "2022-12-20",
+            "stock": 118
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35342",
+            "price": 120,
+            "name": "ヒナツ069/071",
+            "date": "2022-12-20",
+            "stock": 210
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35293",
+            "price": 80,
+            "name": "ヒナツ069/071",
+            "date": "2022-12-20",
+            "stock": 45
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g069-071-S10A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｕ）ミラー",
+            "date": "2022-12-20",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/120129154",
+            "price": 198,
+            "name": "【特価】ヒナツ U ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2049513057",
+            "price": 280,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1890689024",
+            "price": 190,
+            "name": "ヒナツ(ミラー) U",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/353326542",
+            "price": 120,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1010379117",
+            "price": 200,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1409542911",
+            "price": 113,
+            "name": "No.746 P屋　",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/602206430",
+            "price": 113,
+            "name": "No.758 P屋　",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1822613798",
+            "price": 145,
+            "name": "ヒナツ(ミラー) U",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/900689412",
+            "price": 37,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/806414347",
+            "price": 120,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/475509856",
+            "price": 75,
+            "name": "【４枚セット】ヒナツ",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/690115357",
+            "price": 37,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23405",
+            "price": 100,
+            "name": "ヒナツ(U){サポー",
+            "date": "2022-12-19",
+            "stock": 16
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23454",
+            "price": 100,
+            "name": "ヒナツ:ミラー(U)",
+            "date": "2022-12-19",
+            "stock": 118
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35342",
+            "price": 120,
+            "name": "ヒナツ069/071",
+            "date": "2022-12-19",
+            "stock": 210
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35293",
+            "price": 80,
+            "name": "ヒナツ069/071",
+            "date": "2022-12-19",
+            "stock": 48
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g069-071-S10A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｕ）ミラー",
+            "date": "2022-12-19",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/900689412",
+            "price": 37,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/120129154",
+            "price": 198,
+            "name": "【特価】ヒナツ U ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1822613798",
+            "price": 145,
+            "name": "ヒナツ(ミラー) U",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1409542911",
+            "price": 113,
+            "name": "No.746 P屋　",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/602206430",
+            "price": 113,
+            "name": "No.758 P屋　",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/353326542",
+            "price": 120,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2049513057",
+            "price": 280,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/690115357",
+            "price": 37,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1890689024",
+            "price": 190,
+            "name": "ヒナツ(ミラー) U",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1010379117",
+            "price": 200,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/475509856",
+            "price": 75,
+            "name": "【４枚セット】ヒナツ",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/806414347",
+            "price": 120,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23454",
+            "price": 100,
+            "name": "ヒナツ:ミラー(U)",
+            "date": "2022-12-18",
+            "stock": 118
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23405",
+            "price": 100,
+            "name": "ヒナツ(U){サポー",
+            "date": "2022-12-18",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35342",
+            "price": 120,
+            "name": "ヒナツ069/071",
+            "date": "2022-12-18",
+            "stock": 210
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35293",
+            "price": 80,
+            "name": "ヒナツ069/071",
+            "date": "2022-12-18",
+            "stock": 50
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g069-071-S10A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｕ）ミラー",
+            "date": "2022-12-18",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1409542911",
+            "price": 113,
+            "name": "No.746 P屋　",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1890689024",
+            "price": 190,
+            "name": "ヒナツ(ミラー) U",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/900689412",
+            "price": 37,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/806414347",
+            "price": 120,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1010379117",
+            "price": 200,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/475509856",
+            "price": 75,
+            "name": "【４枚セット】ヒナツ",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/353326542",
+            "price": 120,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2049513057",
+            "price": 280,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/602206430",
+            "price": 113,
+            "name": "No.758 P屋　",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/120129154",
+            "price": 198,
+            "name": "【特価】ヒナツ U ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1822613798",
+            "price": 145,
+            "name": "ヒナツ(ミラー) U",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/690115357",
+            "price": 37,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23405",
+            "price": 100,
+            "name": "ヒナツ(U){サポー",
+            "date": "2022-12-17",
             "stock": 15
         },
         {
@@ -613,7 +789,7 @@
             "link": "https://www.hareruya2.com/product/23454",
             "price": 100,
             "name": "ヒナツ:ミラー(U)",
-            "date": "2022-11-30",
+            "date": "2022-12-17",
             "stock": 116
         },
         {
@@ -621,95 +797,31 @@
             "link": "https://www.cardrush-pokemon.jp/product/35293",
             "price": 80,
             "name": "ヒナツ069/071",
-            "date": "2022-11-30",
-            "stock": 76
+            "date": "2022-12-17",
+            "stock": 52
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35342",
             "price": 120,
             "name": "ヒナツ069/071",
-            "date": "2022-11-30",
-            "stock": 215
+            "date": "2022-12-17",
+            "stock": 210
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g069-071-S10A-BM/",
             "price": 110,
             "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1822613798",
-            "price": 150,
-            "name": "ヒナツ(ミラー) U",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2049513057",
-            "price": 290,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1010379117",
-            "price": 200,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/605447868",
-            "price": 120,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/900689412",
-            "price": 37,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/353326542",
-            "price": 120,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-29",
-            "stock": 1
+            "date": "2022-12-17",
+            "stock": 3
         },
         {
             "market": "magi",
             "link": "/items/602206430",
             "price": 113,
             "name": "No.758 P屋　",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/120129154",
-            "price": 198,
-            "name": "【特価】ヒナツ U ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1409542911",
-            "price": 113,
-            "name": "No.746 P屋　",
-            "date": "2022-11-29",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -717,23 +829,95 @@
             "link": "/items/690115357",
             "price": 37,
             "name": "ヒナツ U 069/",
-            "date": "2022-11-29",
+            "date": "2022-12-16",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/120129154",
+            "price": 198,
+            "name": "【特価】ヒナツ U ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/806414347",
+            "price": 120,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/475509856",
+            "price": 75,
+            "name": "【４枚セット】ヒナツ",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1822613798",
+            "price": 148,
+            "name": "ヒナツ(ミラー) U",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1409542911",
+            "price": 113,
+            "name": "No.746 P屋　",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1010379117",
+            "price": 200,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-16",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1890689024",
             "price": 190,
             "name": "ヒナツ(ミラー) U",
-            "date": "2022-11-29",
+            "date": "2022-12-16",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/353326542",
+            "price": 120,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2049513057",
+            "price": 280,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/900689412",
+            "price": 37,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-16",
+            "stock": 4
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23405",
             "price": 100,
             "name": "ヒナツ(U){サポー",
-            "date": "2022-11-29",
+            "date": "2022-12-16",
             "stock": 15
         },
         {
@@ -741,111 +925,79 @@
             "link": "https://www.hareruya2.com/product/23454",
             "price": 100,
             "name": "ヒナツ:ミラー(U)",
-            "date": "2022-11-29",
+            "date": "2022-12-16",
             "stock": 116
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35342",
-            "price": 120,
-            "name": "ヒナツ069/071",
-            "date": "2022-11-29",
-            "stock": 215
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35293",
             "price": 80,
             "name": "ヒナツ069/071",
-            "date": "2022-11-29",
-            "stock": 77
+            "date": "2022-12-16",
+            "stock": 52
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35342",
+            "price": 120,
+            "name": "ヒナツ069/071",
+            "date": "2022-12-16",
+            "stock": 210
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g069-071-S10A-BM/",
             "price": 110,
             "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-11-29",
-            "stock": 4
+            "date": "2022-12-16",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1010379117",
+            "price": 200,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/806414347",
+            "price": 120,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1822613798",
+            "price": 148,
+            "name": "ヒナツ(ミラー) U",
+            "date": "2022-12-15",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/690115357",
             "price": 37,
             "name": "ヒナツ U 069/",
-            "date": "2022-11-28",
+            "date": "2022-12-15",
             "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/900689412",
-            "price": 37,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-28",
+            "link": "/items/475509856",
+            "price": 75,
+            "name": "【４枚セット】ヒナツ",
+            "date": "2022-12-15",
             "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/2049513057",
-            "price": 290,
+            "price": 280,
             "name": "ヒナツ U 069/",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1010379117",
-            "price": 200,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1409542911",
-            "price": 113,
-            "name": "No.746 P屋　",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/353326542",
-            "price": 120,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1890689024",
-            "price": 190,
-            "name": "ヒナツ(ミラー) U",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1822613798",
-            "price": 150,
-            "name": "ヒナツ(ミラー) U",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/605447868",
-            "price": 120,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/120129154",
-            "price": 198,
-            "name": "【特価】ヒナツ U ",
-            "date": "2022-11-28",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -853,168 +1005,88 @@
             "link": "/items/602206430",
             "price": 113,
             "name": "No.758 P屋　",
-            "date": "2022-11-28",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23454",
-            "price": 100,
-            "name": "ヒナツ:ミラー(U)",
-            "date": "2022-11-28",
-            "stock": 116
+            "market": "magi",
+            "link": "/items/900689412",
+            "price": 37,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/120129154",
+            "price": 198,
+            "name": "【特価】ヒナツ U ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1890689024",
+            "price": 190,
+            "name": "ヒナツ(ミラー) U",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/353326542",
+            "price": 120,
+            "name": "ヒナツ U 069/",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1409542911",
+            "price": 113,
+            "name": "No.746 P屋　",
+            "date": "2022-12-15",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23405",
             "price": 100,
             "name": "ヒナツ(U){サポー",
-            "date": "2022-11-28",
+            "date": "2022-12-15",
             "stock": 15
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35293",
-            "price": 80,
-            "name": "ヒナツ069/071",
-            "date": "2022-11-28",
-            "stock": 77
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35342",
-            "price": 120,
-            "name": "ヒナツ069/071",
-            "date": "2022-11-28",
-            "stock": 216
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g069-071-S10A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-11-28",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1822613798",
-            "price": 150,
-            "name": "ヒナツ(ミラー) U",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/605447868",
-            "price": 120,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/900689412",
-            "price": 37,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-27",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1010379117",
-            "price": 200,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/602206430",
-            "price": 113,
-            "name": "No.758 P屋　",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/353326542",
-            "price": 120,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/120129154",
-            "price": 198,
-            "name": "【特価】ヒナツ U ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1409542911",
-            "price": 113,
-            "name": "No.746 P屋　",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1890689024",
-            "price": 190,
-            "name": "ヒナツ(ミラー) U",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2049513057",
-            "price": 290,
-            "name": "ヒナツ U 069/",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23405",
-            "price": 100,
-            "name": "ヒナツ(U){サポー",
-            "date": "2022-11-27",
-            "stock": 14
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23454",
             "price": 100,
             "name": "ヒナツ:ミラー(U)",
-            "date": "2022-11-27",
-            "stock": 115
+            "date": "2022-12-15",
+            "stock": 116
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35293",
             "price": 80,
             "name": "ヒナツ069/071",
-            "date": "2022-11-27",
-            "stock": 77
+            "date": "2022-12-15",
+            "stock": 56
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35342",
             "price": 120,
             "name": "ヒナツ069/071",
-            "date": "2022-11-27",
-            "stock": 215
+            "date": "2022-12-15",
+            "stock": 210
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g069-071-S10A-BM/",
             "price": 110,
             "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-11-27",
-            "stock": 4
+            "date": "2022-12-15",
+            "stock": 3
         }
     ]
 }

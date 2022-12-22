@@ -2,26 +2,18 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1276954112",
+            "price": 520,
+            "name": "【特価2枚】キングド",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/169734038",
             "price": 500,
             "name": "キングドラ CHR ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/413605543",
-            "price": 350,
-            "name": "キングドラ CHR ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/378785385",
-            "price": 500,
-            "name": "【値下げ2枚】キング",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -29,63 +21,55 @@
             "link": "https://www.hareruya2.com/product/21337",
             "price": 400,
             "name": "キングドラ(CHR)",
-            "date": "2022-12-04",
-            "stock": 182
+            "date": "2022-12-22",
+            "stock": 205
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22969",
             "price": 380,
             "name": "キングドラ190/1",
-            "date": "2022-12-04",
-            "stock": 175
+            "date": "2022-12-22",
+            "stock": 163
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37957",
             "price": 180,
             "name": "キングドラ190/1",
-            "date": "2022-12-04",
-            "stock": 4
+            "date": "2022-12-22",
+            "stock": 2
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33007",
             "price": 330,
             "name": "キングドラ190/1",
-            "date": "2022-12-04",
-            "stock": 5
+            "date": "2022-12-22",
+            "stock": 12
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g190-184-S8B-B/",
             "price": 275,
             "name": "【ポケカ】ＣＨＲ◇キ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 27
         },
         {
             "market": "magi",
-            "link": "/items/413605543",
-            "price": 350,
-            "name": "キングドラ CHR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/169734038",
             "price": 500,
             "name": "キングドラ CHR ",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/378785385",
+            "link": "/items/1276954112",
             "price": 520,
-            "name": "【値下げ2枚】キング",
-            "date": "2022-12-03",
+            "name": "【特価2枚】キングド",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -93,55 +77,311 @@
             "link": "https://www.hareruya2.com/product/21337",
             "price": 400,
             "name": "キングドラ(CHR)",
-            "date": "2022-12-03",
-            "stock": 182
+            "date": "2022-12-21",
+            "stock": 205
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22969",
             "price": 380,
             "name": "キングドラ190/1",
-            "date": "2022-12-03",
-            "stock": 176
+            "date": "2022-12-21",
+            "stock": 163
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37957",
             "price": 180,
             "name": "キングドラ190/1",
-            "date": "2022-12-03",
-            "stock": 5
+            "date": "2022-12-21",
+            "stock": 2
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33007",
             "price": 330,
             "name": "キングドラ190/1",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 12
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g190-184-S8B-B/",
+            "price": 275,
+            "name": "【ポケカ】ＣＨＲ◇キ",
+            "date": "2022-12-21",
+            "stock": 27
+        },
+        {
+            "market": "magi",
+            "link": "/items/1276954112",
+            "price": 520,
+            "name": "【特価2枚】キングド",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/169734038",
+            "price": 500,
+            "name": "キングドラ CHR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21337",
+            "price": 400,
+            "name": "キングドラ(CHR)",
+            "date": "2022-12-20",
+            "stock": 187
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33007",
+            "price": 330,
+            "name": "キングドラ190/1",
+            "date": "2022-12-20",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37957",
+            "price": 180,
+            "name": "キングドラ190/1",
+            "date": "2022-12-20",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22969",
+            "price": 380,
+            "name": "キングドラ190/1",
+            "date": "2022-12-20",
+            "stock": 162
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g190-184-S8B-B/",
+            "price": 275,
+            "name": "【ポケカ】ＣＨＲ◇キ",
+            "date": "2022-12-20",
+            "stock": 27
+        },
+        {
+            "market": "magi",
+            "link": "/items/169734038",
+            "price": 500,
+            "name": "キングドラ CHR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21337",
+            "price": 400,
+            "name": "キングドラ(CHR)",
+            "date": "2022-12-19",
+            "stock": 187
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22969",
+            "price": 380,
+            "name": "キングドラ190/1",
+            "date": "2022-12-19",
+            "stock": 162
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33007",
+            "price": 330,
+            "name": "キングドラ190/1",
+            "date": "2022-12-19",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37957",
+            "price": 180,
+            "name": "キングドラ190/1",
+            "date": "2022-12-19",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g190-184-S8B-B/",
+            "price": 275,
+            "name": "【ポケカ】ＣＨＲ◇キ",
+            "date": "2022-12-19",
+            "stock": 27
+        },
+        {
+            "market": "magi",
+            "link": "/items/169734038",
+            "price": 500,
+            "name": "キングドラ CHR ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21337",
+            "price": 400,
+            "name": "キングドラ(CHR)",
+            "date": "2022-12-18",
+            "stock": 187
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22969",
+            "price": 380,
+            "name": "キングドラ190/1",
+            "date": "2022-12-18",
+            "stock": 166
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33007",
+            "price": 330,
+            "name": "キングドラ190/1",
+            "date": "2022-12-18",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37957",
+            "price": 180,
+            "name": "キングドラ190/1",
+            "date": "2022-12-18",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g190-184-S8B-B/",
+            "price": 275,
+            "name": "【ポケカ】ＣＨＲ◇キ",
+            "date": "2022-12-18",
+            "stock": 27
+        },
+        {
+            "market": "magi",
+            "link": "/items/169734038",
+            "price": 500,
+            "name": "キングドラ CHR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/378785385",
+            "price": 500,
+            "name": "【値下げ2枚】キング",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21337",
+            "price": 400,
+            "name": "キングドラ(CHR)",
+            "date": "2022-12-17",
+            "stock": 183
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33007",
+            "price": 330,
+            "name": "キングドラ190/1",
+            "date": "2022-12-17",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37957",
+            "price": 180,
+            "name": "キングドラ190/1",
+            "date": "2022-12-17",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22969",
+            "price": 380,
+            "name": "キングドラ190/1",
+            "date": "2022-12-17",
+            "stock": 167
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g190-184-S8B-B/",
+            "price": 275,
+            "name": "【ポケカ】ＣＨＲ◇キ",
+            "date": "2022-12-17",
+            "stock": 27
+        },
+        {
+            "market": "magi",
+            "link": "/items/378785385",
+            "price": 500,
+            "name": "【値下げ2枚】キング",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/169734038",
+            "price": 500,
+            "name": "キングドラ CHR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21337",
+            "price": 400,
+            "name": "キングドラ(CHR)",
+            "date": "2022-12-16",
+            "stock": 181
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22969",
+            "price": 380,
+            "name": "キングドラ190/1",
+            "date": "2022-12-16",
+            "stock": 166
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33007",
+            "price": 330,
+            "name": "キングドラ190/1",
+            "date": "2022-12-16",
             "stock": 5
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37957",
+            "price": 180,
+            "name": "キングドラ190/1",
+            "date": "2022-12-16",
+            "stock": 3
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g190-184-S8B-B/",
             "price": 275,
             "name": "【ポケカ】ＣＨＲ◇キ",
-            "date": "2022-12-03",
-            "stock": 26
-        },
-        {
-            "market": "magi",
-            "link": "/items/413605543",
-            "price": 350,
-            "name": "キングドラ CHR ",
-            "date": "2022-12-02",
-            "stock": 1
+            "date": "2022-12-16",
+            "stock": 27
         },
         {
             "market": "magi",
             "link": "/items/378785385",
-            "price": 520,
+            "price": 500,
             "name": "【値下げ2枚】キング",
-            "date": "2022-12-02",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -149,7 +389,7 @@
             "link": "/items/169734038",
             "price": 500,
             "name": "キングドラ CHR ",
-            "date": "2022-12-02",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -157,312 +397,40 @@
             "link": "https://www.hareruya2.com/product/21337",
             "price": 400,
             "name": "キングドラ(CHR)",
-            "date": "2022-12-02",
-            "stock": 182
+            "date": "2022-12-15",
+            "stock": 181
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37957",
             "price": 180,
             "name": "キングドラ190/1",
-            "date": "2022-12-02",
-            "stock": 6
+            "date": "2022-12-15",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33007",
+            "price": 330,
+            "name": "キングドラ190/1",
+            "date": "2022-12-15",
+            "stock": 5
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22969",
             "price": 380,
             "name": "キングドラ190/1",
-            "date": "2022-12-02",
-            "stock": 176
+            "date": "2022-12-15",
+            "stock": 167
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g190-184-S8B-B/",
             "price": 275,
             "name": "【ポケカ】ＣＨＲ◇キ",
-            "date": "2022-12-02",
-            "stock": 26
-        },
-        {
-            "market": "magi",
-            "link": "/items/413605543",
-            "price": 350,
-            "name": "キングドラ CHR ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/378785385",
-            "price": 520,
-            "name": "【値下げ2枚】キング",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/169734038",
-            "price": 500,
-            "name": "キングドラ CHR ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21337",
-            "price": 400,
-            "name": "キングドラ(CHR)",
-            "date": "2022-12-01",
-            "stock": 176
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22969",
-            "price": 380,
-            "name": "キングドラ190/1",
-            "date": "2022-12-01",
-            "stock": 176
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37957",
-            "price": 180,
-            "name": "キングドラ190/1",
-            "date": "2022-12-01",
-            "stock": 6
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g190-184-S8B-B/",
-            "price": 275,
-            "name": "【ポケカ】ＣＨＲ◇キ",
-            "date": "2022-12-01",
-            "stock": 25
-        },
-        {
-            "market": "magi",
-            "link": "/items/169734038",
-            "price": 500,
-            "name": "キングドラ CHR ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/413605543",
-            "price": 350,
-            "name": "キングドラ CHR ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/378785385",
-            "price": 520,
-            "name": "【値下げ2枚】キング",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21337",
-            "price": 400,
-            "name": "キングドラ(CHR)",
-            "date": "2022-11-30",
-            "stock": 176
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22969",
-            "price": 380,
-            "name": "キングドラ190/1",
-            "date": "2022-11-30",
-            "stock": 172
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37957",
-            "price": 180,
-            "name": "キングドラ190/1",
-            "date": "2022-11-30",
-            "stock": 6
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g190-184-S8B-B/",
-            "price": 275,
-            "name": "【ポケカ】ＣＨＲ◇キ",
-            "date": "2022-11-30",
-            "stock": 25
-        },
-        {
-            "market": "magi",
-            "link": "/items/413605543",
-            "price": 350,
-            "name": "キングドラ CHR ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/378785385",
-            "price": 520,
-            "name": "【値下げ2枚】キング",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/169734038",
-            "price": 500,
-            "name": "キングドラ CHR ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21337",
-            "price": 400,
-            "name": "キングドラ(CHR)",
-            "date": "2022-11-29",
-            "stock": 177
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22969",
-            "price": 380,
-            "name": "キングドラ190/1",
-            "date": "2022-11-29",
-            "stock": 174
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37957",
-            "price": 180,
-            "name": "キングドラ190/1",
-            "date": "2022-11-29",
-            "stock": 6
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g190-184-S8B-B/",
-            "price": 275,
-            "name": "【ポケカ】ＣＨＲ◇キ",
-            "date": "2022-11-29",
-            "stock": 25
-        },
-        {
-            "market": "magi",
-            "link": "/items/378785385",
-            "price": 560,
-            "name": "【値下げ2枚】キング",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/169734038",
-            "price": 500,
-            "name": "キングドラ CHR ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/413605543",
-            "price": 350,
-            "name": "キングドラ CHR ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21337",
-            "price": 400,
-            "name": "キングドラ(CHR)",
-            "date": "2022-11-28",
-            "stock": 177
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37957",
-            "price": 180,
-            "name": "キングドラ190/1",
-            "date": "2022-11-28",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22969",
-            "price": 380,
-            "name": "キングドラ190/1",
-            "date": "2022-11-28",
-            "stock": 173
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g190-184-S8B-B/",
-            "price": 275,
-            "name": "【ポケカ】ＣＨＲ◇キ",
-            "date": "2022-11-28",
-            "stock": 25
-        },
-        {
-            "market": "magi",
-            "link": "/items/378785385",
-            "price": 580,
-            "name": "【値下げ2枚】キング",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/169734038",
-            "price": 500,
-            "name": "キングドラ CHR ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/413605543",
-            "price": 350,
-            "name": "キングドラ CHR ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21337",
-            "price": 400,
-            "name": "キングドラ(CHR)",
-            "date": "2022-11-27",
-            "stock": 169
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22969",
-            "price": 380,
-            "name": "キングドラ190/1",
-            "date": "2022-11-27",
-            "stock": 170
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37957",
-            "price": 180,
-            "name": "キングドラ190/1",
-            "date": "2022-11-27",
-            "stock": 6
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g190-184-S8B-B/",
-            "price": 275,
-            "name": "【ポケカ】ＣＨＲ◇キ",
-            "date": "2022-11-27",
-            "stock": 26
+            "date": "2022-12-15",
+            "stock": 27
         }
     ]
 }

@@ -1,67 +1,35 @@
 ﻿{
     "items": [
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26211",
+            "market": "magi",
+            "link": "/items/153079009",
+            "price": 120,
+            "name": "エレブー【-】{03",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/876000026",
             "price": 100,
-            "name": "エレブー:ミラー(C",
-            "date": "2022-12-04",
-            "stock": 20
+            "name": "エレブー 034/1",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1443390310",
+            "price": 100,
+            "name": "エレブー 034/1",
+            "date": "2022-12-22",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26057",
             "price": 50,
             "name": "エレブー(CP){雷",
-            "date": "2022-12-04",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38272",
-            "price": 50,
-            "name": "エレブー034/17",
-            "date": "2022-12-04",
-            "stock": 42
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38118",
-            "price": 30,
-            "name": "エレブー034/17",
-            "date": "2022-12-04",
-            "stock": 159
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26211",
-            "price": 100,
-            "name": "エレブー:ミラー(C",
-            "date": "2022-12-03",
-            "stock": 20
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26057",
-            "price": 50,
-            "name": "エレブー(CP){雷",
-            "date": "2022-12-03",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38118",
-            "price": 30,
-            "name": "エレブー034/17",
-            "date": "2022-12-03",
-            "stock": 159
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38272",
-            "price": 50,
-            "name": "エレブー034/17",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 41
         },
         {
@@ -69,32 +37,416 @@
             "link": "https://www.hareruya2.com/product/26211",
             "price": 100,
             "name": "エレブー:ミラー(C",
-            "date": "2022-12-02",
-            "stock": 20
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26057",
-            "price": 50,
-            "name": "エレブー(CP){雷",
-            "date": "2022-12-02",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38272",
-            "price": 50,
-            "name": "エレブー034/17",
-            "date": "2022-12-02",
-            "stock": 42
+            "date": "2022-12-22",
+            "stock": 14
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38118",
             "price": 30,
             "name": "エレブー034/17",
-            "date": "2022-12-02",
-            "stock": 159
+            "date": "2022-12-22",
+            "stock": 154
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38272",
+            "price": 50,
+            "name": "エレブー034/17",
+            "date": "2022-12-22",
+            "stock": 39
+        },
+        {
+            "market": "magi",
+            "link": "/items/876000026",
+            "price": 100,
+            "name": "エレブー 034/1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/153079009",
+            "price": 120,
+            "name": "エレブー【-】{03",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1443390310",
+            "price": 100,
+            "name": "エレブー 034/1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26057",
+            "price": 50,
+            "name": "エレブー(CP){雷",
+            "date": "2022-12-21",
+            "stock": 41
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26211",
+            "price": 100,
+            "name": "エレブー:ミラー(C",
+            "date": "2022-12-21",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38118",
+            "price": 30,
+            "name": "エレブー034/17",
+            "date": "2022-12-21",
+            "stock": 154
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38272",
+            "price": 50,
+            "name": "エレブー034/17",
+            "date": "2022-12-21",
+            "stock": 40
+        },
+        {
+            "market": "magi",
+            "link": "/items/1443390310",
+            "price": 100,
+            "name": "エレブー 034/1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/153079009",
+            "price": 120,
+            "name": "エレブー【-】{03",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/876000026",
+            "price": 100,
+            "name": "エレブー 034/1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26211",
+            "price": 100,
+            "name": "エレブー:ミラー(C",
+            "date": "2022-12-20",
+            "stock": 14
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26057",
+            "price": 50,
+            "name": "エレブー(CP){雷",
+            "date": "2022-12-20",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38272",
+            "price": 50,
+            "name": "エレブー034/17",
+            "date": "2022-12-20",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38118",
+            "price": 30,
+            "name": "エレブー034/17",
+            "date": "2022-12-20",
+            "stock": 154
+        },
+        {
+            "market": "magi",
+            "link": "/items/876000026",
+            "price": 100,
+            "name": "エレブー 034/1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/153079009",
+            "price": 120,
+            "name": "エレブー【-】{03",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1443390310",
+            "price": 100,
+            "name": "エレブー 034/1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26057",
+            "price": 50,
+            "name": "エレブー(CP){雷",
+            "date": "2022-12-19",
+            "stock": 41
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26211",
+            "price": 100,
+            "name": "エレブー:ミラー(C",
+            "date": "2022-12-19",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38272",
+            "price": 50,
+            "name": "エレブー034/17",
+            "date": "2022-12-19",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38118",
+            "price": 30,
+            "name": "エレブー034/17",
+            "date": "2022-12-19",
+            "stock": 154
+        },
+        {
+            "market": "magi",
+            "link": "/items/153079009",
+            "price": 120,
+            "name": "エレブー【-】{03",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1443390310",
+            "price": 100,
+            "name": "エレブー 034/1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/876000026",
+            "price": 100,
+            "name": "エレブー 034/1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26211",
+            "price": 100,
+            "name": "エレブー:ミラー(C",
+            "date": "2022-12-18",
+            "stock": 15
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26057",
+            "price": 50,
+            "name": "エレブー(CP){雷",
+            "date": "2022-12-18",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38118",
+            "price": 30,
+            "name": "エレブー034/17",
+            "date": "2022-12-18",
+            "stock": 154
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38272",
+            "price": 50,
+            "name": "エレブー034/17",
+            "date": "2022-12-18",
+            "stock": 41
+        },
+        {
+            "market": "magi",
+            "link": "/items/876000026",
+            "price": 100,
+            "name": "エレブー 034/1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1443390310",
+            "price": 100,
+            "name": "エレブー 034/1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/153079009",
+            "price": 120,
+            "name": "エレブー【-】{03",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26057",
+            "price": 50,
+            "name": "エレブー(CP){雷",
+            "date": "2022-12-17",
+            "stock": 41
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26211",
+            "price": 100,
+            "name": "エレブー:ミラー(C",
+            "date": "2022-12-17",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38272",
+            "price": 50,
+            "name": "エレブー034/17",
+            "date": "2022-12-17",
+            "stock": 43
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38118",
+            "price": 30,
+            "name": "エレブー034/17",
+            "date": "2022-12-17",
+            "stock": 154
+        },
+        {
+            "market": "magi",
+            "link": "/items/1443390310",
+            "price": 100,
+            "name": "エレブー 034/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/876000026",
+            "price": 100,
+            "name": "エレブー 034/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/153079009",
+            "price": 120,
+            "name": "エレブー【-】{03",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26057",
+            "price": 50,
+            "name": "エレブー(CP){雷",
+            "date": "2022-12-16",
+            "stock": 41
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26211",
+            "price": 100,
+            "name": "エレブー:ミラー(C",
+            "date": "2022-12-16",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38272",
+            "price": 50,
+            "name": "エレブー034/17",
+            "date": "2022-12-16",
+            "stock": 43
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38118",
+            "price": 30,
+            "name": "エレブー034/17",
+            "date": "2022-12-16",
+            "stock": 154
+        },
+        {
+            "market": "magi",
+            "link": "/items/153079009",
+            "price": 120,
+            "name": "エレブー【-】{03",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/876000026",
+            "price": 100,
+            "name": "エレブー 034/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1443390310",
+            "price": 100,
+            "name": "エレブー 034/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26057",
+            "price": 50,
+            "name": "エレブー(CP){雷",
+            "date": "2022-12-15",
+            "stock": 41
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26211",
+            "price": 100,
+            "name": "エレブー:ミラー(C",
+            "date": "2022-12-15",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38118",
+            "price": 30,
+            "name": "エレブー034/17",
+            "date": "2022-12-15",
+            "stock": 155
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38272",
+            "price": 50,
+            "name": "エレブー034/17",
+            "date": "2022-12-15",
+            "stock": 44
         }
     ]
 }

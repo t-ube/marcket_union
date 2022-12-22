@@ -2,10 +2,98 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1839741892",
+            "price": 250,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/783616524",
+            "price": 299,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/399244457",
+            "price": 250,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1754923419",
+            "price": 146,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/895747611",
+            "price": 396,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1400788981",
             "price": 400,
             "name": "ザシアンV RR 0",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26090",
+            "price": 100,
+            "name": "ザシアンV(RR){",
+            "date": "2022-12-22",
+            "stock": 37
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38151",
+            "price": 80,
+            "name": "ザシアンV067/1",
+            "date": "2022-12-22",
+            "stock": 142
+        },
+        {
+            "market": "magi",
+            "link": "/items/399244457",
+            "price": 250,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1754923419",
+            "price": 146,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/783616524",
+            "price": 299,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1400788981",
+            "price": 400,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -13,7 +101,15 @@
             "link": "/items/1839741892",
             "price": 250,
             "name": "ザシアンV RR 0",
-            "date": "2022-12-04",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/895747611",
+            "price": 396,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -21,23 +117,63 @@
             "link": "https://www.hareruya2.com/product/26090",
             "price": 100,
             "name": "ザシアンV(RR){",
-            "date": "2022-12-04",
-            "stock": 40
+            "date": "2022-12-21",
+            "stock": 37
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38151",
             "price": 80,
             "name": "ザシアンV067/1",
-            "date": "2022-12-04",
-            "stock": 121
+            "date": "2022-12-21",
+            "stock": 144
+        },
+        {
+            "market": "magi",
+            "link": "/items/1400788981",
+            "price": 400,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-20",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1839741892",
             "price": 250,
             "name": "ザシアンV RR 0",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/399244457",
+            "price": 250,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1754923419",
+            "price": 146,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/895747611",
+            "price": 396,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/783616524",
+            "price": 299,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -45,32 +181,336 @@
             "link": "https://www.hareruya2.com/product/26090",
             "price": 100,
             "name": "ザシアンV(RR){",
-            "date": "2022-12-03",
-            "stock": 40
+            "date": "2022-12-20",
+            "stock": 37
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38151",
             "price": 80,
             "name": "ザシアンV067/1",
-            "date": "2022-12-03",
-            "stock": 140
+            "date": "2022-12-20",
+            "stock": 145
+        },
+        {
+            "market": "magi",
+            "link": "/items/1754923419",
+            "price": 146,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/895747611",
+            "price": 396,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/399244457",
+            "price": 250,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/783616524",
+            "price": 299,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1400788981",
+            "price": 400,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1839741892",
+            "price": 250,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-19",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26090",
             "price": 100,
             "name": "ザシアンV(RR){",
-            "date": "2022-12-02",
-            "stock": 40
+            "date": "2022-12-19",
+            "stock": 37
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38151",
             "price": 80,
             "name": "ザシアンV067/1",
-            "date": "2022-12-02",
-            "stock": 146
+            "date": "2022-12-19",
+            "stock": 131
+        },
+        {
+            "market": "magi",
+            "link": "/items/783616524",
+            "price": 299,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/895747611",
+            "price": 397,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/399244457",
+            "price": 400,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1400788981",
+            "price": 400,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1754923419",
+            "price": 147,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1839741892",
+            "price": 250,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26090",
+            "price": 100,
+            "name": "ザシアンV(RR){",
+            "date": "2022-12-18",
+            "stock": 37
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38151",
+            "price": 80,
+            "name": "ザシアンV067/1",
+            "date": "2022-12-18",
+            "stock": 135
+        },
+        {
+            "market": "magi",
+            "link": "/items/1839741892",
+            "price": 250,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/895747611",
+            "price": 397,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1754923419",
+            "price": 147,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1400788981",
+            "price": 400,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/783616524",
+            "price": 299,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/399244457",
+            "price": 400,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26090",
+            "price": 100,
+            "name": "ザシアンV(RR){",
+            "date": "2022-12-17",
+            "stock": 37
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38151",
+            "price": 80,
+            "name": "ザシアンV067/1",
+            "date": "2022-12-17",
+            "stock": 137
+        },
+        {
+            "market": "magi",
+            "link": "/items/783616524",
+            "price": 299,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1400788981",
+            "price": 400,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1839741892",
+            "price": 250,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/399244457",
+            "price": 400,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/895747611",
+            "price": 397,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1754923419",
+            "price": 147,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26090",
+            "price": 100,
+            "name": "ザシアンV(RR){",
+            "date": "2022-12-16",
+            "stock": 38
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38151",
+            "price": 80,
+            "name": "ザシアンV067/1",
+            "date": "2022-12-16",
+            "stock": 139
+        },
+        {
+            "market": "magi",
+            "link": "/items/1754923419",
+            "price": 147,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/399244457",
+            "price": 400,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1400788981",
+            "price": 400,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/783616524",
+            "price": 299,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/895747611",
+            "price": 397,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1839741892",
+            "price": 250,
+            "name": "ザシアンV RR 0",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26090",
+            "price": 100,
+            "name": "ザシアンV(RR){",
+            "date": "2022-12-15",
+            "stock": 38
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38151",
+            "price": 80,
+            "name": "ザシアンV067/1",
+            "date": "2022-12-15",
+            "stock": 142
         }
     ]
 }

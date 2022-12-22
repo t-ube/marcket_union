@@ -2,42 +2,66 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/241228031",
-            "price": 250,
+            "link": "/items/2040592777",
+            "price": 350,
             "name": "キュレムV RR 0",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/113149507",
+            "price": 440,
+            "name": "【値下げ4枚】キュレ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1655605827",
+            "price": 750,
+            "name": "【4枚】キュレムVM",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/291478007",
+            "price": 194,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223586478",
+            "price": 500,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1594358265",
+            "price": 330,
+            "name": "【2枚】キュレムVM",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/241228031",
+            "price": 200,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1448613067",
-            "price": 195,
+            "price": 191,
             "name": "キュレムV RR 0",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2040592777",
-            "price": 350,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/743710063",
-            "price": 800,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/168802720",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -45,7 +69,15 @@
             "link": "/items/1156524393",
             "price": 150,
             "name": "キュレムV RR 0",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/168802720",
+            "price": 200,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -53,7 +85,247 @@
             "link": "/items/1253784363",
             "price": 200,
             "name": "キュレムV RR 0",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24155",
+            "price": 120,
+            "name": "キュレムV(RR){",
+            "date": "2022-12-22",
+            "stock": 254
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36234",
+            "price": 220,
+            "name": "キュレムV029/1",
+            "date": "2022-12-22",
+            "stock": 162
+        },
+        {
+            "market": "magi",
+            "link": "/items/113149507",
+            "price": 440,
+            "name": "【値下げ4枚】キュレ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1156524393",
+            "price": 150,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1448613067",
+            "price": 191,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1253784363",
+            "price": 200,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2040592777",
+            "price": 350,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-21",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/223586478",
+            "price": 500,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1655605827",
+            "price": 750,
+            "name": "【4枚】キュレムVM",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/291478007",
+            "price": 194,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1594358265",
+            "price": 330,
+            "name": "【2枚】キュレムVM",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/241228031",
+            "price": 250,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/168802720",
+            "price": 200,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24155",
+            "price": 120,
+            "name": "キュレムV(RR){",
+            "date": "2022-12-21",
+            "stock": 254
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36234",
+            "price": 220,
+            "name": "キュレムV029/1",
+            "date": "2022-12-21",
+            "stock": 177
+        },
+        {
+            "market": "magi",
+            "link": "/items/1253784363",
+            "price": 200,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/113149507",
+            "price": 440,
+            "name": "【値下げ4枚】キュレ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/168802720",
+            "price": 200,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1448613067",
+            "price": 191,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1655605827",
+            "price": 750,
+            "name": "【4枚】キュレムVM",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2040592777",
+            "price": 350,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-20",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/223586478",
+            "price": 500,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1156524393",
+            "price": 150,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/291478007",
+            "price": 194,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/241228031",
+            "price": 250,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1594358265",
+            "price": 330,
+            "name": "【2枚】キュレムVM",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24155",
+            "price": 150,
+            "name": "キュレムV(RR){",
+            "date": "2022-12-20",
+            "stock": 245
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36234",
+            "price": 220,
+            "name": "キュレムV029/1",
+            "date": "2022-12-20",
+            "stock": 177
+        },
+        {
+            "market": "magi",
+            "link": "/items/241228031",
+            "price": 250,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1156524393",
+            "price": 150,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -61,111 +333,7 @@
             "link": "/items/113149507",
             "price": 450,
             "name": "【値下げ4枚】キュレ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1594358265",
-            "price": 330,
-            "name": "【2枚】キュレムVM",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2098799876",
-            "price": 180,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/223586478",
-            "price": 500,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/291478007",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24155",
-            "price": 150,
-            "name": "キュレムV(RR){",
-            "date": "2022-12-04",
-            "stock": 191
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36234",
-            "price": 180,
-            "name": "キュレムV029/1",
-            "date": "2022-12-04",
-            "stock": 18
-        },
-        {
-            "market": "magi",
-            "link": "/items/113149507",
-            "price": 460,
-            "name": "【値下げ4枚】キュレ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/291478007",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/223586478",
-            "price": 500,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2098799876",
-            "price": 180,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1594358265",
-            "price": 330,
-            "name": "【2枚】キュレムVM",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2040592777",
-            "price": 350,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-03",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1156524393",
-            "price": 150,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-03",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -173,15 +341,79 @@
             "link": "/items/1253784363",
             "price": 200,
             "name": "キュレムV RR 0",
-            "date": "2022-12-03",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2040592777",
+            "price": 350,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-19",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/168802720",
+            "price": 200,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1594358265",
+            "price": 330,
+            "name": "【2枚】キュレムVM",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223586478",
+            "price": 500,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/291478007",
+            "price": 194,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1448613067",
-            "price": 196,
+            "price": 191,
             "name": "キュレムV RR 0",
-            "date": "2022-12-03",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24155",
+            "price": 150,
+            "name": "キュレムV(RR){",
+            "date": "2022-12-19",
+            "stock": 249
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36234",
+            "price": 220,
+            "name": "キュレムV029/1",
+            "date": "2022-12-19",
+            "stock": 145
+        },
+        {
+            "market": "magi",
+            "link": "/items/291478007",
+            "price": 194,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -189,15 +421,191 @@
             "link": "/items/168802720",
             "price": 200,
             "name": "キュレムV RR 0",
-            "date": "2022-12-03",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/743710063",
-            "price": 800,
+            "link": "/items/1253784363",
+            "price": 200,
             "name": "キュレムV RR 0",
-            "date": "2022-12-03",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2040592777",
+            "price": 350,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/241228031",
+            "price": 250,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1156524393",
+            "price": 150,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1448613067",
+            "price": 192,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/113149507",
+            "price": 450,
+            "name": "【値下げ4枚】キュレ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223586478",
+            "price": 500,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1594358265",
+            "price": 330,
+            "name": "【2枚】キュレムVM",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24155",
+            "price": 150,
+            "name": "キュレムV(RR){",
+            "date": "2022-12-18",
+            "stock": 250
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36234",
+            "price": 220,
+            "name": "キュレムV029/1",
+            "date": "2022-12-18",
+            "stock": 158
+        },
+        {
+            "market": "magi",
+            "link": "/items/241228031",
+            "price": 250,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1594358265",
+            "price": 330,
+            "name": "【2枚】キュレムVM",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/168802720",
+            "price": 200,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1253784363",
+            "price": 200,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2040592777",
+            "price": 350,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1448613067",
+            "price": 192,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223586478",
+            "price": 500,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1156524393",
+            "price": 150,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/113149507",
+            "price": 450,
+            "name": "【値下げ4枚】キュレ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/291478007",
+            "price": 194,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24155",
+            "price": 150,
+            "name": "キュレムV(RR){",
+            "date": "2022-12-17",
+            "stock": 210
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36234",
+            "price": 220,
+            "name": "キュレムV029/1",
+            "date": "2022-12-17",
+            "stock": 159
+        },
+        {
+            "market": "magi",
+            "link": "/items/1156524393",
+            "price": 150,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -205,79 +613,7 @@
             "link": "/items/241228031",
             "price": 250,
             "name": "キュレムV RR 0",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24155",
-            "price": 150,
-            "name": "キュレムV(RR){",
-            "date": "2022-12-03",
-            "stock": 192
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36234",
-            "price": 180,
-            "name": "キュレムV029/1",
-            "date": "2022-12-03",
-            "stock": 34
-        },
-        {
-            "market": "magi",
-            "link": "/items/168802720",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2098799876",
-            "price": 180,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1594358265",
-            "price": 330,
-            "name": "【2枚】キュレムVM",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/113149507",
-            "price": 460,
-            "name": "【値下げ4枚】キュレ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/223586478",
-            "price": 500,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/743710063",
-            "price": 800,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1253784363",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-02",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -285,23 +621,103 @@
             "link": "/items/2040592777",
             "price": 350,
             "name": "キュレムV RR 0",
-            "date": "2022-12-02",
+            "date": "2022-12-16",
             "stock": 2
         },
         {
             "market": "magi",
-            "link": "/items/291478007",
+            "link": "/items/168802720",
             "price": 200,
             "name": "キュレムV RR 0",
-            "date": "2022-12-02",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/291478007",
+            "price": 198,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1448613067",
-            "price": 196,
+            "price": 192,
             "name": "キュレムV RR 0",
-            "date": "2022-12-02",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1594358265",
+            "price": 330,
+            "name": "【2枚】キュレムVM",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223586478",
+            "price": 500,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1253784363",
+            "price": 200,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/113149507",
+            "price": 450,
+            "name": "【値下げ4枚】キュレ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24155",
+            "price": 150,
+            "name": "キュレムV(RR){",
+            "date": "2022-12-16",
+            "stock": 206
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36234",
+            "price": 220,
+            "name": "キュレムV029/1",
+            "date": "2022-12-16",
+            "stock": 160
+        },
+        {
+            "market": "magi",
+            "link": "/items/113149507",
+            "price": 450,
+            "name": "【値下げ4枚】キュレ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223586478",
+            "price": 500,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1253784363",
+            "price": 200,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -309,7 +725,23 @@
             "link": "/items/1156524393",
             "price": 150,
             "name": "キュレムV RR 0",
-            "date": "2022-12-02",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2040592777",
+            "price": 350,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-15",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/168802720",
+            "price": 200,
+            "name": "キュレムV RR 0",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -317,31 +749,15 @@
             "link": "/items/241228031",
             "price": 250,
             "name": "キュレムV RR 0",
-            "date": "2022-12-02",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24155",
-            "price": 150,
-            "name": "キュレムV(RR){",
-            "date": "2022-12-02",
-            "stock": 192
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36234",
-            "price": 180,
-            "name": "キュレムV029/1",
-            "date": "2022-12-02",
-            "stock": 47
-        },
-        {
             "market": "magi",
-            "link": "/items/2098799876",
-            "price": 180,
+            "link": "/items/1448613067",
+            "price": 192,
             "name": "キュレムV RR 0",
-            "date": "2022-12-01",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -349,199 +765,15 @@
             "link": "/items/1594358265",
             "price": 330,
             "name": "【2枚】キュレムVM",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1156524393",
-            "price": 150,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/743710063",
-            "price": 800,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/113149507",
-            "price": 460,
-            "name": "【値下げ4枚】キュレ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/168802720",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/241228031",
-            "price": 250,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-01",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/291478007",
-            "price": 200,
+            "price": 198,
             "name": "キュレムV RR 0",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/223586478",
-            "price": 500,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1448613067",
-            "price": 196,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1253784363",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2040592777",
-            "price": 350,
-            "name": "キュレムV RR 0",
-            "date": "2022-12-01",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24155",
-            "price": 150,
-            "name": "キュレムV(RR){",
-            "date": "2022-12-01",
-            "stock": 195
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36234",
-            "price": 180,
-            "name": "キュレムV029/1",
-            "date": "2022-12-01",
-            "stock": 47
-        },
-        {
-            "market": "magi",
-            "link": "/items/1156524393",
-            "price": 150,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/168802720",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2040592777",
-            "price": 350,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-30",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/743710063",
-            "price": 800,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/113149507",
-            "price": 460,
-            "name": "【値下げ4枚】キュレ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2098799876",
-            "price": 180,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1594358265",
-            "price": 330,
-            "name": "【2枚】キュレムVM",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/241228031",
-            "price": 250,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/291478007",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1253784363",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1448613067",
-            "price": 196,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/223586478",
-            "price": 500,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-30",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -549,376 +781,16 @@
             "link": "https://www.hareruya2.com/product/24155",
             "price": 150,
             "name": "キュレムV(RR){",
-            "date": "2022-11-30",
-            "stock": 195
+            "date": "2022-12-15",
+            "stock": 206
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36234",
-            "price": 180,
+            "price": 220,
             "name": "キュレムV029/1",
-            "date": "2022-11-30",
-            "stock": 50
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37978",
-            "price": 120,
-            "name": "キュレムV029/1",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1253784363",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2040592777",
-            "price": 350,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-29",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/168802720",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/113149507",
-            "price": 460,
-            "name": "【値下げ4枚】キュレ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1594358265",
-            "price": 330,
-            "name": "【2枚】キュレムVM",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1156524393",
-            "price": 150,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1448613067",
-            "price": 196,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/291478007",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/223586478",
-            "price": 500,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2098799876",
-            "price": 180,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/743710063",
-            "price": 800,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24155",
-            "price": 150,
-            "name": "キュレムV(RR){",
-            "date": "2022-11-29",
-            "stock": 196
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37978",
-            "price": 120,
-            "name": "キュレムV029/1",
-            "date": "2022-11-29",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36234",
-            "price": 180,
-            "name": "キュレムV029/1",
-            "date": "2022-11-29",
-            "stock": 55
-        },
-        {
-            "market": "magi",
-            "link": "/items/1448613067",
-            "price": 196,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1594358265",
-            "price": 330,
-            "name": "【2枚】キュレムVM",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2040592777",
-            "price": 350,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/113149507",
-            "price": 480,
-            "name": "【値下げ4枚】キュレ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/743710063",
-            "price": 800,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/291478007",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1156524393",
-            "price": 150,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1253784363",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2098799876",
-            "price": 180,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/223586478",
-            "price": 500,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/168802720",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24155",
-            "price": 150,
-            "name": "キュレムV(RR){",
-            "date": "2022-11-28",
-            "stock": 198
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36234",
-            "price": 180,
-            "name": "キュレムV029/1",
-            "date": "2022-11-28",
-            "stock": 59
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37978",
-            "price": 120,
-            "name": "キュレムV029/1",
-            "date": "2022-11-28",
-            "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/1156524393",
-            "price": 150,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/113149507",
-            "price": 480,
-            "name": "【値下げ4枚】キュレ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/168802720",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2040592777",
-            "price": 350,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-27",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/2098799876",
-            "price": 180,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1448613067",
-            "price": 196,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/291478007",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/743710063",
-            "price": 800,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1253784363",
-            "price": 200,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1594358265",
-            "price": 330,
-            "name": "【2枚】キュレムVM",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/205033687",
-            "price": 100,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/223586478",
-            "price": 500,
-            "name": "キュレムV RR 0",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24155",
-            "price": 150,
-            "name": "キュレムV(RR){",
-            "date": "2022-11-27",
-            "stock": 146
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36234",
-            "price": 180,
-            "name": "キュレムV029/1",
-            "date": "2022-11-27",
-            "stock": 59
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37978",
-            "price": 120,
-            "name": "キュレムV029/1",
-            "date": "2022-11-27",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36458",
-            "price": 80,
-            "name": "キュレムV029/1",
-            "date": "2022-11-27",
-            "stock": 1
+            "date": "2022-12-15",
+            "stock": 175
         }
     ]
 }

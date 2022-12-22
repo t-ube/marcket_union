@@ -2,114 +2,10 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1748717749",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1929559965",
-            "price": 790,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/652588557",
-            "price": 450,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1955743315",
             "price": 7000,
             "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/188445909",
-            "price": 200,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1970889449",
-            "price": 305,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/406915468",
-            "price": 430,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/406170652",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/742442452",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/969336495",
-            "price": 100,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/116894614",
-            "price": 200,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1689327139",
-            "price": 799,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/789316121",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/485189032",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -117,15 +13,95 @@
             "link": "/items/775153575",
             "price": 210,
             "name": "[ミュウツーラインセ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/188445909",
+            "price": 200,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1970889449",
+            "price": 305,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/789316121",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/406170652",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/742442452",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/116894614",
+            "price": 200,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-22",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1689327139",
+            "price": 799,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1929559965",
+            "price": 790,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/446489047",
+            "price": 380,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/406915468",
+            "price": 430,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/210771381",
-            "price": 480,
+            "price": 460,
             "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -133,7 +109,7 @@
             "link": "/items/1088245628",
             "price": 500,
             "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -141,15 +117,31 @@
             "link": "/items/1298079135",
             "price": 300,
             "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/794323449",
-            "price": 222,
+            "link": "/items/1748717749",
+            "price": 150,
             "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/652588557",
+            "price": 450,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1731193119",
+            "price": 400,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -157,63 +149,15 @@
             "link": "/items/1798086334",
             "price": 250,
             "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1731193119",
-            "price": 400,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2075629778",
-            "price": 980,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/446489047",
-            "price": 384,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23759",
+            "link": "/items/1394946761",
             "price": 100,
             "name": "ミュウツーVSTAR",
-            "date": "2022-12-04",
-            "stock": 225
-        },
-        {
-            "market": "magi",
-            "link": "/items/775153575",
-            "price": 210,
-            "name": "[ミュウツーラインセ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/794323449",
-            "price": 222,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1798086334",
-            "price": 250,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -221,1247 +165,23 @@
             "link": "/items/485189032",
             "price": 150,
             "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1731193119",
-            "price": 400,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/652588557",
-            "price": 450,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1748717749",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/969336495",
-            "price": 100,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1298079135",
-            "price": 300,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1088245628",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/210771381",
-            "price": 480,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1689327139",
-            "price": 799,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1970889449",
-            "price": 305,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/789316121",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/406915468",
-            "price": 430,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/406170652",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/742442452",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/116894614",
-            "price": 200,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/2075629778",
-            "price": 980,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/446489047",
-            "price": 385,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/188445909",
-            "price": 200,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1955743315",
-            "price": 7000,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1929559965",
-            "price": 790,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23759",
-            "price": 100,
+            "price": 80,
             "name": "ミュウツーVSTAR",
-            "date": "2022-12-03",
-            "stock": 229
-        },
-        {
-            "market": "magi",
-            "link": "/items/742442452",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1955743315",
-            "price": 7000,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1731193119",
-            "price": 400,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/652588557",
-            "price": 450,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1748717749",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/969336495",
-            "price": 120,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1088245628",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/188445909",
-            "price": 200,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/775153575",
-            "price": 210,
-            "name": "[ミュウツーラインセ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/794323449",
-            "price": 222,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/210771381",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1970889449",
-            "price": 305,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/789316121",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/406170652",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2075629778",
-            "price": 980,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/406915468",
-            "price": 430,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1929559965",
-            "price": 790,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1798086334",
-            "price": 250,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/116894614",
-            "price": 200,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/446489047",
-            "price": 385,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1298079135",
-            "price": 300,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/485189032",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1689327139",
-            "price": 799,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23759",
-            "price": 100,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-02",
-            "stock": 229
-        },
-        {
-            "market": "magi",
-            "link": "/items/1088245628",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/406170652",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1929559965",
-            "price": 790,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1968571603",
-            "price": 37,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1748717749",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/652588557",
-            "price": 450,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/789316121",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1731193119",
-            "price": 400,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/969336495",
-            "price": 120,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/742442452",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1970889449",
-            "price": 305,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/210771381",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1298079135",
-            "price": 300,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1955743315",
-            "price": 7000,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/116894614",
-            "price": 200,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/2075629778",
-            "price": 980,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1798086334",
-            "price": 250,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1689327139",
-            "price": 799,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/485189032",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/446489047",
-            "price": 385,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/188445909",
-            "price": 200,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/775153575",
-            "price": 210,
-            "name": "[ミュウツーラインセ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/406915468",
-            "price": 430,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23759",
-            "price": 100,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-12-01",
-            "stock": 229
-        },
-        {
-            "market": "magi",
-            "link": "/items/1968571603",
-            "price": 37,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/742442452",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1955743315",
-            "price": 7000,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/652588557",
-            "price": 450,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1798086334",
-            "price": 250,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1689327139",
-            "price": 799,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/446489047",
-            "price": 385,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1731193119",
-            "price": 400,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1748717749",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/485189032",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/969336495",
-            "price": 120,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/188445909",
-            "price": 200,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1298079135",
-            "price": 300,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/406170652",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/210771381",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1088245628",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/775153575",
-            "price": 210,
-            "name": "[ミュウツーラインセ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1970889449",
-            "price": 305,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/789316121",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/406915468",
-            "price": 430,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1929559965",
-            "price": 790,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2075629778",
-            "price": 980,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/116894614",
-            "price": 200,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23759",
-            "price": 100,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-30",
-            "stock": 229
-        },
-        {
-            "market": "magi",
-            "link": "/items/210771381",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/406915468",
-            "price": 430,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/116894614",
-            "price": 200,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1955743315",
-            "price": 7000,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/775153575",
-            "price": 210,
-            "name": "[ミュウツーラインセ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/969336495",
-            "price": 120,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/406170652",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/485189032",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/789316121",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/652588557",
-            "price": 450,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2075629778",
-            "price": 980,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1970889449",
-            "price": 305,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1088245628",
-            "price": 550,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/742442452",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1731193119",
-            "price": 400,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/188445909",
-            "price": 200,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1298079135",
-            "price": 300,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1748717749",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1968571603",
-            "price": 37,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1689327139",
-            "price": 799,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/446489047",
-            "price": 385,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1929559965",
-            "price": 790,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23759",
-            "price": 100,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-29",
-            "stock": 229
-        },
-        {
-            "market": "magi",
-            "link": "/items/789316121",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1968571603",
-            "price": 37,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1955743315",
-            "price": 7000,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/485189032",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/116894614",
-            "price": 200,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1748717749",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/188445909",
-            "price": 200,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1689327139",
-            "price": 799,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/406915468",
-            "price": 430,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1298079135",
-            "price": 300,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/742442452",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/775153575",
-            "price": 210,
-            "name": "[ミュウツーラインセ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/652588557",
-            "price": 450,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/210771381",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1970889449",
-            "price": 305,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/969336495",
-            "price": 120,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/446489047",
-            "price": 385,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1929559965",
-            "price": 790,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/406170652",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2075629778",
-            "price": 980,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1731193119",
-            "price": 400,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1088245628",
-            "price": 550,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23759",
-            "price": 100,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 229
+            "date": "2022-12-22",
+            "stock": 362
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35757",
             "price": 80,
             "name": "ミュウツーVSTAR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1748717749",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/406915468",
-            "price": 430,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/789316121",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/652588557",
-            "price": 450,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/210771381",
-            "price": 500,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/406170652",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1298079135",
-            "price": 300,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1088245628",
-            "price": 550,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/969336495",
-            "price": 120,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1731193119",
-            "price": 400,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/775153575",
-            "price": 210,
-            "name": "[ミュウツーラインセ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1955743315",
-            "price": 7000,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1929559965",
-            "price": 790,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/116894614",
-            "price": 200,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/485189032",
-            "price": 150,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/446489047",
-            "price": 385,
-            "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -1469,7 +189,15 @@
             "link": "/items/1689327139",
             "price": 799,
             "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1394946761",
+            "price": 100,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -1477,23 +205,103 @@
             "link": "/items/2075629778",
             "price": 980,
             "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1970889449",
-            "price": 305,
+            "link": "/items/652588557",
+            "price": 450,
             "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
-            "stock": 4
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/188445909",
+            "link": "/items/1298079135",
+            "price": 300,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1088245628",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/210771381",
+            "price": 460,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/775153575",
+            "price": 210,
+            "name": "[ミュウツーラインセ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/446489047",
+            "price": 380,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/485189032",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1929559965",
+            "price": 790,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/116894614",
             "price": 200,
             "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
+            "date": "2022-12-21",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/789316121",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/406915468",
+            "price": 430,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/406170652",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -1501,7 +309,247 @@
             "link": "/items/742442452",
             "price": 500,
             "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1748717749",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1731193119",
+            "price": 400,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1970889449",
+            "price": 305,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/188445909",
+            "price": 200,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1955743315",
+            "price": 7000,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1798086334",
+            "price": 250,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23759",
+            "price": 80,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-21",
+            "stock": 382
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35757",
+            "price": 80,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1798086334",
+            "price": 250,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1689327139",
+            "price": 799,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1731193119",
+            "price": 400,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1748717749",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/116894614",
+            "price": 200,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/485189032",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/775153575",
+            "price": 210,
+            "name": "[ミュウツーラインセ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/210771381",
+            "price": 460,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1088245628",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1298079135",
+            "price": 300,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/742442452",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1394946761",
+            "price": 100,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/652588557",
+            "price": 450,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/406170652",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/406915468",
+            "price": 430,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/789316121",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1970889449",
+            "price": 305,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/188445909",
+            "price": 200,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1929559965",
+            "price": 790,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1955743315",
+            "price": 7000,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/446489047",
+            "price": 380,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2075629778",
+            "price": 980,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -1509,16 +557,936 @@
             "link": "https://www.hareruya2.com/product/23759",
             "price": 100,
             "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
-            "stock": 189
+            "date": "2022-12-20",
+            "stock": 382
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35757",
             "price": 80,
             "name": "ミュウツーVSTAR",
-            "date": "2022-11-27",
+            "date": "2022-12-20",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/1394946761",
+            "price": 100,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/775153575",
+            "price": 210,
+            "name": "[ミュウツーラインセ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1748717749",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/446489047",
+            "price": 380,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/652588557",
+            "price": 450,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1731193119",
+            "price": 400,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1088245628",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1689327139",
+            "price": 799,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/210771381",
+            "price": 460,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/485189032",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1929559965",
+            "price": 790,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/406915468",
+            "price": 430,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1955743315",
+            "price": 7000,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1298079135",
+            "price": 300,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2075629778",
+            "price": 980,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/116894614",
+            "price": 200,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/742442452",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/406170652",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/789316121",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1970889449",
+            "price": 305,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/188445909",
+            "price": 200,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1798086334",
+            "price": 250,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23759",
+            "price": 100,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-19",
+            "stock": 384
+        },
+        {
+            "market": "magi",
+            "link": "/items/1748717749",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2075629778",
+            "price": 980,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1955743315",
+            "price": 7000,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1689327139",
+            "price": 799,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/406170652",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/485189032",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1731193119",
+            "price": 400,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/742442452",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/116894614",
+            "price": 200,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/789316121",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1929559965",
+            "price": 790,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1088245628",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1298079135",
+            "price": 300,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/446489047",
+            "price": 381,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1970889449",
+            "price": 305,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1394946761",
+            "price": 100,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/775153575",
+            "price": 210,
+            "name": "[ミュウツーラインセ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1798086334",
+            "price": 250,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/210771381",
+            "price": 460,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/652588557",
+            "price": 450,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/188445909",
+            "price": 200,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/406915468",
+            "price": 430,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23759",
+            "price": 100,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 386
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35857",
+            "price": 70,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1970889449",
+            "price": 305,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/406170652",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/116894614",
+            "price": 200,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/2075629778",
+            "price": 980,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/775153575",
+            "price": 210,
+            "name": "[ミュウツーラインセ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1929559965",
+            "price": 790,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/446489047",
+            "price": 381,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1955743315",
+            "price": 7000,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1731193119",
+            "price": 400,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/210771381",
+            "price": 460,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1798086334",
+            "price": 250,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1088245628",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/789316121",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/406915468",
+            "price": 430,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/652588557",
+            "price": 450,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/485189032",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/742442452",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1748717749",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1689327139",
+            "price": 799,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/188445909",
+            "price": 200,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1298079135",
+            "price": 300,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23759",
+            "price": 100,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 183
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35857",
+            "price": 70,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-17",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/775153575",
+            "price": 210,
+            "name": "[ミュウツーラインセ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1689327139",
+            "price": 799,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/652588557",
+            "price": 450,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2075629778",
+            "price": 980,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/406170652",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/485189032",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1798086334",
+            "price": 250,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/742442452",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1955743315",
+            "price": 7000,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/116894614",
+            "price": 200,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1748717749",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/406915468",
+            "price": 430,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/210771381",
+            "price": 460,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1088245628",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/188445909",
+            "price": 200,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1731193119",
+            "price": 400,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1298079135",
+            "price": 300,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/446489047",
+            "price": 381,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1929559965",
+            "price": 790,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/789316121",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1970889449",
+            "price": 305,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23759",
+            "price": 100,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-16",
+            "stock": 183
+        },
+        {
+            "market": "magi",
+            "link": "/items/446489047",
+            "price": 381,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/406170652",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1689327139",
+            "price": 799,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/789316121",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/116894614",
+            "price": 200,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1955743315",
+            "price": 7000,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1929559965",
+            "price": 790,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1298079135",
+            "price": 300,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1798086334",
+            "price": 250,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/652588557",
+            "price": 450,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2075629778",
+            "price": 980,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1748717749",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/210771381",
+            "price": 460,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1088245628",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/775153575",
+            "price": 210,
+            "name": "[ミュウツーラインセ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/188445909",
+            "price": 200,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1731193119",
+            "price": 400,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/485189032",
+            "price": 150,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/606458969",
+            "price": 200,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/406915468",
+            "price": 430,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/742442452",
+            "price": 500,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1970889449",
+            "price": 305,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23759",
+            "price": 100,
+            "name": "ミュウツーVSTAR",
+            "date": "2022-12-15",
+            "stock": 188
         }
     ]
 }

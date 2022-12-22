@@ -1,35 +1,43 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/782329162",
+            "price": 100,
+            "name": "マホミル 081/1",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18487",
             "price": 50,
             "name": "マホミル(CP){超",
-            "date": "2022-12-04",
-            "stock": 9
+            "date": "2022-12-22",
+            "stock": 16
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18780",
             "price": 100,
             "name": "マホミル:ミラー(C",
-            "date": "2022-12-04",
-            "stock": 15
+            "date": "2022-12-22",
+            "stock": 21
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17245",
             "price": 80,
             "name": "マホミル081/19",
-            "date": "2022-12-04",
-            "stock": 73
+            "date": "2022-12-22",
+            "stock": 69
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30704",
             "price": 70,
             "name": "マホミル081/19",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 3
         },
         {
@@ -37,7 +45,7 @@
             "link": "/shop/g/g081-190-S4A-BM/",
             "price": 20,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 4
         },
         {
@@ -45,23 +53,31 @@
             "link": "/shop/g/g081-190-S4A-B/",
             "price": 17,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 14
+        },
+        {
+            "market": "magi",
+            "link": "/items/782329162",
+            "price": 100,
+            "name": "マホミル 081/1",
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18487",
             "price": 50,
             "name": "マホミル(CP){超",
-            "date": "2022-12-03",
-            "stock": 9
+            "date": "2022-12-21",
+            "stock": 8
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18780",
             "price": 100,
             "name": "マホミル:ミラー(C",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 15
         },
         {
@@ -69,15 +85,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/17245",
             "price": 80,
             "name": "マホミル081/19",
-            "date": "2022-12-03",
-            "stock": 73
+            "date": "2022-12-21",
+            "stock": 69
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30704",
             "price": 70,
             "name": "マホミル081/19",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 3
         },
         {
@@ -85,7 +101,7 @@
             "link": "/shop/g/g081-190-S4A-BM/",
             "price": 20,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 4
         },
         {
@@ -93,15 +109,23 @@
             "link": "/shop/g/g081-190-S4A-B/",
             "price": 17,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 14
+        },
+        {
+            "market": "magi",
+            "link": "/items/782329162",
+            "price": 100,
+            "name": "マホミル 081/1",
+            "date": "2022-12-20",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18780",
             "price": 100,
             "name": "マホミル:ミラー(C",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 15
         },
         {
@@ -109,15 +133,15 @@
             "link": "https://www.hareruya2.com/product/18487",
             "price": 50,
             "name": "マホミル(CP){超",
-            "date": "2022-12-02",
-            "stock": 9
+            "date": "2022-12-20",
+            "stock": 8
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30704",
             "price": 70,
             "name": "マホミル081/19",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 3
         },
         {
@@ -125,7 +149,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/17245",
             "price": 80,
             "name": "マホミル081/19",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 73
         },
         {
@@ -133,7 +157,7 @@
             "link": "/shop/g/g081-190-S4A-B/",
             "price": 17,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 14
         },
         {
@@ -141,23 +165,87 @@
             "link": "/shop/g/g081-190-S4A-BM/",
             "price": 20,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/782329162",
+            "price": 100,
+            "name": "マホミル 081/1",
+            "date": "2022-12-19",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18487",
             "price": 50,
             "name": "マホミル(CP){超",
-            "date": "2022-12-01",
-            "stock": 9
+            "date": "2022-12-19",
+            "stock": 8
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18780",
             "price": 100,
             "name": "マホミル:ミラー(C",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30704",
+            "price": 70,
+            "name": "マホミル081/19",
+            "date": "2022-12-19",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17245",
+            "price": 80,
+            "name": "マホミル081/19",
+            "date": "2022-12-19",
+            "stock": 73
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g081-190-S4A-B/",
+            "price": 17,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-19",
+            "stock": 14
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g081-190-S4A-BM/",
+            "price": 20,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/782329162",
+            "price": 100,
+            "name": "マホミル 081/1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18487",
+            "price": 50,
+            "name": "マホミル(CP){超",
+            "date": "2022-12-18",
+            "stock": 8
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18780",
+            "price": 100,
+            "name": "マホミル:ミラー(C",
+            "date": "2022-12-18",
             "stock": 15
         },
         {
@@ -165,7 +253,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/17245",
             "price": 80,
             "name": "マホミル081/19",
-            "date": "2022-12-01",
+            "date": "2022-12-18",
             "stock": 73
         },
         {
@@ -173,63 +261,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/30704",
             "price": 70,
             "name": "マホミル081/19",
-            "date": "2022-12-01",
+            "date": "2022-12-18",
             "stock": 3
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g081-190-S4A-B/",
-            "price": 17,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-01",
-            "stock": 14
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g081-190-S4A-BM/",
             "price": 20,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18780",
-            "price": 100,
-            "name": "マホミル:ミラー(C",
-            "date": "2022-11-30",
-            "stock": 15
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18487",
-            "price": 50,
-            "name": "マホミル(CP){超",
-            "date": "2022-11-30",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30704",
-            "price": 70,
-            "name": "マホミル081/19",
-            "date": "2022-11-30",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17245",
-            "price": 80,
-            "name": "マホミル081/19",
-            "date": "2022-11-30",
-            "stock": 73
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g081-190-S4A-BM/",
-            "price": 20,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 4
         },
         {
@@ -237,7 +277,7 @@
             "link": "/shop/g/g081-190-S4A-B/",
             "price": 17,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 14
         },
         {
@@ -245,15 +285,15 @@
             "link": "https://www.hareruya2.com/product/18487",
             "price": 50,
             "name": "マホミル(CP){超",
-            "date": "2022-11-29",
-            "stock": 9
+            "date": "2022-12-17",
+            "stock": 8
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18780",
             "price": 100,
             "name": "マホミル:ミラー(C",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 15
         },
         {
@@ -261,7 +301,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/17245",
             "price": 80,
             "name": "マホミル081/19",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 73
         },
         {
@@ -269,7 +309,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/30704",
             "price": 70,
             "name": "マホミル081/19",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 3
         },
         {
@@ -277,7 +317,7 @@
             "link": "/shop/g/g081-190-S4A-B/",
             "price": 17,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 14
         },
         {
@@ -285,7 +325,7 @@
             "link": "/shop/g/g081-190-S4A-BM/",
             "price": 20,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 4
         },
         {
@@ -293,7 +333,7 @@
             "link": "https://www.hareruya2.com/product/18780",
             "price": 100,
             "name": "マホミル:ミラー(C",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 15
         },
         {
@@ -301,31 +341,31 @@
             "link": "https://www.hareruya2.com/product/18487",
             "price": 50,
             "name": "マホミル(CP){超",
-            "date": "2022-11-28",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17245",
-            "price": 80,
-            "name": "マホミル081/19",
-            "date": "2022-11-28",
-            "stock": 73
+            "date": "2022-12-16",
+            "stock": 8
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30704",
             "price": 70,
             "name": "マホミル081/19",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17245",
+            "price": 80,
+            "name": "マホミル081/19",
+            "date": "2022-12-16",
+            "stock": 73
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g081-190-S4A-B/",
             "price": 17,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 14
         },
         {
@@ -333,7 +373,7 @@
             "link": "/shop/g/g081-190-S4A-BM/",
             "price": 20,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 4
         },
         {
@@ -341,15 +381,15 @@
             "link": "https://www.hareruya2.com/product/18487",
             "price": 50,
             "name": "マホミル(CP){超",
-            "date": "2022-11-27",
-            "stock": 9
+            "date": "2022-12-15",
+            "stock": 8
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18780",
             "price": 100,
             "name": "マホミル:ミラー(C",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 15
         },
         {
@@ -357,7 +397,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/17245",
             "price": 80,
             "name": "マホミル081/19",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 73
         },
         {
@@ -365,24 +405,24 @@
             "link": "https://www.cardrush-pokemon.jp/product/30704",
             "price": 70,
             "name": "マホミル081/19",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 3
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g081-190-S4A-B/",
-            "price": 17,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-27",
-            "stock": 14
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g081-190-S4A-BM/",
             "price": 20,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 4
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g081-190-S4A-B/",
+            "price": 17,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-15",
+            "stock": 14
         }
     ]
 }

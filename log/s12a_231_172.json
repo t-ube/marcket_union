@@ -2,42 +2,34 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/834193744",
-            "price": 600,
+            "link": "/items/703761520",
+            "price": 480,
             "name": "フーパV SAR 2",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/326484791",
-            "price": 1000,
+            "link": "/items/621327938",
+            "price": 499,
             "name": "フーパV SAR 2",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1215039388",
-            "price": 600,
+            "link": "/items/926653179",
+            "price": 556,
             "name": "フーパV SAR 2",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1171083590",
-            "price": 1400,
+            "price": 1111,
             "name": "【SAR】フーパV ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/235028729",
-            "price": 680,
-            "name": "フーパV SAR 2",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -45,71 +37,47 @@
             "link": "https://www.hareruya2.com/product/26370",
             "price": 800,
             "name": "フーパV(SAR){",
-            "date": "2022-12-04",
-            "stock": 18
+            "date": "2022-12-22",
+            "stock": 3
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38411",
-            "price": 780,
+            "price": 880,
             "name": "フーパV231/17",
-            "date": "2022-12-04",
-            "stock": 69
+            "date": "2022-12-22",
+            "stock": 56
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38678",
+            "price": 830,
+            "name": "フーパV231/17",
+            "date": "2022-12-22",
+            "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/235028729",
-            "price": 980,
+            "link": "/items/926653179",
+            "price": 556,
             "name": "フーパV SAR 2",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/326484791",
-            "price": 1000,
+            "link": "/items/621327938",
+            "price": 499,
             "name": "フーパV SAR 2",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/834193744",
-            "price": 1000,
-            "name": "フーパV SAR 2",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26370",
-            "price": 800,
-            "name": "フーパV(SAR){",
-            "date": "2022-12-03",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/834193744",
-            "price": 1000,
-            "name": "フーパV SAR 2",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/235028729",
-            "price": 980,
-            "name": "フーパV SAR 2",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/326484791",
-            "price": 1000,
-            "name": "フーパV SAR 2",
-            "date": "2022-12-02",
+            "link": "/items/1171083590",
+            "price": 1111,
+            "name": "【SAR】フーパV ",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -117,8 +85,368 @@
             "link": "https://www.hareruya2.com/product/26370",
             "price": 800,
             "name": "フーパV(SAR){",
-            "date": "2022-12-02",
-            "stock": 12
+            "date": "2022-12-21",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38411",
+            "price": 880,
+            "name": "フーパV231/17",
+            "date": "2022-12-21",
+            "stock": 53
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38678",
+            "price": 830,
+            "name": "フーパV231/17",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1171083590",
+            "price": 1111,
+            "name": "【SAR】フーパV ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/926653179",
+            "price": 556,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1405011188",
+            "price": 500,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/621327938",
+            "price": 499,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26370",
+            "price": 800,
+            "name": "フーパV(SAR){",
+            "date": "2022-12-20",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38678",
+            "price": 830,
+            "name": "フーパV231/17",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38411",
+            "price": 880,
+            "name": "フーパV231/17",
+            "date": "2022-12-20",
+            "stock": 49
+        },
+        {
+            "market": "magi",
+            "link": "/items/1221372906",
+            "price": 580,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/621327938",
+            "price": 499,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1171083590",
+            "price": 1111,
+            "name": "【SAR】フーパV ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/926653179",
+            "price": 556,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/973271123",
+            "price": 550,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1405011188",
+            "price": 500,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26370",
+            "price": 800,
+            "name": "フーパV(SAR){",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38411",
+            "price": 880,
+            "name": "フーパV231/17",
+            "date": "2022-12-19",
+            "stock": 54
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38678",
+            "price": 830,
+            "name": "フーパV231/17",
+            "date": "2022-12-19",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1221372906",
+            "price": 580,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/926653179",
+            "price": 556,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1171083590",
+            "price": 1111,
+            "name": "【SAR】フーパV ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/621327938",
+            "price": 520,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/973271123",
+            "price": 550,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26370",
+            "price": 800,
+            "name": "フーパV(SAR){",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38411",
+            "price": 880,
+            "name": "フーパV231/17",
+            "date": "2022-12-18",
+            "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38678",
+            "price": 830,
+            "name": "フーパV231/17",
+            "date": "2022-12-18",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/926653179",
+            "price": 556,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/621327938",
+            "price": 520,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/973271123",
+            "price": 550,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1221372906",
+            "price": 580,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1171083590",
+            "price": 1111,
+            "name": "【SAR】フーパV ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26370",
+            "price": 800,
+            "name": "フーパV(SAR){",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38411",
+            "price": 880,
+            "name": "フーパV231/17",
+            "date": "2022-12-17",
+            "stock": 56
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38678",
+            "price": 830,
+            "name": "フーパV231/17",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/973271123",
+            "price": 550,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/926653179",
+            "price": 556,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1221372906",
+            "price": 580,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1171083590",
+            "price": 1300,
+            "name": "【SAR】フーパV ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38678",
+            "price": 830,
+            "name": "フーパV231/17",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38411",
+            "price": 880,
+            "name": "フーパV231/17",
+            "date": "2022-12-16",
+            "stock": 52
+        },
+        {
+            "market": "magi",
+            "link": "/items/1171083590",
+            "price": 1300,
+            "name": "【SAR】フーパV ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/926653179",
+            "price": 556,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1221372906",
+            "price": 580,
+            "name": "フーパV SAR 2",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38678",
+            "price": 830,
+            "name": "フーパV231/17",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38411",
+            "price": 880,
+            "name": "フーパV231/17",
+            "date": "2022-12-15",
+            "stock": 52
         }
     ]
 }

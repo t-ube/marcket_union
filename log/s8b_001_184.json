@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/2064311469",
+            "price": 100,
+            "name": "ビードル 001/1",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1221702554",
             "price": 100,
             "name": "s8b ビードル(キ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,15 +21,7 @@
             "link": "/items/1283744973",
             "price": 100,
             "name": "ビードル 001/1",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2064311469",
-            "price": 100,
-            "name": "ビードル 001/1",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -29,7 +29,7 @@
             "link": "https://www.hareruya2.com/product/20972",
             "price": 50,
             "name": "ビードル(CP){草",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 5
         },
         {
@@ -37,7 +37,71 @@
             "link": "https://www.hareruya2.com/product/21192",
             "price": 100,
             "name": "ビードル:ミラー(C",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22642",
+            "price": 50,
+            "name": "ビードル001/18",
+            "date": "2022-12-22",
+            "stock": 68
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g001-184-S8B-BM/",
+            "price": 66,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g001-184-S8B-B/",
+            "price": 20,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-22",
+            "stock": 33
+        },
+        {
+            "market": "magi",
+            "link": "/items/2064311469",
+            "price": 100,
+            "name": "ビードル 001/1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1221702554",
+            "price": 100,
+            "name": "s8b ビードル(キ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1283744973",
+            "price": 100,
+            "name": "ビードル 001/1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20972",
+            "price": 50,
+            "name": "ビードル(CP){草",
+            "date": "2022-12-21",
+            "stock": 5
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21192",
+            "price": 100,
+            "name": "ビードル:ミラー(C",
+            "date": "2022-12-21",
             "stock": 13
         },
         {
@@ -45,15 +109,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/22642",
             "price": 50,
             "name": "ビードル001/18",
-            "date": "2022-12-04",
-            "stock": 62
+            "date": "2022-12-21",
+            "stock": 68
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g001-184-S8B-BM/",
             "price": 66,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-04",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -61,23 +125,23 @@
             "link": "/shop/g/g001-184-S8B-B/",
             "price": 20,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-04",
+            "date": "2022-12-21",
             "stock": 33
-        },
-        {
-            "market": "magi",
-            "link": "/items/1283744973",
-            "price": 100,
-            "name": "ビードル 001/1",
-            "date": "2022-12-03",
-            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1221702554",
             "price": 100,
             "name": "s8b ビードル(キ",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1283744973",
+            "price": 100,
+            "name": "ビードル 001/1",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -85,287 +149,31 @@
             "link": "/items/2064311469",
             "price": 100,
             "name": "ビードル 001/1",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20972",
+            "price": 50,
+            "name": "ビードル(CP){草",
+            "date": "2022-12-20",
+            "stock": 5
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21192",
             "price": 100,
             "name": "ビードル:ミラー(C",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 13
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20972",
-            "price": 50,
-            "name": "ビードル(CP){草",
-            "date": "2022-12-03",
-            "stock": 5
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22642",
             "price": 50,
             "name": "ビードル001/18",
-            "date": "2022-12-03",
-            "stock": 66
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g001-184-S8B-B/",
-            "price": 20,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-03",
-            "stock": 33
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g001-184-S8B-BM/",
-            "price": 66,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1283744973",
-            "price": 100,
-            "name": "ビードル 001/1",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2064311469",
-            "price": 100,
-            "name": "ビードル 001/1",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1221702554",
-            "price": 100,
-            "name": "s8b ビードル(キ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20972",
-            "price": 50,
-            "name": "ビードル(CP){草",
-            "date": "2022-12-02",
-            "stock": 5
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21192",
-            "price": 100,
-            "name": "ビードル:ミラー(C",
-            "date": "2022-12-02",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22642",
-            "price": 50,
-            "name": "ビードル001/18",
-            "date": "2022-12-02",
-            "stock": 66
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g001-184-S8B-B/",
-            "price": 20,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-02",
-            "stock": 33
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g001-184-S8B-BM/",
-            "price": 66,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2064311469",
-            "price": 100,
-            "name": "ビードル 001/1",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1221702554",
-            "price": 100,
-            "name": "s8b ビードル(キ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1283744973",
-            "price": 100,
-            "name": "ビードル 001/1",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20972",
-            "price": 50,
-            "name": "ビードル(CP){草",
-            "date": "2022-12-01",
-            "stock": 5
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21192",
-            "price": 100,
-            "name": "ビードル:ミラー(C",
-            "date": "2022-12-01",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22642",
-            "price": 50,
-            "name": "ビードル001/18",
-            "date": "2022-12-01",
-            "stock": 66
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g001-184-S8B-BM/",
-            "price": 66,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g001-184-S8B-B/",
-            "price": 20,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-01",
-            "stock": 33
-        },
-        {
-            "market": "magi",
-            "link": "/items/2064311469",
-            "price": 100,
-            "name": "ビードル 001/1",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1221702554",
-            "price": 100,
-            "name": "s8b ビードル(キ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1283744973",
-            "price": 100,
-            "name": "ビードル 001/1",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21192",
-            "price": 100,
-            "name": "ビードル:ミラー(C",
-            "date": "2022-11-30",
-            "stock": 14
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20972",
-            "price": 50,
-            "name": "ビードル(CP){草",
-            "date": "2022-11-30",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22642",
-            "price": 50,
-            "name": "ビードル001/18",
-            "date": "2022-11-30",
-            "stock": 68
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g001-184-S8B-B/",
-            "price": 20,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-30",
-            "stock": 33
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g001-184-S8B-BM/",
-            "price": 66,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1283744973",
-            "price": 100,
-            "name": "ビードル 001/1",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1221702554",
-            "price": 100,
-            "name": "s8b ビードル(キ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2064311469",
-            "price": 100,
-            "name": "ビードル 001/1",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20972",
-            "price": 50,
-            "name": "ビードル(CP){草",
-            "date": "2022-11-29",
-            "stock": 5
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21192",
-            "price": 100,
-            "name": "ビードル:ミラー(C",
-            "date": "2022-11-29",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22642",
-            "price": 50,
-            "name": "ビードル001/18",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 68
         },
         {
@@ -373,7 +181,7 @@
             "link": "/shop/g/g001-184-S8B-BM/",
             "price": 66,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -381,15 +189,15 @@
             "link": "/shop/g/g001-184-S8B-B/",
             "price": 20,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 33
         },
         {
             "market": "magi",
-            "link": "/items/1221702554",
+            "link": "/items/2064311469",
             "price": 100,
-            "name": "s8b ビードル(キ",
-            "date": "2022-11-28",
+            "name": "ビードル 001/1",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -397,63 +205,7 @@
             "link": "/items/1283744973",
             "price": 100,
             "name": "ビードル 001/1",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2064311469",
-            "price": 100,
-            "name": "ビードル 001/1",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20972",
-            "price": 50,
-            "name": "ビードル(CP){草",
-            "date": "2022-11-28",
-            "stock": 8
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21192",
-            "price": 100,
-            "name": "ビードル:ミラー(C",
-            "date": "2022-11-28",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22642",
-            "price": 50,
-            "name": "ビードル001/18",
-            "date": "2022-11-28",
-            "stock": 68
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g001-184-S8B-B/",
-            "price": 20,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-28",
-            "stock": 33
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g001-184-S8B-BM/",
-            "price": 66,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2064311469",
-            "price": 100,
-            "name": "ビードル 001/1",
-            "date": "2022-11-27",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -461,15 +213,7 @@
             "link": "/items/1221702554",
             "price": 100,
             "name": "s8b ビードル(キ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1283744973",
-            "price": 100,
-            "name": "ビードル 001/1",
-            "date": "2022-11-27",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -477,15 +221,15 @@
             "link": "https://www.hareruya2.com/product/20972",
             "price": 50,
             "name": "ビードル(CP){草",
-            "date": "2022-11-27",
-            "stock": 8
+            "date": "2022-12-19",
+            "stock": 5
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21192",
             "price": 100,
             "name": "ビードル:ミラー(C",
-            "date": "2022-11-27",
+            "date": "2022-12-19",
             "stock": 14
         },
         {
@@ -493,7 +237,71 @@
             "link": "https://www.cardrush-pokemon.jp/product/22642",
             "price": 50,
             "name": "ビードル001/18",
-            "date": "2022-11-27",
+            "date": "2022-12-19",
+            "stock": 68
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g001-184-S8B-B/",
+            "price": 20,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-19",
+            "stock": 33
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g001-184-S8B-BM/",
+            "price": 66,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2064311469",
+            "price": 100,
+            "name": "ビードル 001/1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1221702554",
+            "price": 100,
+            "name": "s8b ビードル(キ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1283744973",
+            "price": 100,
+            "name": "ビードル 001/1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20972",
+            "price": 50,
+            "name": "ビードル(CP){草",
+            "date": "2022-12-18",
+            "stock": 5
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21192",
+            "price": 100,
+            "name": "ビードル:ミラー(C",
+            "date": "2022-12-18",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22642",
+            "price": 50,
+            "name": "ビードル001/18",
+            "date": "2022-12-18",
             "stock": 68
         },
         {
@@ -501,7 +309,7 @@
             "link": "/shop/g/g001-184-S8B-BM/",
             "price": 66,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-27",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -509,8 +317,200 @@
             "link": "/shop/g/g001-184-S8B-B/",
             "price": 20,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-27",
+            "date": "2022-12-18",
             "stock": 33
+        },
+        {
+            "market": "magi",
+            "link": "/items/1283744973",
+            "price": 100,
+            "name": "ビードル 001/1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2064311469",
+            "price": 100,
+            "name": "ビードル 001/1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1221702554",
+            "price": 100,
+            "name": "s8b ビードル(キ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21192",
+            "price": 100,
+            "name": "ビードル:ミラー(C",
+            "date": "2022-12-17",
+            "stock": 14
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20972",
+            "price": 50,
+            "name": "ビードル(CP){草",
+            "date": "2022-12-17",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22642",
+            "price": 50,
+            "name": "ビードル001/18",
+            "date": "2022-12-17",
+            "stock": 68
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g001-184-S8B-BM/",
+            "price": 66,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g001-184-S8B-B/",
+            "price": 20,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-17",
+            "stock": 33
+        },
+        {
+            "market": "magi",
+            "link": "/items/2064311469",
+            "price": 100,
+            "name": "ビードル 001/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1283744973",
+            "price": 100,
+            "name": "ビードル 001/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1221702554",
+            "price": 100,
+            "name": "s8b ビードル(キ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21192",
+            "price": 100,
+            "name": "ビードル:ミラー(C",
+            "date": "2022-12-16",
+            "stock": 14
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20972",
+            "price": 50,
+            "name": "ビードル(CP){草",
+            "date": "2022-12-16",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22642",
+            "price": 50,
+            "name": "ビードル001/18",
+            "date": "2022-12-16",
+            "stock": 68
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g001-184-S8B-BM/",
+            "price": 66,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g001-184-S8B-B/",
+            "price": 20,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-16",
+            "stock": 33
+        },
+        {
+            "market": "magi",
+            "link": "/items/2064311469",
+            "price": 100,
+            "name": "ビードル 001/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1221702554",
+            "price": 100,
+            "name": "s8b ビードル(キ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1283744973",
+            "price": 100,
+            "name": "ビードル 001/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20972",
+            "price": 50,
+            "name": "ビードル(CP){草",
+            "date": "2022-12-15",
+            "stock": 5
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21192",
+            "price": 100,
+            "name": "ビードル:ミラー(C",
+            "date": "2022-12-15",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22642",
+            "price": 50,
+            "name": "ビードル001/18",
+            "date": "2022-12-15",
+            "stock": 68
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g001-184-S8B-B/",
+            "price": 20,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-15",
+            "stock": 33
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g001-184-S8B-BM/",
+            "price": 66,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-15",
+            "stock": 1
         }
     ]
 }

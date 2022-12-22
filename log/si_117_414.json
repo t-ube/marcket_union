@@ -1,3 +1,20 @@
 ﻿{
-    "items": []
+    "items": [
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21722",
+            "price": 50,
+            "name": "ジメレオン(D){水",
+            "date": "2022-12-22",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/752982894",
+            "price": 10,
+            "name": "1枚10円！ジメレオ",
+            "date": "2022-12-21",
+            "stock": 1
+        }
+    ]
 }

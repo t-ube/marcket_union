@@ -2,18 +2,26 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/2119742617",
-            "price": 350,
-            "name": "【2枚】セレビィVM",
-            "date": "2022-12-04",
+            "link": "/items/1079994880",
+            "price": 200,
+            "name": "セレビィVMAX R",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1462639364",
-            "price": 110,
+            "link": "/items/1169153601",
+            "price": 150,
             "name": "セレビィVMAX R",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2119742617",
+            "price": 350,
+            "name": "【2枚】セレビィVM",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -21,7 +29,7 @@
             "link": "/items/833174489",
             "price": 300,
             "name": "セレビィVMAX R",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -29,7 +37,7 @@
             "link": "/items/2102392150",
             "price": 150,
             "name": "セレビィVMAX R",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -37,15 +45,15 @@
             "link": "https://www.hareruya2.com/product/19332",
             "price": 200,
             "name": "セレビィVMAX(R",
-            "date": "2022-12-04",
-            "stock": 54
+            "date": "2022-12-22",
+            "stock": 55
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20083",
             "price": 220,
             "name": "セレビィVMAX00",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 168
         },
         {
@@ -53,15 +61,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/31845",
             "price": 190,
             "name": "セレビィVMAX00",
-            "date": "2022-12-04",
-            "stock": 7
+            "date": "2022-12-22",
+            "stock": 9
         },
         {
             "market": "magi",
-            "link": "/items/1462639364",
-            "price": 110,
+            "link": "/items/1169153601",
+            "price": 150,
             "name": "セレビィVMAX R",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -69,7 +77,7 @@
             "link": "/items/2119742617",
             "price": 350,
             "name": "【2枚】セレビィVM",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -77,7 +85,7 @@
             "link": "/items/833174489",
             "price": 300,
             "name": "セレビィVMAX R",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -85,7 +93,7 @@
             "link": "/items/2102392150",
             "price": 150,
             "name": "セレビィVMAX R",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -93,15 +101,15 @@
             "link": "https://www.hareruya2.com/product/19332",
             "price": 200,
             "name": "セレビィVMAX(R",
-            "date": "2022-12-03",
-            "stock": 54
+            "date": "2022-12-21",
+            "stock": 55
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20083",
             "price": 220,
             "name": "セレビィVMAX00",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 168
         },
         {
@@ -109,15 +117,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/31845",
             "price": 190,
             "name": "セレビィVMAX00",
-            "date": "2022-12-03",
-            "stock": 7
+            "date": "2022-12-21",
+            "stock": 10
         },
         {
             "market": "magi",
             "link": "/items/2102392150",
             "price": 150,
             "name": "セレビィVMAX R",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -125,127 +133,15 @@
             "link": "/items/833174489",
             "price": 300,
             "name": "セレビィVMAX R",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2119742617",
-            "price": 350,
-            "name": "【2枚】セレビィVM",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1462639364",
-            "price": 110,
-            "name": "セレビィVMAX R",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19332",
-            "price": 200,
-            "name": "セレビィVMAX(R",
-            "date": "2022-12-02",
-            "stock": 54
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31845",
-            "price": 190,
-            "name": "セレビィVMAX00",
-            "date": "2022-12-02",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20083",
-            "price": 220,
-            "name": "セレビィVMAX00",
-            "date": "2022-12-02",
-            "stock": 168
-        },
-        {
-            "market": "magi",
-            "link": "/items/2119742617",
-            "price": 350,
-            "name": "【2枚】セレビィVM",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1462639364",
-            "price": 110,
-            "name": "セレビィVMAX R",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/833174489",
-            "price": 300,
-            "name": "セレビィVMAX R",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2102392150",
+            "link": "/items/1169153601",
             "price": 150,
             "name": "セレビィVMAX R",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19332",
-            "price": 200,
-            "name": "セレビィVMAX(R",
-            "date": "2022-12-01",
-            "stock": 54
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20083",
-            "price": 220,
-            "name": "セレビィVMAX00",
-            "date": "2022-12-01",
-            "stock": 168
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31845",
-            "price": 190,
-            "name": "セレビィVMAX00",
-            "date": "2022-12-01",
-            "stock": 7
-        },
-        {
-            "market": "magi",
-            "link": "/items/2102392150",
-            "price": 150,
-            "name": "セレビィVMAX R",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/833174489",
-            "price": 300,
-            "name": "セレビィVMAX R",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1462639364",
-            "price": 110,
-            "name": "セレビィVMAX R",
-            "date": "2022-11-30",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -253,7 +149,7 @@
             "link": "/items/2119742617",
             "price": 350,
             "name": "【2枚】セレビィVM",
-            "date": "2022-11-30",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -261,63 +157,7 @@
             "link": "https://www.hareruya2.com/product/19332",
             "price": 200,
             "name": "セレビィVMAX(R",
-            "date": "2022-11-30",
-            "stock": 54
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31845",
-            "price": 190,
-            "name": "セレビィVMAX00",
-            "date": "2022-11-30",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20083",
-            "price": 220,
-            "name": "セレビィVMAX00",
-            "date": "2022-11-30",
-            "stock": 168
-        },
-        {
-            "market": "magi",
-            "link": "/items/1462639364",
-            "price": 110,
-            "name": "セレビィVMAX R",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2119742617",
-            "price": 350,
-            "name": "【2枚】セレビィVM",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/833174489",
-            "price": 300,
-            "name": "セレビィVMAX R",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2102392150",
-            "price": 150,
-            "name": "セレビィVMAX R",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19332",
-            "price": 200,
-            "name": "セレビィVMAX(R",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 55
         },
         {
@@ -325,31 +165,31 @@
             "link": "https://www.cardrush-pokemon.jp/product/31845",
             "price": 190,
             "name": "セレビィVMAX00",
-            "date": "2022-11-29",
-            "stock": 7
+            "date": "2022-12-20",
+            "stock": 10
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20083",
             "price": 220,
             "name": "セレビィVMAX00",
-            "date": "2022-11-29",
-            "stock": 168
+            "date": "2022-12-20",
+            "stock": 167
         },
         {
             "market": "magi",
             "link": "/items/2119742617",
             "price": 350,
             "name": "【2枚】セレビィVM",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1462639364",
-            "price": 110,
+            "link": "/items/1169153601",
+            "price": 150,
             "name": "セレビィVMAX R",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -357,7 +197,7 @@
             "link": "/items/833174489",
             "price": 300,
             "name": "セレビィVMAX R",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -365,7 +205,7 @@
             "link": "/items/2102392150",
             "price": 150,
             "name": "セレビィVMAX R",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -373,7 +213,63 @@
             "link": "https://www.hareruya2.com/product/19332",
             "price": 200,
             "name": "セレビィVMAX(R",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
+            "stock": 55
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20083",
+            "price": 220,
+            "name": "セレビィVMAX00",
+            "date": "2022-12-19",
+            "stock": 167
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31845",
+            "price": 190,
+            "name": "セレビィVMAX00",
+            "date": "2022-12-19",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/1169153601",
+            "price": 150,
+            "name": "セレビィVMAX R",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2102392150",
+            "price": 150,
+            "name": "セレビィVMAX R",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/833174489",
+            "price": 300,
+            "name": "セレビィVMAX R",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2119742617",
+            "price": 350,
+            "name": "【2枚】セレビィVM",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19332",
+            "price": 200,
+            "name": "セレビィVMAX(R",
+            "date": "2022-12-18",
             "stock": 55
         },
         {
@@ -381,23 +277,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/31845",
             "price": 190,
             "name": "セレビィVMAX00",
-            "date": "2022-11-28",
-            "stock": 7
+            "date": "2022-12-18",
+            "stock": 10
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20083",
             "price": 220,
             "name": "セレビィVMAX00",
-            "date": "2022-11-28",
-            "stock": 170
+            "date": "2022-12-18",
+            "stock": 167
         },
         {
             "market": "magi",
-            "link": "/items/1462639364",
-            "price": 110,
+            "link": "/items/1169153601",
+            "price": 150,
             "name": "セレビィVMAX R",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -405,7 +301,7 @@
             "link": "/items/2119742617",
             "price": 350,
             "name": "【2枚】セレビィVM",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -413,7 +309,7 @@
             "link": "/items/833174489",
             "price": 300,
             "name": "セレビィVMAX R",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -421,7 +317,7 @@
             "link": "/items/2102392150",
             "price": 150,
             "name": "セレビィVMAX R",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -429,24 +325,136 @@
             "link": "https://www.hareruya2.com/product/19332",
             "price": 200,
             "name": "セレビィVMAX(R",
-            "date": "2022-11-27",
-            "stock": 44
+            "date": "2022-12-17",
+            "stock": 55
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20083",
             "price": 220,
             "name": "セレビィVMAX00",
-            "date": "2022-11-27",
-            "stock": 170
+            "date": "2022-12-17",
+            "stock": 166
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31845",
             "price": 190,
             "name": "セレビィVMAX00",
-            "date": "2022-11-27",
-            "stock": 7
+            "date": "2022-12-17",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/1169153601",
+            "price": 150,
+            "name": "セレビィVMAX R",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2119742617",
+            "price": 350,
+            "name": "【2枚】セレビィVM",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/833174489",
+            "price": 300,
+            "name": "セレビィVMAX R",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2102392150",
+            "price": 150,
+            "name": "セレビィVMAX R",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19332",
+            "price": 200,
+            "name": "セレビィVMAX(R",
+            "date": "2022-12-16",
+            "stock": 55
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31845",
+            "price": 190,
+            "name": "セレビィVMAX00",
+            "date": "2022-12-16",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20083",
+            "price": 220,
+            "name": "セレビィVMAX00",
+            "date": "2022-12-16",
+            "stock": 168
+        },
+        {
+            "market": "magi",
+            "link": "/items/833174489",
+            "price": 300,
+            "name": "セレビィVMAX R",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2119742617",
+            "price": 350,
+            "name": "【2枚】セレビィVM",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1169153601",
+            "price": 150,
+            "name": "セレビィVMAX R",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2102392150",
+            "price": 150,
+            "name": "セレビィVMAX R",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19332",
+            "price": 200,
+            "name": "セレビィVMAX(R",
+            "date": "2022-12-15",
+            "stock": 55
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31845",
+            "price": 190,
+            "name": "セレビィVMAX00",
+            "date": "2022-12-15",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20083",
+            "price": 220,
+            "name": "セレビィVMAX00",
+            "date": "2022-12-15",
+            "stock": 168
         }
     ]
 }

@@ -2,74 +2,10 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1997424516",
-            "price": 100,
-            "name": "ヒスイハリーセン C",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1666530853",
             "price": 200,
             "name": "ポケカ　ヒスイハリー",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22754",
-            "price": 50,
-            "name": "ヒスイハリーセン:ミ",
-            "date": "2022-12-04",
-            "stock": 47
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22704",
-            "price": 50,
-            "name": "ヒスイハリーセン(C",
-            "date": "2022-12-04",
-            "stock": 31
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33862",
-            "price": 30,
-            "name": "ヒスイハリーセン04",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33567",
-            "price": 30,
-            "name": "ヒスイハリーセン04",
-            "date": "2022-12-04",
-            "stock": 93
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33617",
-            "price": 50,
-            "name": "ヒスイハリーセン04",
-            "date": "2022-12-04",
-            "stock": 118
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g047-067-S9A-BM/",
-            "price": 55,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-04",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1666530853",
-            "price": 200,
-            "name": "ポケカ　ヒスイハリー",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -77,7 +13,7 @@
             "link": "/items/1997424516",
             "price": 100,
             "name": "ヒスイハリーセン C",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -85,7 +21,7 @@
             "link": "https://www.hareruya2.com/product/22704",
             "price": 50,
             "name": "ヒスイハリーセン(C",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 31
         },
         {
@@ -93,23 +29,15 @@
             "link": "https://www.hareruya2.com/product/22754",
             "price": 50,
             "name": "ヒスイハリーセン:ミ",
-            "date": "2022-12-03",
-            "stock": 47
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33617",
-            "price": 50,
-            "name": "ヒスイハリーセン04",
-            "date": "2022-12-03",
-            "stock": 118
+            "date": "2022-12-22",
+            "stock": 45
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33862",
             "price": 30,
             "name": "ヒスイハリーセン04",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -117,15 +45,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/33567",
             "price": 30,
             "name": "ヒスイハリーセン04",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 93
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33617",
+            "price": 50,
+            "name": "ヒスイハリーセン04",
+            "date": "2022-12-22",
+            "stock": 117
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g047-067-S9A-BM/",
             "price": 55,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 3
         },
         {
@@ -133,7 +69,7 @@
             "link": "/items/1997424516",
             "price": 100,
             "name": "ヒスイハリーセン C",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -141,7 +77,7 @@
             "link": "/items/1666530853",
             "price": 200,
             "name": "ポケカ　ヒスイハリー",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -149,7 +85,7 @@
             "link": "https://www.hareruya2.com/product/22704",
             "price": 50,
             "name": "ヒスイハリーセン(C",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
             "stock": 31
         },
         {
@@ -157,39 +93,39 @@
             "link": "https://www.hareruya2.com/product/22754",
             "price": 50,
             "name": "ヒスイハリーセン:ミ",
-            "date": "2022-12-02",
-            "stock": 47
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33617",
-            "price": 50,
-            "name": "ヒスイハリーセン04",
-            "date": "2022-12-02",
-            "stock": 118
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33567",
-            "price": 30,
-            "name": "ヒスイハリーセン04",
-            "date": "2022-12-02",
-            "stock": 93
+            "date": "2022-12-21",
+            "stock": 45
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33862",
             "price": 30,
             "name": "ヒスイハリーセン04",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33567",
+            "price": 30,
+            "name": "ヒスイハリーセン04",
+            "date": "2022-12-21",
+            "stock": 93
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33617",
+            "price": 50,
+            "name": "ヒスイハリーセン04",
+            "date": "2022-12-21",
+            "stock": 117
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g047-067-S9A-BM/",
             "price": 55,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
             "stock": 3
         },
         {
@@ -197,7 +133,7 @@
             "link": "/items/1666530853",
             "price": 200,
             "name": "ポケカ　ヒスイハリー",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -205,39 +141,31 @@
             "link": "/items/1997424516",
             "price": 100,
             "name": "ヒスイハリーセン C",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22754",
-            "price": 50,
-            "name": "ヒスイハリーセン:ミ",
-            "date": "2022-12-01",
-            "stock": 47
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22704",
             "price": 50,
             "name": "ヒスイハリーセン(C",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 31
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33617",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22754",
             "price": 50,
-            "name": "ヒスイハリーセン04",
-            "date": "2022-12-01",
-            "stock": 118
+            "name": "ヒスイハリーセン:ミ",
+            "date": "2022-12-20",
+            "stock": 45
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33862",
             "price": 30,
             "name": "ヒスイハリーセン04",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -245,15 +173,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/33567",
             "price": 30,
             "name": "ヒスイハリーセン04",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 93
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33617",
+            "price": 50,
+            "name": "ヒスイハリーセン04",
+            "date": "2022-12-20",
+            "stock": 117
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g047-067-S9A-BM/",
             "price": 55,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 3
         },
         {
@@ -261,7 +197,7 @@
             "link": "/items/1666530853",
             "price": 200,
             "name": "ポケカ　ヒスイハリー",
-            "date": "2022-11-30",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -269,55 +205,55 @@
             "link": "/items/1997424516",
             "price": 100,
             "name": "ヒスイハリーセン C",
-            "date": "2022-11-30",
+            "date": "2022-12-19",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22754",
-            "price": 50,
-            "name": "ヒスイハリーセン:ミ",
-            "date": "2022-11-30",
-            "stock": 47
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22704",
             "price": 50,
             "name": "ヒスイハリーセン(C",
-            "date": "2022-11-30",
+            "date": "2022-12-19",
             "stock": 31
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33567",
-            "price": 30,
-            "name": "ヒスイハリーセン04",
-            "date": "2022-11-30",
-            "stock": 93
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33862",
-            "price": 30,
-            "name": "ヒスイハリーセン04",
-            "date": "2022-11-30",
-            "stock": 1
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22754",
+            "price": 50,
+            "name": "ヒスイハリーセン:ミ",
+            "date": "2022-12-19",
+            "stock": 45
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33617",
             "price": 50,
             "name": "ヒスイハリーセン04",
-            "date": "2022-11-30",
-            "stock": 118
+            "date": "2022-12-19",
+            "stock": 117
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33862",
+            "price": 30,
+            "name": "ヒスイハリーセン04",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33567",
+            "price": 30,
+            "name": "ヒスイハリーセン04",
+            "date": "2022-12-19",
+            "stock": 93
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g047-067-S9A-BM/",
             "price": 55,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-30",
+            "date": "2022-12-19",
             "stock": 3
         },
         {
@@ -325,7 +261,7 @@
             "link": "/items/1997424516",
             "price": 100,
             "name": "ヒスイハリーセン C",
-            "date": "2022-11-29",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -333,7 +269,7 @@
             "link": "/items/1666530853",
             "price": 200,
             "name": "ポケカ　ヒスイハリー",
-            "date": "2022-11-29",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -341,7 +277,7 @@
             "link": "https://www.hareruya2.com/product/22704",
             "price": 50,
             "name": "ヒスイハリーセン(C",
-            "date": "2022-11-29",
+            "date": "2022-12-18",
             "stock": 31
         },
         {
@@ -349,23 +285,79 @@
             "link": "https://www.hareruya2.com/product/22754",
             "price": 50,
             "name": "ヒスイハリーセン:ミ",
-            "date": "2022-11-29",
-            "stock": 47
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33862",
-            "price": 30,
-            "name": "ヒスイハリーセン04",
-            "date": "2022-11-29",
-            "stock": 1
+            "date": "2022-12-18",
+            "stock": 45
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33567",
             "price": 30,
             "name": "ヒスイハリーセン04",
-            "date": "2022-11-29",
+            "date": "2022-12-18",
+            "stock": 93
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33862",
+            "price": 30,
+            "name": "ヒスイハリーセン04",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33617",
+            "price": 50,
+            "name": "ヒスイハリーセン04",
+            "date": "2022-12-18",
+            "stock": 117
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g047-067-S9A-BM/",
+            "price": 55,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-18",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1666530853",
+            "price": 200,
+            "name": "ポケカ　ヒスイハリー",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1997424516",
+            "price": 100,
+            "name": "ヒスイハリーセン C",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22704",
+            "price": 50,
+            "name": "ヒスイハリーセン(C",
+            "date": "2022-12-17",
+            "stock": 31
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22754",
+            "price": 50,
+            "name": "ヒスイハリーセン:ミ",
+            "date": "2022-12-17",
+            "stock": 45
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33567",
+            "price": 30,
+            "name": "ヒスイハリーセン04",
+            "date": "2022-12-17",
             "stock": 93
         },
         {
@@ -373,15 +365,87 @@
             "link": "https://www.cardrush-pokemon.jp/product/33617",
             "price": 50,
             "name": "ヒスイハリーセン04",
-            "date": "2022-11-29",
-            "stock": 118
+            "date": "2022-12-17",
+            "stock": 117
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33862",
+            "price": 30,
+            "name": "ヒスイハリーセン04",
+            "date": "2022-12-17",
+            "stock": 1
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g047-067-S9A-BM/",
             "price": 55,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1666530853",
+            "price": 200,
+            "name": "ポケカ　ヒスイハリー",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1997424516",
+            "price": 100,
+            "name": "ヒスイハリーセン C",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22704",
+            "price": 50,
+            "name": "ヒスイハリーセン(C",
+            "date": "2022-12-16",
+            "stock": 31
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22754",
+            "price": 50,
+            "name": "ヒスイハリーセン:ミ",
+            "date": "2022-12-16",
+            "stock": 45
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33617",
+            "price": 50,
+            "name": "ヒスイハリーセン04",
+            "date": "2022-12-16",
+            "stock": 117
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33862",
+            "price": 30,
+            "name": "ヒスイハリーセン04",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33567",
+            "price": 30,
+            "name": "ヒスイハリーセン04",
+            "date": "2022-12-16",
+            "stock": 93
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g047-067-S9A-BM/",
+            "price": 55,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-16",
             "stock": 3
         },
         {
@@ -389,7 +453,7 @@
             "link": "/items/1997424516",
             "price": 100,
             "name": "ヒスイハリーセン C",
-            "date": "2022-11-28",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -397,47 +461,47 @@
             "link": "/items/1666530853",
             "price": 200,
             "name": "ポケカ　ヒスイハリー",
-            "date": "2022-11-28",
+            "date": "2022-12-15",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22704",
-            "price": 50,
-            "name": "ヒスイハリーセン(C",
-            "date": "2022-11-28",
-            "stock": 31
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22754",
             "price": 50,
             "name": "ヒスイハリーセン:ミ",
-            "date": "2022-11-28",
-            "stock": 47
+            "date": "2022-12-15",
+            "stock": 45
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33862",
-            "price": 30,
-            "name": "ヒスイハリーセン04",
-            "date": "2022-11-28",
-            "stock": 1
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22704",
+            "price": 50,
+            "name": "ヒスイハリーセン(C",
+            "date": "2022-12-15",
+            "stock": 31
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33617",
             "price": 50,
             "name": "ヒスイハリーセン04",
-            "date": "2022-11-28",
-            "stock": 118
+            "date": "2022-12-15",
+            "stock": 117
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33862",
+            "price": 30,
+            "name": "ヒスイハリーセン04",
+            "date": "2022-12-15",
+            "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33567",
             "price": 30,
             "name": "ヒスイハリーセン04",
-            "date": "2022-11-28",
+            "date": "2022-12-15",
             "stock": 93
         },
         {
@@ -445,71 +509,7 @@
             "link": "/shop/g/g047-067-S9A-BM/",
             "price": 55,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-28",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1997424516",
-            "price": 100,
-            "name": "ヒスイハリーセン C",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1666530853",
-            "price": 200,
-            "name": "ポケカ　ヒスイハリー",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22704",
-            "price": 50,
-            "name": "ヒスイハリーセン(C",
-            "date": "2022-11-27",
-            "stock": 31
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22754",
-            "price": 50,
-            "name": "ヒスイハリーセン:ミ",
-            "date": "2022-11-27",
-            "stock": 47
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33567",
-            "price": 30,
-            "name": "ヒスイハリーセン04",
-            "date": "2022-11-27",
-            "stock": 93
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33862",
-            "price": 30,
-            "name": "ヒスイハリーセン04",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33617",
-            "price": 50,
-            "name": "ヒスイハリーセン04",
-            "date": "2022-11-27",
-            "stock": 119
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g047-067-S9A-BM/",
-            "price": 55,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 3
         }
     ]

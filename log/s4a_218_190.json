@@ -2,18 +2,10 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1038705235",
-            "price": 200,
-            "name": "マルヤクデ S 21",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1305914849",
             "price": 220,
             "name": "ポケカ　マルヤクデ　",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -21,215 +13,31 @@
             "link": "https://www.hareruya2.com/product/18624",
             "price": 300,
             "name": "マルヤクデ(S){炎",
-            "date": "2022-12-04",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17367",
-            "price": 380,
-            "name": "マルヤクデ218/1",
-            "date": "2022-12-04",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30807",
-            "price": 330,
-            "name": "マルヤクデ218/1",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g218-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇マルヤ",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1305914849",
-            "price": 220,
-            "name": "ポケカ　マルヤクデ　",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1038705235",
-            "price": 200,
-            "name": "マルヤクデ S 21",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18624",
-            "price": 300,
-            "name": "マルヤクデ(S){炎",
-            "date": "2022-12-03",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17367",
-            "price": 380,
-            "name": "マルヤクデ218/1",
-            "date": "2022-12-03",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30807",
-            "price": 330,
-            "name": "マルヤクデ218/1",
-            "date": "2022-12-03",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g218-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇マルヤ",
-            "date": "2022-12-03",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1038705235",
-            "price": 200,
-            "name": "マルヤクデ S 21",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1305914849",
-            "price": 220,
-            "name": "ポケカ　マルヤクデ　",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18624",
-            "price": 300,
-            "name": "マルヤクデ(S){炎",
-            "date": "2022-12-02",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17367",
-            "price": 380,
-            "name": "マルヤクデ218/1",
-            "date": "2022-12-02",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30807",
-            "price": 330,
-            "name": "マルヤクデ218/1",
-            "date": "2022-12-02",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g218-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇マルヤ",
-            "date": "2022-12-02",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1305914849",
-            "price": 220,
-            "name": "ポケカ　マルヤクデ　",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1038705235",
-            "price": 200,
-            "name": "マルヤクデ S 21",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18624",
-            "price": 300,
-            "name": "マルヤクデ(S){炎",
-            "date": "2022-12-01",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30807",
-            "price": 330,
-            "name": "マルヤクデ218/1",
-            "date": "2022-12-01",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17367",
-            "price": 380,
-            "name": "マルヤクデ218/1",
-            "date": "2022-12-01",
-            "stock": 25
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g218-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇マルヤ",
-            "date": "2022-12-01",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1305914849",
-            "price": 220,
-            "name": "ポケカ　マルヤクデ　",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1038705235",
-            "price": 200,
-            "name": "マルヤクデ S 21",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18624",
-            "price": 300,
-            "name": "マルヤクデ(S){炎",
-            "date": "2022-11-30",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17367",
-            "price": 380,
-            "name": "マルヤクデ218/1",
-            "date": "2022-11-30",
+            "date": "2022-12-22",
             "stock": 21
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30807",
+            "price": 330,
+            "name": "マルヤクデ218/1",
+            "date": "2022-12-22",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17367",
+            "price": 380,
+            "name": "マルヤクデ218/1",
+            "date": "2022-12-22",
+            "stock": 40
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g218-190-S4A-B/",
-            "price": 275,
+            "price": 330,
             "name": "【ポケカ】Ｓ◇マルヤ",
-            "date": "2022-11-30",
+            "date": "2022-12-22",
             "stock": 2
         },
         {
@@ -237,7 +45,7 @@
             "link": "/items/1305914849",
             "price": 220,
             "name": "ポケカ　マルヤクデ　",
-            "date": "2022-11-29",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -245,23 +53,31 @@
             "link": "https://www.hareruya2.com/product/18624",
             "price": 300,
             "name": "マルヤクデ(S){炎",
-            "date": "2022-11-29",
-            "stock": 19
+            "date": "2022-12-21",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30807",
+            "price": 330,
+            "name": "マルヤクデ218/1",
+            "date": "2022-12-21",
+            "stock": 2
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17367",
             "price": 380,
             "name": "マルヤクデ218/1",
-            "date": "2022-11-29",
-            "stock": 13
+            "date": "2022-12-21",
+            "stock": 40
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g218-190-S4A-B/",
-            "price": 275,
+            "price": 330,
             "name": "【ポケカ】Ｓ◇マルヤ",
-            "date": "2022-11-29",
+            "date": "2022-12-21",
             "stock": 2
         },
         {
@@ -269,7 +85,7 @@
             "link": "/items/1305914849",
             "price": 220,
             "name": "ポケカ　マルヤクデ　",
-            "date": "2022-11-28",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -277,7 +93,7 @@
             "link": "https://www.hareruya2.com/product/18624",
             "price": 300,
             "name": "マルヤクデ(S){炎",
-            "date": "2022-11-28",
+            "date": "2022-12-20",
             "stock": 19
         },
         {
@@ -285,15 +101,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/17367",
             "price": 380,
             "name": "マルヤクデ218/1",
-            "date": "2022-11-28",
-            "stock": 10
+            "date": "2022-12-20",
+            "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30807",
+            "price": 330,
+            "name": "マルヤクデ218/1",
+            "date": "2022-12-20",
+            "stock": 2
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g218-190-S4A-B/",
-            "price": 275,
+            "price": 330,
             "name": "【ポケカ】Ｓ◇マルヤ",
-            "date": "2022-11-28",
+            "date": "2022-12-20",
             "stock": 2
         },
         {
@@ -301,7 +125,7 @@
             "link": "/items/1305914849",
             "price": 220,
             "name": "ポケカ　マルヤクデ　",
-            "date": "2022-11-27",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -309,7 +133,7 @@
             "link": "https://www.hareruya2.com/product/18624",
             "price": 300,
             "name": "マルヤクデ(S){炎",
-            "date": "2022-11-27",
+            "date": "2022-12-19",
             "stock": 19
         },
         {
@@ -317,15 +141,167 @@
             "link": "https://www.cardrush-pokemon.jp/product/17367",
             "price": 380,
             "name": "マルヤクデ218/1",
-            "date": "2022-11-27",
-            "stock": 11
+            "date": "2022-12-19",
+            "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30807",
+            "price": 330,
+            "name": "マルヤクデ218/1",
+            "date": "2022-12-19",
+            "stock": 2
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g218-190-S4A-B/",
-            "price": 275,
+            "price": 330,
             "name": "【ポケカ】Ｓ◇マルヤ",
-            "date": "2022-11-27",
+            "date": "2022-12-19",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1305914849",
+            "price": 220,
+            "name": "ポケカ　マルヤクデ　",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18624",
+            "price": 300,
+            "name": "マルヤクデ(S){炎",
+            "date": "2022-12-18",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17367",
+            "price": 380,
+            "name": "マルヤクデ218/1",
+            "date": "2022-12-18",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30807",
+            "price": 330,
+            "name": "マルヤクデ218/1",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g218-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇マルヤ",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1305914849",
+            "price": 220,
+            "name": "ポケカ　マルヤクデ　",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18624",
+            "price": 300,
+            "name": "マルヤクデ(S){炎",
+            "date": "2022-12-17",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30807",
+            "price": 330,
+            "name": "マルヤクデ218/1",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17367",
+            "price": 380,
+            "name": "マルヤクデ218/1",
+            "date": "2022-12-17",
+            "stock": 39
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g218-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇マルヤ",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1305914849",
+            "price": 220,
+            "name": "ポケカ　マルヤクデ　",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18624",
+            "price": 300,
+            "name": "マルヤクデ(S){炎",
+            "date": "2022-12-16",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17367",
+            "price": 380,
+            "name": "マルヤクデ218/1",
+            "date": "2022-12-16",
+            "stock": 39
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g218-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇マルヤ",
+            "date": "2022-12-16",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1305914849",
+            "price": 220,
+            "name": "ポケカ　マルヤクデ　",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18624",
+            "price": 300,
+            "name": "マルヤクデ(S){炎",
+            "date": "2022-12-15",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17367",
+            "price": 380,
+            "name": "マルヤクデ218/1",
+            "date": "2022-12-15",
+            "stock": 37
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g218-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇マルヤ",
+            "date": "2022-12-15",
             "stock": 2
         }
     ]

@@ -2,122 +2,418 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/459067619",
-            "price": 430,
-            "name": "ビーダル AR 20",
-            "date": "2022-12-04",
+            "link": "/items/18865013",
+            "price": 250,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/791068536",
+            "link": "/items/212835291",
+            "price": 280,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/399910226",
+            "price": 280,
+            "name": "ソルロック【AR】{",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1852146138",
             "price": 200,
             "name": "ソルロック AR 1",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1688433260",
-            "price": 220,
+            "link": "/items/841159802",
+            "price": 300,
             "name": "ソルロック AR 1",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/958451321",
-            "price": 380,
+            "link": "/items/1693478507",
+            "price": 250,
             "name": "ソルロック AR 1",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2065254075",
-            "price": 200,
-            "name": "ソルロック AR 1",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26328",
-            "price": 200,
+            "price": 250,
             "name": "ソルロック(AR){",
-            "date": "2022-12-04",
-            "stock": 8
+            "date": "2022-12-22",
+            "stock": 17
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38369",
-            "price": 220,
+            "price": 280,
             "name": "ソルロック189/1",
-            "date": "2022-12-04",
-            "stock": 92
-        },
-        {
-            "market": "magi",
-            "link": "/items/791068536",
-            "price": 200,
-            "name": "ソルロック AR 1",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1688433260",
-            "price": 220,
-            "name": "ソルロック AR 1",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26328",
-            "price": 200,
-            "name": "ソルロック(AR){",
-            "date": "2022-12-03",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38369",
-            "price": 220,
-            "name": "ソルロック189/1",
-            "date": "2022-12-03",
-            "stock": 78
+            "date": "2022-12-22",
+            "stock": 148
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38636",
-            "price": 200,
+            "price": 260,
             "name": "ソルロック189/1",
-            "date": "2022-12-03",
-            "stock": 1
+            "date": "2022-12-22",
+            "stock": 3
         },
         {
             "market": "magi",
-            "link": "/items/161128868",
-            "price": 400,
+            "link": "/items/841159802",
+            "price": 300,
             "name": "ソルロック AR 1",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/791068536",
+            "link": "/items/399910226",
+            "price": 280,
+            "name": "ソルロック【AR】{",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1693478507",
+            "price": 250,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1852146138",
             "price": 200,
             "name": "ソルロック AR 1",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/212835291",
+            "price": 280,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/18865013",
+            "price": 250,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26328",
-            "price": 200,
+            "price": 250,
             "name": "ソルロック(AR){",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38636",
+            "price": 260,
+            "name": "ソルロック189/1",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38369",
+            "price": 280,
+            "name": "ソルロック189/1",
+            "date": "2022-12-21",
+            "stock": 139
+        },
+        {
+            "market": "magi",
+            "link": "/items/1693478507",
+            "price": 250,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/18865013",
+            "price": 250,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1852146138",
+            "price": 200,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/399910226",
+            "price": 280,
+            "name": "ソルロック【AR】{",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/841159802",
+            "price": 300,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/212835291",
+            "price": 280,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26328",
+            "price": 250,
+            "name": "ソルロック(AR){",
+            "date": "2022-12-20",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38636",
+            "price": 260,
+            "name": "ソルロック189/1",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38369",
+            "price": 280,
+            "name": "ソルロック189/1",
+            "date": "2022-12-20",
+            "stock": 128
+        },
+        {
+            "market": "magi",
+            "link": "/items/212835291",
+            "price": 280,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/399910226",
+            "price": 280,
+            "name": "ソルロック【AR】{",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/969261739",
+            "price": 300,
+            "name": "ルナトーン AR 1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/18865013",
+            "price": 250,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/841159802",
+            "price": 300,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1693478507",
+            "price": 250,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1852146138",
+            "price": 200,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26328",
+            "price": 250,
+            "name": "ソルロック(AR){",
+            "date": "2022-12-19",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38369",
+            "price": 280,
+            "name": "ソルロック189/1",
+            "date": "2022-12-19",
+            "stock": 119
+        },
+        {
+            "market": "magi",
+            "link": "/items/1693478507",
+            "price": 250,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/399910226",
+            "price": 280,
+            "name": "ソルロック【AR】{",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1852146138",
+            "price": 300,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/969261739",
+            "price": 400,
+            "name": "ルナトーン AR 1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/841159802",
+            "price": 300,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/18865013",
+            "price": 250,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26328",
+            "price": 250,
+            "name": "ソルロック(AR){",
+            "date": "2022-12-18",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38369",
+            "price": 280,
+            "name": "ソルロック189/1",
+            "date": "2022-12-18",
+            "stock": 99
+        },
+        {
+            "market": "magi",
+            "link": "/items/582488424",
+            "price": 300,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/18865013",
+            "price": 250,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1693478507",
+            "price": 250,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/841159802",
+            "price": 300,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/969261739",
+            "price": 400,
+            "name": "ルナトーン AR 1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1852146138",
+            "price": 300,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1059258084",
+            "price": 399,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26328",
+            "price": 250,
+            "name": "ソルロック(AR){",
+            "date": "2022-12-17",
             "stock": 3
         },
         {
@@ -125,8 +421,120 @@
             "link": "https://www.cardrush-pokemon.jp/product/38369",
             "price": 280,
             "name": "ソルロック189/1",
-            "date": "2022-12-02",
-            "stock": 150
+            "date": "2022-12-17",
+            "stock": 110
+        },
+        {
+            "market": "magi",
+            "link": "/items/841159802",
+            "price": 300,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1693478507",
+            "price": 250,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/969261739",
+            "price": 400,
+            "name": "ルナトーン AR 1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/18865013",
+            "price": 250,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/791068536",
+            "price": 200,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26328",
+            "price": 250,
+            "name": "ソルロック(AR){",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38369",
+            "price": 280,
+            "name": "ソルロック189/1",
+            "date": "2022-12-16",
+            "stock": 106
+        },
+        {
+            "market": "magi",
+            "link": "/items/1709448795",
+            "price": 450,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1693478507",
+            "price": 250,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/841159802",
+            "price": 300,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/791068536",
+            "price": 200,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/18865013",
+            "price": 250,
+            "name": "ソルロック AR 1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26328",
+            "price": 250,
+            "name": "ソルロック(AR){",
+            "date": "2022-12-15",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38369",
+            "price": 280,
+            "name": "ソルロック189/1",
+            "date": "2022-12-15",
+            "stock": 77
         }
     ]
 }

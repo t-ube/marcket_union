@@ -1,11 +1,395 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/910911658",
+            "price": 25,
+            "name": "4枚セット　モココ ",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/873913055",
+            "price": 400,
+            "name": "モココ 037/17",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1758805123",
+            "price": 240,
+            "name": "モココ 037/17",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/268574994",
+            "price": 240,
+            "name": "モココ 037/17",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1790788181",
+            "price": 240,
+            "name": "モココ 037/17",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1432654128",
+            "price": 25,
+            "name": "4枚セット　モココ ",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26214",
             "price": 100,
             "name": "モココ:ミラー(CP",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 12
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26060",
+            "price": 50,
+            "name": "モココ(CP){雷}",
+            "date": "2022-12-22",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38549",
+            "price": 70,
+            "name": "モココ037/172",
+            "date": "2022-12-22",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38275",
+            "price": 80,
+            "name": "モココ037/172",
+            "date": "2022-12-22",
+            "stock": 258
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38121",
+            "price": 50,
+            "name": "モココ037/172",
+            "date": "2022-12-22",
+            "stock": 150
+        },
+        {
+            "market": "magi",
+            "link": "/items/873913055",
+            "price": 400,
+            "name": "モココ 037/17",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/268574994",
+            "price": 240,
+            "name": "モココ 037/17",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1758805123",
+            "price": 240,
+            "name": "モココ 037/17",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1790788181",
+            "price": 240,
+            "name": "モココ 037/17",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/910911658",
+            "price": 25,
+            "name": "4枚セット　モココ ",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1432654128",
+            "price": 25,
+            "name": "4枚セット　モココ ",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26060",
+            "price": 50,
+            "name": "モココ(CP){雷}",
+            "date": "2022-12-21",
+            "stock": 23
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26214",
+            "price": 100,
+            "name": "モココ:ミラー(CP",
+            "date": "2022-12-21",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38121",
+            "price": 50,
+            "name": "モココ037/172",
+            "date": "2022-12-21",
+            "stock": 153
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38275",
+            "price": 80,
+            "name": "モココ037/172",
+            "date": "2022-12-21",
+            "stock": 252
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38549",
+            "price": 70,
+            "name": "モココ037/172",
+            "date": "2022-12-21",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/1432654128",
+            "price": 25,
+            "name": "4枚セット　モココ ",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/910911658",
+            "price": 25,
+            "name": "4枚セット　モココ ",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1790788181",
+            "price": 240,
+            "name": "モココ 037/17",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1758805123",
+            "price": 240,
+            "name": "モココ 037/17",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/268574994",
+            "price": 240,
+            "name": "モココ 037/17",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/873913055",
+            "price": 400,
+            "name": "モココ 037/17",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26214",
+            "price": 100,
+            "name": "モココ:ミラー(CP",
+            "date": "2022-12-20",
+            "stock": 12
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26060",
+            "price": 50,
+            "name": "モココ(CP){雷}",
+            "date": "2022-12-20",
+            "stock": 26
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38275",
+            "price": 80,
+            "name": "モココ037/172",
+            "date": "2022-12-20",
+            "stock": 227
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38121",
+            "price": 50,
+            "name": "モココ037/172",
+            "date": "2022-12-20",
+            "stock": 115
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38549",
+            "price": 70,
+            "name": "モココ037/172",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/910911658",
+            "price": 25,
+            "name": "4枚セット　モココ ",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/873913055",
+            "price": 400,
+            "name": "モココ 037/17",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1790788181",
+            "price": 240,
+            "name": "モココ 037/17",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/268574994",
+            "price": 240,
+            "name": "モココ 037/17",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1758805123",
+            "price": 240,
+            "name": "モココ 037/17",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1432654128",
+            "price": 25,
+            "name": "4枚セット　モココ ",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26060",
+            "price": 50,
+            "name": "モココ(CP){雷}",
+            "date": "2022-12-19",
+            "stock": 26
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26214",
+            "price": 100,
+            "name": "モココ:ミラー(CP",
+            "date": "2022-12-19",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38275",
+            "price": 80,
+            "name": "モココ037/172",
+            "date": "2022-12-19",
+            "stock": 220
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38549",
+            "price": 70,
+            "name": "モココ037/172",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38121",
+            "price": 50,
+            "name": "モココ037/172",
+            "date": "2022-12-19",
+            "stock": 116
+        },
+        {
+            "market": "magi",
+            "link": "/items/1758805123",
+            "price": 240,
+            "name": "モココ 037/17",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1790788181",
+            "price": 240,
+            "name": "モココ 037/17",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/873913055",
+            "price": 400,
+            "name": "モココ 037/17",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/268574994",
+            "price": 240,
+            "name": "モココ 037/17",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26214",
+            "price": 100,
+            "name": "モココ:ミラー(CP",
+            "date": "2022-12-18",
             "stock": 15
         },
         {
@@ -13,88 +397,192 @@
             "link": "https://www.hareruya2.com/product/26060",
             "price": 50,
             "name": "モココ(CP){雷}",
-            "date": "2022-12-04",
-            "stock": 40
+            "date": "2022-12-18",
+            "stock": 7
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38275",
             "price": 80,
             "name": "モココ037/172",
-            "date": "2022-12-04",
-            "stock": 128
+            "date": "2022-12-18",
+            "stock": 214
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38549",
+            "price": 70,
+            "name": "モココ037/172",
+            "date": "2022-12-18",
+            "stock": 2
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38121",
             "price": 50,
             "name": "モココ037/172",
-            "date": "2022-12-04",
-            "stock": 145
+            "date": "2022-12-18",
+            "stock": 124
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26214",
-            "price": 100,
-            "name": "モココ:ミラー(CP",
-            "date": "2022-12-03",
-            "stock": 19
+            "market": "magi",
+            "link": "/items/1758805123",
+            "price": 240,
+            "name": "モココ 037/17",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1790788181",
+            "price": 240,
+            "name": "モココ 037/17",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/873913055",
+            "price": 400,
+            "name": "モココ 037/17",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/268574994",
+            "price": 240,
+            "name": "モココ 037/17",
+            "date": "2022-12-17",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26060",
             "price": 50,
             "name": "モココ(CP){雷}",
-            "date": "2022-12-03",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38121",
-            "price": 50,
-            "name": "モココ037/172",
-            "date": "2022-12-03",
-            "stock": 151
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38275",
-            "price": 80,
-            "name": "モココ037/172",
-            "date": "2022-12-03",
-            "stock": 90
+            "date": "2022-12-17",
+            "stock": 8
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26214",
             "price": 100,
             "name": "モココ:ミラー(CP",
-            "date": "2022-12-02",
-            "stock": 20
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26060",
-            "price": 50,
-            "name": "モココ(CP){雷}",
-            "date": "2022-12-02",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38275",
-            "price": 80,
-            "name": "モココ037/172",
-            "date": "2022-12-02",
-            "stock": 89
+            "date": "2022-12-17",
+            "stock": 15
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38121",
             "price": 50,
             "name": "モココ037/172",
-            "date": "2022-12-02",
-            "stock": 153
+            "date": "2022-12-17",
+            "stock": 127
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38549",
+            "price": 70,
+            "name": "モココ037/172",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38275",
+            "price": 80,
+            "name": "モココ037/172",
+            "date": "2022-12-17",
+            "stock": 213
+        },
+        {
+            "market": "magi",
+            "link": "/items/873913055",
+            "price": 400,
+            "name": "モココ 037/17",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26214",
+            "price": 100,
+            "name": "モココ:ミラー(CP",
+            "date": "2022-12-16",
+            "stock": 15
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26060",
+            "price": 50,
+            "name": "モココ(CP){雷}",
+            "date": "2022-12-16",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38275",
+            "price": 80,
+            "name": "モココ037/172",
+            "date": "2022-12-16",
+            "stock": 205
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38549",
+            "price": 70,
+            "name": "モココ037/172",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38121",
+            "price": 50,
+            "name": "モココ037/172",
+            "date": "2022-12-16",
+            "stock": 138
+        },
+        {
+            "market": "magi",
+            "link": "/items/873913055",
+            "price": 400,
+            "name": "モココ 037/17",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26060",
+            "price": 50,
+            "name": "モココ(CP){雷}",
+            "date": "2022-12-15",
+            "stock": 21
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26214",
+            "price": 100,
+            "name": "モココ:ミラー(CP",
+            "date": "2022-12-15",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38121",
+            "price": 50,
+            "name": "モココ037/172",
+            "date": "2022-12-15",
+            "stock": 144
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38275",
+            "price": 80,
+            "name": "モココ037/172",
+            "date": "2022-12-15",
+            "stock": 200
         }
     ]
 }

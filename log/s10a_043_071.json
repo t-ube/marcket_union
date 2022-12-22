@@ -5,7 +5,7 @@
             "link": "/items/333375795",
             "price": 20,
             "name": "【特価】1枚20円 ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,7 +13,15 @@
             "link": "/items/1126917193",
             "price": 100,
             "name": "クロバット R 04",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/570655088",
+            "price": 25,
+            "name": "1枚25円 s10a",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -21,15 +29,7 @@
             "link": "/items/1714911498",
             "price": 198,
             "name": "【特価】クロバット ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/570655088",
-            "price": 25,
-            "name": "1枚25円 s10a",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -37,7 +37,7 @@
             "link": "https://www.hareruya2.com/product/23379",
             "price": 100,
             "name": "クロバット(R){悪",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 23
         },
         {
@@ -45,15 +45,71 @@
             "link": "https://www.cardrush-pokemon.jp/product/35267",
             "price": 50,
             "name": "クロバット043/0",
-            "date": "2022-12-04",
-            "stock": 38
+            "date": "2022-12-22",
+            "stock": 25
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g043-071-S10A-B/",
             "price": 33,
             "name": "【ポケカ】Ｒ◇クロバ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/1714911498",
+            "price": 198,
+            "name": "【特価】クロバット ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1126917193",
+            "price": 100,
+            "name": "クロバット R 04",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/333375795",
+            "price": 20,
+            "name": "【特価】1枚20円 ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/570655088",
+            "price": 25,
+            "name": "1枚25円 s10a",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23379",
+            "price": 100,
+            "name": "クロバット(R){悪",
+            "date": "2022-12-21",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35267",
+            "price": 50,
+            "name": "クロバット043/0",
+            "date": "2022-12-21",
+            "stock": 25
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g043-071-S10A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｒ◇クロバ",
+            "date": "2022-12-21",
             "stock": 6
         },
         {
@@ -61,7 +117,7 @@
             "link": "/items/333375795",
             "price": 20,
             "name": "【特価】1枚20円 ",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -69,7 +125,7 @@
             "link": "/items/1714911498",
             "price": 198,
             "name": "【特価】クロバット ",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -77,7 +133,7 @@
             "link": "/items/1126917193",
             "price": 100,
             "name": "クロバット R 04",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -85,7 +141,7 @@
             "link": "/items/570655088",
             "price": 25,
             "name": "1枚25円 s10a",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -93,7 +149,7 @@
             "link": "https://www.hareruya2.com/product/23379",
             "price": 100,
             "name": "クロバット(R){悪",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 23
         },
         {
@@ -101,39 +157,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/35267",
             "price": 50,
             "name": "クロバット043/0",
-            "date": "2022-12-03",
-            "stock": 38
+            "date": "2022-12-20",
+            "stock": 25
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g043-071-S10A-B/",
             "price": 33,
             "name": "【ポケカ】Ｒ◇クロバ",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/1126917193",
-            "price": 100,
-            "name": "クロバット R 04",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2040953156",
-            "price": 130,
-            "name": "クロバット R 04",
-            "date": "2022-12-02",
-            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/333375795",
             "price": 20,
             "name": "【特価】1枚20円 ",
-            "date": "2022-12-02",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -141,7 +181,7 @@
             "link": "/items/570655088",
             "price": 25,
             "name": "1枚25円 s10a",
-            "date": "2022-12-02",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -149,39 +189,7 @@
             "link": "/items/1714911498",
             "price": 198,
             "name": "【特価】クロバット ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23379",
-            "price": 100,
-            "name": "クロバット(R){悪",
-            "date": "2022-12-02",
-            "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35267",
-            "price": 50,
-            "name": "クロバット043/0",
-            "date": "2022-12-02",
-            "stock": 38
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g043-071-S10A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｒ◇クロバ",
-            "date": "2022-12-02",
-            "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/333375795",
-            "price": 20,
-            "name": "【特価】1枚20円 ",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -189,23 +197,39 @@
             "link": "/items/1126917193",
             "price": 100,
             "name": "クロバット R 04",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/570655088",
-            "price": 25,
-            "name": "1枚25円 s10a",
-            "date": "2022-12-01",
-            "stock": 1
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23379",
+            "price": 100,
+            "name": "クロバット(R){悪",
+            "date": "2022-12-19",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35267",
+            "price": 50,
+            "name": "クロバット043/0",
+            "date": "2022-12-19",
+            "stock": 27
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g043-071-S10A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｒ◇クロバ",
+            "date": "2022-12-19",
+            "stock": 6
         },
         {
             "market": "magi",
-            "link": "/items/2040953156",
-            "price": 130,
-            "name": "クロバット R 04",
-            "date": "2022-12-01",
+            "link": "/items/333375795",
+            "price": 20,
+            "name": "【特価】1枚20円 ",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -213,47 +237,7 @@
             "link": "/items/1714911498",
             "price": 198,
             "name": "【特価】クロバット ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23379",
-            "price": 100,
-            "name": "クロバット(R){悪",
-            "date": "2022-12-01",
-            "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35267",
-            "price": 50,
-            "name": "クロバット043/0",
-            "date": "2022-12-01",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35453",
-            "price": 30,
-            "name": "クロバット043/0",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g043-071-S10A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｒ◇クロバ",
-            "date": "2022-12-01",
-            "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/2040953156",
-            "price": 130,
-            "name": "クロバット R 04",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -261,15 +245,7 @@
             "link": "/items/1126917193",
             "price": 100,
             "name": "クロバット R 04",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/333375795",
-            "price": 20,
-            "name": "【特価】1枚20円 ",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -277,15 +253,7 @@
             "link": "/items/570655088",
             "price": 25,
             "name": "1枚25円 s10a",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1714911498",
-            "price": 199,
-            "name": "【特価】クロバット ",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -293,31 +261,23 @@
             "link": "https://www.hareruya2.com/product/23379",
             "price": 100,
             "name": "クロバット(R){悪",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35453",
-            "price": 30,
-            "name": "クロバット043/0",
-            "date": "2022-11-30",
-            "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35267",
             "price": 50,
             "name": "クロバット043/0",
-            "date": "2022-11-30",
-            "stock": 40
+            "date": "2022-12-18",
+            "stock": 27
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g043-071-S10A-B/",
             "price": 33,
             "name": "【ポケカ】Ｒ◇クロバ",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 6
         },
         {
@@ -325,23 +285,15 @@
             "link": "/items/333375795",
             "price": 20,
             "name": "【特価】1枚20円 ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2040953156",
-            "price": 130,
-            "name": "クロバット R 04",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1714911498",
-            "price": 199,
+            "price": 198,
             "name": "【特価】クロバット ",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -349,7 +301,7 @@
             "link": "/items/570655088",
             "price": 25,
             "name": "1枚25円 s10a",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -357,7 +309,7 @@
             "link": "/items/1126917193",
             "price": 100,
             "name": "クロバット R 04",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -365,7 +317,7 @@
             "link": "https://www.hareruya2.com/product/23379",
             "price": 100,
             "name": "クロバット(R){悪",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 23
         },
         {
@@ -373,47 +325,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/35267",
             "price": 50,
             "name": "クロバット043/0",
-            "date": "2022-11-29",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35453",
-            "price": 30,
-            "name": "クロバット043/0",
-            "date": "2022-11-29",
-            "stock": 1
+            "date": "2022-12-17",
+            "stock": 27
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g043-071-S10A-B/",
             "price": 33,
             "name": "【ポケカ】Ｒ◇クロバ",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 6
         },
         {
             "market": "magi",
-            "link": "/items/333375795",
-            "price": 20,
-            "name": "【特価】1枚20円 ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1714911498",
-            "price": 199,
-            "name": "【特価】クロバット ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2040953156",
-            "price": 130,
+            "link": "/items/1126917193",
+            "price": 100,
             "name": "クロバット R 04",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -421,7 +349,23 @@
             "link": "/items/570655088",
             "price": 25,
             "name": "1枚25円 s10a",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/333375795",
+            "price": 20,
+            "name": "【特価】1枚20円 ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1714911498",
+            "price": 198,
+            "name": "【特価】クロバット ",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -429,7 +373,7 @@
             "link": "https://www.hareruya2.com/product/23379",
             "price": 100,
             "name": "クロバット(R){悪",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 23
         },
         {
@@ -437,39 +381,47 @@
             "link": "https://www.cardrush-pokemon.jp/product/35267",
             "price": 50,
             "name": "クロバット043/0",
-            "date": "2022-11-28",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35453",
-            "price": 30,
-            "name": "クロバット043/0",
-            "date": "2022-11-28",
-            "stock": 1
+            "date": "2022-12-16",
+            "stock": 29
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g043-071-S10A-B/",
             "price": 33,
             "name": "【ポケカ】Ｒ◇クロバ",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/1496268404",
+            "price": 120,
+            "name": "クロバット R 04",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1126917193",
+            "price": 100,
+            "name": "クロバット R 04",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1714911498",
+            "price": 198,
+            "name": "【特価】クロバット ",
+            "date": "2022-12-15",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/570655088",
             "price": 25,
             "name": "1枚25円 s10a",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2040953156",
-            "price": 130,
-            "name": "クロバット R 04",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -477,15 +429,7 @@
             "link": "/items/333375795",
             "price": 20,
             "name": "【特価】1枚20円 ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1714911498",
-            "price": 199,
-            "name": "【特価】クロバット ",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -493,31 +437,23 @@
             "link": "https://www.hareruya2.com/product/23379",
             "price": 100,
             "name": "クロバット(R){悪",
-            "date": "2022-11-27",
-            "stock": 22
+            "date": "2022-12-15",
+            "stock": 23
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35267",
             "price": 50,
             "name": "クロバット043/0",
-            "date": "2022-11-27",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35453",
-            "price": 30,
-            "name": "クロバット043/0",
-            "date": "2022-11-27",
-            "stock": 1
+            "date": "2022-12-15",
+            "stock": 32
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g043-071-S10A-B/",
             "price": 33,
             "name": "【ポケカ】Ｒ◇クロバ",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 6
         }
     ]

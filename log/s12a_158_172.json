@@ -2,34 +2,722 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/2140462661",
-            "price": 200,
+            "link": "/items/683411165",
+            "price": 37,
             "name": "ナタネの活気 158",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1937357942",
+            "price": 130,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1960561738",
-            "price": 75,
-            "name": "1枚75円 s12a",
-            "date": "2022-12-04",
+            "link": "/items/1922530325",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1295625808",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/529245101",
+            "price": 240,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1713085694",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/603979632",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/716710309",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/788794739",
-            "price": 75,
-            "name": "1枚75円 s12a",
-            "date": "2022-12-04",
+            "price": 50,
+            "name": "1枚50円 s12a",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2140462661",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26181",
+            "price": 50,
+            "name": "ナタネの活気(CP)",
+            "date": "2022-12-22",
+            "stock": 21
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26272",
+            "price": 100,
+            "name": "ナタネの活気:ミラー",
+            "date": "2022-12-22",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38242",
+            "price": 50,
+            "name": "ナタネの活気158/",
+            "date": "2022-12-22",
+            "stock": 393
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38333",
+            "price": 80,
+            "name": "ナタネの活気158/",
+            "date": "2022-12-22",
+            "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38607",
+            "price": 70,
+            "name": "ナタネの活気158/",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1713085694",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1937357942",
+            "price": 130,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/683411165",
+            "price": 37,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1295625808",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/529245101",
+            "price": 240,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/981787186",
+            "price": 100,
+            "name": "ナタネの活気(キラ)",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/716710309",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/788794739",
+            "price": 50,
+            "name": "1枚50円 s12a",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/603979632",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2140462661",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1922530325",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26272",
+            "price": 100,
+            "name": "ナタネの活気:ミラー",
+            "date": "2022-12-21",
+            "stock": 13
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26181",
+            "price": 50,
+            "name": "ナタネの活気(CP)",
+            "date": "2022-12-21",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38333",
+            "price": 80,
+            "name": "ナタネの活気158/",
+            "date": "2022-12-21",
+            "stock": 26
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38242",
+            "price": 50,
+            "name": "ナタネの活気158/",
+            "date": "2022-12-21",
+            "stock": 394
+        },
+        {
+            "market": "magi",
+            "link": "/items/1295625808",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2140462661",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/683411165",
+            "price": 37,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1922530325",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/529245101",
+            "price": 240,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/788794739",
+            "price": 50,
+            "name": "1枚50円 s12a",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/981787186",
+            "price": 150,
+            "name": "ナタネの活気(キラ)",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1713085694",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/603979632",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/716710309",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1937357942",
+            "price": 130,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26181",
+            "price": 50,
+            "name": "ナタネの活気(CP)",
+            "date": "2022-12-20",
+            "stock": 21
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26272",
+            "price": 100,
+            "name": "ナタネの活気:ミラー",
+            "date": "2022-12-20",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38333",
+            "price": 80,
+            "name": "ナタネの活気158/",
+            "date": "2022-12-20",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38242",
+            "price": 50,
+            "name": "ナタネの活気158/",
+            "date": "2022-12-20",
+            "stock": 353
+        },
+        {
+            "market": "magi",
+            "link": "/items/788794739",
+            "price": 70,
+            "name": "1枚70円 s12a",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/758490266",
-            "price": 5480,
+            "price": 4780,
             "name": "ナタネの活気 158",
-            "date": "2022-12-04",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/716710309",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/603979632",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/529245101",
+            "price": 240,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2140462661",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1713085694",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/981787186",
+            "price": 150,
+            "name": "ナタネの活気(キラ)",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1922530325",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1937357942",
+            "price": 130,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/683411165",
+            "price": 37,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1295625808",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26181",
+            "price": 50,
+            "name": "ナタネの活気(CP)",
+            "date": "2022-12-19",
+            "stock": 21
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26272",
+            "price": 100,
+            "name": "ナタネの活気:ミラー",
+            "date": "2022-12-19",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38333",
+            "price": 80,
+            "name": "ナタネの活気158/",
+            "date": "2022-12-19",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38242",
+            "price": 50,
+            "name": "ナタネの活気158/",
+            "date": "2022-12-19",
+            "stock": 361
+        },
+        {
+            "market": "magi",
+            "link": "/items/981787186",
+            "price": 180,
+            "name": "ナタネの活気(キラ)",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/788794739",
+            "price": 70,
+            "name": "1枚70円 s12a",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/716710309",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/603979632",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1713085694",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1295625808",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/758490266",
+            "price": 4780,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/683411165",
+            "price": 37,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1937357942",
+            "price": 130,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/529245101",
+            "price": 240,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/430425675",
+            "price": 100,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2140462661",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1922530325",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26181",
+            "price": 50,
+            "name": "ナタネの活気(CP)",
+            "date": "2022-12-18",
+            "stock": 24
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26272",
+            "price": 100,
+            "name": "ナタネの活気:ミラー",
+            "date": "2022-12-18",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38242",
+            "price": 50,
+            "name": "ナタネの活気158/",
+            "date": "2022-12-18",
+            "stock": 369
+        },
+        {
+            "market": "magi",
+            "link": "/items/788794739",
+            "price": 70,
+            "name": "1枚70円 s12a",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/981787186",
+            "price": 210,
+            "name": "ナタネの活気(キラ)",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1937357942",
+            "price": 130,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/683411165",
+            "price": 37,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2140462661",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/529245101",
+            "price": 240,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/716710309",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1713085694",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1295625808",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/603979632",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/430425675",
+            "price": 100,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/758490266",
+            "price": 4780,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1922530325",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -37,39 +725,127 @@
             "link": "https://www.hareruya2.com/product/26272",
             "price": 100,
             "name": "ナタネの活気:ミラー",
-            "date": "2022-12-04",
-            "stock": 19
+            "date": "2022-12-17",
+            "stock": 17
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26181",
             "price": 50,
             "name": "ナタネの活気(CP)",
-            "date": "2022-12-04",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38242",
-            "price": 50,
-            "name": "ナタネの活気158/",
-            "date": "2022-12-04",
-            "stock": 400
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38333",
-            "price": 80,
-            "name": "ナタネの活気158/",
-            "date": "2022-12-04",
+            "date": "2022-12-17",
             "stock": 27
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38242",
+            "price": 50,
+            "name": "ナタネの活気158/",
+            "date": "2022-12-17",
+            "stock": 369
+        },
+        {
+            "market": "magi",
+            "link": "/items/788794739",
+            "price": 70,
+            "name": "1枚70円 s12a",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/430425675",
+            "price": 100,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1937357942",
+            "price": 130,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1922530325",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1295625808",
+            "price": 250,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/981787186",
+            "price": 210,
+            "name": "ナタネの活気(キラ)",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/683411165",
+            "price": 37,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/603979632",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/758490266",
+            "price": 4780,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/716710309",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1713085694",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/529245101",
+            "price": 240,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/2140462661",
-            "price": 200,
+            "price": 250,
             "name": "ナタネの活気 158",
-            "date": "2022-12-03",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -77,39 +853,127 @@
             "link": "https://www.hareruya2.com/product/26181",
             "price": 50,
             "name": "ナタネの活気(CP)",
-            "date": "2022-12-03",
-            "stock": 38
+            "date": "2022-12-16",
+            "stock": 27
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26272",
             "price": 100,
             "name": "ナタネの活気:ミラー",
-            "date": "2022-12-03",
-            "stock": 19
+            "date": "2022-12-16",
+            "stock": 17
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38242",
             "price": 50,
             "name": "ナタネの活気158/",
-            "date": "2022-12-03",
-            "stock": 410
+            "date": "2022-12-16",
+            "stock": 369
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38333",
-            "price": 80,
-            "name": "ナタネの活気158/",
-            "date": "2022-12-03",
-            "stock": 26
+            "market": "magi",
+            "link": "/items/430425675",
+            "price": 100,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/758490266",
+            "price": 4780,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/683411165",
+            "price": 37,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1922530325",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/716710309",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1295625808",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/603979632",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/788794739",
+            "price": 70,
+            "name": "1枚70円 s12a",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1937357942",
+            "price": 180,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/981787186",
+            "price": 220,
+            "name": "ナタネの活気(キラ)",
+            "date": "2022-12-15",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/2140462661",
-            "price": 200,
+            "price": 250,
             "name": "ナタネの活気 158",
-            "date": "2022-12-02",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/529245101",
+            "price": 240,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1713085694",
+            "price": 300,
+            "name": "ナタネの活気 158",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -117,32 +981,24 @@
             "link": "https://www.hareruya2.com/product/26272",
             "price": 100,
             "name": "ナタネの活気:ミラー",
-            "date": "2022-12-02",
-            "stock": 19
+            "date": "2022-12-15",
+            "stock": 17
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26181",
             "price": 50,
             "name": "ナタネの活気(CP)",
-            "date": "2022-12-02",
-            "stock": 38
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38333",
-            "price": 80,
-            "name": "ナタネの活気158/",
-            "date": "2022-12-02",
-            "stock": 28
+            "date": "2022-12-15",
+            "stock": 27
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38242",
             "price": 50,
             "name": "ナタネの活気158/",
-            "date": "2022-12-02",
-            "stock": 414
+            "date": "2022-12-15",
+            "stock": 370
         }
     ]
 }

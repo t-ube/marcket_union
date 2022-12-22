@@ -2,418 +2,10 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/492890462",
-            "price": 25,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/1733720199",
             "price": 300,
             "name": "ギギギアル(ミラー)",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1452506242",
-            "price": 25,
-            "name": "1枚25円 s11a",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/142970788",
-            "price": 37,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1463454322",
-            "price": 100,
-            "name": "ギギギアル(ミラー)",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1687246963",
-            "price": 250,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1013022584",
-            "price": 250,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1331701207",
-            "price": 66,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-04",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/290985434",
-            "price": 200,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25181",
-            "price": 50,
-            "name": "ギギギアル:ミラー(",
-            "date": "2022-12-04",
-            "stock": 27
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25131",
-            "price": 50,
-            "name": "ギギギアル(U){鋼",
-            "date": "2022-12-04",
-            "stock": 46
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36937",
-            "price": 50,
-            "name": "ギギギアル048/0",
-            "date": "2022-12-04",
-            "stock": 123
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36987",
-            "price": 80,
-            "name": "ギギギアル048/0",
-            "date": "2022-12-04",
-            "stock": 118
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37201",
-            "price": 50,
-            "name": "ギギギアル048/0",
-            "date": "2022-12-04",
-            "stock": 3
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g048-068-S11A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-12-04",
-            "stock": 32
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g048-068-S11A-BM/",
-            "price": 44,
-            "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-12-04",
-            "stock": 13
-        },
-        {
-            "market": "magi",
-            "link": "/items/290985434",
-            "price": 200,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/142970788",
-            "price": 37,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1463454322",
-            "price": 100,
-            "name": "ギギギアル(ミラー)",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1687246963",
-            "price": 250,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1013022584",
-            "price": 250,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1331701207",
-            "price": 66,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-03",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/492890462",
-            "price": 25,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1733720199",
-            "price": 300,
-            "name": "ギギギアル(ミラー)",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1452506242",
-            "price": 25,
-            "name": "1枚25円 s11a",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25131",
-            "price": 50,
-            "name": "ギギギアル(U){鋼",
-            "date": "2022-12-03",
-            "stock": 46
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25181",
-            "price": 50,
-            "name": "ギギギアル:ミラー(",
-            "date": "2022-12-03",
-            "stock": 27
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36987",
-            "price": 80,
-            "name": "ギギギアル048/0",
-            "date": "2022-12-03",
-            "stock": 118
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36937",
-            "price": 50,
-            "name": "ギギギアル048/0",
-            "date": "2022-12-03",
-            "stock": 123
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37201",
-            "price": 50,
-            "name": "ギギギアル048/0",
-            "date": "2022-12-03",
-            "stock": 3
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g048-068-S11A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-12-03",
-            "stock": 32
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g048-068-S11A-BM/",
-            "price": 44,
-            "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-12-03",
-            "stock": 13
-        },
-        {
-            "market": "magi",
-            "link": "/items/1013022584",
-            "price": 250,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1733720199",
-            "price": 300,
-            "name": "ギギギアル(ミラー)",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1463454322",
-            "price": 100,
-            "name": "ギギギアル(ミラー)",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1331701207",
-            "price": 66,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-02",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1687246963",
-            "price": 250,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1452506242",
-            "price": 25,
-            "name": "1枚25円 s11a",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/290985434",
-            "price": 200,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/142970788",
-            "price": 37,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/492890462",
-            "price": 25,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25181",
-            "price": 50,
-            "name": "ギギギアル:ミラー(",
-            "date": "2022-12-02",
-            "stock": 27
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25131",
-            "price": 50,
-            "name": "ギギギアル(U){鋼",
-            "date": "2022-12-02",
-            "stock": 46
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36987",
-            "price": 80,
-            "name": "ギギギアル048/0",
-            "date": "2022-12-02",
-            "stock": 118
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36937",
-            "price": 50,
-            "name": "ギギギアル048/0",
-            "date": "2022-12-02",
-            "stock": 123
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37201",
-            "price": 50,
-            "name": "ギギギアル048/0",
-            "date": "2022-12-02",
-            "stock": 3
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g048-068-S11A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-12-02",
-            "stock": 32
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g048-068-S11A-BM/",
-            "price": 44,
-            "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-12-02",
-            "stock": 13
-        },
-        {
-            "market": "magi",
-            "link": "/items/1331701207",
-            "price": 66,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-01",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1687246963",
-            "price": 250,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/290985434",
-            "price": 200,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1013022584",
-            "price": 250,
-            "name": "ギギギアル U 04",
-            "date": "2022-12-01",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -421,103 +13,39 @@
             "link": "/items/492890462",
             "price": 25,
             "name": "ギギギアル U 04",
-            "date": "2022-12-01",
+            "date": "2022-12-22",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1452506242",
-            "price": 25,
-            "name": "1枚25円 s11a",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1463454322",
-            "price": 100,
-            "name": "ギギギアル(ミラー)",
-            "date": "2022-12-01",
-            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/142970788",
             "price": 37,
             "name": "ギギギアル U 04",
-            "date": "2022-12-01",
+            "date": "2022-12-22",
             "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/1733720199",
-            "price": 300,
+            "link": "/items/1463454322",
+            "price": 100,
             "name": "ギギギアル(ミラー)",
-            "date": "2022-12-01",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25181",
-            "price": 50,
-            "name": "ギギギアル:ミラー(",
-            "date": "2022-12-01",
-            "stock": 27
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25131",
-            "price": 50,
-            "name": "ギギギアル(U){鋼",
-            "date": "2022-12-01",
-            "stock": 46
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36937",
-            "price": 50,
-            "name": "ギギギアル048/0",
-            "date": "2022-12-01",
-            "stock": 123
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36987",
-            "price": 80,
-            "name": "ギギギアル048/0",
-            "date": "2022-12-01",
-            "stock": 118
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37201",
-            "price": 50,
-            "name": "ギギギアル048/0",
-            "date": "2022-12-01",
-            "stock": 3
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g048-068-S11A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-12-01",
-            "stock": 32
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g048-068-S11A-BM/",
-            "price": 44,
-            "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-12-01",
-            "stock": 13
+            "market": "magi",
+            "link": "/items/1687246963",
+            "price": 250,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-22",
+            "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/290985434",
-            "price": 200,
+            "link": "/items/1013022584",
+            "price": 250,
             "name": "ギギギアル U 04",
-            "date": "2022-11-30",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -525,39 +53,23 @@
             "link": "/items/1331701207",
             "price": 66,
             "name": "ギギギアル U 04",
-            "date": "2022-11-30",
+            "date": "2022-12-22",
             "stock": 3
         },
         {
             "market": "magi",
-            "link": "/items/1013022584",
-            "price": 250,
+            "link": "/items/290985434",
+            "price": 200,
             "name": "ギギギアル U 04",
-            "date": "2022-11-30",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25181",
-            "price": 50,
-            "name": "ギギギアル:ミラー(",
-            "date": "2022-11-30",
-            "stock": 27
-        },
-        {
             "market": "magi",
-            "link": "/items/142970788",
-            "price": 37,
-            "name": "ギギギアル U 04",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1687246963",
-            "price": 250,
-            "name": "ギギギアル U 04",
-            "date": "2022-11-30",
+            "link": "/items/1452506242",
+            "price": 25,
+            "name": "1枚25円 s11a",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -565,71 +77,47 @@
             "link": "https://www.hareruya2.com/product/25131",
             "price": 50,
             "name": "ギギギアル(U){鋼",
-            "date": "2022-11-30",
-            "stock": 46
+            "date": "2022-12-22",
+            "stock": 42
         },
         {
-            "market": "magi",
-            "link": "/items/1733720199",
-            "price": 300,
-            "name": "ギギギアル(ミラー)",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/492890462",
-            "price": 25,
-            "name": "ギギギアル U 04",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1452506242",
-            "price": 25,
-            "name": "1枚25円 s11a",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1463454322",
-            "price": 100,
-            "name": "ギギギアル(ミラー)",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36937",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25181",
             "price": 50,
-            "name": "ギギギアル048/0",
-            "date": "2022-11-30",
-            "stock": 123
+            "name": "ギギギアル:ミラー(",
+            "date": "2022-12-22",
+            "stock": 26
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36987",
             "price": 80,
             "name": "ギギギアル048/0",
-            "date": "2022-11-30",
-            "stock": 118
+            "date": "2022-12-22",
+            "stock": 116
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37201",
             "price": 50,
             "name": "ギギギアル048/0",
-            "date": "2022-11-30",
+            "date": "2022-12-22",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36937",
+            "price": 50,
+            "name": "ギギギアル048/0",
+            "date": "2022-12-22",
+            "stock": 121
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g048-068-S11A-BM/",
             "price": 44,
             "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-11-30",
+            "date": "2022-12-22",
             "stock": 13
         },
         {
@@ -637,23 +125,23 @@
             "link": "/shop/g/g048-068-S11A-B/",
             "price": 33,
             "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-11-30",
+            "date": "2022-12-22",
             "stock": 32
         },
         {
             "market": "magi",
-            "link": "/items/142970788",
-            "price": 37,
-            "name": "ギギギアル U 04",
-            "date": "2022-11-29",
-            "stock": 4
+            "link": "/items/1733720199",
+            "price": 300,
+            "name": "ギギギアル(ミラー)",
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1687246963",
             "price": 250,
             "name": "ギギギアル U 04",
-            "date": "2022-11-29",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -661,39 +149,23 @@
             "link": "/items/1463454322",
             "price": 100,
             "name": "ギギギアル(ミラー)",
-            "date": "2022-11-29",
+            "date": "2022-12-21",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/142970788",
+            "price": 37,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-21",
+            "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/1452506242",
             "price": 25,
             "name": "1枚25円 s11a",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1013022584",
-            "price": 250,
-            "name": "ギギギアル U 04",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/492890462",
-            "price": 25,
-            "name": "ギギギアル U 04",
-            "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1733720199",
-            "price": 300,
-            "name": "ギギギアル(ミラー)",
-            "date": "2022-11-29",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -701,7 +173,7 @@
             "link": "/items/290985434",
             "price": 200,
             "name": "ギギギアル U 04",
-            "date": "2022-11-29",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -709,55 +181,71 @@
             "link": "/items/1331701207",
             "price": 66,
             "name": "ギギギアル U 04",
-            "date": "2022-11-29",
+            "date": "2022-12-21",
             "stock": 3
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25131",
-            "price": 50,
-            "name": "ギギギアル(U){鋼",
-            "date": "2022-11-29",
-            "stock": 46
+            "market": "magi",
+            "link": "/items/492890462",
+            "price": 25,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1013022584",
+            "price": 250,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25181",
             "price": 50,
             "name": "ギギギアル:ミラー(",
-            "date": "2022-11-29",
-            "stock": 27
+            "date": "2022-12-21",
+            "stock": 26
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25131",
+            "price": 50,
+            "name": "ギギギアル(U){鋼",
+            "date": "2022-12-21",
+            "stock": 42
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36937",
             "price": 50,
             "name": "ギギギアル048/0",
-            "date": "2022-11-29",
-            "stock": 123
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36987",
-            "price": 80,
-            "name": "ギギギアル048/0",
-            "date": "2022-11-29",
-            "stock": 118
+            "date": "2022-12-21",
+            "stock": 121
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37201",
             "price": 50,
             "name": "ギギギアル048/0",
-            "date": "2022-11-29",
+            "date": "2022-12-21",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36987",
+            "price": 80,
+            "name": "ギギギアル048/0",
+            "date": "2022-12-21",
+            "stock": 116
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g048-068-S11A-BM/",
             "price": 44,
             "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-11-29",
+            "date": "2022-12-21",
             "stock": 13
         },
         {
@@ -765,7 +253,7 @@
             "link": "/shop/g/g048-068-S11A-B/",
             "price": 33,
             "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-11-29",
+            "date": "2022-12-21",
             "stock": 32
         },
         {
@@ -773,7 +261,7 @@
             "link": "/items/1733720199",
             "price": 300,
             "name": "ギギギアル(ミラー)",
-            "date": "2022-11-28",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -781,47 +269,31 @@
             "link": "/items/1452506242",
             "price": 25,
             "name": "1枚25円 s11a",
-            "date": "2022-11-28",
+            "date": "2022-12-20",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/492890462",
-            "price": 25,
-            "name": "ギギギアル U 04",
-            "date": "2022-11-28",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1331701207",
-            "price": 66,
-            "name": "ギギギアル U 04",
-            "date": "2022-11-28",
-            "stock": 3
         },
         {
             "market": "magi",
             "link": "/items/290985434",
             "price": 200,
             "name": "ギギギアル U 04",
-            "date": "2022-11-28",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1463454322",
-            "price": 100,
-            "name": "ギギギアル(ミラー)",
-            "date": "2022-11-28",
-            "stock": 1
+            "link": "/items/1331701207",
+            "price": 66,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-20",
+            "stock": 3
         },
         {
             "market": "magi",
-            "link": "/items/1687246963",
+            "link": "/items/1013022584",
             "price": 250,
             "name": "ギギギアル U 04",
-            "date": "2022-11-28",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -829,63 +301,79 @@
             "link": "/items/142970788",
             "price": 37,
             "name": "ギギギアル U 04",
-            "date": "2022-11-28",
+            "date": "2022-12-20",
             "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/1013022584",
-            "price": 250,
-            "name": "ギギギアル U 04",
-            "date": "2022-11-28",
+            "link": "/items/1463454322",
+            "price": 100,
+            "name": "ギギギアル(ミラー)",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25181",
-            "price": 50,
-            "name": "ギギギアル:ミラー(",
-            "date": "2022-11-28",
-            "stock": 27
+            "market": "magi",
+            "link": "/items/492890462",
+            "price": 25,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1687246963",
+            "price": 250,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-20",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25131",
             "price": 50,
             "name": "ギギギアル(U){鋼",
-            "date": "2022-11-28",
-            "stock": 46
+            "date": "2022-12-20",
+            "stock": 42
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25181",
+            "price": 50,
+            "name": "ギギギアル:ミラー(",
+            "date": "2022-12-20",
+            "stock": 26
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36937",
             "price": 50,
             "name": "ギギギアル048/0",
-            "date": "2022-11-28",
-            "stock": 123
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37201",
-            "price": 50,
-            "name": "ギギギアル048/0",
-            "date": "2022-11-28",
-            "stock": 3
+            "date": "2022-12-20",
+            "stock": 121
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36987",
             "price": 80,
             "name": "ギギギアル048/0",
-            "date": "2022-11-28",
-            "stock": 118
+            "date": "2022-12-20",
+            "stock": 116
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37201",
+            "price": 50,
+            "name": "ギギギアル048/0",
+            "date": "2022-12-20",
+            "stock": 3
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g048-068-S11A-BM/",
             "price": 44,
             "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-11-28",
+            "date": "2022-12-20",
             "stock": 13
         },
         {
@@ -893,31 +381,15 @@
             "link": "/shop/g/g048-068-S11A-B/",
             "price": 33,
             "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-11-28",
+            "date": "2022-12-20",
             "stock": 32
         },
         {
             "market": "magi",
-            "link": "/items/290985434",
-            "price": 200,
+            "link": "/items/1687246963",
+            "price": 250,
             "name": "ギギギアル U 04",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1463454322",
-            "price": 100,
-            "name": "ギギギアル(ミラー)",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1733720199",
-            "price": 300,
-            "name": "ギギギアル(ミラー)",
-            "date": "2022-11-27",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -925,39 +397,47 @@
             "link": "/items/492890462",
             "price": 25,
             "name": "ギギギアル U 04",
-            "date": "2022-11-27",
+            "date": "2022-12-19",
             "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25131",
+            "price": 50,
+            "name": "ギギギアル(U){鋼",
+            "date": "2022-12-19",
+            "stock": 42
         },
         {
             "market": "magi",
             "link": "/items/1452506242",
             "price": 25,
             "name": "1枚25円 s11a",
-            "date": "2022-11-27",
+            "date": "2022-12-19",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25181",
+            "price": 50,
+            "name": "ギギギアル:ミラー(",
+            "date": "2022-12-19",
+            "stock": 26
         },
         {
             "market": "magi",
             "link": "/items/1331701207",
             "price": 66,
             "name": "ギギギアル U 04",
-            "date": "2022-11-27",
+            "date": "2022-12-19",
             "stock": 3
         },
         {
             "market": "magi",
-            "link": "/items/142970788",
-            "price": 37,
-            "name": "ギギギアル U 04",
-            "date": "2022-11-27",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1687246963",
-            "price": 250,
-            "name": "ギギギアル U 04",
-            "date": "2022-11-27",
+            "link": "/items/1463454322",
+            "price": 100,
+            "name": "ギギギアル(ミラー)",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -965,55 +445,63 @@
             "link": "/items/1013022584",
             "price": 250,
             "name": "ギギギアル U 04",
-            "date": "2022-11-27",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25131",
-            "price": 50,
-            "name": "ギギギアル(U){鋼",
-            "date": "2022-11-27",
-            "stock": 46
+            "market": "magi",
+            "link": "/items/290985434",
+            "price": 200,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-19",
+            "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25181",
-            "price": 50,
-            "name": "ギギギアル:ミラー(",
-            "date": "2022-11-27",
-            "stock": 27
+            "market": "magi",
+            "link": "/items/142970788",
+            "price": 37,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-19",
+            "stock": 4
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36987",
-            "price": 80,
-            "name": "ギギギアル048/0",
-            "date": "2022-11-27",
-            "stock": 118
+            "market": "magi",
+            "link": "/items/1733720199",
+            "price": 300,
+            "name": "ギギギアル(ミラー)",
+            "date": "2022-12-19",
+            "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37201",
             "price": 50,
             "name": "ギギギアル048/0",
-            "date": "2022-11-27",
+            "date": "2022-12-19",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36987",
+            "price": 80,
+            "name": "ギギギアル048/0",
+            "date": "2022-12-19",
+            "stock": 116
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36937",
             "price": 50,
             "name": "ギギギアル048/0",
-            "date": "2022-11-27",
-            "stock": 123
+            "date": "2022-12-19",
+            "stock": 121
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g048-068-S11A-B/",
             "price": 33,
             "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-11-27",
+            "date": "2022-12-19",
             "stock": 32
         },
         {
@@ -1021,7 +509,519 @@
             "link": "/shop/g/g048-068-S11A-BM/",
             "price": 44,
             "name": "【ポケカ】Ｕ）ミラー",
-            "date": "2022-11-27",
+            "date": "2022-12-19",
+            "stock": 13
+        },
+        {
+            "market": "magi",
+            "link": "/items/142970788",
+            "price": 37,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1013022584",
+            "price": 250,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1687246963",
+            "price": 250,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1452506242",
+            "price": 25,
+            "name": "1枚25円 s11a",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1331701207",
+            "price": 66,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-18",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/492890462",
+            "price": 25,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1733720199",
+            "price": 300,
+            "name": "ギギギアル(ミラー)",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1463454322",
+            "price": 100,
+            "name": "ギギギアル(ミラー)",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/290985434",
+            "price": 200,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25181",
+            "price": 50,
+            "name": "ギギギアル:ミラー(",
+            "date": "2022-12-18",
+            "stock": 27
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25131",
+            "price": 50,
+            "name": "ギギギアル(U){鋼",
+            "date": "2022-12-18",
+            "stock": 42
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36987",
+            "price": 80,
+            "name": "ギギギアル048/0",
+            "date": "2022-12-18",
+            "stock": 116
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36937",
+            "price": 50,
+            "name": "ギギギアル048/0",
+            "date": "2022-12-18",
+            "stock": 122
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37201",
+            "price": 50,
+            "name": "ギギギアル048/0",
+            "date": "2022-12-18",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g048-068-S11A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ）通常仕",
+            "date": "2022-12-18",
+            "stock": 32
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g048-068-S11A-BM/",
+            "price": 44,
+            "name": "【ポケカ】Ｕ）ミラー",
+            "date": "2022-12-18",
+            "stock": 13
+        },
+        {
+            "market": "magi",
+            "link": "/items/1452506242",
+            "price": 25,
+            "name": "1枚25円 s11a",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/492890462",
+            "price": 25,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1733720199",
+            "price": 300,
+            "name": "ギギギアル(ミラー)",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/290985434",
+            "price": 200,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1331701207",
+            "price": 66,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-17",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1463454322",
+            "price": 100,
+            "name": "ギギギアル(ミラー)",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/142970788",
+            "price": 37,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1687246963",
+            "price": 250,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1013022584",
+            "price": 250,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25181",
+            "price": 50,
+            "name": "ギギギアル:ミラー(",
+            "date": "2022-12-17",
+            "stock": 27
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25131",
+            "price": 50,
+            "name": "ギギギアル(U){鋼",
+            "date": "2022-12-17",
+            "stock": 42
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37201",
+            "price": 50,
+            "name": "ギギギアル048/0",
+            "date": "2022-12-17",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36937",
+            "price": 50,
+            "name": "ギギギアル048/0",
+            "date": "2022-12-17",
+            "stock": 122
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36987",
+            "price": 80,
+            "name": "ギギギアル048/0",
+            "date": "2022-12-17",
+            "stock": 118
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g048-068-S11A-BM/",
+            "price": 44,
+            "name": "【ポケカ】Ｕ）ミラー",
+            "date": "2022-12-17",
+            "stock": 13
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g048-068-S11A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ）通常仕",
+            "date": "2022-12-17",
+            "stock": 32
+        },
+        {
+            "market": "magi",
+            "link": "/items/1452506242",
+            "price": 25,
+            "name": "1枚25円 s11a",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1013022584",
+            "price": 250,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/492890462",
+            "price": 25,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/142970788",
+            "price": 37,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1463454322",
+            "price": 100,
+            "name": "ギギギアル(ミラー)",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1687246963",
+            "price": 250,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/290985434",
+            "price": 200,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1733720199",
+            "price": 300,
+            "name": "ギギギアル(ミラー)",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1331701207",
+            "price": 66,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-16",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25181",
+            "price": 50,
+            "name": "ギギギアル:ミラー(",
+            "date": "2022-12-16",
+            "stock": 27
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25131",
+            "price": 50,
+            "name": "ギギギアル(U){鋼",
+            "date": "2022-12-16",
+            "stock": 42
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36987",
+            "price": 80,
+            "name": "ギギギアル048/0",
+            "date": "2022-12-16",
+            "stock": 118
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36937",
+            "price": 50,
+            "name": "ギギギアル048/0",
+            "date": "2022-12-16",
+            "stock": 122
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37201",
+            "price": 50,
+            "name": "ギギギアル048/0",
+            "date": "2022-12-16",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g048-068-S11A-BM/",
+            "price": 44,
+            "name": "【ポケカ】Ｕ）ミラー",
+            "date": "2022-12-16",
+            "stock": 13
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g048-068-S11A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ）通常仕",
+            "date": "2022-12-16",
+            "stock": 32
+        },
+        {
+            "market": "magi",
+            "link": "/items/1331701207",
+            "price": 66,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-15",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1463454322",
+            "price": 100,
+            "name": "ギギギアル(ミラー)",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/142970788",
+            "price": 37,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1733720199",
+            "price": 300,
+            "name": "ギギギアル(ミラー)",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1013022584",
+            "price": 250,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/492890462",
+            "price": 25,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/290985434",
+            "price": 200,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1687246963",
+            "price": 250,
+            "name": "ギギギアル U 04",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1452506242",
+            "price": 25,
+            "name": "1枚25円 s11a",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25131",
+            "price": 50,
+            "name": "ギギギアル(U){鋼",
+            "date": "2022-12-15",
+            "stock": 42
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25181",
+            "price": 50,
+            "name": "ギギギアル:ミラー(",
+            "date": "2022-12-15",
+            "stock": 27
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36987",
+            "price": 80,
+            "name": "ギギギアル048/0",
+            "date": "2022-12-15",
+            "stock": 118
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36937",
+            "price": 50,
+            "name": "ギギギアル048/0",
+            "date": "2022-12-15",
+            "stock": 122
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37201",
+            "price": 50,
+            "name": "ギギギアル048/0",
+            "date": "2022-12-15",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g048-068-S11A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ）通常仕",
+            "date": "2022-12-15",
+            "stock": 32
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g048-068-S11A-BM/",
+            "price": 44,
+            "name": "【ポケカ】Ｕ）ミラー",
+            "date": "2022-12-15",
             "stock": 13
         }
     ]

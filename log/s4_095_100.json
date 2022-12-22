@@ -2,10 +2,26 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/992757889",
+            "price": 200,
+            "name": "リーグスタッフ U ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/68232268",
+            "price": 100,
+            "name": "リーグスタッフ U ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/425791068",
             "price": 180,
             "name": "【特価】リーグスタッ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,23 +29,7 @@
             "link": "/items/1383209258",
             "price": 100,
             "name": "リーグスタッフ U ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1595927041",
-            "price": 100,
-            "name": "リーグスタッフ U ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/398343977",
-            "price": 100,
-            "name": "リーグスタッフ U ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -37,7 +37,7 @@
             "link": "/items/370554496",
             "price": 25,
             "name": "1枚25円 リーグス",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -45,15 +45,15 @@
             "link": "https://www.hareruya2.com/product/18380",
             "price": 50,
             "name": "リーグスタッフ(U)",
-            "date": "2022-12-04",
-            "stock": 44
+            "date": "2022-12-22",
+            "stock": 43
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14549",
             "price": 80,
             "name": "リーグスタッフ095",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 99
         },
         {
@@ -61,103 +61,23 @@
             "link": "/shop/g/g095-100-S4-B/",
             "price": 9,
             "name": "【ポケカ】Ｕ◇リーグ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 24
         },
         {
             "market": "magi",
-            "link": "/items/1383209258",
+            "link": "/items/68232268",
             "price": 100,
             "name": "リーグスタッフ U ",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/425791068",
-            "price": 180,
-            "name": "【特価】リーグスタッ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/398343977",
-            "price": 100,
+            "link": "/items/992757889",
+            "price": 200,
             "name": "リーグスタッフ U ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/370554496",
-            "price": 25,
-            "name": "1枚25円 リーグス",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1595927041",
-            "price": 100,
-            "name": "リーグスタッフ U ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18380",
-            "price": 50,
-            "name": "リーグスタッフ(U)",
-            "date": "2022-12-03",
-            "stock": 44
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14549",
-            "price": 80,
-            "name": "リーグスタッフ095",
-            "date": "2022-12-03",
-            "stock": 99
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g095-100-S4-B/",
-            "price": 9,
-            "name": "【ポケカ】Ｕ◇リーグ",
-            "date": "2022-12-03",
-            "stock": 24
-        },
-        {
-            "market": "magi",
-            "link": "/items/1595927041",
-            "price": 100,
-            "name": "リーグスタッフ U ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/370554496",
-            "price": 25,
-            "name": "1枚25円 リーグス",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/398343977",
-            "price": 100,
-            "name": "リーグスタッフ U ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/425791068",
-            "price": 180,
-            "name": "【特価】リーグスタッ",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -165,55 +85,7 @@
             "link": "/items/1383209258",
             "price": 100,
             "name": "リーグスタッフ U ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18380",
-            "price": 50,
-            "name": "リーグスタッフ(U)",
-            "date": "2022-12-02",
-            "stock": 44
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14549",
-            "price": 80,
-            "name": "リーグスタッフ095",
-            "date": "2022-12-02",
-            "stock": 99
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g095-100-S4-B/",
-            "price": 9,
-            "name": "【ポケカ】Ｕ◇リーグ",
-            "date": "2022-12-02",
-            "stock": 24
-        },
-        {
-            "market": "magi",
-            "link": "/items/1383209258",
-            "price": 100,
-            "name": "リーグスタッフ U ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/425791068",
-            "price": 180,
-            "name": "【特価】リーグスタッ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/398343977",
-            "price": 100,
-            "name": "リーグスタッフ U ",
-            "date": "2022-12-01",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -221,71 +93,7 @@
             "link": "/items/370554496",
             "price": 25,
             "name": "1枚25円 リーグス",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1595927041",
-            "price": 100,
-            "name": "リーグスタッフ U ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18380",
-            "price": 50,
-            "name": "リーグスタッフ(U)",
-            "date": "2022-12-01",
-            "stock": 44
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14549",
-            "price": 80,
-            "name": "リーグスタッフ095",
-            "date": "2022-12-01",
-            "stock": 99
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g095-100-S4-B/",
-            "price": 9,
-            "name": "【ポケカ】Ｕ◇リーグ",
-            "date": "2022-12-01",
-            "stock": 24
-        },
-        {
-            "market": "magi",
-            "link": "/items/1595927041",
-            "price": 100,
-            "name": "リーグスタッフ U ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1383209258",
-            "price": 100,
-            "name": "リーグスタッフ U ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/370554496",
-            "price": 25,
-            "name": "1枚25円 リーグス",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/398343977",
-            "price": 100,
-            "name": "リーグスタッフ U ",
-            "date": "2022-11-30",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -293,7 +101,7 @@
             "link": "/items/425791068",
             "price": 180,
             "name": "【特価】リーグスタッ",
-            "date": "2022-11-30",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -301,15 +109,15 @@
             "link": "https://www.hareruya2.com/product/18380",
             "price": 50,
             "name": "リーグスタッフ(U)",
-            "date": "2022-11-30",
-            "stock": 44
+            "date": "2022-12-21",
+            "stock": 43
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14549",
             "price": 80,
             "name": "リーグスタッフ095",
-            "date": "2022-11-30",
+            "date": "2022-12-21",
             "stock": 99
         },
         {
@@ -317,7 +125,7 @@
             "link": "/shop/g/g095-100-S4-B/",
             "price": 9,
             "name": "【ポケカ】Ｕ◇リーグ",
-            "date": "2022-11-30",
+            "date": "2022-12-21",
             "stock": 24
         },
         {
@@ -325,15 +133,7 @@
             "link": "/items/425791068",
             "price": 180,
             "name": "【特価】リーグスタッ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/398343977",
-            "price": 100,
-            "name": "リーグスタッフ U ",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -341,7 +141,7 @@
             "link": "/items/370554496",
             "price": 25,
             "name": "1枚25円 リーグス",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -349,15 +149,15 @@
             "link": "/items/1383209258",
             "price": 100,
             "name": "リーグスタッフ U ",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1595927041",
+            "link": "/items/68232268",
             "price": 100,
             "name": "リーグスタッフ U ",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -365,15 +165,15 @@
             "link": "https://www.hareruya2.com/product/18380",
             "price": 50,
             "name": "リーグスタッフ(U)",
-            "date": "2022-11-29",
-            "stock": 44
+            "date": "2022-12-20",
+            "stock": 43
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14549",
             "price": 80,
             "name": "リーグスタッフ095",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 99
         },
         {
@@ -381,7 +181,7 @@
             "link": "/shop/g/g095-100-S4-B/",
             "price": 9,
             "name": "【ポケカ】Ｕ◇リーグ",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 24
         },
         {
@@ -389,15 +189,15 @@
             "link": "/items/425791068",
             "price": 180,
             "name": "【特価】リーグスタッ",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/398343977",
+            "link": "/items/68232268",
             "price": 100,
             "name": "リーグスタッフ U ",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -405,7 +205,7 @@
             "link": "/items/370554496",
             "price": 25,
             "name": "1枚25円 リーグス",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -413,15 +213,7 @@
             "link": "/items/1383209258",
             "price": 100,
             "name": "リーグスタッフ U ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1595927041",
-            "price": 100,
-            "name": "リーグスタッフ U ",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -429,15 +221,15 @@
             "link": "https://www.hareruya2.com/product/18380",
             "price": 50,
             "name": "リーグスタッフ(U)",
-            "date": "2022-11-28",
-            "stock": 44
+            "date": "2022-12-19",
+            "stock": 43
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14549",
             "price": 80,
             "name": "リーグスタッフ095",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
             "stock": 99
         },
         {
@@ -445,15 +237,15 @@
             "link": "/shop/g/g095-100-S4-B/",
             "price": 9,
             "name": "【ポケカ】Ｕ◇リーグ",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
             "stock": 24
         },
         {
             "market": "magi",
-            "link": "/items/1595927041",
-            "price": 100,
-            "name": "リーグスタッフ U ",
-            "date": "2022-11-27",
+            "link": "/items/425791068",
+            "price": 180,
+            "name": "【特価】リーグスタッ",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -461,7 +253,119 @@
             "link": "/items/370554496",
             "price": 25,
             "name": "1枚25円 リーグス",
-            "date": "2022-11-27",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1383209258",
+            "price": 100,
+            "name": "リーグスタッフ U ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/68232268",
+            "price": 100,
+            "name": "リーグスタッフ U ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18380",
+            "price": 50,
+            "name": "リーグスタッフ(U)",
+            "date": "2022-12-18",
+            "stock": 43
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14549",
+            "price": 80,
+            "name": "リーグスタッフ095",
+            "date": "2022-12-18",
+            "stock": 99
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g095-100-S4-B/",
+            "price": 9,
+            "name": "【ポケカ】Ｕ◇リーグ",
+            "date": "2022-12-18",
+            "stock": 24
+        },
+        {
+            "market": "magi",
+            "link": "/items/425791068",
+            "price": 180,
+            "name": "【特価】リーグスタッ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/370554496",
+            "price": 25,
+            "name": "1枚25円 リーグス",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1383209258",
+            "price": 100,
+            "name": "リーグスタッフ U ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/68232268",
+            "price": 100,
+            "name": "リーグスタッフ U ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18380",
+            "price": 50,
+            "name": "リーグスタッフ(U)",
+            "date": "2022-12-17",
+            "stock": 43
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14549",
+            "price": 80,
+            "name": "リーグスタッフ095",
+            "date": "2022-12-17",
+            "stock": 99
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g095-100-S4-B/",
+            "price": 9,
+            "name": "【ポケカ】Ｕ◇リーグ",
+            "date": "2022-12-17",
+            "stock": 24
+        },
+        {
+            "market": "magi",
+            "link": "/items/68232268",
+            "price": 100,
+            "name": "リーグスタッフ U ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/370554496",
+            "price": 25,
+            "name": "1枚25円 リーグス",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -469,15 +373,7 @@
             "link": "/items/425791068",
             "price": 180,
             "name": "【特価】リーグスタッ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/398343977",
-            "price": 100,
-            "name": "リーグスタッフ U ",
-            "date": "2022-11-27",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -485,7 +381,7 @@
             "link": "/items/1383209258",
             "price": 100,
             "name": "リーグスタッフ U ",
-            "date": "2022-11-27",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -493,15 +389,15 @@
             "link": "https://www.hareruya2.com/product/18380",
             "price": 50,
             "name": "リーグスタッフ(U)",
-            "date": "2022-11-27",
-            "stock": 44
+            "date": "2022-12-16",
+            "stock": 43
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14549",
             "price": 80,
             "name": "リーグスタッフ095",
-            "date": "2022-11-27",
+            "date": "2022-12-16",
             "stock": 99
         },
         {
@@ -509,7 +405,63 @@
             "link": "/shop/g/g095-100-S4-B/",
             "price": 9,
             "name": "【ポケカ】Ｕ◇リーグ",
-            "date": "2022-11-27",
+            "date": "2022-12-16",
+            "stock": 24
+        },
+        {
+            "market": "magi",
+            "link": "/items/425791068",
+            "price": 180,
+            "name": "【特価】リーグスタッ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/370554496",
+            "price": 25,
+            "name": "1枚25円 リーグス",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1383209258",
+            "price": 100,
+            "name": "リーグスタッフ U ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/68232268",
+            "price": 100,
+            "name": "リーグスタッフ U ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18380",
+            "price": 50,
+            "name": "リーグスタッフ(U)",
+            "date": "2022-12-15",
+            "stock": 43
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14549",
+            "price": 80,
+            "name": "リーグスタッフ095",
+            "date": "2022-12-15",
+            "stock": 99
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g095-100-S4-B/",
+            "price": 9,
+            "name": "【ポケカ】Ｕ◇リーグ",
+            "date": "2022-12-15",
             "stock": 24
         }
     ]

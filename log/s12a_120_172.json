@@ -1,51 +1,195 @@
 ﻿{
     "items": [
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26247",
+            "market": "magi",
+            "link": "/items/297458146",
             "price": 100,
-            "name": "チルット:ミラー(C",
-            "date": "2022-12-04",
-            "stock": 19
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26143",
-            "price": 50,
-            "name": "チルット(CP){無",
-            "date": "2022-12-04",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38308",
-            "price": 80,
-            "name": "チルット120/17",
-            "date": "2022-12-04",
-            "stock": 48
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38204",
-            "price": 30,
-            "name": "チルット120/17",
-            "date": "2022-12-04",
-            "stock": 148
+            "name": "チルット 120/1",
+            "date": "2022-12-22",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26247",
             "price": 100,
             "name": "チルット:ミラー(C",
-            "date": "2022-12-03",
-            "stock": 19
+            "date": "2022-12-22",
+            "stock": 17
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26143",
             "price": 50,
             "name": "チルット(CP){無",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38308",
+            "price": 80,
+            "name": "チルット120/17",
+            "date": "2022-12-22",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38204",
+            "price": 30,
+            "name": "チルット120/17",
+            "date": "2022-12-22",
+            "stock": 293
+        },
+        {
+            "market": "magi",
+            "link": "/items/297458146",
+            "price": 100,
+            "name": "チルット 120/1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26247",
+            "price": 100,
+            "name": "チルット:ミラー(C",
+            "date": "2022-12-21",
+            "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26143",
+            "price": 50,
+            "name": "チルット(CP){無",
+            "date": "2022-12-21",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38308",
+            "price": 80,
+            "name": "チルット120/17",
+            "date": "2022-12-21",
+            "stock": 37
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38204",
+            "price": 30,
+            "name": "チルット120/17",
+            "date": "2022-12-21",
+            "stock": 293
+        },
+        {
+            "market": "magi",
+            "link": "/items/297458146",
+            "price": 100,
+            "name": "チルット 120/1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26143",
+            "price": 50,
+            "name": "チルット(CP){無",
+            "date": "2022-12-20",
+            "stock": 39
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26247",
+            "price": 100,
+            "name": "チルット:ミラー(C",
+            "date": "2022-12-20",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38204",
+            "price": 30,
+            "name": "チルット120/17",
+            "date": "2022-12-20",
+            "stock": 293
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38308",
+            "price": 80,
+            "name": "チルット120/17",
+            "date": "2022-12-20",
+            "stock": 37
+        },
+        {
+            "market": "magi",
+            "link": "/items/297458146",
+            "price": 100,
+            "name": "チルット 120/1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26247",
+            "price": 100,
+            "name": "チルット:ミラー(C",
+            "date": "2022-12-19",
+            "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26143",
+            "price": 50,
+            "name": "チルット(CP){無",
+            "date": "2022-12-19",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38204",
+            "price": 30,
+            "name": "チルット120/17",
+            "date": "2022-12-19",
+            "stock": 295
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38308",
+            "price": 80,
+            "name": "チルット120/17",
+            "date": "2022-12-19",
+            "stock": 37
+        },
+        {
+            "market": "magi",
+            "link": "/items/297458146",
+            "price": 100,
+            "name": "チルット 120/1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26247",
+            "price": 100,
+            "name": "チルット:ミラー(C",
+            "date": "2022-12-18",
+            "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26143",
+            "price": 50,
+            "name": "チルット(CP){無",
+            "date": "2022-12-18",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38308",
+            "price": 80,
+            "name": "チルット120/17",
+            "date": "2022-12-18",
             "stock": 40
         },
         {
@@ -53,48 +197,128 @@
             "link": "https://www.cardrush-pokemon.jp/product/38204",
             "price": 30,
             "name": "チルット120/17",
-            "date": "2022-12-03",
-            "stock": 149
+            "date": "2022-12-18",
+            "stock": 295
+        },
+        {
+            "market": "magi",
+            "link": "/items/297458146",
+            "price": 100,
+            "name": "チルット 120/1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26247",
+            "price": 100,
+            "name": "チルット:ミラー(C",
+            "date": "2022-12-17",
+            "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26143",
+            "price": 50,
+            "name": "チルット(CP){無",
+            "date": "2022-12-17",
+            "stock": 39
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38308",
             "price": 80,
             "name": "チルット120/17",
-            "date": "2022-12-03",
+            "date": "2022-12-17",
             "stock": 43
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38204",
+            "price": 30,
+            "name": "チルット120/17",
+            "date": "2022-12-17",
+            "stock": 295
+        },
+        {
+            "market": "magi",
+            "link": "/items/297458146",
+            "price": 100,
+            "name": "チルット 120/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26247",
             "price": 100,
             "name": "チルット:ミラー(C",
-            "date": "2022-12-02",
-            "stock": 19
+            "date": "2022-12-16",
+            "stock": 17
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26143",
             "price": 50,
             "name": "チルット(CP){無",
-            "date": "2022-12-02",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38308",
-            "price": 80,
-            "name": "チルット120/17",
-            "date": "2022-12-02",
-            "stock": 44
+            "date": "2022-12-16",
+            "stock": 39
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38204",
             "price": 30,
             "name": "チルット120/17",
-            "date": "2022-12-02",
-            "stock": 150
+            "date": "2022-12-16",
+            "stock": 300
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38308",
+            "price": 80,
+            "name": "チルット120/17",
+            "date": "2022-12-16",
+            "stock": 43
+        },
+        {
+            "market": "magi",
+            "link": "/items/297458146",
+            "price": 100,
+            "name": "チルット 120/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26143",
+            "price": 50,
+            "name": "チルット(CP){無",
+            "date": "2022-12-15",
+            "stock": 39
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26247",
+            "price": 100,
+            "name": "チルット:ミラー(C",
+            "date": "2022-12-15",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38204",
+            "price": 30,
+            "name": "チルット120/17",
+            "date": "2022-12-15",
+            "stock": 301
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38308",
+            "price": 80,
+            "name": "チルット120/17",
+            "date": "2022-12-15",
+            "stock": 43
         }
     ]
 }

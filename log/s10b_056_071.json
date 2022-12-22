@@ -2,10 +2,34 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1508352799",
+            "price": 120,
+            "name": "カビゴン R 056",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2054385218",
+            "price": 30,
+            "name": "【４枚セット】カビゴ",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1856990914",
+            "price": 200,
+            "name": "カビゴン R 056",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/432332682",
             "price": 100,
             "name": "カビゴン R 056",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,31 +37,7 @@
             "link": "/items/1620732045",
             "price": 100,
             "name": "カビゴン R 056",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2054385218",
-            "price": 37,
-            "name": "【４枚セット】カビゴ",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1715942668",
-            "price": 150,
-            "name": "【とおせんぼ&くいだ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1856990914",
-            "price": 200,
-            "name": "カビゴン R 056",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -45,15 +45,79 @@
             "link": "https://www.hareruya2.com/product/23784",
             "price": 50,
             "name": "カビゴン(R){無}",
-            "date": "2022-12-04",
-            "stock": 243
+            "date": "2022-12-22",
+            "stock": 240
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35782",
             "price": 80,
             "name": "カビゴン056/07",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 573
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g056-071-S10B-B/",
+            "price": 28,
+            "name": "【ポケカ】Ｒ◇カビゴ",
+            "date": "2022-12-22",
+            "stock": 20
+        },
+        {
+            "market": "magi",
+            "link": "/items/1508352799",
+            "price": 120,
+            "name": "カビゴン R 056",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1620732045",
+            "price": 100,
+            "name": "カビゴン R 056",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1856990914",
+            "price": 200,
+            "name": "カビゴン R 056",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2054385218",
+            "price": 30,
+            "name": "【４枚セット】カビゴ",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/432332682",
+            "price": 100,
+            "name": "カビゴン R 056",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23784",
+            "price": 50,
+            "name": "カビゴン(R){無}",
+            "date": "2022-12-21",
+            "stock": 240
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35782",
+            "price": 80,
+            "name": "カビゴン056/07",
+            "date": "2022-12-21",
             "stock": 572
         },
         {
@@ -61,31 +125,15 @@
             "link": "/shop/g/g056-071-S10B-B/",
             "price": 28,
             "name": "【ポケカ】Ｒ◇カビゴ",
-            "date": "2022-12-04",
+            "date": "2022-12-21",
             "stock": 20
-        },
-        {
-            "market": "magi",
-            "link": "/items/1715942668",
-            "price": 150,
-            "name": "【とおせんぼ&くいだ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2054385218",
-            "price": 37,
-            "name": "【４枚セット】カビゴ",
-            "date": "2022-12-03",
-            "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/432332682",
             "price": 100,
             "name": "カビゴン R 056",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -93,7 +141,7 @@
             "link": "/items/1856990914",
             "price": 200,
             "name": "カビゴン R 056",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -101,7 +149,23 @@
             "link": "/items/1620732045",
             "price": 100,
             "name": "カビゴン R 056",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2054385218",
+            "price": 30,
+            "name": "【４枚セット】カビゴ",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1508352799",
+            "price": 120,
+            "name": "カビゴン R 056",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -109,15 +173,15 @@
             "link": "https://www.hareruya2.com/product/23784",
             "price": 50,
             "name": "カビゴン(R){無}",
-            "date": "2022-12-03",
-            "stock": 243
+            "date": "2022-12-20",
+            "stock": 241
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35782",
             "price": 80,
             "name": "カビゴン056/07",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 572
         },
         {
@@ -125,23 +189,31 @@
             "link": "/shop/g/g056-071-S10B-B/",
             "price": 28,
             "name": "【ポケカ】Ｒ◇カビゴ",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 20
         },
         {
             "market": "magi",
-            "link": "/items/1715942668",
-            "price": 150,
-            "name": "【とおせんぼ&くいだ",
-            "date": "2022-12-02",
+            "link": "/items/1856990914",
+            "price": 200,
+            "name": "カビゴン R 056",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1508352799",
+            "price": 120,
+            "name": "カビゴン R 056",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/2054385218",
-            "price": 37,
+            "price": 30,
             "name": "【４枚セット】カビゴ",
-            "date": "2022-12-02",
+            "date": "2022-12-19",
             "stock": 4
         },
         {
@@ -149,7 +221,7 @@
             "link": "/items/432332682",
             "price": 100,
             "name": "カビゴン R 056",
-            "date": "2022-12-02",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -157,15 +229,7 @@
             "link": "/items/1620732045",
             "price": 100,
             "name": "カビゴン R 056",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1856990914",
-            "price": 200,
-            "name": "カビゴン R 056",
-            "date": "2022-12-02",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -173,7 +237,199 @@
             "link": "https://www.hareruya2.com/product/23784",
             "price": 50,
             "name": "カビゴン(R){無}",
-            "date": "2022-12-02",
+            "date": "2022-12-19",
+            "stock": 241
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35782",
+            "price": 80,
+            "name": "カビゴン056/07",
+            "date": "2022-12-19",
+            "stock": 569
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g056-071-S10B-B/",
+            "price": 28,
+            "name": "【ポケカ】Ｒ◇カビゴ",
+            "date": "2022-12-19",
+            "stock": 20
+        },
+        {
+            "market": "magi",
+            "link": "/items/1620732045",
+            "price": 100,
+            "name": "カビゴン R 056",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1508352799",
+            "price": 120,
+            "name": "カビゴン R 056",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2054385218",
+            "price": 30,
+            "name": "【４枚セット】カビゴ",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1856990914",
+            "price": 200,
+            "name": "カビゴン R 056",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/432332682",
+            "price": 100,
+            "name": "カビゴン R 056",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23784",
+            "price": 50,
+            "name": "カビゴン(R){無}",
+            "date": "2022-12-18",
+            "stock": 241
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35782",
+            "price": 80,
+            "name": "カビゴン056/07",
+            "date": "2022-12-18",
+            "stock": 569
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g056-071-S10B-B/",
+            "price": 28,
+            "name": "【ポケカ】Ｒ◇カビゴ",
+            "date": "2022-12-18",
+            "stock": 20
+        },
+        {
+            "market": "magi",
+            "link": "/items/2054385218",
+            "price": 30,
+            "name": "【４枚セット】カビゴ",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1856990914",
+            "price": 200,
+            "name": "カビゴン R 056",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/432332682",
+            "price": 100,
+            "name": "カビゴン R 056",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1508352799",
+            "price": 120,
+            "name": "カビゴン R 056",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1620732045",
+            "price": 100,
+            "name": "カビゴン R 056",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23784",
+            "price": 50,
+            "name": "カビゴン(R){無}",
+            "date": "2022-12-17",
+            "stock": 240
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35782",
+            "price": 80,
+            "name": "カビゴン056/07",
+            "date": "2022-12-17",
+            "stock": 568
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g056-071-S10B-B/",
+            "price": 28,
+            "name": "【ポケカ】Ｒ◇カビゴ",
+            "date": "2022-12-17",
+            "stock": 20
+        },
+        {
+            "market": "magi",
+            "link": "/items/2054385218",
+            "price": 30,
+            "name": "【４枚セット】カビゴ",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1856990914",
+            "price": 200,
+            "name": "カビゴン R 056",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/432332682",
+            "price": 100,
+            "name": "カビゴン R 056",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1620732045",
+            "price": 100,
+            "name": "カビゴン R 056",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1508352799",
+            "price": 120,
+            "name": "カビゴン R 056",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23784",
+            "price": 50,
+            "name": "カビゴン(R){無}",
+            "date": "2022-12-16",
             "stock": 243
         },
         {
@@ -181,23 +437,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/35782",
             "price": 80,
             "name": "カビゴン056/07",
-            "date": "2022-12-02",
-            "stock": 574
+            "date": "2022-12-16",
+            "stock": 568
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g056-071-S10B-B/",
             "price": 28,
             "name": "【ポケカ】Ｒ◇カビゴ",
-            "date": "2022-12-02",
+            "date": "2022-12-16",
             "stock": 20
         },
         {
             "market": "magi",
-            "link": "/items/1715942668",
-            "price": 150,
-            "name": "【とおせんぼ&くいだ",
-            "date": "2022-12-01",
+            "link": "/items/1508352799",
+            "price": 120,
+            "name": "カビゴン R 056",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -205,7 +461,7 @@
             "link": "/items/1856990914",
             "price": 200,
             "name": "カビゴン R 056",
-            "date": "2022-12-01",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -213,7 +469,7 @@
             "link": "/items/432332682",
             "price": 100,
             "name": "カビゴン R 056",
-            "date": "2022-12-01",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -221,15 +477,23 @@
             "link": "/items/1620732045",
             "price": 100,
             "name": "カビゴン R 056",
-            "date": "2022-12-01",
+            "date": "2022-12-15",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2054385218",
+            "price": 30,
+            "name": "【４枚セット】カビゴ",
+            "date": "2022-12-15",
+            "stock": 4
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23784",
             "price": 50,
             "name": "カビゴン(R){無}",
-            "date": "2022-12-01",
+            "date": "2022-12-15",
             "stock": 243
         },
         {
@@ -237,263 +501,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/35782",
             "price": 80,
             "name": "カビゴン056/07",
-            "date": "2022-12-01",
-            "stock": 574
+            "date": "2022-12-15",
+            "stock": 567
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g056-071-S10B-B/",
             "price": 28,
             "name": "【ポケカ】Ｒ◇カビゴ",
-            "date": "2022-12-01",
-            "stock": 20
-        },
-        {
-            "market": "magi",
-            "link": "/items/1856990914",
-            "price": 200,
-            "name": "カビゴン R 056",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1715942668",
-            "price": 150,
-            "name": "【とおせんぼ&くいだ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1620732045",
-            "price": 100,
-            "name": "カビゴン R 056",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/432332682",
-            "price": 100,
-            "name": "カビゴン R 056",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23784",
-            "price": 50,
-            "name": "カビゴン(R){無}",
-            "date": "2022-11-30",
-            "stock": 244
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35782",
-            "price": 80,
-            "name": "カビゴン056/07",
-            "date": "2022-11-30",
-            "stock": 574
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g056-071-S10B-B/",
-            "price": 28,
-            "name": "【ポケカ】Ｒ◇カビゴ",
-            "date": "2022-11-30",
-            "stock": 20
-        },
-        {
-            "market": "magi",
-            "link": "/items/1620732045",
-            "price": 100,
-            "name": "カビゴン R 056",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1856990914",
-            "price": 200,
-            "name": "カビゴン R 056",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/432332682",
-            "price": 100,
-            "name": "カビゴン R 056",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1715942668",
-            "price": 150,
-            "name": "【とおせんぼ&くいだ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23784",
-            "price": 50,
-            "name": "カビゴン(R){無}",
-            "date": "2022-11-29",
-            "stock": 244
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35782",
-            "price": 80,
-            "name": "カビゴン056/07",
-            "date": "2022-11-29",
-            "stock": 575
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35945",
-            "price": 50,
-            "name": "カビゴン056/07",
-            "date": "2022-11-29",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g056-071-S10B-B/",
-            "price": 28,
-            "name": "【ポケカ】Ｒ◇カビゴ",
-            "date": "2022-11-29",
-            "stock": 20
-        },
-        {
-            "market": "magi",
-            "link": "/items/432332682",
-            "price": 100,
-            "name": "カビゴン R 056",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1856990914",
-            "price": 200,
-            "name": "カビゴン R 056",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1715942668",
-            "price": 150,
-            "name": "【とおせんぼ&くいだ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1620732045",
-            "price": 100,
-            "name": "カビゴン R 056",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23784",
-            "price": 50,
-            "name": "カビゴン(R){無}",
-            "date": "2022-11-28",
-            "stock": 244
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35782",
-            "price": 80,
-            "name": "カビゴン056/07",
-            "date": "2022-11-28",
-            "stock": 575
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35945",
-            "price": 50,
-            "name": "カビゴン056/07",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g056-071-S10B-B/",
-            "price": 28,
-            "name": "【ポケカ】Ｒ◇カビゴ",
-            "date": "2022-11-28",
-            "stock": 20
-        },
-        {
-            "market": "magi",
-            "link": "/items/1620732045",
-            "price": 100,
-            "name": "カビゴン R 056",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1715942668",
-            "price": 150,
-            "name": "【とおせんぼ&くいだ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1856990914",
-            "price": 200,
-            "name": "カビゴン R 056",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/432332682",
-            "price": 100,
-            "name": "カビゴン R 056",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23784",
-            "price": 50,
-            "name": "カビゴン(R){無}",
-            "date": "2022-11-27",
-            "stock": 244
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35782",
-            "price": 80,
-            "name": "カビゴン056/07",
-            "date": "2022-11-27",
-            "stock": 576
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35945",
-            "price": 50,
-            "name": "カビゴン056/07",
-            "date": "2022-11-27",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g056-071-S10B-B/",
-            "price": 28,
-            "name": "【ポケカ】Ｒ◇カビゴ",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 20
         }
     ]

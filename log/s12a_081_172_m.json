@@ -1,84 +1,388 @@
 ﻿{
     "items": [
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38165",
-            "price": 30,
-            "name": "ポチエナ081/17",
-            "date": "2022-12-04",
-            "stock": 159
+            "market": "magi",
+            "link": "/items/1597266226",
+            "price": 100,
+            "name": "ポチエナ 081/1",
+            "date": "2022-12-22",
+            "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38290",
-            "price": 50,
-            "name": "ポチエナ081/17",
-            "date": "2022-12-04",
-            "stock": 38
+            "market": "magi",
+            "link": "/items/393522083",
+            "price": 100,
+            "name": "ポチエナ 081/1",
+            "date": "2022-12-22",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26104",
             "price": 50,
             "name": "ポチエナ(CP){悪",
-            "date": "2022-12-03",
-            "stock": 40
+            "date": "2022-12-22",
+            "stock": 41
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26229",
             "price": 100,
             "name": "ポチエナ:ミラー(C",
-            "date": "2022-12-03",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38290",
-            "price": 50,
-            "name": "ポチエナ081/17",
-            "date": "2022-12-03",
-            "stock": 33
+            "date": "2022-12-22",
+            "stock": 18
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38165",
             "price": 30,
             "name": "ポチエナ081/17",
-            "date": "2022-12-03",
-            "stock": 159
+            "date": "2022-12-22",
+            "stock": 155
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38290",
+            "price": 50,
+            "name": "ポチエナ081/17",
+            "date": "2022-12-22",
+            "stock": 25
+        },
+        {
+            "market": "magi",
+            "link": "/items/1597266226",
+            "price": 100,
+            "name": "ポチエナ 081/1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/393522083",
+            "price": 100,
+            "name": "ポチエナ 081/1",
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26104",
             "price": 50,
             "name": "ポチエナ(CP){悪",
-            "date": "2022-12-02",
-            "stock": 40
+            "date": "2022-12-21",
+            "stock": 41
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26229",
             "price": 100,
             "name": "ポチエナ:ミラー(C",
-            "date": "2022-12-02",
-            "stock": 19
+            "date": "2022-12-21",
+            "stock": 18
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38165",
             "price": 30,
             "name": "ポチエナ081/17",
-            "date": "2022-12-02",
-            "stock": 159
+            "date": "2022-12-21",
+            "stock": 155
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38290",
             "price": 50,
             "name": "ポチエナ081/17",
-            "date": "2022-12-02",
-            "stock": 34
+            "date": "2022-12-21",
+            "stock": 25
+        },
+        {
+            "market": "magi",
+            "link": "/items/393522083",
+            "price": 100,
+            "name": "ポチエナ 081/1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1597266226",
+            "price": 100,
+            "name": "ポチエナ 081/1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26229",
+            "price": 100,
+            "name": "ポチエナ:ミラー(C",
+            "date": "2022-12-20",
+            "stock": 18
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26104",
+            "price": 50,
+            "name": "ポチエナ(CP){悪",
+            "date": "2022-12-20",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38290",
+            "price": 50,
+            "name": "ポチエナ081/17",
+            "date": "2022-12-20",
+            "stock": 26
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38165",
+            "price": 30,
+            "name": "ポチエナ081/17",
+            "date": "2022-12-20",
+            "stock": 155
+        },
+        {
+            "market": "magi",
+            "link": "/items/1597266226",
+            "price": 100,
+            "name": "ポチエナ 081/1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/393522083",
+            "price": 100,
+            "name": "ポチエナ 081/1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26104",
+            "price": 50,
+            "name": "ポチエナ(CP){悪",
+            "date": "2022-12-19",
+            "stock": 41
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26229",
+            "price": 100,
+            "name": "ポチエナ:ミラー(C",
+            "date": "2022-12-19",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38290",
+            "price": 50,
+            "name": "ポチエナ081/17",
+            "date": "2022-12-19",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38165",
+            "price": 30,
+            "name": "ポチエナ081/17",
+            "date": "2022-12-19",
+            "stock": 155
+        },
+        {
+            "market": "magi",
+            "link": "/items/393522083",
+            "price": 100,
+            "name": "ポチエナ 081/1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1597266226",
+            "price": 100,
+            "name": "ポチエナ 081/1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26229",
+            "price": 100,
+            "name": "ポチエナ:ミラー(C",
+            "date": "2022-12-18",
+            "stock": 18
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26104",
+            "price": 50,
+            "name": "ポチエナ(CP){悪",
+            "date": "2022-12-18",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38165",
+            "price": 30,
+            "name": "ポチエナ081/17",
+            "date": "2022-12-18",
+            "stock": 155
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38290",
+            "price": 50,
+            "name": "ポチエナ081/17",
+            "date": "2022-12-18",
+            "stock": 36
+        },
+        {
+            "market": "magi",
+            "link": "/items/1597266226",
+            "price": 100,
+            "name": "ポチエナ 081/1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/393522083",
+            "price": 100,
+            "name": "ポチエナ 081/1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26104",
+            "price": 50,
+            "name": "ポチエナ(CP){悪",
+            "date": "2022-12-17",
+            "stock": 41
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26229",
+            "price": 100,
+            "name": "ポチエナ:ミラー(C",
+            "date": "2022-12-17",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38290",
+            "price": 50,
+            "name": "ポチエナ081/17",
+            "date": "2022-12-17",
+            "stock": 37
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38165",
+            "price": 30,
+            "name": "ポチエナ081/17",
+            "date": "2022-12-17",
+            "stock": 155
+        },
+        {
+            "market": "magi",
+            "link": "/items/393522083",
+            "price": 100,
+            "name": "ポチエナ 081/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1597266226",
+            "price": 100,
+            "name": "ポチエナ 081/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26104",
+            "price": 50,
+            "name": "ポチエナ(CP){悪",
+            "date": "2022-12-16",
+            "stock": 41
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26229",
+            "price": 100,
+            "name": "ポチエナ:ミラー(C",
+            "date": "2022-12-16",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38290",
+            "price": 50,
+            "name": "ポチエナ081/17",
+            "date": "2022-12-16",
+            "stock": 37
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38165",
+            "price": 30,
+            "name": "ポチエナ081/17",
+            "date": "2022-12-16",
+            "stock": 155
+        },
+        {
+            "market": "magi",
+            "link": "/items/1597266226",
+            "price": 100,
+            "name": "ポチエナ 081/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/393522083",
+            "price": 100,
+            "name": "ポチエナ 081/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26104",
+            "price": 50,
+            "name": "ポチエナ(CP){悪",
+            "date": "2022-12-15",
+            "stock": 41
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26229",
+            "price": 100,
+            "name": "ポチエナ:ミラー(C",
+            "date": "2022-12-15",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38290",
+            "price": 50,
+            "name": "ポチエナ081/17",
+            "date": "2022-12-15",
+            "stock": 37
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38165",
+            "price": 30,
+            "name": "ポチエナ081/17",
+            "date": "2022-12-15",
+            "stock": 156
         }
     ]
 }

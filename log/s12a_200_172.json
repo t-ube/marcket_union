@@ -2,10 +2,66 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/685396992",
-            "price": 1000,
+            "link": "/items/30141529",
+            "price": 888,
             "name": "ビーダル AR 20",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2037914357",
+            "price": 450,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/171708836",
+            "price": 250,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1928272900",
+            "price": 580,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/72142895",
+            "price": 400,
+            "name": "プレゼント付き　ビー",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/280025274",
+            "price": 280,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/337205630",
+            "price": 700,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/866264893",
+            "price": 450,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,55 +69,87 @@
             "link": "/items/1755015480",
             "price": 860,
             "name": "ビーダル AR 20",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/30141529",
-            "price": 888,
-            "name": "ビーダル AR 20",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1770860912",
-            "price": 1050,
-            "name": "【AR】ビーダル A",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/459067619",
-            "price": 430,
-            "name": "ビーダル AR 20",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26339",
-            "price": 400,
+            "price": 300,
             "name": "ビーダル(AR){無",
-            "date": "2022-12-04",
-            "stock": 21
+            "date": "2022-12-22",
+            "stock": 96
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38380",
             "price": 280,
             "name": "ビーダル200/17",
-            "date": "2022-12-04",
-            "stock": 69
+            "date": "2022-12-22",
+            "stock": 126
+        },
+        {
+            "market": "magi",
+            "link": "/items/2037914357",
+            "price": 450,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/866264893",
+            "price": 450,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/337205630",
+            "price": 700,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1755015480",
             "price": 860,
             "name": "ビーダル AR 20",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/72142895",
+            "price": 400,
+            "name": "プレゼント付き　ビー",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/171708836",
+            "price": 250,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/280025274",
+            "price": 280,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1928272900",
+            "price": 590,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -69,39 +157,39 @@
             "link": "/items/30141529",
             "price": 888,
             "name": "ビーダル AR 20",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26339",
-            "price": 400,
+            "price": 300,
             "name": "ビーダル(AR){無",
-            "date": "2022-12-03",
-            "stock": 30
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38380",
-            "price": 280,
-            "name": "ビーダル200/17",
-            "date": "2022-12-03",
-            "stock": 73
+            "date": "2022-12-21",
+            "stock": 97
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38647",
             "price": 260,
             "name": "ビーダル200/17",
-            "date": "2022-12-03",
-            "stock": 1
+            "date": "2022-12-21",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38380",
+            "price": 280,
+            "name": "ビーダル200/17",
+            "date": "2022-12-21",
+            "stock": 118
         },
         {
             "market": "magi",
             "link": "/items/1755015480",
             "price": 860,
             "name": "ビーダル AR 20",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -109,7 +197,255 @@
             "link": "/items/30141529",
             "price": 888,
             "name": "ビーダル AR 20",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/866264893",
+            "price": 450,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/72142895",
+            "price": 400,
+            "name": "プレゼント付き　ビー",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/359286759",
+            "price": 250,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2037914357",
+            "price": 450,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/337205630",
+            "price": 700,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/280025274",
+            "price": 280,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1928272900",
+            "price": 590,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26339",
+            "price": 300,
+            "name": "ビーダル(AR){無",
+            "date": "2022-12-20",
+            "stock": 43
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38647",
+            "price": 260,
+            "name": "ビーダル200/17",
+            "date": "2022-12-20",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38380",
+            "price": 280,
+            "name": "ビーダル200/17",
+            "date": "2022-12-20",
+            "stock": 110
+        },
+        {
+            "market": "magi",
+            "link": "/items/359286759",
+            "price": 250,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1755015480",
+            "price": 860,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/30141529",
+            "price": 888,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/866264893",
+            "price": 450,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/72142895",
+            "price": 400,
+            "name": "プレゼント付き　ビー",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/337205630",
+            "price": 700,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2037914357",
+            "price": 450,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1928272900",
+            "price": 590,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/280025274",
+            "price": 280,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26339",
+            "price": 300,
+            "name": "ビーダル(AR){無",
+            "date": "2022-12-19",
+            "stock": 43
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38380",
+            "price": 280,
+            "name": "ビーダル200/17",
+            "date": "2022-12-19",
+            "stock": 76
+        },
+        {
+            "market": "magi",
+            "link": "/items/1755015480",
+            "price": 860,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1277046210",
+            "price": 240,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/72142895",
+            "price": 400,
+            "name": "プレゼント付き　ビー",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1928272900",
+            "price": 600,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/359286759",
+            "price": 250,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1929310249",
+            "price": 250,
+            "name": "【AR】ビーダル A",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/30141529",
+            "price": 888,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/866264893",
+            "price": 450,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2037914357",
+            "price": 450,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/337205630",
+            "price": 700,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -117,16 +453,272 @@
             "link": "https://www.hareruya2.com/product/26339",
             "price": 400,
             "name": "ビーダル(AR){無",
-            "date": "2022-12-02",
-            "stock": 31
+            "date": "2022-12-18",
+            "stock": 44
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38380",
-            "price": 380,
+            "price": 280,
             "name": "ビーダル200/17",
-            "date": "2022-12-02",
-            "stock": 160
+            "date": "2022-12-18",
+            "stock": 66
+        },
+        {
+            "market": "magi",
+            "link": "/items/72142895",
+            "price": 400,
+            "name": "プレゼント付き　ビー",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1928272900",
+            "price": 600,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/359286759",
+            "price": 250,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1277046210",
+            "price": 240,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/866264893",
+            "price": 450,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2037914357",
+            "price": 450,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1755015480",
+            "price": 860,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/30141529",
+            "price": 888,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/337205630",
+            "price": 700,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26339",
+            "price": 400,
+            "name": "ビーダル(AR){無",
+            "date": "2022-12-17",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38380",
+            "price": 280,
+            "name": "ビーダル200/17",
+            "date": "2022-12-17",
+            "stock": 81
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38647",
+            "price": 260,
+            "name": "ビーダル200/17",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/337205630",
+            "price": 700,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1928272900",
+            "price": 600,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/30141529",
+            "price": 888,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/72142895",
+            "price": 400,
+            "name": "プレゼント付き　ビー",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/866264893",
+            "price": 450,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1755015480",
+            "price": 860,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2037914357",
+            "price": 450,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26339",
+            "price": 400,
+            "name": "ビーダル(AR){無",
+            "date": "2022-12-16",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38380",
+            "price": 280,
+            "name": "ビーダル200/17",
+            "date": "2022-12-16",
+            "stock": 68
+        },
+        {
+            "market": "magi",
+            "link": "/items/72142895",
+            "price": 400,
+            "name": "プレゼント付き　ビー",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1755015480",
+            "price": 860,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1997695921",
+            "price": 300,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/750240959",
+            "price": 700,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/337205630",
+            "price": 700,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/30141529",
+            "price": 888,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/866264893",
+            "price": 450,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1928272900",
+            "price": 600,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2037914357",
+            "price": 450,
+            "name": "ビーダル AR 20",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26339",
+            "price": 400,
+            "name": "ビーダル(AR){無",
+            "date": "2022-12-15",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38380",
+            "price": 280,
+            "name": "ビーダル200/17",
+            "date": "2022-12-15",
+            "stock": 54
         }
     ]
 }

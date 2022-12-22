@@ -2,34 +2,10 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/925690114",
-            "price": 350,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/189841686",
-            "price": 200,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/135715661",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1867406098",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -37,15 +13,7 @@
             "link": "/items/338191015",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1402325847",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -53,7 +21,7 @@
             "link": "/items/1508211550",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -61,7 +29,31 @@
             "link": "/items/2059897378",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/189841686",
+            "price": 200,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/925690114",
+            "price": 350,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1867406098",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -69,7 +61,7 @@
             "link": "https://www.hareruya2.com/product/20426",
             "price": 50,
             "name": "ガラルジグザグマ(C",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 28
         },
         {
@@ -77,31 +69,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/22134",
             "price": 30,
             "name": "ガラルジグザグマ05",
-            "date": "2022-12-04",
-            "stock": 35
+            "date": "2022-12-22",
+            "stock": 34
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g059-100-S8-B/",
             "price": 14,
             "name": "【ポケカ】Ｃ◇ガラル",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 33
         },
         {
             "market": "magi",
-            "link": "/items/1867406098",
+            "link": "/items/2059897378",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/189841686",
-            "price": 200,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -109,87 +93,7 @@
             "link": "/items/925690114",
             "price": 350,
             "name": "ガラルジグザグマ C",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/135715661",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1402325847",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1508211550",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2059897378",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/338191015",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20426",
-            "price": 50,
-            "name": "ガラルジグザグマ(C",
-            "date": "2022-12-03",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22134",
-            "price": 30,
-            "name": "ガラルジグザグマ05",
-            "date": "2022-12-03",
-            "stock": 35
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g059-100-S8-B/",
-            "price": 14,
-            "name": "【ポケカ】Ｃ◇ガラル",
-            "date": "2022-12-03",
-            "stock": 33
-        },
-        {
-            "market": "magi",
-            "link": "/items/338191015",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1402325847",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -197,15 +101,7 @@
             "link": "/items/189841686",
             "price": 200,
             "name": "ガラルジグザグマ C",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2059897378",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -213,111 +109,15 @@
             "link": "/items/1508211550",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/135715661",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1867406098",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/925690114",
-            "price": 350,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20426",
-            "price": 50,
-            "name": "ガラルジグザグマ(C",
-            "date": "2022-12-02",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22134",
-            "price": 30,
-            "name": "ガラルジグザグマ05",
-            "date": "2022-12-02",
-            "stock": 35
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g059-100-S8-B/",
-            "price": 14,
-            "name": "【ポケカ】Ｃ◇ガラル",
-            "date": "2022-12-02",
-            "stock": 33
         },
         {
             "market": "magi",
             "link": "/items/338191015",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1402325847",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1508211550",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/925690114",
-            "price": 350,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/189841686",
-            "price": 200,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2059897378",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/135715661",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-12-01",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -325,63 +125,7 @@
             "link": "/items/1867406098",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20426",
-            "price": 50,
-            "name": "ガラルジグザグマ(C",
-            "date": "2022-12-01",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22134",
-            "price": 30,
-            "name": "ガラルジグザグマ05",
-            "date": "2022-12-01",
-            "stock": 35
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g059-100-S8-B/",
-            "price": 14,
-            "name": "【ポケカ】Ｃ◇ガラル",
-            "date": "2022-12-01",
-            "stock": 33
-        },
-        {
-            "market": "magi",
-            "link": "/items/338191015",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2059897378",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1867406098",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1508211550",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-30",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -389,31 +133,7 @@
             "link": "/items/135715661",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1402325847",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/925690114",
-            "price": 350,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/189841686",
-            "price": 200,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-30",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -421,7 +141,7 @@
             "link": "https://www.hareruya2.com/product/20426",
             "price": 50,
             "name": "ガラルジグザグマ(C",
-            "date": "2022-11-30",
+            "date": "2022-12-21",
             "stock": 28
         },
         {
@@ -429,15 +149,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/22134",
             "price": 30,
             "name": "ガラルジグザグマ05",
-            "date": "2022-11-30",
-            "stock": 35
+            "date": "2022-12-21",
+            "stock": 34
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g059-100-S8-B/",
             "price": 14,
             "name": "【ポケカ】Ｃ◇ガラル",
-            "date": "2022-11-30",
+            "date": "2022-12-21",
             "stock": 33
         },
         {
@@ -445,55 +165,7 @@
             "link": "/items/1508211550",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1402325847",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/925690114",
-            "price": 350,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/189841686",
-            "price": 200,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/135715661",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2059897378",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/338191015",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -501,7 +173,47 @@
             "link": "/items/1867406098",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/135715661",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/338191015",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2059897378",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/189841686",
+            "price": 200,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/925690114",
+            "price": 350,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -509,7 +221,7 @@
             "link": "https://www.hareruya2.com/product/20426",
             "price": 50,
             "name": "ガラルジグザグマ(C",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 28
         },
         {
@@ -517,23 +229,111 @@
             "link": "https://www.cardrush-pokemon.jp/product/22134",
             "price": 30,
             "name": "ガラルジグザグマ05",
-            "date": "2022-11-29",
-            "stock": 35
+            "date": "2022-12-20",
+            "stock": 34
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g059-100-S8-B/",
             "price": 14,
             "name": "【ポケカ】Ｃ◇ガラル",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 33
         },
         {
             "market": "magi",
-            "link": "/items/1402325847",
+            "link": "/items/1508211550",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/925690114",
+            "price": 350,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/338191015",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/189841686",
+            "price": 200,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2059897378",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1867406098",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/135715661",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20426",
+            "price": 50,
+            "name": "ガラルジグザグマ(C",
+            "date": "2022-12-19",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22134",
+            "price": 30,
+            "name": "ガラルジグザグマ05",
+            "date": "2022-12-19",
+            "stock": 34
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g059-100-S8-B/",
+            "price": 14,
+            "name": "【ポケカ】Ｃ◇ガラル",
+            "date": "2022-12-19",
+            "stock": 33
+        },
+        {
+            "market": "magi",
+            "link": "/items/189841686",
+            "price": 200,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/925690114",
+            "price": 350,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -541,7 +341,15 @@
             "link": "/items/1508211550",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-11-28",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/338191015",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -549,7 +357,7 @@
             "link": "/items/135715661",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-11-28",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -557,31 +365,7 @@
             "link": "/items/1867406098",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/189841686",
-            "price": 200,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/338191015",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/925690114",
-            "price": 350,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-28",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -589,7 +373,7 @@
             "link": "/items/2059897378",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-11-28",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -597,7 +381,7 @@
             "link": "https://www.hareruya2.com/product/20426",
             "price": 50,
             "name": "ガラルジグザグマ(C",
-            "date": "2022-11-28",
+            "date": "2022-12-18",
             "stock": 28
         },
         {
@@ -605,31 +389,47 @@
             "link": "https://www.cardrush-pokemon.jp/product/22134",
             "price": 30,
             "name": "ガラルジグザグマ05",
-            "date": "2022-11-28",
-            "stock": 35
+            "date": "2022-12-18",
+            "stock": 34
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g059-100-S8-B/",
             "price": 14,
             "name": "【ポケカ】Ｃ◇ガラル",
-            "date": "2022-11-28",
+            "date": "2022-12-18",
             "stock": 33
+        },
+        {
+            "market": "magi",
+            "link": "/items/2059897378",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/135715661",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-17",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/338191015",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/189841686",
-            "price": 200,
+            "link": "/items/925690114",
+            "price": 350,
             "name": "ガラルジグザグマ C",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -637,39 +437,15 @@
             "link": "/items/1508211550",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1402325847",
-            "price": 100,
+            "link": "/items/189841686",
+            "price": 200,
             "name": "ガラルジグザグマ C",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/925690114",
-            "price": 350,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2059897378",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/135715661",
-            "price": 100,
-            "name": "ガラルジグザグマ C",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -677,7 +453,7 @@
             "link": "/items/1867406098",
             "price": 100,
             "name": "ガラルジグザグマ C",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -685,7 +461,7 @@
             "link": "https://www.hareruya2.com/product/20426",
             "price": 50,
             "name": "ガラルジグザグマ(C",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
             "stock": 28
         },
         {
@@ -693,15 +469,183 @@
             "link": "https://www.cardrush-pokemon.jp/product/22134",
             "price": 30,
             "name": "ガラルジグザグマ05",
-            "date": "2022-11-27",
-            "stock": 35
+            "date": "2022-12-17",
+            "stock": 34
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g059-100-S8-B/",
             "price": 14,
             "name": "【ポケカ】Ｃ◇ガラル",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
+            "stock": 33
+        },
+        {
+            "market": "magi",
+            "link": "/items/1508211550",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/135715661",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/338191015",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1867406098",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/189841686",
+            "price": 200,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2059897378",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/925690114",
+            "price": 350,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20426",
+            "price": 50,
+            "name": "ガラルジグザグマ(C",
+            "date": "2022-12-16",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22134",
+            "price": 30,
+            "name": "ガラルジグザグマ05",
+            "date": "2022-12-16",
+            "stock": 34
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g059-100-S8-B/",
+            "price": 14,
+            "name": "【ポケカ】Ｃ◇ガラル",
+            "date": "2022-12-16",
+            "stock": 33
+        },
+        {
+            "market": "magi",
+            "link": "/items/135715661",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2059897378",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/189841686",
+            "price": 200,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/338191015",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/925690114",
+            "price": 350,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1508211550",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1402325847",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1867406098",
+            "price": 100,
+            "name": "ガラルジグザグマ C",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20426",
+            "price": 50,
+            "name": "ガラルジグザグマ(C",
+            "date": "2022-12-15",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22134",
+            "price": 30,
+            "name": "ガラルジグザグマ05",
+            "date": "2022-12-15",
+            "stock": 34
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g059-100-S8-B/",
+            "price": 14,
+            "name": "【ポケカ】Ｃ◇ガラル",
+            "date": "2022-12-15",
             "stock": 33
         }
     ]

@@ -2,18 +2,26 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/861690675",
-            "price": 11800,
-            "name": "ルギアV PROMO",
-            "date": "2022-12-04",
+            "link": "/items/1613903116",
+            "price": 7500,
+            "name": "ルギアV ミステリー",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/736427615",
-            "price": 12800,
+            "price": 11000,
             "name": "ルギアV ミステリー",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/861690675",
+            "price": 11800,
+            "name": "ルギアV PROMO",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -21,183 +29,39 @@
             "link": "https://www.hareruya2.com/product/25998",
             "price": 14000,
             "name": "【未開封プロモ】ルギ",
-            "date": "2022-12-04",
-            "stock": 9
+            "date": "2022-12-22",
+            "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37734",
-            "price": 11400,
-            "name": "ルギアV322/S-",
-            "date": "2022-12-04",
-            "stock": 32
-        },
-        {
-            "market": "magi",
-            "link": "/items/861690675",
-            "price": 11800,
-            "name": "ルギアV PROMO",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25998",
-            "price": 14000,
-            "name": "【未開封プロモ】ルギ",
-            "date": "2022-12-03",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37734",
-            "price": 11400,
-            "name": "ルギアV322/S-",
-            "date": "2022-12-03",
-            "stock": 32
-        },
-        {
-            "market": "magi",
-            "link": "/items/861690675",
-            "price": 11800,
-            "name": "ルギアV PROMO",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25998",
-            "price": 14000,
-            "name": "【未開封プロモ】ルギ",
-            "date": "2022-12-02",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37734",
-            "price": 11400,
-            "name": "ルギアV322/S-",
-            "date": "2022-12-02",
-            "stock": 33
-        },
-        {
-            "market": "magi",
-            "link": "/items/861690675",
-            "price": 11800,
-            "name": "ルギアV PROMO",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25998",
-            "price": 14000,
-            "name": "【未開封プロモ】ルギ",
-            "date": "2022-12-01",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37734",
-            "price": 11400,
-            "name": "ルギアV322/S-",
-            "date": "2022-12-01",
-            "stock": 33
-        },
-        {
-            "market": "magi",
-            "link": "/items/861690675",
-            "price": 11800,
-            "name": "ルギアV PROMO",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25998",
-            "price": 14000,
-            "name": "【未開封プロモ】ルギ",
-            "date": "2022-11-30",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37734",
-            "price": 11400,
-            "name": "ルギアV322/S-",
-            "date": "2022-11-30",
-            "stock": 35
-        },
-        {
-            "market": "magi",
-            "link": "/items/861690675",
-            "price": 11800,
-            "name": "ルギアV PROMO",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25998",
-            "price": 14000,
-            "name": "【未開封プロモ】ルギ",
-            "date": "2022-11-29",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37734",
-            "price": 11400,
-            "name": "ルギアV322/S-",
-            "date": "2022-11-29",
-            "stock": 35
-        },
-        {
-            "market": "magi",
-            "link": "/items/861690675",
-            "price": 11800,
-            "name": "ルギアV PROMO",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/313329993",
             "price": 12800,
-            "name": "ルギアV322/ S",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25998",
-            "price": 14000,
-            "name": "【未開封プロモ】ルギ",
-            "date": "2022-11-28",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37734",
-            "price": 12400,
             "name": "ルギアV322/S-",
-            "date": "2022-11-28",
-            "stock": 35
+            "date": "2022-12-22",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1613903116",
+            "price": 8000,
+            "name": "ルギアV ミステリー",
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/861690675",
             "price": 11800,
             "name": "ルギアV PROMO",
-            "date": "2022-11-27",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/313329993",
-            "price": 12800,
-            "name": "ルギアV322/ S",
-            "date": "2022-11-27",
+            "link": "/items/736427615",
+            "price": 11000,
+            "name": "ルギアV ミステリー",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -205,16 +69,208 @@
             "link": "https://www.hareruya2.com/product/25998",
             "price": 14000,
             "name": "【未開封プロモ】ルギ",
-            "date": "2022-11-27",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37734",
+            "price": 12800,
+            "name": "ルギアV322/S-",
+            "date": "2022-12-21",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1613903116",
+            "price": 8000,
+            "name": "ルギアV ミステリー",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/736427615",
+            "price": 11000,
+            "name": "ルギアV ミステリー",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/861690675",
+            "price": 11800,
+            "name": "ルギアV PROMO",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37734",
+            "price": 12800,
+            "name": "ルギアV322/S-",
+            "date": "2022-12-20",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1613903116",
+            "price": 9500,
+            "name": "ルギアV ミステリー",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/736427615",
+            "price": 11000,
+            "name": "ルギアV ミステリー",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/861690675",
+            "price": 11800,
+            "name": "ルギアV PROMO",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25998",
+            "price": 14000,
+            "name": "【未開封プロモ】ルギ",
+            "date": "2022-12-19",
             "stock": 10
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/37734",
-            "price": 12400,
+            "price": 12800,
             "name": "ルギアV322/S-",
-            "date": "2022-11-27",
-            "stock": 34
+            "date": "2022-12-19",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/861690675",
+            "price": 11800,
+            "name": "ルギアV PROMO",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/736427615",
+            "price": 11000,
+            "name": "ルギアV ミステリー",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1613903116",
+            "price": 9500,
+            "name": "ルギアV ミステリー",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25998",
+            "price": 14000,
+            "name": "【未開封プロモ】ルギ",
+            "date": "2022-12-18",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/861690675",
+            "price": 11800,
+            "name": "ルギアV PROMO",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/736427615",
+            "price": 11000,
+            "name": "ルギアV ミステリー",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1613903116",
+            "price": 9500,
+            "name": "ルギアV ミステリー",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25998",
+            "price": 14000,
+            "name": "【未開封プロモ】ルギ",
+            "date": "2022-12-17",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/1613903116",
+            "price": 9500,
+            "name": "ルギアV ミステリー",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/736427615",
+            "price": 11000,
+            "name": "ルギアV ミステリー",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/861690675",
+            "price": 11800,
+            "name": "ルギアV PROMO",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25998",
+            "price": 14000,
+            "name": "【未開封プロモ】ルギ",
+            "date": "2022-12-16",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/861690675",
+            "price": 11800,
+            "name": "ルギアV PROMO",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/736427615",
+            "price": 11000,
+            "name": "ルギアV ミステリー",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25998",
+            "price": 14000,
+            "name": "【未開封プロモ】ルギ",
+            "date": "2022-12-15",
+            "stock": 10
         }
     ]
 }

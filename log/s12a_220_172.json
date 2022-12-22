@@ -2,115 +2,811 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1185719987",
+            "price": 2500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1388489831",
+            "price": 1663,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-22",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/223324843",
+            "price": 1350,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2137793058",
+            "price": 1445,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/152907997",
+            "price": 3200,
+            "name": "プレゼント×5 ゼラ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1109467845",
+            "price": 1500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1563738722",
+            "price": 2980,
+            "name": "　ポケモンカード V",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38400",
+            "price": 1580,
+            "name": "ゼラオラVSTAR2",
+            "date": "2022-12-22",
+            "stock": 34
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38667",
+            "price": 1480,
+            "name": "ゼラオラVSTAR2",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1109467845",
+            "price": 1500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1185719987",
+            "price": 2500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/881226596",
+            "price": 1300,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223324843",
+            "price": 1350,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2137793058",
+            "price": 1445,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/152907997",
+            "price": 3200,
+            "name": "プレゼント×5 ゼラ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1388489831",
+            "price": 1663,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-21",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38400",
+            "price": 1580,
+            "name": "ゼラオラVSTAR2",
+            "date": "2022-12-21",
+            "stock": 24
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38667",
+            "price": 1480,
+            "name": "ゼラオラVSTAR2",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1185719987",
+            "price": 2500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2137793058",
+            "price": 1445,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1758931122",
+            "price": 1355,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/881226596",
+            "price": 1300,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1388489831",
+            "price": 1663,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-20",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1265476750",
+            "price": 1500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223324843",
+            "price": 1400,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/152907997",
+            "price": 3200,
+            "name": "プレゼント×5 ゼラ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1109467845",
+            "price": 1500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1257375811",
+            "price": 1580,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38667",
+            "price": 1480,
+            "name": "ゼラオラVSTAR2",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38400",
+            "price": 1580,
+            "name": "ゼラオラVSTAR2",
+            "date": "2022-12-20",
+            "stock": 28
+        },
+        {
+            "market": "magi",
+            "link": "/items/861778678",
+            "price": 1980,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/881226596",
+            "price": 1300,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1185719987",
+            "price": 2500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1265476750",
+            "price": 1500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/152907997",
+            "price": 3200,
+            "name": "プレゼント×5 ゼラ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1388489831",
+            "price": 1663,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-19",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/2137793058",
+            "price": 1445,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1611577636",
+            "price": 1980,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223324843",
+            "price": 1400,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1758931122",
+            "price": 1355,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1109467845",
+            "price": 1500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38400",
+            "price": 1580,
+            "name": "ゼラオラVSTAR2",
+            "date": "2022-12-19",
+            "stock": 23
+        },
+        {
+            "market": "magi",
+            "link": "/items/1758931122",
+            "price": 1355,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223324843",
+            "price": 1400,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1185719987",
+            "price": 2500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1230638647",
+            "price": 1300,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/881226596",
+            "price": 1300,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1388489831",
+            "price": 1663,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-18",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1611577636",
+            "price": 1980,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1697214313",
+            "price": 1177,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/152907997",
+            "price": 3200,
+            "name": "プレゼント×5 ゼラ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/861778678",
+            "price": 1980,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2137793058",
+            "price": 1445,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1265476750",
+            "price": 1500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26359",
+            "price": 1800,
+            "name": "ゼラオラVSTAR(",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/909649229",
+            "price": 3200,
+            "name": "プレゼント付き×5　",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223324843",
+            "price": 1400,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1758931122",
+            "price": 1355,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/861778678",
+            "price": 1980,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2137793058",
+            "price": 1445,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1185719987",
+            "price": 2500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1611577636",
+            "price": 1980,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/881226596",
+            "price": 1300,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1388489831",
+            "price": 1663,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-17",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1697214313",
+            "price": 1177,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1265476750",
+            "price": 1500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1230638647",
+            "price": 1300,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26359",
+            "price": 1800,
+            "name": "ゼラオラVSTAR(",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38400",
+            "price": 1580,
+            "name": "ゼラオラVSTAR2",
+            "date": "2022-12-17",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/1611577636",
+            "price": 1980,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1758931122",
+            "price": 1355,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/861778678",
+            "price": 1980,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223324843",
+            "price": 1400,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1265476750",
+            "price": 1500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/881226596",
+            "price": 1300,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2134877848",
+            "price": 999,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1185719987",
+            "price": 2500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/909649229",
+            "price": 3200,
+            "name": "プレゼント付き×5　",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1230638647",
+            "price": 1300,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1697214313",
+            "price": 1177,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1388489831",
+            "price": 1663,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-16",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/2137793058",
+            "price": 1445,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26359",
+            "price": 1800,
+            "name": "ゼラオラVSTAR(",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38400",
+            "price": 1580,
+            "name": "ゼラオラVSTAR2",
+            "date": "2022-12-16",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/1697214313",
+            "price": 1177,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1265476750",
+            "price": 1500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/861778678",
+            "price": 1980,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1230638647",
+            "price": 1500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2115330735",
-            "price": 1555,
+            "price": 1888,
             "name": "ゼラオラVSTAR ",
-            "date": "2022-12-04",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/433504510",
-            "price": 2990,
-            "name": "ゼラオラVSTAR ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2043029862",
+            "link": "/items/881226596",
             "price": 1500,
             "name": "ゼラオラVSTAR ",
-            "date": "2022-12-04",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1185719987",
+            "price": 2500,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1388489831",
+            "price": 1664,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-15",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/909649229",
+            "price": 3200,
+            "name": "プレゼント付き×5　",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1611577636",
+            "price": 1980,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2137793058",
+            "price": 1445,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223324843",
+            "price": 1400,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1758931122",
+            "price": 1355,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2076410572",
+            "price": 1000,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2134877848",
+            "price": 999,
+            "name": "ゼラオラVSTAR ",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26359",
-            "price": 1600,
+            "price": 1800,
             "name": "ゼラオラVSTAR(",
-            "date": "2022-12-04",
-            "stock": 16
+            "date": "2022-12-15",
+            "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38400",
-            "price": 1680,
+            "price": 1480,
             "name": "ゼラオラVSTAR2",
-            "date": "2022-12-04",
-            "stock": 81
-        },
-        {
-            "market": "magi",
-            "link": "/items/433504510",
-            "price": 3000,
-            "name": "ゼラオラVSTAR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2130060310",
-            "price": 1800,
-            "name": "ゼラオラVSTAR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1514498804",
-            "price": 1500,
-            "name": "ゼラオラVSTAR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26359",
-            "price": 1800,
-            "name": "ゼラオラVSTAR(",
-            "date": "2022-12-03",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38400",
-            "price": 1780,
-            "name": "ゼラオラVSTAR2",
-            "date": "2022-12-03",
-            "stock": 56
-        },
-        {
-            "market": "magi",
-            "link": "/items/433504510",
-            "price": 3000,
-            "name": "ゼラオラVSTAR ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1210978332",
-            "price": 1600,
-            "name": "ゼラオラVSTAR ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26359",
-            "price": 1800,
-            "name": "ゼラオラVSTAR(",
-            "date": "2022-12-02",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38400",
-            "price": 1780,
-            "name": "ゼラオラVSTAR2",
-            "date": "2022-12-02",
-            "stock": 57
+            "date": "2022-12-15",
+            "stock": 23
         }
     ]
 }

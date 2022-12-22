@@ -1,100 +1,300 @@
 ﻿{
     "items": [
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26204",
+            "market": "magi",
+            "link": "/items/1668469668",
             "price": 100,
-            "name": "ブーバー:ミラー(C",
-            "date": "2022-12-04",
-            "stock": 20
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26039",
-            "price": 50,
-            "name": "ブーバー(CP){炎",
-            "date": "2022-12-04",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38265",
-            "price": 50,
-            "name": "ブーバー016/17",
-            "date": "2022-12-04",
-            "stock": 47
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38100",
-            "price": 30,
-            "name": "ブーバー016/17",
-            "date": "2022-12-04",
-            "stock": 158
+            "name": "ブーバー 016/1",
+            "date": "2022-12-22",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26204",
             "price": 100,
             "name": "ブーバー:ミラー(C",
-            "date": "2022-12-03",
-            "stock": 20
+            "date": "2022-12-22",
+            "stock": 10
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26039",
             "price": 50,
             "name": "ブーバー(CP){炎",
-            "date": "2022-12-03",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38265",
-            "price": 50,
-            "name": "ブーバー016/17",
-            "date": "2022-12-03",
-            "stock": 44
+            "date": "2022-12-22",
+            "stock": 41
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38100",
             "price": 30,
             "name": "ブーバー016/17",
-            "date": "2022-12-03",
-            "stock": 158
+            "date": "2022-12-22",
+            "stock": 154
+        },
+        {
+            "market": "magi",
+            "link": "/items/1668469668",
+            "price": 100,
+            "name": "ブーバー 016/1",
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26204",
             "price": 100,
             "name": "ブーバー:ミラー(C",
-            "date": "2022-12-02",
-            "stock": 20
+            "date": "2022-12-21",
+            "stock": 10
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26039",
             "price": 50,
             "name": "ブーバー(CP){炎",
-            "date": "2022-12-02",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38265",
-            "price": 50,
-            "name": "ブーバー016/17",
-            "date": "2022-12-02",
-            "stock": 45
+            "date": "2022-12-21",
+            "stock": 41
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38100",
             "price": 30,
             "name": "ブーバー016/17",
-            "date": "2022-12-02",
-            "stock": 158
+            "date": "2022-12-21",
+            "stock": 154
+        },
+        {
+            "market": "magi",
+            "link": "/items/1668469668",
+            "price": 100,
+            "name": "ブーバー 016/1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26039",
+            "price": 50,
+            "name": "ブーバー(CP){炎",
+            "date": "2022-12-20",
+            "stock": 41
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26204",
+            "price": 100,
+            "name": "ブーバー:ミラー(C",
+            "date": "2022-12-20",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38100",
+            "price": 30,
+            "name": "ブーバー016/17",
+            "date": "2022-12-20",
+            "stock": 154
+        },
+        {
+            "market": "magi",
+            "link": "/items/1668469668",
+            "price": 100,
+            "name": "ブーバー 016/1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26204",
+            "price": 100,
+            "name": "ブーバー:ミラー(C",
+            "date": "2022-12-19",
+            "stock": 11
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26039",
+            "price": 50,
+            "name": "ブーバー(CP){炎",
+            "date": "2022-12-19",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38265",
+            "price": 50,
+            "name": "ブーバー016/17",
+            "date": "2022-12-19",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38100",
+            "price": 30,
+            "name": "ブーバー016/17",
+            "date": "2022-12-19",
+            "stock": 154
+        },
+        {
+            "market": "magi",
+            "link": "/items/1668469668",
+            "price": 100,
+            "name": "ブーバー 016/1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26039",
+            "price": 50,
+            "name": "ブーバー(CP){炎",
+            "date": "2022-12-18",
+            "stock": 41
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26204",
+            "price": 100,
+            "name": "ブーバー:ミラー(C",
+            "date": "2022-12-18",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38265",
+            "price": 50,
+            "name": "ブーバー016/17",
+            "date": "2022-12-18",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38100",
+            "price": 30,
+            "name": "ブーバー016/17",
+            "date": "2022-12-18",
+            "stock": 154
+        },
+        {
+            "market": "magi",
+            "link": "/items/1668469668",
+            "price": 100,
+            "name": "ブーバー 016/1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26204",
+            "price": 100,
+            "name": "ブーバー:ミラー(C",
+            "date": "2022-12-17",
+            "stock": 13
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26039",
+            "price": 50,
+            "name": "ブーバー(CP){炎",
+            "date": "2022-12-17",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38100",
+            "price": 30,
+            "name": "ブーバー016/17",
+            "date": "2022-12-17",
+            "stock": 154
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38265",
+            "price": 50,
+            "name": "ブーバー016/17",
+            "date": "2022-12-17",
+            "stock": 43
+        },
+        {
+            "market": "magi",
+            "link": "/items/1668469668",
+            "price": 100,
+            "name": "ブーバー 016/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26204",
+            "price": 100,
+            "name": "ブーバー:ミラー(C",
+            "date": "2022-12-16",
+            "stock": 13
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26039",
+            "price": 50,
+            "name": "ブーバー(CP){炎",
+            "date": "2022-12-16",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38265",
+            "price": 50,
+            "name": "ブーバー016/17",
+            "date": "2022-12-16",
+            "stock": 43
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38100",
+            "price": 30,
+            "name": "ブーバー016/17",
+            "date": "2022-12-16",
+            "stock": 154
+        },
+        {
+            "market": "magi",
+            "link": "/items/1668469668",
+            "price": 100,
+            "name": "ブーバー 016/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26204",
+            "price": 100,
+            "name": "ブーバー:ミラー(C",
+            "date": "2022-12-15",
+            "stock": 13
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26039",
+            "price": 50,
+            "name": "ブーバー(CP){炎",
+            "date": "2022-12-15",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38265",
+            "price": 50,
+            "name": "ブーバー016/17",
+            "date": "2022-12-15",
+            "stock": 49
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38100",
+            "price": 30,
+            "name": "ブーバー016/17",
+            "date": "2022-12-15",
+            "stock": 154
         }
     ]
 }

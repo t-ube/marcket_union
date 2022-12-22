@@ -5,79 +5,7 @@
             "link": "https://www.hareruya2.com/product/18640",
             "price": 200,
             "name": "コオリッポ(S){水",
-            "date": "2022-12-04",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30823",
-            "price": 330,
-            "name": "コオリッポ234/1",
-            "date": "2022-12-04",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17383",
-            "price": 380,
-            "name": "コオリッポ234/1",
-            "date": "2022-12-04",
-            "stock": 23
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g234-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇コオリ",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18640",
-            "price": 200,
-            "name": "コオリッポ(S){水",
-            "date": "2022-12-03",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30823",
-            "price": 330,
-            "name": "コオリッポ234/1",
-            "date": "2022-12-03",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17383",
-            "price": 380,
-            "name": "コオリッポ234/1",
-            "date": "2022-12-03",
-            "stock": 23
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g234-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇コオリ",
-            "date": "2022-12-03",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18640",
-            "price": 200,
-            "name": "コオリッポ(S){水",
-            "date": "2022-12-02",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17383",
-            "price": 380,
-            "name": "コオリッポ234/1",
-            "date": "2022-12-02",
+            "date": "2022-12-22",
             "stock": 23
         },
         {
@@ -85,15 +13,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/30823",
             "price": 330,
             "name": "コオリッポ234/1",
-            "date": "2022-12-02",
-            "stock": 5
+            "date": "2022-12-22",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17383",
+            "price": 380,
+            "name": "コオリッポ234/1",
+            "date": "2022-12-22",
+            "stock": 31
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g234-190-S4A-B/",
-            "price": 275,
+            "price": 330,
             "name": "【ポケカ】Ｓ◇コオリ",
-            "date": "2022-12-02",
+            "date": "2022-12-22",
             "stock": 2
         },
         {
@@ -101,15 +37,7 @@
             "link": "https://www.hareruya2.com/product/18640",
             "price": 200,
             "name": "コオリッポ(S){水",
-            "date": "2022-12-01",
-            "stock": 24
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17383",
-            "price": 380,
-            "name": "コオリッポ234/1",
-            "date": "2022-12-01",
+            "date": "2022-12-21",
             "stock": 23
         },
         {
@@ -117,15 +45,183 @@
             "link": "https://www.cardrush-pokemon.jp/product/30823",
             "price": 330,
             "name": "コオリッポ234/1",
-            "date": "2022-12-01",
+            "date": "2022-12-21",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17383",
+            "price": 380,
+            "name": "コオリッポ234/1",
+            "date": "2022-12-21",
+            "stock": 31
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g234-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇コオリ",
+            "date": "2022-12-21",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18640",
+            "price": 200,
+            "name": "コオリッポ(S){水",
+            "date": "2022-12-20",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17383",
+            "price": 380,
+            "name": "コオリッポ234/1",
+            "date": "2022-12-20",
+            "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30823",
+            "price": 330,
+            "name": "コオリッポ234/1",
+            "date": "2022-12-20",
+            "stock": 7
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g234-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇コオリ",
+            "date": "2022-12-20",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18640",
+            "price": 200,
+            "name": "コオリッポ(S){水",
+            "date": "2022-12-19",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17383",
+            "price": 380,
+            "name": "コオリッポ234/1",
+            "date": "2022-12-19",
+            "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30823",
+            "price": 330,
+            "name": "コオリッポ234/1",
+            "date": "2022-12-19",
+            "stock": 7
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g234-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇コオリ",
+            "date": "2022-12-19",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18640",
+            "price": 200,
+            "name": "コオリッポ(S){水",
+            "date": "2022-12-18",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30823",
+            "price": 330,
+            "name": "コオリッポ234/1",
+            "date": "2022-12-18",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17383",
+            "price": 380,
+            "name": "コオリッポ234/1",
+            "date": "2022-12-18",
+            "stock": 31
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g234-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇コオリ",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18640",
+            "price": 200,
+            "name": "コオリッポ(S){水",
+            "date": "2022-12-17",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17383",
+            "price": 380,
+            "name": "コオリッポ234/1",
+            "date": "2022-12-17",
+            "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30823",
+            "price": 330,
+            "name": "コオリッポ234/1",
+            "date": "2022-12-17",
+            "stock": 7
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g234-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇コオリ",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18640",
+            "price": 200,
+            "name": "コオリッポ(S){水",
+            "date": "2022-12-16",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17383",
+            "price": 380,
+            "name": "コオリッポ234/1",
+            "date": "2022-12-16",
+            "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30823",
+            "price": 330,
+            "name": "コオリッポ234/1",
+            "date": "2022-12-16",
             "stock": 5
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g234-190-S4A-B/",
-            "price": 275,
+            "price": 330,
             "name": "【ポケカ】Ｓ◇コオリ",
-            "date": "2022-12-01",
+            "date": "2022-12-16",
             "stock": 2
         },
         {
@@ -133,127 +229,31 @@
             "link": "https://www.hareruya2.com/product/18640",
             "price": 200,
             "name": "コオリッポ(S){水",
-            "date": "2022-11-30",
-            "stock": 24
+            "date": "2022-12-15",
+            "stock": 23
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30823",
             "price": 330,
             "name": "コオリッポ234/1",
-            "date": "2022-11-30",
-            "stock": 2
+            "date": "2022-12-15",
+            "stock": 5
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17383",
             "price": 380,
             "name": "コオリッポ234/1",
-            "date": "2022-11-30",
-            "stock": 22
+            "date": "2022-12-15",
+            "stock": 32
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g234-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇コオリ",
-            "date": "2022-11-30",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18640",
-            "price": 200,
-            "name": "コオリッポ(S){水",
-            "date": "2022-11-29",
-            "stock": 24
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30823",
             "price": 330,
-            "name": "コオリッポ234/1",
-            "date": "2022-11-29",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17383",
-            "price": 380,
-            "name": "コオリッポ234/1",
-            "date": "2022-11-29",
-            "stock": 20
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g234-190-S4A-B/",
-            "price": 275,
             "name": "【ポケカ】Ｓ◇コオリ",
-            "date": "2022-11-29",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18640",
-            "price": 200,
-            "name": "コオリッポ(S){水",
-            "date": "2022-11-28",
-            "stock": 24
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30823",
-            "price": 330,
-            "name": "コオリッポ234/1",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17383",
-            "price": 380,
-            "name": "コオリッポ234/1",
-            "date": "2022-11-28",
-            "stock": 20
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g234-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇コオリ",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18640",
-            "price": 200,
-            "name": "コオリッポ(S){水",
-            "date": "2022-11-27",
-            "stock": 22
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30823",
-            "price": 330,
-            "name": "コオリッポ234/1",
-            "date": "2022-11-27",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17383",
-            "price": 380,
-            "name": "コオリッポ234/1",
-            "date": "2022-11-27",
-            "stock": 12
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g234-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇コオリ",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 2
         }
     ]

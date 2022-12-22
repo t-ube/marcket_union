@@ -2,34 +2,58 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1645139007",
-            "price": 900,
+            "link": "/items/1352606480",
+            "price": 700,
             "name": "ディアンシー AR ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/607102362",
-            "price": 400,
+            "link": "/items/794314579",
+            "price": 393,
             "name": "ディアンシー AR ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/742586596",
-            "price": 370,
+            "link": "/items/473018421",
+            "price": 194,
             "name": "ディアンシー AR ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/452982861",
+            "price": 350,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1452268234",
-            "price": 450,
+            "link": "/items/1115694965",
+            "price": 350,
             "name": "ディアンシー AR ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1326722041",
+            "price": 780,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1129696980",
+            "price": 399,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -37,95 +61,343 @@
             "link": "/items/1131604532",
             "price": 450,
             "name": "ディアンシー AR ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1352606480",
-            "price": 1200,
+            "link": "/items/1452268234",
+            "price": 450,
             "name": "ディアンシー AR ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/39610509",
-            "price": 400,
-            "name": "★ディアンシー AR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/424792704",
-            "price": 370,
-            "name": "ディアンシー AR ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/893779675",
-            "price": 400,
-            "name": "ディアンシー AR ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/73424265",
-            "price": 400,
-            "name": "【AR】ディアンシー",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/560018316",
-            "price": 400,
-            "name": "ディアンシー AR ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1421403688",
-            "price": 1400,
-            "name": "ディアンシー AR ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26325",
-            "price": 500,
+            "price": 380,
             "name": "ディアンシー(AR)",
-            "date": "2022-12-04",
-            "stock": 16
+            "date": "2022-12-22",
+            "stock": 64
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38366",
+            "price": 320,
+            "name": "ディアンシー186/",
+            "date": "2022-12-22",
+            "stock": 257
+        },
+        {
+            "market": "magi",
+            "link": "/items/452982861",
+            "price": 350,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/794314579",
+            "price": 393,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1115694965",
+            "price": 350,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/165041529",
+            "price": 600,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/473018421",
+            "price": 194,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1452268234",
+            "price": 450,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1326722041",
+            "price": 780,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1131604532",
+            "price": 450,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1352606480",
+            "price": 700,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26325",
+            "price": 380,
+            "name": "ディアンシー(AR)",
+            "date": "2022-12-21",
+            "stock": 66
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38633",
+            "price": 300,
+            "name": "ディアンシー186/",
+            "date": "2022-12-21",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38366",
+            "price": 320,
+            "name": "ディアンシー186/",
+            "date": "2022-12-21",
+            "stock": 243
+        },
+        {
+            "market": "magi",
+            "link": "/items/165041529",
+            "price": 600,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1452268234",
+            "price": 450,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/473018421",
+            "price": 200,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1131604532",
+            "price": 450,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1352606480",
+            "price": 700,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/474761426",
+            "price": 400,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1326722041",
+            "price": 780,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1115694965",
+            "price": 350,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/452982861",
+            "price": 350,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26325",
+            "price": 380,
+            "name": "ディアンシー(AR)",
+            "date": "2022-12-20",
+            "stock": 53
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38366",
+            "price": 320,
+            "name": "ディアンシー186/",
+            "date": "2022-12-20",
+            "stock": 221
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38633",
+            "price": 300,
+            "name": "ディアンシー186/",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1452268234",
+            "price": 450,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1115694965",
+            "price": 350,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/474761426",
+            "price": 400,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/473018421",
+            "price": 200,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1352606480",
+            "price": 800,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/452982861",
+            "price": 350,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/165041529",
+            "price": 600,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1131604532",
+            "price": 450,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1326722041",
+            "price": 780,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26325",
+            "price": 400,
+            "name": "ディアンシー(AR)",
+            "date": "2022-12-19",
+            "stock": 54
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38366",
             "price": 380,
             "name": "ディアンシー186/",
-            "date": "2022-12-04",
-            "stock": 42
+            "date": "2022-12-19",
+            "stock": 199
         },
         {
             "market": "magi",
             "link": "/items/1352606480",
-            "price": 1300,
+            "price": 800,
             "name": "ディアンシー AR ",
-            "date": "2022-12-03",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1131604532",
-            "price": 450,
+            "link": "/items/474761426",
+            "price": 400,
             "name": "ディアンシー AR ",
-            "date": "2022-12-03",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/165041529",
+            "price": 600,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1115694965",
+            "price": 350,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -133,71 +405,39 @@
             "link": "/items/1452268234",
             "price": 450,
             "name": "ディアンシー AR ",
-            "date": "2022-12-03",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1645139007",
-            "price": 900,
+            "link": "/items/1326722041",
+            "price": 780,
             "name": "ディアンシー AR ",
-            "date": "2022-12-03",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/893779675",
-            "price": 400,
+            "link": "/items/452982861",
+            "price": 350,
             "name": "ディアンシー AR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26325",
-            "price": 500,
-            "name": "ディアンシー(AR)",
-            "date": "2022-12-03",
-            "stock": 27
-        },
-        {
-            "market": "magi",
-            "link": "/items/1645139007",
-            "price": 900,
-            "name": "ディアンシー AR ",
-            "date": "2022-12-02",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1452268234",
-            "price": 450,
+            "link": "/items/473018421",
+            "price": 200,
             "name": "ディアンシー AR ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1537098016",
-            "price": 400,
-            "name": "ディアンシー AR ",
-            "date": "2022-12-02",
-            "stock": 1
+            "date": "2022-12-18",
+            "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/1131604532",
             "price": 450,
             "name": "ディアンシー AR ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1352606480",
-            "price": 1400,
-            "name": "ディアンシー AR ",
-            "date": "2022-12-02",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -205,16 +445,272 @@
             "link": "https://www.hareruya2.com/product/26325",
             "price": 500,
             "name": "ディアンシー(AR)",
-            "date": "2022-12-02",
-            "stock": 30
+            "date": "2022-12-18",
+            "stock": 54
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38366",
             "price": 380,
             "name": "ディアンシー186/",
-            "date": "2022-12-02",
-            "stock": 133
+            "date": "2022-12-18",
+            "stock": 166
+        },
+        {
+            "market": "magi",
+            "link": "/items/1131604532",
+            "price": 450,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1115694965",
+            "price": 350,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1452268234",
+            "price": 450,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1326722041",
+            "price": 780,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/452982861",
+            "price": 350,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/165041529",
+            "price": 600,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1352606480",
+            "price": 800,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/474761426",
+            "price": 400,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/473018421",
+            "price": 200,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26325",
+            "price": 500,
+            "name": "ディアンシー(AR)",
+            "date": "2022-12-17",
+            "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38366",
+            "price": 420,
+            "name": "ディアンシー186/",
+            "date": "2022-12-17",
+            "stock": 181
+        },
+        {
+            "market": "magi",
+            "link": "/items/473018421",
+            "price": 200,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/452982861",
+            "price": 350,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1352606480",
+            "price": 800,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1131604532",
+            "price": 450,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1452268234",
+            "price": 450,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1326722041",
+            "price": 780,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/165041529",
+            "price": 600,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38366",
+            "price": 420,
+            "name": "ディアンシー186/",
+            "date": "2022-12-16",
+            "stock": 172
+        },
+        {
+            "market": "magi",
+            "link": "/items/429718848",
+            "price": 810,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/165041529",
+            "price": 650,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1452268234",
+            "price": 450,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/473018421",
+            "price": 200,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1326722041",
+            "price": 780,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/452982861",
+            "price": 350,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/874775404",
+            "price": 300,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/789305276",
+            "price": 400,
+            "name": "プレゼント付き　ディ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1131604532",
+            "price": 450,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1352606480",
+            "price": 1000,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1436875597",
+            "price": 400,
+            "name": "ディアンシー AR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26325",
+            "price": 500,
+            "name": "ディアンシー(AR)",
+            "date": "2022-12-15",
+            "stock": 34
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38366",
+            "price": 420,
+            "name": "ディアンシー186/",
+            "date": "2022-12-15",
+            "stock": 134
         }
     ]
 }

@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1169255777",
+            "price": 346,
+            "name": "モスノウ S 233",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/514155523",
-            "price": 700,
-            "name": "【2枚】ユキハミ S",
-            "date": "2022-12-04",
+            "price": 680,
+            "name": "【値下げ2枚】ユキハ",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,23 +21,7 @@
             "link": "/items/166429142",
             "price": 350,
             "name": "モスノウ S 233",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1169255777",
-            "price": 346,
-            "name": "モスノウ S 233",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/421060651",
-            "price": 1444,
-            "name": "モスノウ S 233",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -37,7 +29,7 @@
             "link": "/items/1204459409",
             "price": 330,
             "name": "モスノウ S 233",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -45,7 +37,103 @@
             "link": "https://www.hareruya2.com/product/18639",
             "price": 300,
             "name": "モスノウ(S){水}",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17382",
+            "price": 480,
+            "name": "モスノウ233/19",
+            "date": "2022-12-22",
+            "stock": 33
+        },
+        {
+            "market": "magi",
+            "link": "/items/166429142",
+            "price": 350,
+            "name": "モスノウ S 233",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1169255777",
+            "price": 346,
+            "name": "モスノウ S 233",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/514155523",
+            "price": 680,
+            "name": "【値下げ2枚】ユキハ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1204459409",
+            "price": 330,
+            "name": "モスノウ S 233",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18639",
+            "price": 300,
+            "name": "モスノウ(S){水}",
+            "date": "2022-12-21",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17382",
+            "price": 480,
+            "name": "モスノウ233/19",
+            "date": "2022-12-21",
+            "stock": 31
+        },
+        {
+            "market": "magi",
+            "link": "/items/1169255777",
+            "price": 346,
+            "name": "モスノウ S 233",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1204459409",
+            "price": 330,
+            "name": "モスノウ S 233",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/166429142",
+            "price": 350,
+            "name": "モスノウ S 233",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/514155523",
+            "price": 680,
+            "name": "【値下げ2枚】ユキハ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18639",
+            "price": 300,
+            "name": "モスノウ(S){水}",
+            "date": "2022-12-20",
             "stock": 21
         },
         {
@@ -53,15 +141,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/17382",
             "price": 480,
             "name": "モスノウ233/19",
-            "date": "2022-12-04",
-            "stock": 13
+            "date": "2022-12-20",
+            "stock": 26
         },
         {
             "market": "magi",
             "link": "/items/1169255777",
             "price": 346,
             "name": "モスノウ S 233",
-            "date": "2022-12-03",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -69,7 +157,7 @@
             "link": "/items/514155523",
             "price": 700,
             "name": "【2枚】ユキハミ S",
-            "date": "2022-12-03",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -77,15 +165,7 @@
             "link": "/items/1204459409",
             "price": 330,
             "name": "モスノウ S 233",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/421060651",
-            "price": 1444,
-            "name": "モスノウ S 233",
-            "date": "2022-12-03",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -93,7 +173,7 @@
             "link": "/items/166429142",
             "price": 350,
             "name": "モスノウ S 233",
-            "date": "2022-12-03",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -101,47 +181,23 @@
             "link": "https://www.hareruya2.com/product/18639",
             "price": 300,
             "name": "モスノウ(S){水}",
-            "date": "2022-12-03",
-            "stock": 22
+            "date": "2022-12-19",
+            "stock": 21
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17382",
             "price": 480,
             "name": "モスノウ233/19",
-            "date": "2022-12-03",
-            "stock": 13
-        },
-        {
-            "market": "magi",
-            "link": "/items/514155523",
-            "price": 700,
-            "name": "【2枚】ユキハミ S",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/421060651",
-            "price": 1444,
-            "name": "モスノウ S 233",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1204459409",
-            "price": 330,
-            "name": "モスノウ S 233",
-            "date": "2022-12-02",
-            "stock": 1
+            "date": "2022-12-19",
+            "stock": 24
         },
         {
             "market": "magi",
             "link": "/items/166429142",
             "price": 350,
             "name": "モスノウ S 233",
-            "date": "2022-12-02",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -149,31 +205,7 @@
             "link": "/items/1169255777",
             "price": 346,
             "name": "モスノウ S 233",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18639",
-            "price": 300,
-            "name": "モスノウ(S){水}",
-            "date": "2022-12-02",
-            "stock": 22
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17382",
-            "price": 480,
-            "name": "モスノウ233/19",
-            "date": "2022-12-02",
-            "stock": 13
-        },
-        {
-            "market": "magi",
-            "link": "/items/421060651",
-            "price": 1444,
-            "name": "モスノウ S 233",
-            "date": "2022-12-01",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -181,23 +213,7 @@
             "link": "/items/514155523",
             "price": 700,
             "name": "【2枚】ユキハミ S",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/166429142",
-            "price": 350,
-            "name": "モスノウ S 233",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1169255777",
-            "price": 346,
-            "name": "モスノウ S 233",
-            "date": "2022-12-01",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -205,7 +221,7 @@
             "link": "/items/1204459409",
             "price": 330,
             "name": "モスノウ S 233",
-            "date": "2022-12-01",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -213,47 +229,23 @@
             "link": "https://www.hareruya2.com/product/18639",
             "price": 300,
             "name": "モスノウ(S){水}",
-            "date": "2022-12-01",
-            "stock": 22
+            "date": "2022-12-18",
+            "stock": 21
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17382",
             "price": 480,
             "name": "モスノウ233/19",
-            "date": "2022-12-01",
-            "stock": 13
+            "date": "2022-12-18",
+            "stock": 24
         },
         {
             "market": "magi",
             "link": "/items/166429142",
             "price": 350,
             "name": "モスノウ S 233",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/421060651",
-            "price": 1444,
-            "name": "モスノウ S 233",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1204459409",
-            "price": 330,
-            "name": "モスノウ S 233",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1169255777",
-            "price": 346,
-            "name": "モスノウ S 233",
-            "date": "2022-11-30",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -261,39 +253,7 @@
             "link": "/items/514155523",
             "price": 700,
             "name": "【2枚】ユキハミ S",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18639",
-            "price": 300,
-            "name": "モスノウ(S){水}",
-            "date": "2022-11-30",
-            "stock": 22
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17382",
-            "price": 480,
-            "name": "モスノウ233/19",
-            "date": "2022-11-30",
-            "stock": 13
-        },
-        {
-            "market": "magi",
-            "link": "/items/421060651",
-            "price": 1444,
-            "name": "モスノウ S 233",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/166429142",
-            "price": 350,
-            "name": "モスノウ S 233",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -301,7 +261,7 @@
             "link": "/items/1204459409",
             "price": 330,
             "name": "モスノウ S 233",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -309,15 +269,7 @@
             "link": "/items/1169255777",
             "price": 346,
             "name": "モスノウ S 233",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/514155523",
-            "price": 700,
-            "name": "【2枚】ユキハミ S",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -325,39 +277,23 @@
             "link": "https://www.hareruya2.com/product/18639",
             "price": 300,
             "name": "モスノウ(S){水}",
-            "date": "2022-11-29",
-            "stock": 22
+            "date": "2022-12-17",
+            "stock": 21
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17382",
             "price": 480,
             "name": "モスノウ233/19",
-            "date": "2022-11-29",
-            "stock": 13
-        },
-        {
-            "market": "magi",
-            "link": "/items/421060651",
-            "price": 1444,
-            "name": "モスノウ S 233",
-            "date": "2022-11-28",
-            "stock": 1
+            "date": "2022-12-17",
+            "stock": 24
         },
         {
             "market": "magi",
             "link": "/items/166429142",
             "price": 350,
             "name": "モスノウ S 233",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/514155523",
-            "price": 700,
-            "name": "【2枚】ユキハミ S",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -365,7 +301,7 @@
             "link": "/items/1169255777",
             "price": 346,
             "name": "モスノウ S 233",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -373,55 +309,7 @@
             "link": "/items/1204459409",
             "price": 330,
             "name": "モスノウ S 233",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18639",
-            "price": 300,
-            "name": "モスノウ(S){水}",
-            "date": "2022-11-28",
-            "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17382",
-            "price": 480,
-            "name": "モスノウ233/19",
-            "date": "2022-11-28",
-            "stock": 13
-        },
-        {
-            "market": "magi",
-            "link": "/items/1169255777",
-            "price": 346,
-            "name": "モスノウ S 233",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/166429142",
-            "price": 350,
-            "name": "モスノウ S 233",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1204459409",
-            "price": 330,
-            "name": "モスノウ S 233",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/421060651",
-            "price": 1444,
-            "name": "モスノウ S 233",
-            "date": "2022-11-27",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -429,7 +317,7 @@
             "link": "/items/514155523",
             "price": 700,
             "name": "【2枚】ユキハミ S",
-            "date": "2022-11-27",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -437,16 +325,64 @@
             "link": "https://www.hareruya2.com/product/18639",
             "price": 300,
             "name": "モスノウ(S){水}",
-            "date": "2022-11-27",
-            "stock": 23
+            "date": "2022-12-16",
+            "stock": 21
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17382",
             "price": 480,
             "name": "モスノウ233/19",
-            "date": "2022-11-27",
-            "stock": 13
+            "date": "2022-12-16",
+            "stock": 14
+        },
+        {
+            "market": "magi",
+            "link": "/items/1169255777",
+            "price": 346,
+            "name": "モスノウ S 233",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1204459409",
+            "price": 330,
+            "name": "モスノウ S 233",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/166429142",
+            "price": 350,
+            "name": "モスノウ S 233",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/514155523",
+            "price": 700,
+            "name": "【2枚】ユキハミ S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18639",
+            "price": 300,
+            "name": "モスノウ(S){水}",
+            "date": "2022-12-15",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17382",
+            "price": 480,
+            "name": "モスノウ233/19",
+            "date": "2022-12-15",
+            "stock": 14
         }
     ]
 }

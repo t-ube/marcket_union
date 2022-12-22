@@ -5,7 +5,7 @@
             "link": "/items/1568276797",
             "price": 110,
             "name": "バイウールー S 3",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,7 +13,7 @@
             "link": "https://www.hareruya2.com/product/18709",
             "price": 200,
             "name": "バイウールー(S){",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 24
         },
         {
@@ -21,7 +21,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/17609",
             "price": 180,
             "name": "バイウールー303/",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 2
         },
         {
@@ -29,23 +29,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/30892",
             "price": 330,
             "name": "バイウールー303/",
-            "date": "2022-12-04",
-            "stock": 6
+            "date": "2022-12-22",
+            "stock": 10
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17452",
             "price": 380,
             "name": "バイウールー303/",
-            "date": "2022-12-04",
-            "stock": 7
+            "date": "2022-12-22",
+            "stock": 32
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g303-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇バイウ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 7
         },
         {
@@ -53,7 +53,7 @@
             "link": "/items/1568276797",
             "price": 110,
             "name": "バイウールー S 3",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -61,7 +61,7 @@
             "link": "https://www.hareruya2.com/product/18709",
             "price": 200,
             "name": "バイウールー(S){",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 24
         },
         {
@@ -69,7 +69,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/17609",
             "price": 180,
             "name": "バイウールー303/",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 2
         },
         {
@@ -77,23 +77,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/30892",
             "price": 330,
             "name": "バイウールー303/",
-            "date": "2022-12-03",
-            "stock": 6
+            "date": "2022-12-21",
+            "stock": 10
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17452",
             "price": 380,
             "name": "バイウールー303/",
-            "date": "2022-12-03",
-            "stock": 6
+            "date": "2022-12-21",
+            "stock": 30
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g303-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇バイウ",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 7
         },
         {
@@ -101,7 +101,7 @@
             "link": "/items/1568276797",
             "price": 110,
             "name": "バイウールー S 3",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -109,31 +109,79 @@
             "link": "https://www.hareruya2.com/product/18709",
             "price": 200,
             "name": "バイウールー(S){",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17452",
+            "price": 380,
+            "name": "バイウールー303/",
+            "date": "2022-12-20",
+            "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30892",
+            "price": 330,
+            "name": "バイウールー303/",
+            "date": "2022-12-20",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17609",
+            "price": 180,
+            "name": "バイウールー303/",
+            "date": "2022-12-20",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g303-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇バイウ",
+            "date": "2022-12-20",
+            "stock": 7
+        },
+        {
+            "market": "magi",
+            "link": "/items/1568276797",
+            "price": 110,
+            "name": "バイウールー S 3",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18709",
+            "price": 200,
+            "name": "バイウールー(S){",
+            "date": "2022-12-19",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17452",
+            "price": 380,
+            "name": "バイウールー303/",
+            "date": "2022-12-19",
             "stock": 24
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17452",
-            "price": 380,
-            "name": "バイウールー303/",
-            "date": "2022-12-02",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30892",
             "price": 330,
             "name": "バイウールー303/",
-            "date": "2022-12-02",
-            "stock": 6
+            "date": "2022-12-19",
+            "stock": 10
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17609",
             "price": 180,
             "name": "バイウールー303/",
-            "date": "2022-12-02",
+            "date": "2022-12-19",
             "stock": 2
         },
         {
@@ -141,7 +189,7 @@
             "link": "/shop/g/g303-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇バイウ",
-            "date": "2022-12-02",
+            "date": "2022-12-19",
             "stock": 7
         },
         {
@@ -149,7 +197,7 @@
             "link": "/items/1568276797",
             "price": 110,
             "name": "バイウールー S 3",
-            "date": "2022-12-01",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -157,55 +205,7 @@
             "link": "https://www.hareruya2.com/product/18709",
             "price": 200,
             "name": "バイウールー(S){",
-            "date": "2022-12-01",
-            "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30892",
-            "price": 330,
-            "name": "バイウールー303/",
-            "date": "2022-12-01",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17452",
-            "price": 380,
-            "name": "バイウールー303/",
-            "date": "2022-12-01",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17609",
-            "price": 180,
-            "name": "バイウールー303/",
-            "date": "2022-12-01",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g303-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇バイウ",
-            "date": "2022-12-01",
-            "stock": 7
-        },
-        {
-            "market": "magi",
-            "link": "/items/1568276797",
-            "price": 110,
-            "name": "バイウールー S 3",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18709",
-            "price": 200,
-            "name": "バイウールー(S){",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 23
         },
         {
@@ -213,31 +213,31 @@
             "link": "https://www.cardrush-pokemon.jp/product/17609",
             "price": 180,
             "name": "バイウールー303/",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17452",
-            "price": 380,
-            "name": "バイウールー303/",
-            "date": "2022-11-30",
-            "stock": 4
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30892",
             "price": 330,
             "name": "バイウールー303/",
-            "date": "2022-11-30",
-            "stock": 4
+            "date": "2022-12-18",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17452",
+            "price": 380,
+            "name": "バイウールー303/",
+            "date": "2022-12-18",
+            "stock": 24
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g303-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇バイウ",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 7
         },
         {
@@ -245,7 +245,7 @@
             "link": "/items/1568276797",
             "price": 110,
             "name": "バイウールー S 3",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -253,7 +253,103 @@
             "link": "https://www.hareruya2.com/product/18709",
             "price": 200,
             "name": "バイウールー(S){",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17452",
+            "price": 380,
+            "name": "バイウールー303/",
+            "date": "2022-12-17",
+            "stock": 24
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30892",
+            "price": 330,
+            "name": "バイウールー303/",
+            "date": "2022-12-17",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17609",
+            "price": 180,
+            "name": "バイウールー303/",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g303-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇バイウ",
+            "date": "2022-12-17",
+            "stock": 7
+        },
+        {
+            "market": "magi",
+            "link": "/items/1568276797",
+            "price": 110,
+            "name": "バイウールー S 3",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18709",
+            "price": 200,
+            "name": "バイウールー(S){",
+            "date": "2022-12-16",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17452",
+            "price": 380,
+            "name": "バイウールー303/",
+            "date": "2022-12-16",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30892",
+            "price": 330,
+            "name": "バイウールー303/",
+            "date": "2022-12-16",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17609",
+            "price": 180,
+            "name": "バイウールー303/",
+            "date": "2022-12-16",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g303-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇バイウ",
+            "date": "2022-12-16",
+            "stock": 7
+        },
+        {
+            "market": "magi",
+            "link": "/items/1568276797",
+            "price": 110,
+            "name": "バイウールー S 3",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18709",
+            "price": 200,
+            "name": "バイウールー(S){",
+            "date": "2022-12-15",
             "stock": 23
         },
         {
@@ -261,23 +357,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/30892",
             "price": 330,
             "name": "バイウールー303/",
-            "date": "2022-11-29",
-            "stock": 4
+            "date": "2022-12-15",
+            "stock": 8
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17452",
             "price": 380,
             "name": "バイウールー303/",
-            "date": "2022-11-29",
-            "stock": 4
+            "date": "2022-12-15",
+            "stock": 16
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17609",
             "price": 180,
             "name": "バイウールー303/",
-            "date": "2022-11-29",
+            "date": "2022-12-15",
             "stock": 2
         },
         {
@@ -285,103 +381,7 @@
             "link": "/shop/g/g303-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇バイウ",
-            "date": "2022-11-29",
-            "stock": 7
-        },
-        {
-            "market": "magi",
-            "link": "/items/1568276797",
-            "price": 110,
-            "name": "バイウールー S 3",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18709",
-            "price": 200,
-            "name": "バイウールー(S){",
-            "date": "2022-11-28",
-            "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30892",
-            "price": 330,
-            "name": "バイウールー303/",
-            "date": "2022-11-28",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17452",
-            "price": 380,
-            "name": "バイウールー303/",
-            "date": "2022-11-28",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17609",
-            "price": 180,
-            "name": "バイウールー303/",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g303-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇バイウ",
-            "date": "2022-11-28",
-            "stock": 7
-        },
-        {
-            "market": "magi",
-            "link": "/items/1568276797",
-            "price": 110,
-            "name": "バイウールー S 3",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18709",
-            "price": 200,
-            "name": "バイウールー(S){",
-            "date": "2022-11-27",
-            "stock": 22
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17452",
-            "price": 380,
-            "name": "バイウールー303/",
-            "date": "2022-11-27",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17609",
-            "price": 180,
-            "name": "バイウールー303/",
-            "date": "2022-11-27",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30892",
-            "price": 330,
-            "name": "バイウールー303/",
-            "date": "2022-11-27",
-            "stock": 4
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g303-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇バイウ",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 7
         }
     ]

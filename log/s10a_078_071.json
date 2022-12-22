@@ -2,26 +2,18 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/205633775",
-            "price": 550,
-            "name": "ヒスイマルマインV ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/715531899",
-            "price": 550,
-            "name": "ヒスイマルマインV ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/328875146",
             "price": 550,
             "name": "ヒスイマルマインV ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/746503385",
+            "price": 450,
+            "name": "ヒスイマルマインV ",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -29,7 +21,87 @@
             "link": "https://www.hareruya2.com/product/23474",
             "price": 800,
             "name": "ヒスイマルマインV(",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35416",
+            "price": 680,
+            "name": "ヒスイマルマインV0",
+            "date": "2022-12-22",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35357",
+            "price": 780,
+            "name": "ヒスイマルマインV0",
+            "date": "2022-12-22",
+            "stock": 98
+        },
+        {
+            "market": "magi",
+            "link": "/items/328875146",
+            "price": 550,
+            "name": "ヒスイマルマインV ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/746503385",
+            "price": 450,
+            "name": "ヒスイマルマインV ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23474",
+            "price": 800,
+            "name": "ヒスイマルマインV(",
+            "date": "2022-12-21",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35416",
+            "price": 680,
+            "name": "ヒスイマルマインV0",
+            "date": "2022-12-21",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35357",
+            "price": 780,
+            "name": "ヒスイマルマインV0",
+            "date": "2022-12-21",
+            "stock": 98
+        },
+        {
+            "market": "magi",
+            "link": "/items/746503385",
+            "price": 450,
+            "name": "ヒスイマルマインV ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/328875146",
+            "price": 550,
+            "name": "ヒスイマルマインV ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23474",
+            "price": 800,
+            "name": "ヒスイマルマインV(",
+            "date": "2022-12-20",
             "stock": 3
         },
         {
@@ -37,47 +109,31 @@
             "link": "https://www.cardrush-pokemon.jp/product/35357",
             "price": 780,
             "name": "ヒスイマルマインV0",
-            "date": "2022-12-04",
-            "stock": 58
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35466",
-            "price": 480,
-            "name": "ヒスイマルマインV0",
-            "date": "2022-12-04",
-            "stock": 1
+            "date": "2022-12-20",
+            "stock": 96
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35416",
             "price": 680,
             "name": "ヒスイマルマインV0",
-            "date": "2022-12-04",
-            "stock": 16
-        },
-        {
-            "market": "magi",
-            "link": "/items/205633775",
-            "price": 550,
-            "name": "ヒスイマルマインV ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/715531899",
-            "price": 550,
-            "name": "ヒスイマルマインV ",
-            "date": "2022-12-03",
-            "stock": 1
+            "date": "2022-12-20",
+            "stock": 21
         },
         {
             "market": "magi",
             "link": "/items/328875146",
             "price": 550,
             "name": "ヒスイマルマインV ",
-            "date": "2022-12-03",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/746503385",
+            "price": 450,
+            "name": "ヒスイマルマインV ",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -85,7 +141,47 @@
             "link": "https://www.hareruya2.com/product/23474",
             "price": 800,
             "name": "ヒスイマルマインV(",
-            "date": "2022-12-03",
+            "date": "2022-12-19",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35416",
+            "price": 680,
+            "name": "ヒスイマルマインV0",
+            "date": "2022-12-19",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35357",
+            "price": 780,
+            "name": "ヒスイマルマインV0",
+            "date": "2022-12-19",
+            "stock": 96
+        },
+        {
+            "market": "magi",
+            "link": "/items/328875146",
+            "price": 550,
+            "name": "ヒスイマルマインV ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/746503385",
+            "price": 500,
+            "name": "ヒスイマルマインV ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23474",
+            "price": 800,
+            "name": "ヒスイマルマインV(",
+            "date": "2022-12-18",
             "stock": 3
         },
         {
@@ -93,39 +189,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/35357",
             "price": 780,
             "name": "ヒスイマルマインV0",
-            "date": "2022-12-03",
-            "stock": 58
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35466",
-            "price": 480,
-            "name": "ヒスイマルマインV0",
-            "date": "2022-12-03",
-            "stock": 1
+            "date": "2022-12-18",
+            "stock": 96
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35416",
             "price": 680,
             "name": "ヒスイマルマインV0",
-            "date": "2022-12-03",
-            "stock": 16
+            "date": "2022-12-18",
+            "stock": 21
         },
         {
             "market": "magi",
-            "link": "/items/205633775",
-            "price": 550,
+            "link": "/items/746503385",
+            "price": 500,
             "name": "ヒスイマルマインV ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/715531899",
-            "price": 550,
-            "name": "ヒスイマルマインV ",
-            "date": "2022-12-02",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -133,7 +213,7 @@
             "link": "/items/328875146",
             "price": 550,
             "name": "ヒスイマルマインV ",
-            "date": "2022-12-02",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -141,47 +221,71 @@
             "link": "https://www.hareruya2.com/product/23474",
             "price": 800,
             "name": "ヒスイマルマインV(",
-            "date": "2022-12-02",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35466",
-            "price": 480,
-            "name": "ヒスイマルマインV0",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35357",
-            "price": 780,
-            "name": "ヒスイマルマインV0",
-            "date": "2022-12-02",
-            "stock": 58
+            "date": "2022-12-17",
+            "stock": 3
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35416",
             "price": 680,
             "name": "ヒスイマルマインV0",
-            "date": "2022-12-02",
-            "stock": 14
+            "date": "2022-12-17",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35357",
+            "price": 780,
+            "name": "ヒスイマルマインV0",
+            "date": "2022-12-17",
+            "stock": 96
         },
         {
             "market": "magi",
-            "link": "/items/205633775",
+            "link": "/items/328875146",
             "price": 550,
             "name": "ヒスイマルマインV ",
-            "date": "2022-12-01",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/715531899",
-            "price": 550,
+            "link": "/items/746503385",
+            "price": 500,
             "name": "ヒスイマルマインV ",
-            "date": "2022-12-01",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23474",
+            "price": 800,
+            "name": "ヒスイマルマインV(",
+            "date": "2022-12-16",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35357",
+            "price": 780,
+            "name": "ヒスイマルマインV0",
+            "date": "2022-12-16",
+            "stock": 96
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35416",
+            "price": 680,
+            "name": "ヒスイマルマインV0",
+            "date": "2022-12-16",
+            "stock": 21
+        },
+        {
+            "market": "magi",
+            "link": "/items/746503385",
+            "price": 500,
+            "name": "ヒスイマルマインV ",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -189,7 +293,7 @@
             "link": "/items/328875146",
             "price": 550,
             "name": "ヒスイマルマインV ",
-            "date": "2022-12-01",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -197,256 +301,24 @@
             "link": "https://www.hareruya2.com/product/23474",
             "price": 800,
             "name": "ヒスイマルマインV(",
-            "date": "2022-12-01",
-            "stock": 5
+            "date": "2022-12-15",
+            "stock": 3
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35416",
             "price": 680,
             "name": "ヒスイマルマインV0",
-            "date": "2022-12-01",
-            "stock": 14
+            "date": "2022-12-15",
+            "stock": 21
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35357",
             "price": 780,
             "name": "ヒスイマルマインV0",
-            "date": "2022-12-01",
-            "stock": 58
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35466",
-            "price": 480,
-            "name": "ヒスイマルマインV0",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/715531899",
-            "price": 550,
-            "name": "ヒスイマルマインV ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/328875146",
-            "price": 550,
-            "name": "ヒスイマルマインV ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/205633775",
-            "price": 550,
-            "name": "ヒスイマルマインV ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23474",
-            "price": 800,
-            "name": "ヒスイマルマインV(",
-            "date": "2022-11-30",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35357",
-            "price": 780,
-            "name": "ヒスイマルマインV0",
-            "date": "2022-11-30",
-            "stock": 58
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35466",
-            "price": 480,
-            "name": "ヒスイマルマインV0",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35416",
-            "price": 680,
-            "name": "ヒスイマルマインV0",
-            "date": "2022-11-30",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/715531899",
-            "price": 550,
-            "name": "ヒスイマルマインV ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/205633775",
-            "price": 550,
-            "name": "ヒスイマルマインV ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/328875146",
-            "price": 550,
-            "name": "ヒスイマルマインV ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23474",
-            "price": 800,
-            "name": "ヒスイマルマインV(",
-            "date": "2022-11-29",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35466",
-            "price": 480,
-            "name": "ヒスイマルマインV0",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35357",
-            "price": 780,
-            "name": "ヒスイマルマインV0",
-            "date": "2022-11-29",
-            "stock": 58
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35416",
-            "price": 680,
-            "name": "ヒスイマルマインV0",
-            "date": "2022-11-29",
-            "stock": 10
-        },
-        {
-            "market": "magi",
-            "link": "/items/328875146",
-            "price": 550,
-            "name": "ヒスイマルマインV ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/715531899",
-            "price": 550,
-            "name": "ヒスイマルマインV ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/205633775",
-            "price": 550,
-            "name": "ヒスイマルマインV ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23474",
-            "price": 800,
-            "name": "ヒスイマルマインV(",
-            "date": "2022-11-28",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35466",
-            "price": 480,
-            "name": "ヒスイマルマインV0",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35416",
-            "price": 680,
-            "name": "ヒスイマルマインV0",
-            "date": "2022-11-28",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35357",
-            "price": 780,
-            "name": "ヒスイマルマインV0",
-            "date": "2022-11-28",
-            "stock": 58
-        },
-        {
-            "market": "magi",
-            "link": "/items/715531899",
-            "price": 550,
-            "name": "ヒスイマルマインV ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/328875146",
-            "price": 550,
-            "name": "ヒスイマルマインV ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/205633775",
-            "price": 550,
-            "name": "ヒスイマルマインV ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23474",
-            "price": 800,
-            "name": "ヒスイマルマインV(",
-            "date": "2022-11-27",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35416",
-            "price": 680,
-            "name": "ヒスイマルマインV0",
-            "date": "2022-11-27",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35357",
-            "price": 780,
-            "name": "ヒスイマルマインV0",
-            "date": "2022-11-27",
-            "stock": 58
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35466",
-            "price": 480,
-            "name": "ヒスイマルマインV0",
-            "date": "2022-11-27",
-            "stock": 1
+            "date": "2022-12-15",
+            "stock": 90
         }
     ]
 }

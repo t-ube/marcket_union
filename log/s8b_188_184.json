@@ -2,18 +2,74 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1167958726",
-            "price": 400,
-            "name": "ブースター CHR ",
-            "date": "2022-12-04",
+            "link": "/items/662816383",
+            "price": 500,
+            "name": "イーブイ CHR 2",
+            "date": "2022-12-22",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21335",
+            "price": 320,
+            "name": "ブースター(CHR)",
+            "date": "2022-12-22",
+            "stock": 166
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22967",
+            "price": 380,
+            "name": "ブースター188/1",
+            "date": "2022-12-22",
+            "stock": 73
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g188-184-S8B-B/",
+            "price": 330,
+            "name": "【ポケカ】ＣＨＲ◇ブ",
+            "date": "2022-12-22",
+            "stock": 12
         },
         {
             "market": "magi",
             "link": "/items/662816383",
             "price": 500,
             "name": "イーブイ CHR 2",
-            "date": "2022-12-04",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21335",
+            "price": 320,
+            "name": "ブースター(CHR)",
+            "date": "2022-12-21",
+            "stock": 166
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22967",
+            "price": 380,
+            "name": "ブースター188/1",
+            "date": "2022-12-21",
+            "stock": 73
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g188-184-S8B-B/",
+            "price": 330,
+            "name": "【ポケカ】ＣＨＲ◇ブ",
+            "date": "2022-12-21",
+            "stock": 12
+        },
+        {
+            "market": "magi",
+            "link": "/items/662816383",
+            "price": 500,
+            "name": "イーブイ CHR 2",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -21,87 +77,215 @@
             "link": "https://www.hareruya2.com/product/21335",
             "price": 400,
             "name": "ブースター(CHR)",
-            "date": "2022-12-04",
-            "stock": 163
+            "date": "2022-12-20",
+            "stock": 164
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33005",
+            "price": 330,
+            "name": "ブースター188/1",
+            "date": "2022-12-20",
+            "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22967",
             "price": 380,
             "name": "ブースター188/1",
-            "date": "2022-12-04",
+            "date": "2022-12-20",
+            "stock": 78
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g188-184-S8B-B/",
+            "price": 330,
+            "name": "【ポケカ】ＣＨＲ◇ブ",
+            "date": "2022-12-20",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/1167958726",
+            "price": 300,
+            "name": "ブースター CHR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/662816383",
+            "price": 500,
+            "name": "イーブイ CHR 2",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21335",
+            "price": 400,
+            "name": "ブースター(CHR)",
+            "date": "2022-12-19",
+            "stock": 164
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22967",
+            "price": 380,
+            "name": "ブースター188/1",
+            "date": "2022-12-19",
+            "stock": 78
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33005",
+            "price": 330,
+            "name": "ブースター188/1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g188-184-S8B-B/",
+            "price": 330,
+            "name": "【ポケカ】ＣＨＲ◇ブ",
+            "date": "2022-12-19",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/662816383",
+            "price": 500,
+            "name": "イーブイ CHR 2",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1167958726",
+            "price": 300,
+            "name": "ブースター CHR ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21335",
+            "price": 400,
+            "name": "ブースター(CHR)",
+            "date": "2022-12-18",
+            "stock": 164
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22967",
+            "price": 380,
+            "name": "ブースター188/1",
+            "date": "2022-12-18",
+            "stock": 82
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33005",
+            "price": 330,
+            "name": "ブースター188/1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g188-184-S8B-B/",
+            "price": 330,
+            "name": "【ポケカ】ＣＨＲ◇ブ",
+            "date": "2022-12-18",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/662816383",
+            "price": 500,
+            "name": "イーブイ CHR 2",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1167958726",
+            "price": 300,
+            "name": "ブースター CHR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21335",
+            "price": 400,
+            "name": "ブースター(CHR)",
+            "date": "2022-12-17",
+            "stock": 164
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22967",
+            "price": 380,
+            "name": "ブースター188/1",
+            "date": "2022-12-17",
+            "stock": 81
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g188-184-S8B-B/",
+            "price": 330,
+            "name": "【ポケカ】ＣＨＲ◇ブ",
+            "date": "2022-12-17",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/1167958726",
+            "price": 300,
+            "name": "ブースター CHR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/662816383",
+            "price": 500,
+            "name": "イーブイ CHR 2",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21335",
+            "price": 400,
+            "name": "ブースター(CHR)",
+            "date": "2022-12-16",
+            "stock": 164
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22967",
+            "price": 380,
+            "name": "ブースター188/1",
+            "date": "2022-12-16",
             "stock": 72
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33005",
-            "price": 330,
-            "name": "ブースター188/1",
-            "date": "2022-12-04",
-            "stock": 6
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g188-184-S8B-B/",
             "price": 330,
             "name": "【ポケカ】ＣＨＲ◇ブ",
-            "date": "2022-12-04",
-            "stock": 10
-        },
-        {
-            "market": "magi",
-            "link": "/items/662816383",
-            "price": 500,
-            "name": "イーブイ CHR 2",
-            "date": "2022-12-03",
-            "stock": 1
+            "date": "2022-12-16",
+            "stock": 11
         },
         {
             "market": "magi",
             "link": "/items/1167958726",
-            "price": 400,
+            "price": 300,
             "name": "ブースター CHR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21335",
-            "price": 400,
-            "name": "ブースター(CHR)",
-            "date": "2022-12-03",
-            "stock": 163
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22967",
-            "price": 380,
-            "name": "ブースター188/1",
-            "date": "2022-12-03",
-            "stock": 71
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33005",
-            "price": 330,
-            "name": "ブースター188/1",
-            "date": "2022-12-03",
-            "stock": 6
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g188-184-S8B-B/",
-            "price": 330,
-            "name": "【ポケカ】ＣＨＲ◇ブ",
-            "date": "2022-12-03",
-            "stock": 10
-        },
-        {
-            "market": "magi",
-            "link": "/items/1167958726",
-            "price": 400,
-            "name": "ブースター CHR ",
-            "date": "2022-12-02",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -109,7 +293,7 @@
             "link": "/items/662816383",
             "price": 500,
             "name": "イーブイ CHR 2",
-            "date": "2022-12-02",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -117,320 +301,24 @@
             "link": "https://www.hareruya2.com/product/21335",
             "price": 400,
             "name": "ブースター(CHR)",
-            "date": "2022-12-02",
-            "stock": 163
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24725",
-            "price": 180,
-            "name": "ブースター188/1",
-            "date": "2022-12-02",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33005",
-            "price": 330,
-            "name": "ブースター188/1",
-            "date": "2022-12-02",
-            "stock": 2
+            "date": "2022-12-15",
+            "stock": 164
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22967",
             "price": 380,
             "name": "ブースター188/1",
-            "date": "2022-12-02",
-            "stock": 71
+            "date": "2022-12-15",
+            "stock": 70
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g188-184-S8B-B/",
             "price": 330,
             "name": "【ポケカ】ＣＨＲ◇ブ",
-            "date": "2022-12-02",
-            "stock": 10
-        },
-        {
-            "market": "magi",
-            "link": "/items/662816383",
-            "price": 500,
-            "name": "イーブイ CHR 2",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1167958726",
-            "price": 400,
-            "name": "ブースター CHR ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21335",
-            "price": 400,
-            "name": "ブースター(CHR)",
-            "date": "2022-12-01",
-            "stock": 158
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24725",
-            "price": 180,
-            "name": "ブースター188/1",
-            "date": "2022-12-01",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33005",
-            "price": 330,
-            "name": "ブースター188/1",
-            "date": "2022-12-01",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22967",
-            "price": 380,
-            "name": "ブースター188/1",
-            "date": "2022-12-01",
-            "stock": 71
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g188-184-S8B-B/",
-            "price": 330,
-            "name": "【ポケカ】ＣＨＲ◇ブ",
-            "date": "2022-12-01",
-            "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/662816383",
-            "price": 500,
-            "name": "イーブイ CHR 2",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1167958726",
-            "price": 400,
-            "name": "ブースター CHR ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21335",
-            "price": 400,
-            "name": "ブースター(CHR)",
-            "date": "2022-11-30",
-            "stock": 159
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22967",
-            "price": 380,
-            "name": "ブースター188/1",
-            "date": "2022-11-30",
-            "stock": 69
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33005",
-            "price": 330,
-            "name": "ブースター188/1",
-            "date": "2022-11-30",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24725",
-            "price": 180,
-            "name": "ブースター188/1",
-            "date": "2022-11-30",
-            "stock": 3
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g188-184-S8B-B/",
-            "price": 330,
-            "name": "【ポケカ】ＣＨＲ◇ブ",
-            "date": "2022-11-30",
-            "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/1167958726",
-            "price": 400,
-            "name": "ブースター CHR ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/662816383",
-            "price": 500,
-            "name": "イーブイ CHR 2",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21335",
-            "price": 400,
-            "name": "ブースター(CHR)",
-            "date": "2022-11-29",
-            "stock": 159
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24725",
-            "price": 180,
-            "name": "ブースター188/1",
-            "date": "2022-11-29",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33005",
-            "price": 330,
-            "name": "ブースター188/1",
-            "date": "2022-11-29",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22967",
-            "price": 380,
-            "name": "ブースター188/1",
-            "date": "2022-11-29",
-            "stock": 71
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g188-184-S8B-B/",
-            "price": 330,
-            "name": "【ポケカ】ＣＨＲ◇ブ",
-            "date": "2022-11-29",
-            "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/662816383",
-            "price": 500,
-            "name": "イーブイ CHR 2",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1167958726",
-            "price": 400,
-            "name": "ブースター CHR ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21335",
-            "price": 400,
-            "name": "ブースター(CHR)",
-            "date": "2022-11-28",
-            "stock": 159
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24725",
-            "price": 180,
-            "name": "ブースター188/1",
-            "date": "2022-11-28",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33005",
-            "price": 330,
-            "name": "ブースター188/1",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22967",
-            "price": 380,
-            "name": "ブースター188/1",
-            "date": "2022-11-28",
-            "stock": 124
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g188-184-S8B-B/",
-            "price": 330,
-            "name": "【ポケカ】ＣＨＲ◇ブ",
-            "date": "2022-11-28",
-            "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/662816383",
-            "price": 500,
-            "name": "イーブイ CHR 2",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1167958726",
-            "price": 400,
-            "name": "ブースター CHR ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21335",
-            "price": 400,
-            "name": "ブースター(CHR)",
-            "date": "2022-11-27",
-            "stock": 154
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33005",
-            "price": 330,
-            "name": "ブースター188/1",
-            "date": "2022-11-27",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24725",
-            "price": 180,
-            "name": "ブースター188/1",
-            "date": "2022-11-27",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22967",
-            "price": 380,
-            "name": "ブースター188/1",
-            "date": "2022-11-27",
-            "stock": 118
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g188-184-S8B-B/",
-            "price": 330,
-            "name": "【ポケカ】ＣＨＲ◇ブ",
-            "date": "2022-11-27",
-            "stock": 9
+            "date": "2022-12-15",
+            "stock": 11
         }
     ]
 }

@@ -1,19 +1,27 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18337",
+            "price": 50,
+            "name": "マホイップ(U){超",
+            "date": "2022-12-22",
+            "stock": 8
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14506",
             "price": 80,
             "name": "マホイップ052/1",
-            "date": "2022-12-04",
-            "stock": 100
+            "date": "2022-12-22",
+            "stock": 98
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g052-100-S4-B/",
             "price": 99,
             "name": "【ポケカ】Ｕ◇マホイ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 7
         },
         {
@@ -21,7 +29,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/14506",
             "price": 80,
             "name": "マホイップ052/1",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 98
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g052-100-S4-B/",
+            "price": 99,
+            "name": "【ポケカ】Ｕ◇マホイ",
+            "date": "2022-12-21",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14506",
+            "price": 80,
+            "name": "マホイップ052/1",
+            "date": "2022-12-20",
             "stock": 100
         },
         {
@@ -29,15 +53,15 @@
             "link": "/shop/g/g052-100-S4-B/",
             "price": 99,
             "name": "【ポケカ】Ｕ◇マホイ",
-            "date": "2022-12-03",
-            "stock": 11
+            "date": "2022-12-20",
+            "stock": 7
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14506",
             "price": 80,
             "name": "マホイップ052/1",
-            "date": "2022-12-02",
+            "date": "2022-12-19",
             "stock": 100
         },
         {
@@ -45,15 +69,15 @@
             "link": "/shop/g/g052-100-S4-B/",
             "price": 99,
             "name": "【ポケカ】Ｕ◇マホイ",
-            "date": "2022-12-02",
-            "stock": 11
+            "date": "2022-12-19",
+            "stock": 7
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14506",
             "price": 80,
             "name": "マホイップ052/1",
-            "date": "2022-12-01",
+            "date": "2022-12-18",
             "stock": 100
         },
         {
@@ -61,15 +85,15 @@
             "link": "/shop/g/g052-100-S4-B/",
             "price": 99,
             "name": "【ポケカ】Ｕ◇マホイ",
-            "date": "2022-12-01",
-            "stock": 11
+            "date": "2022-12-18",
+            "stock": 7
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14506",
             "price": 80,
             "name": "マホイップ052/1",
-            "date": "2022-11-30",
+            "date": "2022-12-17",
             "stock": 100
         },
         {
@@ -77,15 +101,15 @@
             "link": "/shop/g/g052-100-S4-B/",
             "price": 99,
             "name": "【ポケカ】Ｕ◇マホイ",
-            "date": "2022-11-30",
-            "stock": 11
+            "date": "2022-12-17",
+            "stock": 7
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14506",
             "price": 80,
             "name": "マホイップ052/1",
-            "date": "2022-11-29",
+            "date": "2022-12-16",
             "stock": 100
         },
         {
@@ -93,40 +117,24 @@
             "link": "/shop/g/g052-100-S4-B/",
             "price": 99,
             "name": "【ポケカ】Ｕ◇マホイ",
-            "date": "2022-11-29",
-            "stock": 11
+            "date": "2022-12-16",
+            "stock": 7
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14506",
             "price": 80,
             "name": "マホイップ052/1",
-            "date": "2022-11-28",
-            "stock": 101
+            "date": "2022-12-15",
+            "stock": 100
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g052-100-S4-B/",
             "price": 99,
             "name": "【ポケカ】Ｕ◇マホイ",
-            "date": "2022-11-28",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14506",
-            "price": 80,
-            "name": "マホイップ052/1",
-            "date": "2022-11-27",
-            "stock": 101
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g052-100-S4-B/",
-            "price": 99,
-            "name": "【ポケカ】Ｕ◇マホイ",
-            "date": "2022-11-27",
-            "stock": 11
+            "date": "2022-12-15",
+            "stock": 7
         }
     ]
 }

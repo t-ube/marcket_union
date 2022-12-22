@@ -2,34 +2,18 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1001310317",
+            "price": 110,
+            "name": "特価 ヒスイヌメルゴ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2109177287",
             "price": 150,
             "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/508993597",
-            "price": 450,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/731398909",
-            "price": 160,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/835139673",
-            "price": 1350,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -37,7 +21,39 @@
             "link": "/items/1625667257",
             "price": 300,
             "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/835139673",
+            "price": 1350,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/508993597",
+            "price": 450,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1592486985",
+            "price": 112,
+            "name": "【４枚セット】ヒスイ",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1486961849",
+            "price": 200,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -45,111 +61,191 @@
             "link": "https://www.hareruya2.com/product/23392",
             "price": 150,
             "name": "ヒスイヌメルゴンV(",
-            "date": "2022-12-04",
-            "stock": 163
+            "date": "2022-12-22",
+            "stock": 180
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35544",
             "price": 120,
             "name": "ヒスイヌメルゴンV0",
-            "date": "2022-12-04",
-            "stock": 16
+            "date": "2022-12-22",
+            "stock": 22
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35280",
             "price": 180,
             "name": "ヒスイヌメルゴンV0",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 123
+        },
+        {
+            "market": "magi",
+            "link": "/items/835139673",
+            "price": 1350,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2109177287",
+            "price": 150,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1625667257",
+            "price": 300,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1592486985",
+            "price": 112,
+            "name": "【４枚セット】ヒスイ",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1486961849",
+            "price": 200,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1001310317",
+            "price": 110,
+            "name": "特価 ヒスイヌメルゴ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/508993597",
+            "price": 450,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23392",
+            "price": 150,
+            "name": "ヒスイヌメルゴンV(",
+            "date": "2022-12-21",
+            "stock": 180
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35544",
+            "price": 120,
+            "name": "ヒスイヌメルゴンV0",
+            "date": "2022-12-21",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35280",
+            "price": 180,
+            "name": "ヒスイヌメルゴンV0",
+            "date": "2022-12-21",
+            "stock": 124
+        },
+        {
+            "market": "magi",
+            "link": "/items/508993597",
+            "price": 450,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1625667257",
+            "price": 300,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1592486985",
+            "price": 112,
+            "name": "【４枚セット】ヒスイ",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1486961849",
+            "price": 200,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1001310317",
+            "price": 110,
+            "name": "特価 ヒスイヌメルゴ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/835139673",
+            "price": 1350,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2109177287",
+            "price": 150,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23392",
+            "price": 150,
+            "name": "ヒスイヌメルゴンV(",
+            "date": "2022-12-20",
             "stock": 169
         },
         {
-            "market": "magi",
-            "link": "/items/508993597",
-            "price": 450,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2109177287",
-            "price": 150,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/731398909",
-            "price": 160,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/835139673",
-            "price": 1350,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1625667257",
-            "price": 300,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23392",
-            "price": 150,
-            "name": "ヒスイヌメルゴンV(",
-            "date": "2022-12-03",
-            "stock": 166
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35280",
             "price": 180,
             "name": "ヒスイヌメルゴンV0",
-            "date": "2022-12-03",
-            "stock": 173
+            "date": "2022-12-20",
+            "stock": 128
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35544",
             "price": 120,
             "name": "ヒスイヌメルゴンV0",
-            "date": "2022-12-03",
-            "stock": 19
+            "date": "2022-12-20",
+            "stock": 23
         },
         {
             "market": "magi",
-            "link": "/items/731398909",
-            "price": 160,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2109177287",
-            "price": 150,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/835139673",
-            "price": 1350,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-02",
+            "link": "/items/1001310317",
+            "price": 110,
+            "name": "特価 ヒスイヌメルゴ",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -157,63 +253,7 @@
             "link": "/items/1625667257",
             "price": 300,
             "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/508993597",
-            "price": 450,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23392",
-            "price": 150,
-            "name": "ヒスイヌメルゴンV(",
-            "date": "2022-12-02",
-            "stock": 166
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35544",
-            "price": 120,
-            "name": "ヒスイヌメルゴンV0",
-            "date": "2022-12-02",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35280",
-            "price": 180,
-            "name": "ヒスイヌメルゴンV0",
-            "date": "2022-12-02",
-            "stock": 180
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35461",
-            "price": 80,
-            "name": "ヒスイヌメルゴンV0",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/731398909",
-            "price": 160,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/508993597",
-            "price": 450,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -221,103 +261,39 @@
             "link": "/items/2109177287",
             "price": 150,
             "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1625667257",
-            "price": 300,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/835139673",
-            "price": 1350,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1766641163",
+            "link": "/items/1486961849",
             "price": 200,
             "name": "ヒスイヌメルゴンV ",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23392",
-            "price": 150,
-            "name": "ヒスイヌメルゴンV(",
-            "date": "2022-12-01",
-            "stock": 158
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35461",
-            "price": 80,
-            "name": "ヒスイヌメルゴンV0",
-            "date": "2022-12-01",
+            "market": "magi",
+            "link": "/items/835139673",
+            "price": 1350,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35544",
-            "price": 120,
-            "name": "ヒスイヌメルゴンV0",
-            "date": "2022-12-01",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35280",
-            "price": 180,
-            "name": "ヒスイヌメルゴンV0",
-            "date": "2022-12-01",
-            "stock": 180
+            "market": "magi",
+            "link": "/items/1592486985",
+            "price": 112,
+            "name": "【４枚セット】ヒスイ",
+            "date": "2022-12-19",
+            "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/508993597",
             "price": 450,
             "name": "ヒスイヌメルゴンV ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2109177287",
-            "price": 150,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/835139673",
-            "price": 1350,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1625667257",
-            "price": 300,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/731398909",
-            "price": 160,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-11-30",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -325,39 +301,39 @@
             "link": "https://www.hareruya2.com/product/23392",
             "price": 150,
             "name": "ヒスイヌメルゴンV(",
-            "date": "2022-11-30",
-            "stock": 158
+            "date": "2022-12-19",
+            "stock": 169
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35544",
             "price": 120,
             "name": "ヒスイヌメルゴンV0",
-            "date": "2022-11-30",
-            "stock": 20
+            "date": "2022-12-19",
+            "stock": 23
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35280",
             "price": 180,
             "name": "ヒスイヌメルゴンV0",
-            "date": "2022-11-30",
-            "stock": 181
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35461",
-            "price": 80,
-            "name": "ヒスイヌメルゴンV0",
-            "date": "2022-11-30",
-            "stock": 1
+            "date": "2022-12-19",
+            "stock": 128
         },
         {
             "market": "magi",
-            "link": "/items/1625667257",
-            "price": 300,
+            "link": "/items/1592486985",
+            "price": 112,
+            "name": "【４枚セット】ヒスイ",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1486961849",
+            "price": 200,
             "name": "ヒスイヌメルゴンV ",
-            "date": "2022-11-29",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -365,15 +341,7 @@
             "link": "/items/835139673",
             "price": 1350,
             "name": "ヒスイヌメルゴンV ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2109177287",
-            "price": 150,
-            "name": "ヒスイヌメルゴンV ",
-            "date": "2022-11-29",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -381,15 +349,31 @@
             "link": "/items/508993597",
             "price": 450,
             "name": "ヒスイヌメルゴンV ",
-            "date": "2022-11-29",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/731398909",
-            "price": 160,
+            "link": "/items/1001310317",
+            "price": 110,
+            "name": "特価 ヒスイヌメルゴ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2109177287",
+            "price": 150,
             "name": "ヒスイヌメルゴンV ",
-            "date": "2022-11-29",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1625667257",
+            "price": 300,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -397,23 +381,111 @@
             "link": "https://www.hareruya2.com/product/23392",
             "price": 150,
             "name": "ヒスイヌメルゴンV(",
-            "date": "2022-11-29",
-            "stock": 158
+            "date": "2022-12-18",
+            "stock": 175
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35544",
+            "price": 120,
+            "name": "ヒスイヌメルゴンV0",
+            "date": "2022-12-18",
+            "stock": 25
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35280",
             "price": 180,
             "name": "ヒスイヌメルゴンV0",
-            "date": "2022-11-29",
-            "stock": 201
+            "date": "2022-12-18",
+            "stock": 129
+        },
+        {
+            "market": "magi",
+            "link": "/items/835139673",
+            "price": 1350,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2109177287",
+            "price": 150,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/508993597",
+            "price": 450,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1486961849",
+            "price": 200,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1625667257",
+            "price": 300,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1592486985",
+            "price": 112,
+            "name": "【４枚セット】ヒスイ",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1001310317",
+            "price": 110,
+            "name": "特価 ヒスイヌメルゴ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23392",
+            "price": 150,
+            "name": "ヒスイヌメルゴンV(",
+            "date": "2022-12-17",
+            "stock": 164
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35461",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/35280",
+            "price": 180,
             "name": "ヒスイヌメルゴンV0",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
+            "stock": 129
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35544",
+            "price": 120,
+            "name": "ヒスイヌメルゴンV0",
+            "date": "2022-12-17",
+            "stock": 25
+        },
+        {
+            "market": "magi",
+            "link": "/items/1486961849",
+            "price": 200,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -421,15 +493,47 @@
             "link": "/items/835139673",
             "price": 1350,
             "name": "ヒスイヌメルゴンV ",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/731398909",
-            "price": 160,
+            "link": "/items/1625667257",
+            "price": 300,
             "name": "ヒスイヌメルゴンV ",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1592486985",
+            "price": 112,
+            "name": "【４枚セット】ヒスイ",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2109177287",
+            "price": 150,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/508993597",
+            "price": 450,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1001310317",
+            "price": 110,
+            "name": "特価 ヒスイヌメルゴ",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -437,39 +541,63 @@
             "link": "https://www.hareruya2.com/product/23392",
             "price": 150,
             "name": "ヒスイヌメルゴンV(",
-            "date": "2022-11-28",
-            "stock": 158
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35544",
-            "price": 120,
-            "name": "ヒスイヌメルゴンV0",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35461",
-            "price": 80,
-            "name": "ヒスイヌメルゴンV0",
-            "date": "2022-11-28",
-            "stock": 1
+            "date": "2022-12-16",
+            "stock": 167
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35280",
             "price": 180,
             "name": "ヒスイヌメルゴンV0",
-            "date": "2022-11-28",
-            "stock": 203
+            "date": "2022-12-16",
+            "stock": 129
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35544",
+            "price": 120,
+            "name": "ヒスイヌメルゴンV0",
+            "date": "2022-12-16",
+            "stock": 26
         },
         {
             "market": "magi",
-            "link": "/items/731398909",
-            "price": 160,
+            "link": "/items/1486961849",
+            "price": 200,
             "name": "ヒスイヌメルゴンV ",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1592486985",
+            "price": 112,
+            "name": "【４枚セット】ヒスイ",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/508993597",
+            "price": 450,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2109177287",
+            "price": 150,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1001310317",
+            "price": 110,
+            "name": "特価 ヒスイヌメルゴ",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -477,7 +605,15 @@
             "link": "/items/835139673",
             "price": 1350,
             "name": "ヒスイヌメルゴンV ",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1625667257",
+            "price": 300,
+            "name": "ヒスイヌメルゴンV ",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -485,32 +621,24 @@
             "link": "https://www.hareruya2.com/product/23392",
             "price": 150,
             "name": "ヒスイヌメルゴンV(",
-            "date": "2022-11-27",
-            "stock": 147
+            "date": "2022-12-15",
+            "stock": 167
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35280",
             "price": 180,
             "name": "ヒスイヌメルゴンV0",
-            "date": "2022-11-27",
-            "stock": 203
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35461",
-            "price": 80,
-            "name": "ヒスイヌメルゴンV0",
-            "date": "2022-11-27",
-            "stock": 1
+            "date": "2022-12-15",
+            "stock": 129
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35544",
             "price": 120,
             "name": "ヒスイヌメルゴンV0",
-            "date": "2022-11-27",
-            "stock": 2
+            "date": "2022-12-15",
+            "stock": 26
         }
     ]
 }

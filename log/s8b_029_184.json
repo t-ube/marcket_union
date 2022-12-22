@@ -2,18 +2,10 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/38588540",
+            "link": "/items/2134139238",
             "price": 100,
-            "name": "【Ｄ】げきりゅうのめ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/400111724",
-            "price": 100,
-            "name": "【Ｄ特価】シャワーズ",
-            "date": "2022-12-04",
+            "name": "シャワーズ 029/",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -21,7 +13,23 @@
             "link": "/items/1475538967",
             "price": 300,
             "name": "シャワーズ 029/",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/38588540",
+            "price": 100,
+            "name": "【Ｄ】げきりゅうのめ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/400111724",
+            "price": 100,
+            "name": "【Ｄ特価】シャワーズ",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -29,15 +37,7 @@
             "link": "/items/372100679",
             "price": 100,
             "name": "シャワーズ 029/",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2134139238",
-            "price": 100,
-            "name": "シャワーズ 029/",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -45,7 +45,7 @@
             "link": "https://www.hareruya2.com/product/21000",
             "price": 50,
             "name": "シャワーズ(CP){",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 19
         },
         {
@@ -53,23 +53,23 @@
             "link": "https://www.hareruya2.com/product/21213",
             "price": 150,
             "name": "シャワーズ:ミラー(",
-            "date": "2022-12-04",
-            "stock": 25
+            "date": "2022-12-22",
+            "stock": 27
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22670",
             "price": 30,
             "name": "シャワーズ029/1",
-            "date": "2022-12-04",
-            "stock": 129
+            "date": "2022-12-22",
+            "stock": 127
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22845",
             "price": 120,
             "name": "シャワーズ029/1",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -77,31 +77,23 @@
             "link": "/shop/g/g029-184-S8B-BM/",
             "price": 110,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-04",
-            "stock": 5
+            "date": "2022-12-22",
+            "stock": 4
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g029-184-S8B-B/",
             "price": 33,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-04",
-            "stock": 20
-        },
-        {
-            "market": "magi",
-            "link": "/items/2134139238",
-            "price": 100,
-            "name": "シャワーズ 029/",
-            "date": "2022-12-03",
-            "stock": 1
+            "date": "2022-12-22",
+            "stock": 10
         },
         {
             "market": "magi",
             "link": "/items/400111724",
             "price": 100,
             "name": "【Ｄ特価】シャワーズ",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -109,15 +101,15 @@
             "link": "/items/38588540",
             "price": 100,
             "name": "【Ｄ】げきりゅうのめ",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1475538967",
-            "price": 300,
+            "link": "/items/2134139238",
+            "price": 100,
             "name": "シャワーズ 029/",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -125,7 +117,15 @@
             "link": "/items/372100679",
             "price": 100,
             "name": "シャワーズ 029/",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1475538967",
+            "price": 300,
+            "name": "シャワーズ 029/",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -133,7 +133,7 @@
             "link": "https://www.hareruya2.com/product/21000",
             "price": 50,
             "name": "シャワーズ(CP){",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 19
         },
         {
@@ -141,23 +141,23 @@
             "link": "https://www.hareruya2.com/product/21213",
             "price": 150,
             "name": "シャワーズ:ミラー(",
-            "date": "2022-12-03",
-            "stock": 25
+            "date": "2022-12-21",
+            "stock": 27
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22670",
             "price": 30,
             "name": "シャワーズ029/1",
-            "date": "2022-12-03",
-            "stock": 129
+            "date": "2022-12-21",
+            "stock": 127
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22845",
             "price": 120,
             "name": "シャワーズ029/1",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -165,47 +165,23 @@
             "link": "/shop/g/g029-184-S8B-BM/",
             "price": 110,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-03",
-            "stock": 5
+            "date": "2022-12-21",
+            "stock": 4
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g029-184-S8B-B/",
             "price": 33,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-03",
-            "stock": 20
-        },
-        {
-            "market": "magi",
-            "link": "/items/1475538967",
-            "price": 300,
-            "name": "シャワーズ 029/",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/38588540",
-            "price": 100,
-            "name": "【Ｄ】げきりゅうのめ",
-            "date": "2022-12-02",
-            "stock": 1
+            "date": "2022-12-21",
+            "stock": 10
         },
         {
             "market": "magi",
             "link": "/items/400111724",
             "price": 100,
             "name": "【Ｄ特価】シャワーズ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/372100679",
-            "price": 100,
-            "name": "シャワーズ 029/",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -213,79 +189,7 @@
             "link": "/items/2134139238",
             "price": 100,
             "name": "シャワーズ 029/",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21213",
-            "price": 150,
-            "name": "シャワーズ:ミラー(",
-            "date": "2022-12-02",
-            "stock": 26
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21000",
-            "price": 50,
-            "name": "シャワーズ(CP){",
-            "date": "2022-12-02",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22845",
-            "price": 120,
-            "name": "シャワーズ029/1",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22670",
-            "price": 30,
-            "name": "シャワーズ029/1",
-            "date": "2022-12-02",
-            "stock": 129
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g029-184-S8B-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-02",
-            "stock": 20
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g029-184-S8B-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-02",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/400111724",
-            "price": 100,
-            "name": "【Ｄ特価】シャワーズ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/372100679",
-            "price": 100,
-            "name": "シャワーズ 029/",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2134139238",
-            "price": 100,
-            "name": "シャワーズ 029/",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -293,159 +197,7 @@
             "link": "/items/38588540",
             "price": 100,
             "name": "【Ｄ】げきりゅうのめ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1475538967",
-            "price": 300,
-            "name": "シャワーズ 029/",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21213",
-            "price": 150,
-            "name": "シャワーズ:ミラー(",
-            "date": "2022-12-01",
-            "stock": 26
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21000",
-            "price": 50,
-            "name": "シャワーズ(CP){",
-            "date": "2022-12-01",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22845",
-            "price": 120,
-            "name": "シャワーズ029/1",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22670",
-            "price": 30,
-            "name": "シャワーズ029/1",
-            "date": "2022-12-01",
-            "stock": 129
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g029-184-S8B-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-01",
-            "stock": 20
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g029-184-S8B-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-01",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/372100679",
-            "price": 100,
-            "name": "シャワーズ 029/",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/38588540",
-            "price": 100,
-            "name": "【Ｄ】げきりゅうのめ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/400111724",
-            "price": 100,
-            "name": "【Ｄ特価】シャワーズ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2134139238",
-            "price": 100,
-            "name": "シャワーズ 029/",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1475538967",
-            "price": 300,
-            "name": "シャワーズ 029/",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21213",
-            "price": 150,
-            "name": "シャワーズ:ミラー(",
-            "date": "2022-11-30",
-            "stock": 26
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21000",
-            "price": 50,
-            "name": "シャワーズ(CP){",
-            "date": "2022-11-30",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22845",
-            "price": 120,
-            "name": "シャワーズ029/1",
-            "date": "2022-11-30",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22670",
-            "price": 30,
-            "name": "シャワーズ029/1",
-            "date": "2022-11-30",
-            "stock": 129
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g029-184-S8B-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-30",
-            "stock": 5
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g029-184-S8B-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-30",
-            "stock": 20
-        },
-        {
-            "market": "magi",
-            "link": "/items/38588540",
-            "price": 100,
-            "name": "【Ｄ】げきりゅうのめ",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -453,7 +205,7 @@
             "link": "/items/372100679",
             "price": 100,
             "name": "シャワーズ 029/",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -461,23 +213,15 @@
             "link": "/items/1475538967",
             "price": 300,
             "name": "シャワーズ 029/",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2134139238",
-            "price": 100,
+            "link": "/items/2012823929",
+            "price": 1800,
             "name": "シャワーズ 029/",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/400111724",
-            "price": 100,
-            "name": "【Ｄ特価】シャワーズ",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -485,7 +229,7 @@
             "link": "https://www.hareruya2.com/product/21000",
             "price": 50,
             "name": "シャワーズ(CP){",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 19
         },
         {
@@ -493,55 +237,55 @@
             "link": "https://www.hareruya2.com/product/21213",
             "price": 150,
             "name": "シャワーズ:ミラー(",
-            "date": "2022-11-29",
-            "stock": 26
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22670",
-            "price": 30,
-            "name": "シャワーズ029/1",
-            "date": "2022-11-29",
-            "stock": 129
+            "date": "2022-12-20",
+            "stock": 27
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22845",
             "price": 120,
             "name": "シャワーズ029/1",
-            "date": "2022-11-29",
-            "stock": 2
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22670",
+            "price": 30,
+            "name": "シャワーズ029/1",
+            "date": "2022-12-20",
+            "stock": 127
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g029-184-S8B-BM/",
             "price": 110,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-29",
-            "stock": 5
+            "date": "2022-12-20",
+            "stock": 4
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g029-184-S8B-B/",
             "price": 33,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-29",
-            "stock": 20
+            "date": "2022-12-20",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/2012823929",
+            "price": 1800,
+            "name": "シャワーズ 029/",
+            "date": "2022-12-19",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1475538967",
             "price": 300,
             "name": "シャワーズ 029/",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/38588540",
-            "price": 100,
-            "name": "【Ｄ】げきりゅうのめ",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -549,7 +293,15 @@
             "link": "/items/400111724",
             "price": 100,
             "name": "【Ｄ特価】シャワーズ",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/38588540",
+            "price": 100,
+            "name": "【Ｄ】げきりゅうのめ",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -557,7 +309,7 @@
             "link": "/items/2134139238",
             "price": 100,
             "name": "シャワーズ 029/",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -565,15 +317,103 @@
             "link": "/items/372100679",
             "price": 100,
             "name": "シャワーズ 029/",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21000",
+            "price": 50,
+            "name": "シャワーズ(CP){",
+            "date": "2022-12-19",
+            "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21213",
+            "price": 150,
+            "name": "シャワーズ:ミラー(",
+            "date": "2022-12-19",
+            "stock": 27
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22845",
+            "price": 120,
+            "name": "シャワーズ029/1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22670",
+            "price": 30,
+            "name": "シャワーズ029/1",
+            "date": "2022-12-19",
+            "stock": 127
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g029-184-S8B-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-19",
+            "stock": 10
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g029-184-S8B-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1475538967",
+            "price": 300,
+            "name": "シャワーズ 029/",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1537025895",
-            "price": 1200,
+            "link": "/items/2012823929",
+            "price": 1800,
             "name": "シャワーズ 029/",
-            "date": "2022-11-28",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/38588540",
+            "price": 100,
+            "name": "【Ｄ】げきりゅうのめ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/400111724",
+            "price": 100,
+            "name": "【Ｄ特価】シャワーズ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2134139238",
+            "price": 100,
+            "name": "シャワーズ 029/",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/372100679",
+            "price": 100,
+            "name": "シャワーズ 029/",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -581,87 +421,63 @@
             "link": "https://www.hareruya2.com/product/21213",
             "price": 150,
             "name": "シャワーズ:ミラー(",
-            "date": "2022-11-28",
-            "stock": 26
+            "date": "2022-12-18",
+            "stock": 27
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21000",
             "price": 50,
             "name": "シャワーズ(CP){",
-            "date": "2022-11-28",
+            "date": "2022-12-18",
             "stock": 19
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22845",
-            "price": 120,
-            "name": "シャワーズ029/1",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22670",
             "price": 30,
             "name": "シャワーズ029/1",
-            "date": "2022-11-28",
-            "stock": 129
+            "date": "2022-12-18",
+            "stock": 127
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g029-184-S8B-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-28",
-            "stock": 20
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22845",
+            "price": 120,
+            "name": "シャワーズ029/1",
+            "date": "2022-12-18",
+            "stock": 1
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g029-184-S8B-BM/",
             "price": 110,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-28",
+            "date": "2022-12-18",
             "stock": 5
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g029-184-S8B-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-18",
+            "stock": 20
         },
         {
             "market": "magi",
             "link": "/items/2134139238",
             "price": 100,
             "name": "シャワーズ 029/",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1475538967",
-            "price": 300,
+            "link": "/items/2012823929",
+            "price": 1800,
             "name": "シャワーズ 029/",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1537025895",
-            "price": 1200,
-            "name": "シャワーズ 029/",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/372100679",
-            "price": 100,
-            "name": "シャワーズ 029/",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/38588540",
-            "price": 100,
-            "name": "【Ｄ】げきりゅうのめ",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -669,7 +485,7 @@
             "link": "/items/400111724",
             "price": 100,
             "name": "【Ｄ特価】シャワーズ",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -677,39 +493,255 @@
             "link": "https://www.hareruya2.com/product/21213",
             "price": 150,
             "name": "シャワーズ:ミラー(",
-            "date": "2022-11-27",
-            "stock": 26
+            "date": "2022-12-17",
+            "stock": 27
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21000",
             "price": 50,
             "name": "シャワーズ(CP){",
-            "date": "2022-11-27",
-            "stock": 18
+            "date": "2022-12-17",
+            "stock": 19
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22670",
-            "price": 30,
-            "name": "シャワーズ029/1",
-            "date": "2022-11-27",
-            "stock": 129
+            "market": "magi",
+            "link": "/items/1475538967",
+            "price": 300,
+            "name": "シャワーズ 029/",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/372100679",
+            "price": 100,
+            "name": "シャワーズ 029/",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/38588540",
+            "price": 100,
+            "name": "【Ｄ】げきりゅうのめ",
+            "date": "2022-12-17",
+            "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22845",
             "price": 120,
             "name": "シャワーズ029/1",
-            "date": "2022-11-27",
-            "stock": 2
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22670",
+            "price": 30,
+            "name": "シャワーズ029/1",
+            "date": "2022-12-17",
+            "stock": 128
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g029-184-S8B-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-17",
+            "stock": 5
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g029-184-S8B-B/",
             "price": 33,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
+            "stock": 20
+        },
+        {
+            "market": "magi",
+            "link": "/items/1475538967",
+            "price": 300,
+            "name": "シャワーズ 029/",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2012823929",
+            "price": 1800,
+            "name": "シャワーズ 029/",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2134139238",
+            "price": 100,
+            "name": "シャワーズ 029/",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/372100679",
+            "price": 100,
+            "name": "シャワーズ 029/",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/38588540",
+            "price": 100,
+            "name": "【Ｄ】げきりゅうのめ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/400111724",
+            "price": 100,
+            "name": "【Ｄ特価】シャワーズ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21000",
+            "price": 50,
+            "name": "シャワーズ(CP){",
+            "date": "2022-12-16",
+            "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21213",
+            "price": 150,
+            "name": "シャワーズ:ミラー(",
+            "date": "2022-12-16",
+            "stock": 27
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22845",
+            "price": 120,
+            "name": "シャワーズ029/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22670",
+            "price": 30,
+            "name": "シャワーズ029/1",
+            "date": "2022-12-16",
+            "stock": 128
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g029-184-S8B-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-16",
+            "stock": 5
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g029-184-S8B-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-16",
+            "stock": 20
+        },
+        {
+            "market": "magi",
+            "link": "/items/38588540",
+            "price": 100,
+            "name": "【Ｄ】げきりゅうのめ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2012823929",
+            "price": 1800,
+            "name": "シャワーズ 029/",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/372100679",
+            "price": 100,
+            "name": "シャワーズ 029/",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2134139238",
+            "price": 100,
+            "name": "シャワーズ 029/",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/400111724",
+            "price": 100,
+            "name": "【Ｄ特価】シャワーズ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1475538967",
+            "price": 300,
+            "name": "シャワーズ 029/",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21000",
+            "price": 50,
+            "name": "シャワーズ(CP){",
+            "date": "2022-12-15",
+            "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21213",
+            "price": 150,
+            "name": "シャワーズ:ミラー(",
+            "date": "2022-12-15",
+            "stock": 27
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22670",
+            "price": 30,
+            "name": "シャワーズ029/1",
+            "date": "2022-12-15",
+            "stock": 128
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22845",
+            "price": 120,
+            "name": "シャワーズ029/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g029-184-S8B-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-15",
             "stock": 20
         },
         {
@@ -717,7 +749,7 @@
             "link": "/shop/g/g029-184-S8B-BM/",
             "price": 110,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 5
         }
     ]

@@ -2,34 +2,18 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1762718017",
-            "price": 20000,
-            "name": "（美品）グレイシアV",
-            "date": "2022-12-04",
+            "link": "/items/1577065267",
+            "price": 13020,
+            "name": "〔状態A-〕グレイシ",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1347617869",
-            "price": 13999,
+            "link": "/items/873510663",
+            "price": 16828,
             "name": "グレイシアV SR ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/822323330",
-            "price": 10479,
-            "name": "〔状態B〕グレイシア",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/688424828",
-            "price": 68000,
-            "name": "グレイシアV SR ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -37,31 +21,39 @@
             "link": "/items/1838604221",
             "price": 13222,
             "name": "グレイシアV SR ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/392905711",
-            "price": 16590,
+            "price": 15540,
             "name": "グレイシアV(SA)",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/873510663",
-            "price": 17520,
+            "link": "/items/1762718017",
+            "price": 20000,
+            "name": "（美品）グレイシアV",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/688424828",
+            "price": 68000,
             "name": "グレイシアV SR ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/7149971",
-            "price": 16000,
+            "price": 15999,
             "name": "グレイシアV SR ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -69,87 +61,55 @@
             "link": "/items/656961869",
             "price": 39690,
             "name": "〔PSA10鑑定済〕",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1944429756",
-            "price": 200000,
+            "price": 100000,
             "name": "グレイシアV SR ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1347617869",
+            "price": 13999,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19553",
-            "price": 18000,
+            "price": 15000,
             "name": "グレイシアV:SA(",
-            "date": "2022-12-04",
-            "stock": 2
+            "date": "2022-12-22",
+            "stock": 8
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36173",
             "price": 37800,
             "name": "グレイシアV077/",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20743",
-            "price": 15800,
+            "price": 14800,
             "name": "グレイシアV077/",
-            "date": "2022-12-04",
-            "stock": 35
+            "date": "2022-12-22",
+            "stock": 18
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21038",
-            "price": 9980,
+            "link": "https://www.cardrush-pokemon.jp/product/32051",
+            "price": 12400,
             "name": "グレイシアV077/",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/873510663",
-            "price": 17520,
-            "name": "グレイシアV SR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/656961869",
-            "price": 39690,
-            "name": "〔PSA10鑑定済〕",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/688424828",
-            "price": 68000,
-            "name": "グレイシアV SR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1838604221",
-            "price": 13222,
-            "name": "グレイシアV SR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/392905711",
-            "price": 16590,
-            "name": "グレイシアV(SA)",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -157,23 +117,55 @@
             "link": "/items/1762718017",
             "price": 20000,
             "name": "（美品）グレイシアV",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/873510663",
+            "price": 16998,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/688424828",
+            "price": 68000,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1838604221",
+            "price": 13222,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/392905711",
+            "price": 15540,
+            "name": "グレイシアV(SA)",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1577065267",
+            "price": 13020,
+            "name": "〔状態A-〕グレイシ",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/7149971",
-            "price": 16000,
+            "price": 15999,
             "name": "グレイシアV SR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1490072588",
-            "price": 14070,
-            "name": "〔状態A-〕グレイシ",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -181,95 +173,79 @@
             "link": "/items/1347617869",
             "price": 13999,
             "name": "グレイシアV SR ",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/822323330",
-            "price": 10479,
-            "name": "〔状態B〕グレイシア",
-            "date": "2022-12-03",
+            "link": "/items/656961869",
+            "price": 39690,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1944429756",
-            "price": 200000,
+            "price": 100000,
             "name": "グレイシアV SR ",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19553",
-            "price": 18000,
+            "price": 15000,
             "name": "グレイシアV:SA(",
-            "date": "2022-12-03",
-            "stock": 2
+            "date": "2022-12-21",
+            "stock": 8
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32051",
-            "price": 13400,
+            "price": 12400,
             "name": "グレイシアV077/",
-            "date": "2022-12-03",
-            "stock": 3
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20743",
-            "price": 15800,
+            "price": 14800,
             "name": "グレイシアV077/",
-            "date": "2022-12-03",
-            "stock": 35
+            "date": "2022-12-21",
+            "stock": 19
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36173",
             "price": 37800,
             "name": "グレイシアV077/",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21038",
-            "price": 9980,
-            "name": "グレイシアV077/",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1944429756",
-            "price": 200000,
+            "price": 100000,
             "name": "グレイシアV SR ",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1762718017",
-            "price": 20000,
-            "name": "（美品）グレイシアV",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1347617869",
-            "price": 13999,
+            "link": "/items/7149971",
+            "price": 15999,
             "name": "グレイシアV SR ",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1490072588",
-            "price": 14070,
-            "name": "〔状態A-〕グレイシ",
-            "date": "2022-12-02",
+            "link": "/items/392905711",
+            "price": 15540,
+            "name": "グレイシアV(SA)",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -277,39 +253,39 @@
             "link": "/items/1838604221",
             "price": 13222,
             "name": "グレイシアV SR ",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/392905711",
-            "price": 16590,
-            "name": "グレイシアV(SA)",
-            "date": "2022-12-02",
+            "link": "/items/1347617869",
+            "price": 13999,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1762718017",
+            "price": 20000,
+            "name": "（美品）グレイシアV",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1577065267",
+            "price": 13020,
+            "name": "〔状態A-〕グレイシ",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/873510663",
-            "price": 17697,
+            "price": 16998,
             "name": "グレイシアV SR ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/7149971",
-            "price": 16000,
-            "name": "グレイシアV SR ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/656961869",
-            "price": 39690,
-            "name": "〔PSA10鑑定済〕",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -317,55 +293,55 @@
             "link": "/items/688424828",
             "price": 68000,
             "name": "グレイシアV SR ",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/822323330",
-            "price": 10479,
-            "name": "〔状態B〕グレイシア",
-            "date": "2022-12-02",
+            "link": "/items/656961869",
+            "price": 39690,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19553",
-            "price": 18000,
+            "price": 15000,
             "name": "グレイシアV:SA(",
-            "date": "2022-12-02",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32051",
-            "price": 13400,
-            "name": "グレイシアV077/",
-            "date": "2022-12-02",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20743",
-            "price": 15800,
-            "name": "グレイシアV077/",
-            "date": "2022-12-02",
-            "stock": 35
+            "date": "2022-12-20",
+            "stock": 8
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36173",
             "price": 37800,
             "name": "グレイシアV077/",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21038",
-            "price": 9980,
+            "link": "https://www.cardrush-pokemon.jp/product/32051",
+            "price": 12400,
             "name": "グレイシアV077/",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20743",
+            "price": 14800,
+            "name": "グレイシアV077/",
+            "date": "2022-12-20",
+            "stock": 21
+        },
+        {
+            "market": "magi",
+            "link": "/items/1944429756",
+            "price": 100000,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -373,63 +349,23 @@
             "link": "/items/656961869",
             "price": 39690,
             "name": "〔PSA10鑑定済〕",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1944429756",
-            "price": 200000,
+            "link": "/items/873510663",
+            "price": 16998,
             "name": "グレイシアV SR ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1838604221",
-            "price": 13222,
-            "name": "グレイシアV SR ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/688424828",
-            "price": 68000,
-            "name": "グレイシアV SR ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1762718017",
-            "price": 20000,
-            "name": "（美品）グレイシアV",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/392905711",
-            "price": 16590,
-            "name": "グレイシアV(SA)",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/7149971",
-            "price": 16000,
+            "price": 15999,
             "name": "グレイシアV SR ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/822323330",
-            "price": 10479,
-            "name": "〔状態B〕グレイシア",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -437,71 +373,79 @@
             "link": "/items/1347617869",
             "price": 13999,
             "name": "グレイシアV SR ",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1490072588",
-            "price": 14070,
-            "name": "〔状態A-〕グレイシ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/873510663",
-            "price": 17876,
+            "link": "/items/688424828",
+            "price": 68000,
             "name": "グレイシアV SR ",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/392905711",
+            "price": 15540,
+            "name": "グレイシアV(SA)",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1838604221",
+            "price": 13222,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1762718017",
+            "price": 20000,
+            "name": "（美品）グレイシアV",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19553",
-            "price": 18000,
+            "price": 15000,
             "name": "グレイシアV:SA(",
-            "date": "2022-12-01",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21038",
-            "price": 9980,
-            "name": "グレイシアV077/",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32051",
-            "price": 13400,
-            "name": "グレイシアV077/",
-            "date": "2022-12-01",
-            "stock": 3
+            "date": "2022-12-19",
+            "stock": 8
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36173",
             "price": 37800,
             "name": "グレイシアV077/",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20743",
-            "price": 15800,
+            "price": 14800,
             "name": "グレイシアV077/",
-            "date": "2022-12-01",
-            "stock": 35
+            "date": "2022-12-19",
+            "stock": 34
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19553",
+            "price": 15000,
+            "name": "グレイシアV:SA(",
+            "date": "2022-12-18",
+            "stock": 8
         },
         {
             "market": "magi",
-            "link": "/items/1762718017",
-            "price": 20000,
-            "name": "（美品）グレイシアV",
-            "date": "2022-11-30",
+            "link": "/items/1944429756",
+            "price": 100000,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -509,7 +453,31 @@
             "link": "/items/1838604221",
             "price": 13222,
             "name": "グレイシアV SR ",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1762718017",
+            "price": 20000,
+            "name": "（美品）グレイシアV",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/392905711",
+            "price": 15540,
+            "name": "グレイシアV(SA)",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/873510663",
+            "price": 16998,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -517,31 +485,15 @@
             "link": "/items/688424828",
             "price": 68000,
             "name": "グレイシアV SR ",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/873510663",
-            "price": 18057,
+            "link": "/items/7149971",
+            "price": 15999,
             "name": "グレイシアV SR ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/392905711",
-            "price": 16590,
-            "name": "グレイシアV(SA)",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/822323330",
-            "price": 10479,
-            "name": "〔状態B〕グレイシア",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -549,7 +501,7 @@
             "link": "/items/656961869",
             "price": 39690,
             "name": "〔PSA10鑑定済〕",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -557,127 +509,119 @@
             "link": "/items/1347617869",
             "price": 13999,
             "name": "グレイシアV SR ",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36173",
+            "price": 37800,
+            "name": "グレイシアV077/",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20743",
+            "price": 14800,
+            "name": "グレイシアV077/",
+            "date": "2022-12-18",
+            "stock": 33
+        },
+        {
+            "market": "magi",
+            "link": "/items/1762718017",
+            "price": 20000,
+            "name": "（美品）グレイシアV",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1490072588",
-            "price": 14070,
-            "name": "〔状態A-〕グレイシ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/7149971",
-            "price": 16000,
+            "link": "/items/688424828",
+            "price": 68000,
             "name": "グレイシアV SR ",
-            "date": "2022-11-30",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1944429756",
-            "price": 200000,
+            "price": 100000,
             "name": "グレイシアV SR ",
-            "date": "2022-11-30",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/873510663",
+            "price": 16998,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1838604221",
+            "price": 13222,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/656961869",
+            "price": 39690,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/7149971",
+            "price": 15999,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1347617869",
+            "price": 13999,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/392905711",
+            "price": 15540,
+            "name": "グレイシアV(SA)",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19553",
-            "price": 18000,
+            "price": 16000,
             "name": "グレイシアV:SA(",
-            "date": "2022-11-30",
-            "stock": 1
+            "date": "2022-12-17",
+            "stock": 8
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20743",
-            "price": 15800,
+            "price": 14800,
             "name": "グレイシアV077/",
-            "date": "2022-11-30",
-            "stock": 46
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32051",
-            "price": 13400,
-            "name": "グレイシアV077/",
-            "date": "2022-11-30",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21038",
-            "price": 9980,
-            "name": "グレイシアV077/",
-            "date": "2022-11-30",
-            "stock": 1
+            "date": "2022-12-17",
+            "stock": 34
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36173",
             "price": 37800,
             "name": "グレイシアV077/",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/656961869",
-            "price": 39690,
-            "name": "〔PSA10鑑定済〕",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1762718017",
-            "price": 20000,
-            "name": "（美品）グレイシアV",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/7149971",
-            "price": 16000,
-            "name": "グレイシアV SR ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/688424828",
-            "price": 68000,
-            "name": "グレイシアV SR ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1944429756",
-            "price": 200000,
-            "name": "グレイシアV SR ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1490072588",
-            "price": 14070,
-            "name": "〔状態A-〕グレイシ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1838604221",
-            "price": 13222,
-            "name": "グレイシアV SR ",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -685,95 +629,119 @@
             "link": "/items/1347617869",
             "price": 13999,
             "name": "グレイシアV SR ",
-            "date": "2022-11-29",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1944429756",
+            "price": 100000,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/873510663",
-            "price": 18057,
+            "price": 16998,
             "name": "グレイシアV SR ",
-            "date": "2022-11-29",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/688424828",
+            "price": 68000,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/7149971",
+            "price": 15999,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1838604221",
+            "price": 13222,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/656961869",
+            "price": 39690,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/392905711",
-            "price": 16590,
+            "price": 15540,
             "name": "グレイシアV(SA)",
-            "date": "2022-11-29",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1762718017",
+            "price": 20000,
+            "name": "（美品）グレイシアV",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19553",
-            "price": 18000,
+            "price": 16000,
             "name": "グレイシアV:SA(",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20743",
-            "price": 15800,
-            "name": "グレイシアV077/",
-            "date": "2022-11-29",
-            "stock": 46
+            "date": "2022-12-16",
+            "stock": 8
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36173",
             "price": 37800,
             "name": "グレイシアV077/",
-            "date": "2022-11-29",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32051",
-            "price": 13400,
+            "link": "https://www.cardrush-pokemon.jp/product/20743",
+            "price": 14800,
             "name": "グレイシアV077/",
-            "date": "2022-11-29",
-            "stock": 2
+            "date": "2022-12-16",
+            "stock": 33
         },
         {
             "market": "magi",
-            "link": "/items/873510663",
-            "price": 18057,
+            "link": "/items/7149971",
+            "price": 15999,
             "name": "グレイシアV SR ",
-            "date": "2022-11-28",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/688424828",
-            "price": 68000,
-            "name": "グレイシアV SR ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1838604221",
-            "price": 13222,
-            "name": "グレイシアV SR ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1490072588",
-            "price": 14070,
-            "name": "〔状態A-〕グレイシ",
-            "date": "2022-11-28",
+            "link": "/items/392905711",
+            "price": 15540,
+            "name": "グレイシアV(SA)",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1944429756",
-            "price": 200000,
+            "price": 100000,
             "name": "グレイシアV SR ",
-            "date": "2022-11-28",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -781,31 +749,23 @@
             "link": "/items/656961869",
             "price": 39690,
             "name": "〔PSA10鑑定済〕",
-            "date": "2022-11-28",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1762718017",
-            "price": 20000,
-            "name": "（美品）グレイシアV",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/392905711",
-            "price": 16590,
-            "name": "グレイシアV(SA)",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/7149971",
-            "price": 16000,
+            "link": "/items/873510663",
+            "price": 16998,
             "name": "グレイシアV SR ",
-            "date": "2022-11-28",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1838604221",
+            "price": 13222,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -813,144 +773,48 @@
             "link": "/items/1347617869",
             "price": 13999,
             "name": "グレイシアV SR ",
-            "date": "2022-11-28",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1762718017",
+            "price": 20000,
+            "name": "（美品）グレイシアV",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/688424828",
+            "price": 68000,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19553",
-            "price": 18000,
-            "name": "グレイシアV:SA(",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32051",
-            "price": 13400,
-            "name": "グレイシアV077/",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20743",
-            "price": 15800,
-            "name": "グレイシアV077/",
-            "date": "2022-11-28",
-            "stock": 45
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36173",
-            "price": 37800,
-            "name": "グレイシアV077/",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/688424828",
-            "price": 68000,
-            "name": "グレイシアV SR ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1944429756",
-            "price": 200000,
-            "name": "グレイシアV SR ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1347617869",
-            "price": 13999,
-            "name": "グレイシアV SR ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1762718017",
-            "price": 20000,
-            "name": "（美品）グレイシアV",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1838604221",
-            "price": 13222,
-            "name": "グレイシアV SR ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1490072588",
-            "price": 14070,
-            "name": "〔状態A-〕グレイシ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/656961869",
-            "price": 39690,
-            "name": "〔PSA10鑑定済〕",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/392905711",
-            "price": 16590,
-            "name": "グレイシアV(SA)",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/7149971",
             "price": 16000,
-            "name": "グレイシアV SR ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/873510663",
-            "price": 18240,
-            "name": "グレイシアV SR ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32051",
-            "price": 13400,
-            "name": "グレイシアV077/",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20743",
-            "price": 15800,
-            "name": "グレイシアV077/",
-            "date": "2022-11-27",
-            "stock": 43
+            "name": "グレイシアV:SA(",
+            "date": "2022-12-15",
+            "stock": 9
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36173",
             "price": 37800,
             "name": "グレイシアV077/",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20743",
+            "price": 14800,
+            "name": "グレイシアV077/",
+            "date": "2022-12-15",
+            "stock": 32
         }
     ]
 }

@@ -2,99 +2,835 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/831247744",
-            "price": 17115,
-            "name": "〔状態A-〕アルセウ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1943801326",
-            "price": 19000,
+            "price": 17500,
             "name": "アルセウスVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/795517482",
-            "price": 19740,
+            "link": "/items/10504598",
+            "price": 14400,
+            "name": "【p79】アルセウス",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/182717344",
+            "price": 14000,
             "name": "アルセウスVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/490331759",
+            "price": 14490,
+            "name": "〔状態A-〕アルセウ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/923213475",
+            "price": 15540,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1165670521",
+            "price": 12000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1284659975",
+            "price": 21800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2051225098",
+            "price": 18000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1134943927",
+            "price": 17500,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/368477303",
+            "price": 18800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26401",
-            "price": 17000,
+            "price": 14800,
             "name": "アルセウスVSTAR",
-            "date": "2022-12-04",
-            "stock": 7
+            "date": "2022-12-22",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38709",
+            "price": 13800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-22",
+            "stock": 9
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38442",
+            "price": 14800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-22",
+            "stock": 48
+        },
+        {
+            "market": "magi",
+            "link": "/items/2051225098",
+            "price": 18000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/419397202",
+            "price": 16800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1943801326",
+            "price": 17500,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/368477303",
             "price": 18800,
             "name": "アルセウスVSTAR",
-            "date": "2022-12-04",
-            "stock": 15
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1134943927",
+            "price": 17500,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1165670521",
+            "price": 13000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/10504598",
+            "price": 14400,
+            "name": "【p79】アルセウス",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/182717344",
+            "price": 14000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/923213475",
+            "price": 16590,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/490331759",
+            "price": 15015,
+            "name": "〔状態A-〕アルセウ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1284659975",
+            "price": 21800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26401",
+            "price": 14800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-21",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38709",
+            "price": 14300,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-21",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38442",
+            "price": 15800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-21",
+            "stock": 54
+        },
+        {
+            "market": "magi",
+            "link": "/items/419397202",
+            "price": 16800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1134943927",
+            "price": 17500,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1943801326",
+            "price": 17500,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/368477303",
+            "price": 18800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/923213475",
+            "price": 16590,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/10504598",
+            "price": 14400,
+            "name": "【p79】アルセウス",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1284659975",
+            "price": 21800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1165670521",
+            "price": 13000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/490331759",
+            "price": 15015,
+            "name": "〔状態A-〕アルセウ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/182717344",
+            "price": 14000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2051225098",
+            "price": 18000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26401",
+            "price": 14800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-20",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38709",
+            "price": 14300,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-20",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38442",
+            "price": 15800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-20",
+            "stock": 49
+        },
+        {
+            "market": "magi",
+            "link": "/items/1284659975",
+            "price": 21800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1943801326",
+            "price": 17500,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/368477303",
+            "price": 18800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2051225098",
+            "price": 18000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/490331759",
+            "price": 15015,
+            "name": "〔状態A-〕アルセウ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1134943927",
+            "price": 17500,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/419397202",
+            "price": 16800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/10504598",
+            "price": 14400,
+            "name": "【p79】アルセウス",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1013310889",
+            "price": 17500,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/923213475",
+            "price": 17640,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/182717344",
+            "price": 14000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26401",
+            "price": 16000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-19",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38709",
+            "price": 14300,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-19",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38442",
+            "price": 16800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-19",
+            "stock": 51
+        },
+        {
+            "market": "magi",
+            "link": "/items/10504598",
+            "price": 14400,
+            "name": "【p79】アルセウス",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1134943927",
+            "price": 17500,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1489825157",
+            "price": 14000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1284659975",
+            "price": 21800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/368477303",
+            "price": 18800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1013310889",
+            "price": 17500,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2051225098",
+            "price": 18000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1943801326",
+            "price": 17500,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/923213475",
+            "price": 17640,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/490331759",
+            "price": 15015,
+            "name": "〔状態A-〕アルセウ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26401",
+            "price": 18000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-18",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38442",
+            "price": 16800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-18",
+            "stock": 49
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38709",
+            "price": 14300,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-18",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/1134943927",
+            "price": 17500,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/923213475",
+            "price": 18690,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1284659975",
+            "price": 21800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/368477303",
+            "price": 18800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1943801326",
+            "price": 17500,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/10504598",
+            "price": 14400,
+            "name": "【p79】アルセウス",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/981658663",
+            "price": 13000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/490331759",
+            "price": 17115,
+            "name": "〔状態A-〕アルセウ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26401",
+            "price": 18000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-17",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38442",
+            "price": 17800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-17",
+            "stock": 18
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38709",
             "price": 16300,
             "name": "アルセウスVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-17",
             "stock": 3
         },
         {
             "market": "magi",
-            "link": "/items/795517482",
-            "price": 20790,
+            "link": "/items/923213475",
+            "price": 18690,
             "name": "アルセウスVSTAR",
-            "date": "2022-12-03",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1284659975",
+            "price": 21800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/503323669",
+            "price": 13900,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/368477303",
+            "price": 18800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/10504598",
+            "price": 16000,
+            "name": "【p79】アルセウス",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/529816598",
+            "price": 15000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1943801326",
-            "price": 19000,
+            "price": 17500,
             "name": "アルセウスVSTAR",
-            "date": "2022-12-03",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/831247744",
-            "price": 19215,
+            "link": "/items/986036426",
+            "price": 14500,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1134943927",
+            "price": 17500,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1568810434",
+            "price": 8666,
+            "name": "【3枚セット】アルセ",
+            "date": "2022-12-16",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/490331759",
+            "price": 17115,
             "name": "〔状態A-〕アルセウ",
-            "date": "2022-12-03",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26401",
-            "price": 17000,
+            "price": 18000,
             "name": "アルセウスVSTAR",
-            "date": "2022-12-03",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38709",
-            "price": 18300,
-            "name": "アルセウスVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
+            "date": "2022-12-16",
+            "stock": 22
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38442",
-            "price": 19800,
+            "price": 17800,
             "name": "アルセウスVSTAR",
-            "date": "2022-12-03",
-            "stock": 32
+            "date": "2022-12-16",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38709",
+            "price": 16300,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-16",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/986036426",
+            "price": 15000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1134943927",
+            "price": 17500,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1870466774",
+            "price": 19000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/503323669",
+            "price": 13950,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/681272568",
+            "price": 17640,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1284659975",
+            "price": 21800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/10504598",
+            "price": 16000,
+            "name": "【p79】アルセウス",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1943801326",
+            "price": 17500,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/368477303",
+            "price": 18800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26401",
+            "price": 18000,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-15",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38442",
+            "price": 16800,
+            "name": "アルセウスVSTAR",
+            "date": "2022-12-15",
+            "stock": 5
         }
     ]
 }

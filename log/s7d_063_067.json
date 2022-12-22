@@ -2,26 +2,18 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/675045819",
+            "price": 33,
+            "name": "キバナ U 063/",
+            "date": "2022-12-22",
+            "stock": 3
+        },
+        {
+            "market": "magi",
             "link": "/items/789960168",
             "price": 400,
             "name": "キバナ U 063/",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/913520809",
-            "price": 300,
-            "name": "キバナ U 063/",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/207879894",
-            "price": 500,
-            "name": "キバナ U 063/",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -29,39 +21,15 @@
             "link": "/items/1046151206",
             "price": 49,
             "name": "【特価】キバナ U ",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19704",
-            "price": 50,
-            "name": "キバナ(U){サポー",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21276",
-            "price": 50,
-            "name": "キバナ063/067",
-            "date": "2022-12-04",
-            "stock": 52
-        },
-        {
-            "market": "magi",
-            "link": "/items/1046151206",
-            "price": 49,
-            "name": "【特価】キバナ U ",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/789960168",
-            "price": 400,
+            "link": "/items/913520809",
+            "price": 300,
             "name": "キバナ U 063/",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -69,47 +37,39 @@
             "link": "/items/207879894",
             "price": 500,
             "name": "キバナ U 063/",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/913520809",
-            "price": 300,
-            "name": "キバナ U 063/",
-            "date": "2022-12-03",
-            "stock": 1
+            "link": "/items/599186899",
+            "price": 25,
+            "name": "キバナ TD 391",
+            "date": "2022-12-22",
+            "stock": 4
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19704",
             "price": 50,
             "name": "キバナ(U){サポー",
-            "date": "2022-12-03",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21276",
-            "price": 50,
-            "name": "キバナ063/067",
-            "date": "2022-12-03",
-            "stock": 71
+            "date": "2022-12-22",
+            "stock": 30
         },
         {
             "market": "magi",
-            "link": "/items/913520809",
-            "price": 300,
-            "name": "キバナ U 063/",
-            "date": "2022-12-02",
-            "stock": 1
+            "link": "/items/599186899",
+            "price": 25,
+            "name": "キバナ TD 391",
+            "date": "2022-12-21",
+            "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/1046151206",
             "price": 49,
             "name": "【特価】キバナ U ",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
             "stock": 4
         },
         {
@@ -117,15 +77,31 @@
             "link": "/items/207879894",
             "price": 500,
             "name": "キバナ U 063/",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/675045819",
+            "price": 33,
+            "name": "キバナ U 063/",
+            "date": "2022-12-21",
+            "stock": 3
         },
         {
             "market": "magi",
             "link": "/items/789960168",
             "price": 400,
             "name": "キバナ U 063/",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/913520809",
+            "price": 300,
+            "name": "キバナ U 063/",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -133,31 +109,71 @@
             "link": "https://www.hareruya2.com/product/19704",
             "price": 50,
             "name": "キバナ(U){サポー",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
+            "stock": 30
+        },
+        {
+            "market": "magi",
+            "link": "/items/599186899",
+            "price": 25,
+            "name": "キバナ TD 391",
+            "date": "2022-12-20",
             "stock": 4
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21276",
+            "market": "magi",
+            "link": "/items/913520809",
+            "price": 300,
+            "name": "キバナ U 063/",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/207879894",
+            "price": 500,
+            "name": "キバナ U 063/",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/675045819",
+            "price": 33,
+            "name": "キバナ U 063/",
+            "date": "2022-12-20",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1046151206",
+            "price": 49,
+            "name": "【特価】キバナ U ",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/789960168",
+            "price": 400,
+            "name": "キバナ U 063/",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19704",
             "price": 50,
-            "name": "キバナ063/067",
-            "date": "2022-12-02",
-            "stock": 83
+            "name": "キバナ(U){サポー",
+            "date": "2022-12-20",
+            "stock": 30
         },
         {
             "market": "magi",
-            "link": "/items/913520809",
-            "price": 300,
+            "link": "/items/207879894",
+            "price": 500,
             "name": "キバナ U 063/",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/789960168",
-            "price": 400,
-            "name": "キバナ U 063/",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -165,199 +181,55 @@
             "link": "/items/1046151206",
             "price": 49,
             "name": "【特価】キバナ U ",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/207879894",
-            "price": 500,
-            "name": "キバナ U 063/",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19704",
-            "price": 100,
-            "name": "キバナ(U){サポー",
-            "date": "2022-12-01",
+            "link": "/items/599186899",
+            "price": 25,
+            "name": "キバナ TD 391",
+            "date": "2022-12-19",
             "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21276",
-            "price": 80,
-            "name": "キバナ063/067",
-            "date": "2022-12-01",
-            "stock": 96
         },
         {
             "market": "magi",
             "link": "/items/789960168",
             "price": 400,
             "name": "キバナ U 063/",
-            "date": "2022-11-30",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/207879894",
-            "price": 500,
+            "link": "/items/675045819",
+            "price": 33,
             "name": "キバナ U 063/",
-            "date": "2022-11-30",
-            "stock": 1
+            "date": "2022-12-19",
+            "stock": 3
         },
         {
             "market": "magi",
             "link": "/items/913520809",
             "price": 300,
             "name": "キバナ U 063/",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1046151206",
-            "price": 49,
-            "name": "【特価】キバナ U ",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19704",
-            "price": 100,
-            "name": "キバナ(U){サポー",
-            "date": "2022-11-30",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21276",
-            "price": 80,
-            "name": "キバナ063/067",
-            "date": "2022-11-30",
-            "stock": 99
-        },
-        {
-            "market": "magi",
-            "link": "/items/789960168",
-            "price": 400,
-            "name": "キバナ U 063/",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/913520809",
-            "price": 300,
-            "name": "キバナ U 063/",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1046151206",
-            "price": 49,
-            "name": "【特価】キバナ U ",
-            "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/207879894",
-            "price": 500,
-            "name": "キバナ U 063/",
-            "date": "2022-11-29",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19704",
-            "price": 100,
-            "name": "キバナ(U){サポー",
-            "date": "2022-11-29",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21276",
-            "price": 80,
-            "name": "キバナ063/067",
-            "date": "2022-11-29",
-            "stock": 109
-        },
-        {
-            "market": "magi",
-            "link": "/items/789960168",
-            "price": 400,
-            "name": "キバナ U 063/",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/913520809",
-            "price": 300,
-            "name": "キバナ U 063/",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/207879894",
-            "price": 500,
-            "name": "キバナ U 063/",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1046151206",
-            "price": 49,
-            "name": "【特価】キバナ U ",
-            "date": "2022-11-28",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19704",
-            "price": 100,
-            "name": "キバナ(U){サポー",
-            "date": "2022-11-28",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21276",
-            "price": 80,
-            "name": "キバナ063/067",
-            "date": "2022-11-28",
-            "stock": 115
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22280",
             "price": 50,
-            "name": "キバナ063/067",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/789960168",
-            "price": 400,
-            "name": "キバナ U 063/",
-            "date": "2022-11-27",
-            "stock": 1
+            "name": "キバナ(U){サポー",
+            "date": "2022-12-19",
+            "stock": 32
         },
         {
             "market": "magi",
             "link": "/items/1046151206",
             "price": 49,
             "name": "【特価】キバナ U ",
-            "date": "2022-11-27",
+            "date": "2022-12-18",
             "stock": 4
         },
         {
@@ -365,7 +237,23 @@
             "link": "/items/207879894",
             "price": 500,
             "name": "キバナ U 063/",
-            "date": "2022-11-27",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/599186899",
+            "price": 25,
+            "name": "キバナ TD 391",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/789960168",
+            "price": 400,
+            "name": "キバナ U 063/",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -373,32 +261,152 @@
             "link": "/items/913520809",
             "price": 300,
             "name": "キバナ U 063/",
-            "date": "2022-11-27",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19704",
-            "price": 100,
+            "price": 50,
             "name": "キバナ(U){サポー",
-            "date": "2022-11-27",
-            "stock": 6
+            "date": "2022-12-18",
+            "stock": 32
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22280",
-            "price": 50,
-            "name": "キバナ063/067",
-            "date": "2022-11-27",
+            "market": "magi",
+            "link": "/items/599186899",
+            "price": 25,
+            "name": "キバナ TD 391",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/789960168",
+            "price": 400,
+            "name": "キバナ U 063/",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21276",
-            "price": 80,
-            "name": "キバナ063/067",
-            "date": "2022-11-27",
-            "stock": 119
+            "market": "magi",
+            "link": "/items/913520809",
+            "price": 300,
+            "name": "キバナ U 063/",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1046151206",
+            "price": 49,
+            "name": "【特価】キバナ U ",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/207879894",
+            "price": 500,
+            "name": "キバナ U 063/",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19704",
+            "price": 50,
+            "name": "キバナ(U){サポー",
+            "date": "2022-12-17",
+            "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/913520809",
+            "price": 300,
+            "name": "キバナ U 063/",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/207879894",
+            "price": 500,
+            "name": "キバナ U 063/",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1046151206",
+            "price": 49,
+            "name": "【特価】キバナ U ",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/789960168",
+            "price": 400,
+            "name": "キバナ U 063/",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/599186899",
+            "price": 25,
+            "name": "キバナ TD 391",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19704",
+            "price": 50,
+            "name": "キバナ(U){サポー",
+            "date": "2022-12-16",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/789960168",
+            "price": 400,
+            "name": "キバナ U 063/",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/207879894",
+            "price": 500,
+            "name": "キバナ U 063/",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/913520809",
+            "price": 300,
+            "name": "キバナ U 063/",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1046151206",
+            "price": 49,
+            "name": "【特価】キバナ U ",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19704",
+            "price": 50,
+            "name": "キバナ(U){サポー",
+            "date": "2022-12-15",
+            "stock": 5
         }
     ]
 }

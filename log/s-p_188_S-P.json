@@ -2,18 +2,42 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1041897176",
-            "price": 9500,
-            "name": "サンダースVMAX ",
-            "date": "2022-12-04",
+            "link": "/items/1671492465",
+            "price": 449400,
+            "name": "サンダースVMAX(",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/965734730",
-            "price": 540000,
-            "name": "PSA10 サンダー",
-            "date": "2022-12-04",
+            "link": "/items/1414913369",
+            "price": 560000,
+            "name": "PSA10 2021",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2081612297",
+            "price": 579800,
+            "name": "PSA10サンダース",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1668461352",
+            "price": 386400,
+            "name": "〔状態A-〕サンダー",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1453199247",
+            "price": 659400,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -21,31 +45,31 @@
             "link": "/items/571879376",
             "price": 1344000,
             "name": "ブースターVMAX＋",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1440350848",
-            "price": 449400,
-            "name": "サンダースVMAX(",
-            "date": "2022-12-04",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26406",
+            "price": 360000,
+            "name": "【状態A-】サンダー",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25764",
-            "price": 440000,
+            "price": 428000,
             "name": "【状態A】サンダース",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22470",
-            "price": 428000,
+            "link": "https://www.cardrush-pokemon.jp/product/32695",
+            "price": 368000,
             "name": "サンダースVMAX1",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -53,15 +77,39 @@
             "link": "https://www.cardrush-pokemon.jp/product/22456",
             "price": 1280000,
             "name": "サンダースVMAX1",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22470",
+            "price": 428000,
+            "name": "サンダースVMAX1",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37887",
+            "price": 628000,
+            "name": "サンダースVMAX1",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1440350848",
-            "price": 449400,
-            "name": "サンダースVMAX(",
-            "date": "2022-12-03",
+            "link": "/items/2081612297",
+            "price": 579800,
+            "name": "PSA10サンダース",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1414913369",
+            "price": 560000,
+            "name": "PSA10 2021",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -69,31 +117,63 @@
             "link": "/items/571879376",
             "price": 1344000,
             "name": "ブースターVMAX＋",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/965734730",
-            "price": 540000,
-            "name": "PSA10 サンダー",
-            "date": "2022-12-03",
+            "link": "/items/1671492465",
+            "price": 449400,
+            "name": "サンダースVMAX(",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1041897176",
-            "price": 9500,
-            "name": "サンダースVMAX ",
-            "date": "2022-12-03",
+            "link": "/items/1668461352",
+            "price": 386400,
+            "name": "〔状態A-〕サンダー",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1453199247",
+            "price": 659400,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25764",
-            "price": 440000,
+            "price": 428000,
             "name": "【状態A】サンダース",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26406",
+            "price": 360000,
+            "name": "【状態A-】サンダー",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32695",
+            "price": 368000,
+            "name": "サンダースVMAX1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37887",
+            "price": 628000,
+            "name": "サンダースVMAX1",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -101,7 +181,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/22456",
             "price": 1280000,
             "name": "サンダースVMAX1",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -109,15 +189,31 @@
             "link": "https://www.cardrush-pokemon.jp/product/22470",
             "price": 428000,
             "name": "サンダースVMAX1",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1440350848",
+            "link": "/items/1453199247",
+            "price": 659400,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1671492465",
             "price": 449400,
             "name": "サンダースVMAX(",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1668461352",
+            "price": 386400,
+            "name": "〔状態A-〕サンダー",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -125,31 +221,47 @@
             "link": "/items/571879376",
             "price": 1344000,
             "name": "ブースターVMAX＋",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/965734730",
-            "price": 540000,
-            "name": "PSA10 サンダー",
-            "date": "2022-12-02",
+            "link": "/items/2081612297",
+            "price": 579800,
+            "name": "PSA10サンダース",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1041897176",
-            "price": 9500,
-            "name": "サンダースVMAX ",
-            "date": "2022-12-02",
+            "link": "/items/1414913369",
+            "price": 560000,
+            "name": "PSA10 2021",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25764",
-            "price": 440000,
+            "price": 428000,
             "name": "【状態A】サンダース",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26406",
+            "price": 360000,
+            "name": "【状態A-】サンダー",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32695",
+            "price": 368000,
+            "name": "サンダースVMAX1",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -157,7 +269,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/22470",
             "price": 428000,
             "name": "サンダースVMAX1",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -165,15 +277,31 @@
             "link": "https://www.cardrush-pokemon.jp/product/22456",
             "price": 1280000,
             "name": "サンダースVMAX1",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37887",
+            "price": 628000,
+            "name": "サンダースVMAX1",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/965734730",
-            "price": 540000,
-            "name": "PSA10 サンダー",
-            "date": "2022-12-01",
+            "link": "/items/1453199247",
+            "price": 659400,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1668461352",
+            "price": 386400,
+            "name": "〔状態A-〕サンダー",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -181,23 +309,15 @@
             "link": "/items/571879376",
             "price": 1344000,
             "name": "ブースターVMAX＋",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1041897176",
-            "price": 9500,
-            "name": "サンダースVMAX ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1440350848",
+            "link": "/items/789722712",
             "price": 449400,
             "name": "サンダースVMAX(",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -205,7 +325,15 @@
             "link": "https://www.hareruya2.com/product/25764",
             "price": 440000,
             "name": "【状態A】サンダース",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26406",
+            "price": 360000,
+            "name": "【状態A-】サンダー",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -213,7 +341,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/22470",
             "price": 428000,
             "name": "サンダースVMAX1",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32695",
+            "price": 368000,
+            "name": "サンダースVMAX1",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -221,7 +357,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/22456",
             "price": 1280000,
             "name": "サンダースVMAX1",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37887",
+            "price": 628000,
+            "name": "サンダースVMAX1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/789722712",
+            "price": 449400,
+            "name": "サンダースVMAX(",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -229,31 +381,23 @@
             "link": "/items/571879376",
             "price": 1344000,
             "name": "ブースターVMAX＋",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/965734730",
-            "price": 720000,
-            "name": "PSA10 サンダー",
-            "date": "2022-11-30",
+            "link": "/items/1453199247",
+            "price": 659400,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1440350848",
-            "price": 449400,
-            "name": "サンダースVMAX(",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1041897176",
-            "price": 9500,
-            "name": "サンダースVMAX ",
-            "date": "2022-11-30",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26406",
+            "price": 360000,
+            "name": "【状態A-】サンダー",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -261,15 +405,7 @@
             "link": "https://www.hareruya2.com/product/25764",
             "price": 440000,
             "name": "【状態A】サンダース",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22470",
-            "price": 428000,
-            "name": "サンダースVMAX1",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -277,31 +413,39 @@
             "link": "https://www.cardrush-pokemon.jp/product/22456",
             "price": 1280000,
             "name": "サンダースVMAX1",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32695",
+            "price": 368000,
+            "name": "サンダースVMAX1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37887",
+            "price": 628000,
+            "name": "サンダースVMAX1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22470",
+            "price": 428000,
+            "name": "サンダースVMAX1",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1440350848",
+            "link": "/items/789722712",
             "price": 449400,
             "name": "サンダースVMAX(",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1041897176",
-            "price": 9500,
-            "name": "サンダースVMAX ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/965734730",
-            "price": 720000,
-            "name": "PSA10 サンダー",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -309,7 +453,23 @@
             "link": "/items/571879376",
             "price": 1344000,
             "name": "ブースターVMAX＋",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1453199247",
+            "price": 659400,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26406",
+            "price": 360000,
+            "name": "【状態A-】サンダー",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -317,15 +477,7 @@
             "link": "https://www.hareruya2.com/product/25764",
             "price": 440000,
             "name": "【状態A】サンダース",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22470",
-            "price": 428000,
-            "name": "サンダースVMAX1",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -333,31 +485,39 @@
             "link": "https://www.cardrush-pokemon.jp/product/22456",
             "price": 1280000,
             "name": "サンダースVMAX1",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22470",
+            "price": 428000,
+            "name": "サンダースVMAX1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37887",
+            "price": 628000,
+            "name": "サンダースVMAX1",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1440350848",
+            "link": "/items/789722712",
             "price": 449400,
             "name": "サンダースVMAX(",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1041897176",
-            "price": 9500,
-            "name": "サンダースVMAX ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/965734730",
-            "price": 720000,
-            "name": "PSA10 サンダー",
-            "date": "2022-11-28",
+            "link": "/items/1453199247",
+            "price": 659400,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -365,7 +525,7 @@
             "link": "/items/571879376",
             "price": 1344000,
             "name": "ブースターVMAX＋",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -373,15 +533,23 @@
             "link": "https://www.hareruya2.com/product/25764",
             "price": 440000,
             "name": "【状態A】サンダース",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26406",
+            "price": 360000,
+            "name": "【状態A-】サンダー",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22470",
-            "price": 428000,
+            "link": "https://www.cardrush-pokemon.jp/product/37887",
+            "price": 628000,
             "name": "サンダースVMAX1",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -389,7 +557,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/22456",
             "price": 1280000,
             "name": "サンダースVMAX1",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22470",
+            "price": 428000,
+            "name": "サンダースVMAX1",
+            "date": "2022-12-16",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1453199247",
+            "price": 659400,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -397,31 +581,23 @@
             "link": "/items/571879376",
             "price": 1344000,
             "name": "ブースターVMAX＋",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/965734730",
-            "price": 720000,
-            "name": "PSA10 サンダー",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1041897176",
-            "price": 9500,
-            "name": "サンダースVMAX ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1440350848",
+            "link": "/items/789722712",
             "price": 449400,
             "name": "サンダースVMAX(",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26406",
+            "price": 360000,
+            "name": "【状態A-】サンダー",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -429,15 +605,7 @@
             "link": "https://www.hareruya2.com/product/25764",
             "price": 440000,
             "name": "【状態A】サンダース",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22470",
-            "price": 428000,
-            "name": "サンダースVMAX1",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -445,8 +613,24 @@
             "link": "https://www.cardrush-pokemon.jp/product/22456",
             "price": 1280000,
             "name": "サンダースVMAX1",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37887",
+            "price": 628000,
+            "name": "サンダースVMAX1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22470",
+            "price": 428000,
+            "name": "サンダースVMAX1",
+            "date": "2022-12-15",
+            "stock": 2
         }
     ]
 }

@@ -2,10 +2,50 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1306820132",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/51807558",
+            "price": 230,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/302444491",
+            "price": 220,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1064694452",
+            "price": 200,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/370408070",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1419998567",
             "price": 100,
             "name": "ケルディオ(R仕様)",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,48 +53,432 @@
             "link": "https://www.hareruya2.com/product/26055",
             "price": 50,
             "name": "ケルディオ(CP){",
-            "date": "2022-12-04",
-            "stock": 40
+            "date": "2022-12-22",
+            "stock": 41
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38116",
             "price": 50,
             "name": "ケルディオ032/1",
-            "date": "2022-12-04",
-            "stock": 526
+            "date": "2022-12-22",
+            "stock": 679
+        },
+        {
+            "market": "magi",
+            "link": "/items/51807558",
+            "price": 230,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1306820132",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1064694452",
+            "price": 200,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/370408070",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1419998567",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/302444491",
+            "price": 220,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26055",
             "price": 50,
             "name": "ケルディオ(CP){",
-            "date": "2022-12-03",
-            "stock": 40
+            "date": "2022-12-21",
+            "stock": 41
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38116",
             "price": 50,
             "name": "ケルディオ032/1",
-            "date": "2022-12-03",
-            "stock": 524
+            "date": "2022-12-21",
+            "stock": 679
+        },
+        {
+            "market": "magi",
+            "link": "/items/302444491",
+            "price": 220,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1419998567",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/370408070",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1064694452",
+            "price": 200,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1306820132",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/51807558",
+            "price": 230,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-20",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26055",
             "price": 50,
             "name": "ケルディオ(CP){",
-            "date": "2022-12-02",
-            "stock": 40
+            "date": "2022-12-20",
+            "stock": 41
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38116",
             "price": 50,
             "name": "ケルディオ032/1",
-            "date": "2022-12-02",
-            "stock": 524
+            "date": "2022-12-20",
+            "stock": 679
+        },
+        {
+            "market": "magi",
+            "link": "/items/1306820132",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/370408070",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1419998567",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/302444491",
+            "price": 220,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/51807558",
+            "price": 230,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1064694452",
+            "price": 200,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26055",
+            "price": 50,
+            "name": "ケルディオ(CP){",
+            "date": "2022-12-19",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38116",
+            "price": 50,
+            "name": "ケルディオ032/1",
+            "date": "2022-12-19",
+            "stock": 679
+        },
+        {
+            "market": "magi",
+            "link": "/items/51807558",
+            "price": 230,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/302444491",
+            "price": 220,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1064694452",
+            "price": 200,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1419998567",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/370408070",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26055",
+            "price": 50,
+            "name": "ケルディオ(CP){",
+            "date": "2022-12-18",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38116",
+            "price": 50,
+            "name": "ケルディオ032/1",
+            "date": "2022-12-18",
+            "stock": 680
+        },
+        {
+            "market": "magi",
+            "link": "/items/302444491",
+            "price": 220,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/370408070",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1419998567",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1064694452",
+            "price": 200,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/51807558",
+            "price": 230,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26055",
+            "price": 50,
+            "name": "ケルディオ(CP){",
+            "date": "2022-12-17",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38116",
+            "price": 50,
+            "name": "ケルディオ032/1",
+            "date": "2022-12-17",
+            "stock": 680
+        },
+        {
+            "market": "magi",
+            "link": "/items/51807558",
+            "price": 230,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1419998567",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1064694452",
+            "price": 200,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/370408070",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/302444491",
+            "price": 220,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26055",
+            "price": 50,
+            "name": "ケルディオ(CP){",
+            "date": "2022-12-16",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38116",
+            "price": 50,
+            "name": "ケルディオ032/1",
+            "date": "2022-12-16",
+            "stock": 680
+        },
+        {
+            "market": "magi",
+            "link": "/items/1419998567",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/370408070",
+            "price": 100,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/51807558",
+            "price": 230,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1064694452",
+            "price": 200,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/302444491",
+            "price": 220,
+            "name": "ケルディオ(R仕様)",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26055",
+            "price": 50,
+            "name": "ケルディオ(CP){",
+            "date": "2022-12-15",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38116",
+            "price": 50,
+            "name": "ケルディオ032/1",
+            "date": "2022-12-15",
+            "stock": 680
         }
     ]
 }

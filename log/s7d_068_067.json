@@ -2,18 +2,10 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/304129314",
-            "price": 1880,
+            "link": "/items/914874718",
+            "price": 753,
             "name": "スイクンV SR 0",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/648164716",
-            "price": 800,
-            "name": "スイクンV SR 0",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -21,23 +13,31 @@
             "link": "/items/1938814011",
             "price": 1100,
             "name": "1枚傷あり　スイクン",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/940897378",
-            "price": 1339,
+            "link": "/items/648164716",
+            "price": 800,
             "name": "スイクンV SR 0",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/914874718",
-            "price": 785,
+            "link": "/items/304129314",
+            "price": 1880,
             "name": "スイクンV SR 0",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/940897378",
+            "price": 1335,
+            "name": "スイクンV SR 0",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -45,63 +45,47 @@
             "link": "https://www.hareruya2.com/product/19877",
             "price": 1200,
             "name": "スイクンV(SR){",
-            "date": "2022-12-04",
-            "stock": 2
+            "date": "2022-12-22",
+            "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21445",
             "price": 1180,
             "name": "スイクンV068/0",
-            "date": "2022-12-04",
-            "stock": 2
+            "date": "2022-12-22",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32365",
+            "price": 990,
+            "name": "スイクンV068/0",
+            "date": "2022-12-22",
+            "stock": 15
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21818",
             "price": 780,
             "name": "スイクンV068/0",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32365",
-            "price": 990,
-            "name": "スイクンV068/0",
-            "date": "2022-12-04",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/648164716",
-            "price": 800,
-            "name": "スイクンV SR 0",
-            "date": "2022-12-03",
-            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/304129314",
             "price": 1880,
             "name": "スイクンV SR 0",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/914874718",
-            "price": 785,
+            "link": "/items/648164716",
+            "price": 800,
             "name": "スイクンV SR 0",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/940897378",
-            "price": 1340,
-            "name": "スイクンV SR 0",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -109,63 +93,63 @@
             "link": "/items/1938814011",
             "price": 1100,
             "name": "1枚傷あり　スイクン",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/940897378",
+            "price": 1335,
+            "name": "スイクンV SR 0",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/914874718",
+            "price": 761,
+            "name": "スイクンV SR 0",
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19877",
             "price": 1200,
             "name": "スイクンV(SR){",
-            "date": "2022-12-03",
-            "stock": 2
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21445",
+            "price": 1180,
+            "name": "スイクンV068/0",
+            "date": "2022-12-21",
+            "stock": 20
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32365",
             "price": 990,
             "name": "スイクンV068/0",
-            "date": "2022-12-03",
-            "stock": 12
+            "date": "2022-12-21",
+            "stock": 13
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21818",
             "price": 780,
             "name": "スイクンV068/0",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21445",
-            "price": 1180,
-            "name": "スイクンV068/0",
-            "date": "2022-12-03",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1938814011",
-            "price": 1100,
-            "name": "1枚傷あり　スイクン",
-            "date": "2022-12-02",
-            "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/940897378",
-            "price": 1340,
+            "price": 1335,
             "name": "スイクンV SR 0",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/914874718",
-            "price": 793,
-            "name": "スイクンV SR 0",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -173,7 +157,7 @@
             "link": "/items/304129314",
             "price": 1880,
             "name": "スイクンV SR 0",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -181,23 +165,39 @@
             "link": "/items/648164716",
             "price": 800,
             "name": "スイクンV SR 0",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/914874718",
+            "price": 761,
+            "name": "スイクンV SR 0",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1938814011",
+            "price": 1100,
+            "name": "1枚傷あり　スイクン",
+            "date": "2022-12-20",
+            "stock": 4
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19877",
             "price": 1200,
             "name": "スイクンV(SR){",
-            "date": "2022-12-02",
-            "stock": 2
+            "date": "2022-12-20",
+            "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21818",
             "price": 780,
             "name": "スイクンV068/0",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 2
         },
         {
@@ -205,23 +205,31 @@
             "link": "https://www.cardrush-pokemon.jp/product/32365",
             "price": 990,
             "name": "スイクンV068/0",
-            "date": "2022-12-02",
-            "stock": 12
+            "date": "2022-12-20",
+            "stock": 13
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21445",
             "price": 1180,
             "name": "スイクンV068/0",
-            "date": "2022-12-02",
-            "stock": 2
+            "date": "2022-12-20",
+            "stock": 19
         },
         {
             "market": "magi",
-            "link": "/items/940897378",
-            "price": 1340,
+            "link": "/items/1938814011",
+            "price": 1100,
+            "name": "1枚傷あり　スイクン",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/648164716",
+            "price": 800,
             "name": "スイクンV SR 0",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -229,103 +237,23 @@
             "link": "/items/304129314",
             "price": 1880,
             "name": "スイクンV SR 0",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/648164716",
-            "price": 800,
-            "name": "スイクンV SR 0",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1938814011",
-            "price": 1100,
-            "name": "1枚傷あり　スイクン",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/914874718",
-            "price": 802,
-            "name": "スイクンV SR 0",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19877",
-            "price": 1200,
-            "name": "スイクンV(SR){",
-            "date": "2022-12-01",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21445",
-            "price": 1180,
-            "name": "スイクンV068/0",
-            "date": "2022-12-01",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21818",
-            "price": 780,
-            "name": "スイクンV068/0",
-            "date": "2022-12-01",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32365",
-            "price": 990,
-            "name": "スイクンV068/0",
-            "date": "2022-12-01",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/648164716",
-            "price": 800,
-            "name": "スイクンV SR 0",
-            "date": "2022-11-30",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/914874718",
-            "price": 811,
+            "price": 761,
             "name": "スイクンV SR 0",
-            "date": "2022-11-30",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/940897378",
-            "price": 1340,
+            "price": 1335,
             "name": "スイクンV SR 0",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1938814011",
-            "price": 1100,
-            "name": "1枚傷あり　スイクン",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/304129314",
-            "price": 1880,
-            "name": "スイクンV SR 0",
-            "date": "2022-11-30",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -333,31 +261,31 @@
             "link": "https://www.hareruya2.com/product/19877",
             "price": 1200,
             "name": "スイクンV(SR){",
-            "date": "2022-11-30",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21445",
-            "price": 1180,
-            "name": "スイクンV068/0",
-            "date": "2022-11-30",
-            "stock": 2
+            "date": "2022-12-19",
+            "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32365",
             "price": 990,
             "name": "スイクンV068/0",
-            "date": "2022-11-30",
+            "date": "2022-12-19",
             "stock": 12
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21445",
+            "price": 1180,
+            "name": "スイクンV068/0",
+            "date": "2022-12-19",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21818",
             "price": 780,
             "name": "スイクンV068/0",
-            "date": "2022-11-30",
+            "date": "2022-12-19",
             "stock": 2
         },
         {
@@ -365,39 +293,39 @@
             "link": "/items/1938814011",
             "price": 1100,
             "name": "1枚傷あり　スイクン",
-            "date": "2022-11-29",
+            "date": "2022-12-18",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/304129314",
-            "price": 1880,
-            "name": "スイクンV SR 0",
-            "date": "2022-11-29",
-            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/648164716",
             "price": 800,
             "name": "スイクンV SR 0",
-            "date": "2022-11-29",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/914874718",
-            "price": 811,
+            "price": 761,
             "name": "スイクンV SR 0",
-            "date": "2022-11-29",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/940897378",
-            "price": 1340,
+            "price": 1336,
             "name": "スイクンV SR 0",
-            "date": "2022-11-29",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/304129314",
+            "price": 1880,
+            "name": "スイクンV SR 0",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -405,23 +333,7 @@
             "link": "https://www.hareruya2.com/product/19877",
             "price": 1200,
             "name": "スイクンV(SR){",
-            "date": "2022-11-29",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32365",
-            "price": 990,
-            "name": "スイクンV068/0",
-            "date": "2022-11-29",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21445",
-            "price": 1180,
-            "name": "スイクンV068/0",
-            "date": "2022-11-29",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -429,39 +341,31 @@
             "link": "https://www.cardrush-pokemon.jp/product/21818",
             "price": 780,
             "name": "スイクンV068/0",
-            "date": "2022-11-29",
+            "date": "2022-12-18",
             "stock": 2
         },
         {
-            "market": "magi",
-            "link": "/items/940897378",
-            "price": 1340,
-            "name": "スイクンV SR 0",
-            "date": "2022-11-28",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21445",
+            "price": 1180,
+            "name": "スイクンV068/0",
+            "date": "2022-12-18",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32365",
+            "price": 990,
+            "name": "スイクンV068/0",
+            "date": "2022-12-18",
+            "stock": 13
         },
         {
             "market": "magi",
             "link": "/items/914874718",
-            "price": 811,
+            "price": 761,
             "name": "スイクンV SR 0",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/304129314",
-            "price": 1880,
-            "name": "スイクンV SR 0",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/648164716",
-            "price": 800,
-            "name": "スイクンV SR 0",
-            "date": "2022-11-28",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -469,23 +373,55 @@
             "link": "/items/1938814011",
             "price": 1100,
             "name": "1枚傷あり　スイクン",
-            "date": "2022-11-28",
+            "date": "2022-12-17",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/940897378",
+            "price": 1336,
+            "name": "スイクンV SR 0",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/648164716",
+            "price": 800,
+            "name": "スイクンV SR 0",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/304129314",
+            "price": 1880,
+            "name": "スイクンV SR 0",
+            "date": "2022-12-17",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19877",
             "price": 1200,
             "name": "スイクンV(SR){",
-            "date": "2022-11-28",
-            "stock": 3
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32365",
+            "price": 990,
+            "name": "スイクンV068/0",
+            "date": "2022-12-17",
+            "stock": 13
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21818",
             "price": 780,
             "name": "スイクンV068/0",
-            "date": "2022-11-28",
+            "date": "2022-12-17",
             "stock": 2
         },
         {
@@ -493,31 +429,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/21445",
             "price": 1180,
             "name": "スイクンV068/0",
-            "date": "2022-11-28",
-            "stock": 51
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32365",
-            "price": 990,
-            "name": "スイクンV068/0",
-            "date": "2022-11-28",
-            "stock": 10
+            "date": "2022-12-17",
+            "stock": 19
         },
         {
             "market": "magi",
-            "link": "/items/940897378",
-            "price": 1340,
+            "link": "/items/914874718",
+            "price": 761,
             "name": "スイクンV SR 0",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/304129314",
-            "price": 1880,
-            "name": "スイクンV SR 0",
-            "date": "2022-11-27",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -525,15 +445,31 @@
             "link": "/items/1938814011",
             "price": 1100,
             "name": "1枚傷あり　スイクン",
-            "date": "2022-11-27",
+            "date": "2022-12-16",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/940897378",
+            "price": 1336,
+            "name": "スイクンV SR 0",
+            "date": "2022-12-16",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/648164716",
             "price": 800,
             "name": "スイクンV SR 0",
-            "date": "2022-11-27",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/304129314",
+            "price": 1880,
+            "name": "スイクンV SR 0",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -541,31 +477,111 @@
             "link": "https://www.hareruya2.com/product/19877",
             "price": 1200,
             "name": "スイクンV(SR){",
-            "date": "2022-11-27",
-            "stock": 3
+            "date": "2022-12-16",
+            "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32365",
             "price": 990,
             "name": "スイクンV068/0",
-            "date": "2022-11-27",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21445",
-            "price": 1180,
-            "name": "スイクンV068/0",
-            "date": "2022-11-27",
-            "stock": 51
+            "date": "2022-12-16",
+            "stock": 13
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21818",
             "price": 780,
             "name": "スイクンV068/0",
-            "date": "2022-11-27",
+            "date": "2022-12-16",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21445",
+            "price": 1180,
+            "name": "スイクンV068/0",
+            "date": "2022-12-16",
+            "stock": 18
+        },
+        {
+            "market": "magi",
+            "link": "/items/648164716",
+            "price": 800,
+            "name": "スイクンV SR 0",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1938814011",
+            "price": 1100,
+            "name": "1枚傷あり　スイクン",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/914874718",
+            "price": 761,
+            "name": "スイクンV SR 0",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1439145100",
+            "price": 640,
+            "name": "スイクンV SR 0",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/304129314",
+            "price": 1880,
+            "name": "スイクンV SR 0",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/940897378",
+            "price": 1336,
+            "name": "スイクンV SR 0",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19877",
+            "price": 1200,
+            "name": "スイクンV(SR){",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32365",
+            "price": 990,
+            "name": "スイクンV068/0",
+            "date": "2022-12-15",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21445",
+            "price": 1180,
+            "name": "スイクンV068/0",
+            "date": "2022-12-15",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21818",
+            "price": 780,
+            "name": "スイクンV068/0",
+            "date": "2022-12-15",
             "stock": 2
         }
     ]

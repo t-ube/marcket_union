@@ -5,7 +5,31 @@
             "link": "/items/594991396",
             "price": 100,
             "name": "ヒメグマ C 055",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1119859500",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1177356382",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/658948506",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,7 +37,7 @@
             "link": "/items/1392956052",
             "price": 25,
             "name": "ヒメグマ C 055",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 4
         },
         {
@@ -21,7 +45,7 @@
             "link": "/items/331961925",
             "price": 25,
             "name": "ヒメグマ C 055",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 4
         },
         {
@@ -29,7 +53,7 @@
             "link": "/items/171422523",
             "price": 25,
             "name": "ヒメグマ C 055",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 4
         },
         {
@@ -37,39 +61,15 @@
             "link": "/items/1600090358",
             "price": 25,
             "name": "ヒメグマ C 055",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1119859500",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/658948506",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1177356382",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-12-04",
-            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23052",
             "price": 50,
             "name": "ヒメグマ(C){無}",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 33
         },
         {
@@ -77,7 +77,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/34723",
             "price": 30,
             "name": "ヒメグマ055/06",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 41
         },
         {
@@ -85,7 +85,15 @@
             "link": "/items/1600090358",
             "price": 25,
             "name": "ヒメグマ C 055",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1392956052",
+            "price": 25,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-21",
             "stock": 4
         },
         {
@@ -93,7 +101,7 @@
             "link": "/items/331961925",
             "price": 25,
             "name": "ヒメグマ C 055",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 4
         },
         {
@@ -101,7 +109,7 @@
             "link": "/items/171422523",
             "price": 25,
             "name": "ヒメグマ C 055",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 4
         },
         {
@@ -109,7 +117,7 @@
             "link": "/items/594991396",
             "price": 100,
             "name": "ヒメグマ C 055",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -117,7 +125,7 @@
             "link": "/items/1177356382",
             "price": 100,
             "name": "ヒメグマ C 055",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -125,7 +133,7 @@
             "link": "/items/658948506",
             "price": 100,
             "name": "ヒメグマ C 055",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -133,7 +141,7 @@
             "link": "/items/1119859500",
             "price": 100,
             "name": "ヒメグマ C 055",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -141,7 +149,7 @@
             "link": "https://www.hareruya2.com/product/23052",
             "price": 50,
             "name": "ヒメグマ(C){無}",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 33
         },
         {
@@ -149,31 +157,39 @@
             "link": "https://www.cardrush-pokemon.jp/product/34723",
             "price": 30,
             "name": "ヒメグマ055/06",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 41
         },
         {
             "market": "magi",
-            "link": "/items/1600090358",
-            "price": 25,
+            "link": "/items/594991396",
+            "price": 100,
             "name": "ヒメグマ C 055",
-            "date": "2022-12-02",
-            "stock": 4
+            "date": "2022-12-20",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1177356382",
             "price": 100,
             "name": "ヒメグマ C 055",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/331961925",
+            "link": "/items/658948506",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1392956052",
             "price": 25,
             "name": "ヒメグマ C 055",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 4
         },
         {
@@ -181,199 +197,15 @@
             "link": "/items/171422523",
             "price": 25,
             "name": "ヒメグマ C 055",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/658948506",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1119859500",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/594991396",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23052",
-            "price": 50,
-            "name": "ヒメグマ(C){無}",
-            "date": "2022-12-02",
-            "stock": 33
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34723",
-            "price": 30,
-            "name": "ヒメグマ055/06",
-            "date": "2022-12-02",
-            "stock": 41
         },
         {
             "market": "magi",
             "link": "/items/331961925",
             "price": 25,
             "name": "ヒメグマ C 055",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/171422523",
-            "price": 25,
-            "name": "ヒメグマ C 055",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1119859500",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1600090358",
-            "price": 25,
-            "name": "ヒメグマ C 055",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1177356382",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/658948506",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/594991396",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23052",
-            "price": 50,
-            "name": "ヒメグマ(C){無}",
-            "date": "2022-12-01",
-            "stock": 33
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34723",
-            "price": 30,
-            "name": "ヒメグマ055/06",
-            "date": "2022-12-01",
-            "stock": 41
-        },
-        {
-            "market": "magi",
-            "link": "/items/1600090358",
-            "price": 25,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/658948506",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/331961925",
-            "price": 25,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/594991396",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/171422523",
-            "price": 25,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1119859500",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1177356382",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23052",
-            "price": 50,
-            "name": "ヒメグマ(C){無}",
-            "date": "2022-11-30",
-            "stock": 33
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34723",
-            "price": 30,
-            "name": "ヒメグマ055/06",
-            "date": "2022-11-30",
-            "stock": 41
-        },
-        {
-            "market": "magi",
-            "link": "/items/331961925",
-            "price": 25,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 4
         },
         {
@@ -381,47 +213,15 @@
             "link": "/items/1600090358",
             "price": 25,
             "name": "ヒメグマ C 055",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1177356382",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-29",
-            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1119859500",
             "price": 100,
             "name": "ヒメグマ C 055",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/658948506",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/171422523",
-            "price": 25,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/594991396",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -429,7 +229,7 @@
             "link": "https://www.hareruya2.com/product/23052",
             "price": 50,
             "name": "ヒメグマ(C){無}",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 33
         },
         {
@@ -437,15 +237,47 @@
             "link": "https://www.cardrush-pokemon.jp/product/34723",
             "price": 30,
             "name": "ヒメグマ055/06",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 41
+        },
+        {
+            "market": "magi",
+            "link": "/items/1600090358",
+            "price": 25,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1177356382",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-19",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/331961925",
             "price": 25,
             "name": "ヒメグマ C 055",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/594991396",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1392956052",
+            "price": 25,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-19",
             "stock": 4
         },
         {
@@ -453,7 +285,327 @@
             "link": "/items/658948506",
             "price": 100,
             "name": "ヒメグマ C 055",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1119859500",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/171422523",
+            "price": 25,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23052",
+            "price": 50,
+            "name": "ヒメグマ(C){無}",
+            "date": "2022-12-19",
+            "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34723",
+            "price": 30,
+            "name": "ヒメグマ055/06",
+            "date": "2022-12-19",
+            "stock": 41
+        },
+        {
+            "market": "magi",
+            "link": "/items/1600090358",
+            "price": 25,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/594991396",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1392956052",
+            "price": 25,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/658948506",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1119859500",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1177356382",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/171422523",
+            "price": 25,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/331961925",
+            "price": 25,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23052",
+            "price": 50,
+            "name": "ヒメグマ(C){無}",
+            "date": "2022-12-18",
+            "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34723",
+            "price": 30,
+            "name": "ヒメグマ055/06",
+            "date": "2022-12-18",
+            "stock": 41
+        },
+        {
+            "market": "magi",
+            "link": "/items/1600090358",
+            "price": 25,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/171422523",
+            "price": 25,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1119859500",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/658948506",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/331961925",
+            "price": 25,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1177356382",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/594991396",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1392956052",
+            "price": 25,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23052",
+            "price": 50,
+            "name": "ヒメグマ(C){無}",
+            "date": "2022-12-17",
+            "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34723",
+            "price": 30,
+            "name": "ヒメグマ055/06",
+            "date": "2022-12-17",
+            "stock": 41
+        },
+        {
+            "market": "magi",
+            "link": "/items/1600090358",
+            "price": 25,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1119859500",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/658948506",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1177356382",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/171422523",
+            "price": 25,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/594991396",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1392956052",
+            "price": 25,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/331961925",
+            "price": 25,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23052",
+            "price": 50,
+            "name": "ヒメグマ(C){無}",
+            "date": "2022-12-16",
+            "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34723",
+            "price": 30,
+            "name": "ヒメグマ055/06",
+            "date": "2022-12-16",
+            "stock": 41
+        },
+        {
+            "market": "magi",
+            "link": "/items/658948506",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/171422523",
+            "price": 25,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1119859500",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1392956052",
+            "price": 25,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/594991396",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1177356382",
+            "price": 100,
+            "name": "ヒメグマ C 055",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -461,119 +613,23 @@
             "link": "/items/1600090358",
             "price": 25,
             "name": "ヒメグマ C 055",
-            "date": "2022-11-28",
+            "date": "2022-12-15",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1177356382",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/171422523",
-            "price": 25,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-28",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1119859500",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/594991396",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23052",
-            "price": 50,
-            "name": "ヒメグマ(C){無}",
-            "date": "2022-11-28",
-            "stock": 33
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34723",
-            "price": 30,
-            "name": "ヒメグマ055/06",
-            "date": "2022-11-28",
-            "stock": 41
         },
         {
             "market": "magi",
             "link": "/items/331961925",
             "price": 25,
             "name": "ヒメグマ C 055",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/171422523",
-            "price": 25,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-27",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/594991396",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1177356382",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1600090358",
-            "price": 25,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-27",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/658948506",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1119859500",
-            "price": 100,
-            "name": "ヒメグマ C 055",
-            "date": "2022-11-27",
-            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23052",
             "price": 50,
             "name": "ヒメグマ(C){無}",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 33
         },
         {
@@ -581,7 +637,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/34723",
             "price": 30,
             "name": "ヒメグマ055/06",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 41
         }
     ]

@@ -2,34 +2,26 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1857179688",
-            "price": 666,
+            "link": "/items/1777840462",
+            "price": 200,
             "name": "ガラルファイヤー A",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/910463847",
+            "link": "/items/1643722331",
+            "price": 900,
+            "name": "プレゼント付き　ガラ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1927109737",
             "price": 380,
             "name": "ガラルファイヤー A",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1659266912",
-            "price": 300,
-            "name": "ガラルファイヤー A",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1174147464",
-            "price": 300,
-            "name": "ガラルファイヤー A",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -37,47 +29,15 @@
             "link": "/items/439921541",
             "price": 550,
             "name": "ガラルファイヤー A",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1927558005",
-            "price": 350,
+            "link": "/items/1857179688",
+            "price": 666,
             "name": "ガラルファイヤー A",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/967713092",
-            "price": 700,
-            "name": "ガラルファイヤー A",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/750446176",
-            "price": 1000,
-            "name": "【AR】ガラルファイ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2051889078",
-            "price": 300,
-            "name": "ガラルファイヤー A",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/498560910",
-            "price": 500,
-            "name": "ガラルファイヤー A",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -85,39 +45,599 @@
             "link": "/items/1204129279",
             "price": 650,
             "name": "ガラルファイヤー A",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/271199859",
-            "price": 299,
+            "link": "/items/1927558005",
+            "price": 350,
             "name": "ガラルファイヤー A",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1929204509",
+            "price": 400,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1927666229",
+            "price": 350,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/716922015",
+            "price": 350,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1775480517",
+            "price": 380,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26329",
-            "price": 200,
+            "price": 400,
             "name": "ガラルファイヤー(A",
-            "date": "2022-12-04",
-            "stock": 18
+            "date": "2022-12-22",
+            "stock": 46
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38637",
+            "price": 350,
+            "name": "ガラルファイヤー19",
+            "date": "2022-12-22",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38370",
+            "price": 380,
+            "name": "ガラルファイヤー19",
+            "date": "2022-12-22",
+            "stock": 56
+        },
+        {
+            "market": "magi",
+            "link": "/items/1929204509",
+            "price": 400,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1927109737",
+            "price": 380,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1775480517",
+            "price": 380,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/716922015",
+            "price": 350,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1927666229",
+            "price": 350,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/439921541",
+            "price": 550,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1204129279",
+            "price": 650,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1857179688",
+            "price": 666,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1643722331",
+            "price": 900,
+            "name": "プレゼント付き　ガラ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1777840462",
+            "price": 200,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1927558005",
+            "price": 350,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-21",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26329",
+            "price": 400,
+            "name": "ガラルファイヤー(A",
+            "date": "2022-12-21",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38637",
+            "price": 350,
+            "name": "ガラルファイヤー19",
+            "date": "2022-12-21",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38370",
+            "price": 380,
+            "name": "ガラルファイヤー19",
+            "date": "2022-12-21",
+            "stock": 54
+        },
+        {
+            "market": "magi",
+            "link": "/items/1927109737",
+            "price": 380,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1927558005",
+            "price": 350,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-20",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1775480517",
+            "price": 380,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1929204509",
+            "price": 400,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1777840462",
+            "price": 250,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1927666229",
+            "price": 350,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1643722331",
+            "price": 900,
+            "name": "プレゼント付き　ガラ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1204129279",
+            "price": 650,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1857179688",
+            "price": 666,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/439921541",
+            "price": 550,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/716922015",
+            "price": 350,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26329",
+            "price": 400,
+            "name": "ガラルファイヤー(A",
+            "date": "2022-12-20",
+            "stock": 24
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38637",
+            "price": 300,
+            "name": "ガラルファイヤー19",
+            "date": "2022-12-20",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1775480517",
+            "price": 380,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1643722331",
+            "price": 900,
+            "name": "プレゼント付き　ガラ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1927666229",
+            "price": 350,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1777840462",
+            "price": 250,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1857179688",
+            "price": 666,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/439921541",
+            "price": 550,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1204129279",
+            "price": 650,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1927558005",
+            "price": 350,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-19",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/716922015",
+            "price": 350,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1927109737",
+            "price": 380,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1929204509",
+            "price": 400,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26329",
+            "price": 400,
+            "name": "ガラルファイヤー(A",
+            "date": "2022-12-19",
+            "stock": 26
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38370",
+            "price": 380,
+            "name": "ガラルファイヤー19",
+            "date": "2022-12-19",
+            "stock": 60
+        },
+        {
+            "market": "magi",
+            "link": "/items/1857179688",
+            "price": 666,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1204129279",
+            "price": 650,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1929204509",
+            "price": 400,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/439921541",
+            "price": 550,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1927666229",
+            "price": 350,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/716922015",
+            "price": 350,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1643722331",
+            "price": 900,
+            "name": "プレゼント付き　ガラ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1109506781",
+            "price": 600,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/304929141",
+            "price": 980,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1927558005",
+            "price": 350,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26329",
+            "price": 500,
+            "name": "ガラルファイヤー(A",
+            "date": "2022-12-18",
+            "stock": 27
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38370",
+            "price": 380,
+            "name": "ガラルファイヤー19",
+            "date": "2022-12-18",
+            "stock": 142
+        },
+        {
+            "market": "magi",
+            "link": "/items/1204129279",
+            "price": 650,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1927558005",
+            "price": 350,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1857179688",
+            "price": 666,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/439921541",
+            "price": 550,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1929204509",
+            "price": 400,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/304929141",
+            "price": 1000,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1643722331",
+            "price": 980,
+            "name": "プレゼント付き　ガラ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1109506781",
+            "price": 600,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26329",
+            "price": 500,
+            "name": "ガラルファイヤー(A",
+            "date": "2022-12-17",
+            "stock": 15
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38370",
             "price": 420,
             "name": "ガラルファイヤー19",
-            "date": "2022-12-04",
-            "stock": 57
+            "date": "2022-12-17",
+            "stock": 151
         },
         {
             "market": "magi",
-            "link": "/items/967713092",
-            "price": 700,
+            "link": "/items/1204129279",
+            "price": 650,
             "name": "ガラルファイヤー A",
-            "date": "2022-12-03",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1109506781",
+            "price": 600,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/304929141",
+            "price": 1000,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1643722331",
+            "price": 980,
+            "name": "プレゼント付き　ガラ",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -125,7 +645,7 @@
             "link": "/items/1927558005",
             "price": 350,
             "name": "ガラルファイヤー A",
-            "date": "2022-12-03",
+            "date": "2022-12-16",
             "stock": 2
         },
         {
@@ -133,7 +653,7 @@
             "link": "/items/439921541",
             "price": 550,
             "name": "ガラルファイヤー A",
-            "date": "2022-12-03",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -141,72 +661,96 @@
             "link": "/items/1857179688",
             "price": 666,
             "name": "ガラルファイヤー A",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1659266912",
-            "price": 300,
-            "name": "ガラルファイヤー A",
-            "date": "2022-12-03",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26329",
-            "price": 200,
+            "price": 500,
             "name": "ガラルファイヤー(A",
-            "date": "2022-12-03",
-            "stock": 27
-        },
-        {
-            "market": "magi",
-            "link": "/items/1857179688",
-            "price": 666,
-            "name": "ガラルファイヤー A",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/439921541",
-            "price": 550,
-            "name": "ガラルファイヤー A",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1927558005",
-            "price": 350,
-            "name": "ガラルファイヤー A",
-            "date": "2022-12-02",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/967713092",
-            "price": 700,
-            "name": "ガラルファイヤー A",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26329",
-            "price": 200,
-            "name": "ガラルファイヤー(A",
-            "date": "2022-12-02",
-            "stock": 20
+            "date": "2022-12-16",
+            "stock": 15
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38370",
-            "price": 480,
+            "price": 420,
             "name": "ガラルファイヤー19",
-            "date": "2022-12-02",
-            "stock": 83
+            "date": "2022-12-16",
+            "stock": 143
+        },
+        {
+            "market": "magi",
+            "link": "/items/1204129279",
+            "price": 650,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1927558005",
+            "price": 350,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-15",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1857179688",
+            "price": 666,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/304929141",
+            "price": 1000,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1643722331",
+            "price": 980,
+            "name": "プレゼント付き　ガラ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/439921541",
+            "price": 550,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1109506781",
+            "price": 700,
+            "name": "ガラルファイヤー A",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26329",
+            "price": 500,
+            "name": "ガラルファイヤー(A",
+            "date": "2022-12-15",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38370",
+            "price": 420,
+            "name": "ガラルファイヤー19",
+            "date": "2022-12-15",
+            "stock": 99
         }
     ]
 }

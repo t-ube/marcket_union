@@ -2,10 +2,10 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1670719023",
-            "price": 500,
-            "name": "基本鋼エネルギー S",
-            "date": "2022-12-04",
+            "link": "/items/408392238",
+            "price": 380,
+            "name": "基本鋼エネルギー(S",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,87 +13,575 @@
             "link": "/items/710391126",
             "price": 350,
             "name": "基本鋼エネルギー S",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1248148836",
-            "price": 700,
-            "name": "【SR】基本鋼エネル",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/135276921",
-            "price": 450,
+            "link": "/items/449208411",
+            "price": 350,
             "name": "基本鋼エネルギー S",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/898070770",
-            "price": 900,
-            "name": "基本鋼エネルギー(S",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1479024304",
-            "price": 450,
-            "name": "基本鋼エネルギー S",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26397",
-            "price": 500,
-            "name": "基本鋼エネルギー:S",
-            "date": "2022-12-04",
-            "stock": 16
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38438",
-            "price": 580,
-            "name": "基本鋼エネルギー25",
-            "date": "2022-12-04",
-            "stock": 208
-        },
-        {
-            "market": "magi",
-            "link": "/items/1479024304",
-            "price": 1500,
-            "name": "基本鋼エネルギー S",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1670719023",
-            "price": 500,
+            "price": 350,
             "name": "基本鋼エネルギー S",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/898070770",
-            "price": 900,
-            "name": "基本鋼エネルギー(S",
-            "date": "2022-12-03",
-            "stock": 2
+            "link": "/items/135276921",
+            "price": 300,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1248148836",
+            "price": 666,
+            "name": "【SR】基本鋼エネル",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1479024304",
+            "price": 300,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/687147648",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1925945105",
+            "price": 300,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/235791194",
+            "price": 500,
+            "name": "基本鋼エネルギー:S",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/919562016",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26397",
+            "price": 400,
+            "name": "基本鋼エネルギー:S",
+            "date": "2022-12-22",
+            "stock": 79
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38438",
+            "price": 380,
+            "name": "基本鋼エネルギー25",
+            "date": "2022-12-22",
+            "stock": 184
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38705",
+            "price": 350,
+            "name": "基本鋼エネルギー25",
+            "date": "2022-12-22",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/687147648",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/235791194",
+            "price": 500,
+            "name": "基本鋼エネルギー:S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1670719023",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/135276921",
-            "price": 450,
+            "price": 300,
             "name": "基本鋼エネルギー S",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1248148836",
+            "price": 666,
+            "name": "【SR】基本鋼エネル",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/710391126",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1479024304",
+            "price": 300,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/408392238",
+            "price": 380,
+            "name": "基本鋼エネルギー(S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/449208411",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/919562016",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/495416633",
+            "price": 290,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1925945105",
+            "price": 300,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26397",
+            "price": 400,
+            "name": "基本鋼エネルギー:S",
+            "date": "2022-12-21",
+            "stock": 79
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38705",
+            "price": 350,
+            "name": "基本鋼エネルギー25",
+            "date": "2022-12-21",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38438",
+            "price": 380,
+            "name": "基本鋼エネルギー25",
+            "date": "2022-12-21",
+            "stock": 225
+        },
+        {
+            "market": "magi",
+            "link": "/items/408392238",
+            "price": 380,
+            "name": "基本鋼エネルギー(S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/710391126",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1479024304",
+            "price": 300,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/135276921",
+            "price": 300,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1248148836",
+            "price": 666,
+            "name": "【SR】基本鋼エネル",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/687147648",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/495416633",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/235791194",
+            "price": 500,
+            "name": "基本鋼エネルギー:S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/449208411",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1925945105",
+            "price": 300,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/919562016",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1670719023",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26397",
+            "price": 400,
+            "name": "基本鋼エネルギー:S",
+            "date": "2022-12-20",
+            "stock": 79
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38705",
+            "price": 350,
+            "name": "基本鋼エネルギー25",
+            "date": "2022-12-20",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38919",
+            "price": 220,
+            "name": "基本鋼エネルギー25",
+            "date": "2022-12-20",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38438",
+            "price": 380,
+            "name": "基本鋼エネルギー25",
+            "date": "2022-12-20",
+            "stock": 209
+        },
+        {
+            "market": "magi",
+            "link": "/items/919562016",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1925945105",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1248148836",
+            "price": 666,
+            "name": "【SR】基本鋼エネル",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/687147648",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/710391126",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/495416633",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/408392238",
+            "price": 380,
+            "name": "基本鋼エネルギー(S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1479024304",
+            "price": 300,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1670719023",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/135276921",
+            "price": 330,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/449208411",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/235791194",
+            "price": 500,
+            "name": "基本鋼エネルギー:S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26397",
+            "price": 400,
+            "name": "基本鋼エネルギー:S",
+            "date": "2022-12-19",
+            "stock": 79
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38438",
+            "price": 380,
+            "name": "基本鋼エネルギー25",
+            "date": "2022-12-19",
+            "stock": 203
+        },
+        {
+            "market": "magi",
+            "link": "/items/135276921",
+            "price": 330,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1479024304",
+            "price": 300,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/495416633",
+            "price": 380,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/687147648",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1670719023",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1328048685",
+            "price": 250,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/449208411",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/919562016",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/408392238",
+            "price": 380,
+            "name": "基本鋼エネルギー(S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1925945105",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/235791194",
+            "price": 500,
+            "name": "基本鋼エネルギー:S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1660574947",
+            "price": 310,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/710391126",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1248148836",
+            "price": 666,
+            "name": "【SR】基本鋼エネル",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -101,24 +589,384 @@
             "link": "https://www.hareruya2.com/product/26397",
             "price": 500,
             "name": "基本鋼エネルギー:S",
-            "date": "2022-12-03",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38705",
-            "price": 530,
-            "name": "基本鋼エネルギー25",
-            "date": "2022-12-03",
-            "stock": 1
+            "date": "2022-12-18",
+            "stock": 79
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38438",
-            "price": 580,
+            "price": 380,
             "name": "基本鋼エネルギー25",
-            "date": "2022-12-03",
-            "stock": 135
+            "date": "2022-12-18",
+            "stock": 159
+        },
+        {
+            "market": "magi",
+            "link": "/items/235791194",
+            "price": 500,
+            "name": "基本鋼エネルギー:S",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/449208411",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/919562016",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1479024304",
+            "price": 300,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/135276921",
+            "price": 330,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1248148836",
+            "price": 666,
+            "name": "【SR】基本鋼エネル",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/710391126",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1670719023",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/687147648",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1925945105",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1660574947",
+            "price": 310,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26397",
+            "price": 500,
+            "name": "基本鋼エネルギー:S",
+            "date": "2022-12-17",
+            "stock": 79
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38438",
+            "price": 380,
+            "name": "基本鋼エネルギー25",
+            "date": "2022-12-17",
+            "stock": 190
+        },
+        {
+            "market": "magi",
+            "link": "/items/919562016",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/235791194",
+            "price": 500,
+            "name": "基本鋼エネルギー:S",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/710391126",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2111798721",
+            "price": 300,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1925945105",
+            "price": 400,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1248148836",
+            "price": 666,
+            "name": "【SR】基本鋼エネル",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/135276921",
+            "price": 330,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/687147648",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1670719023",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1479024304",
+            "price": 450,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/449208411",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1660574947",
+            "price": 310,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26397",
+            "price": 500,
+            "name": "基本鋼エネルギー:S",
+            "date": "2022-12-16",
+            "stock": 79
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38438",
+            "price": 380,
+            "name": "基本鋼エネルギー25",
+            "date": "2022-12-16",
+            "stock": 169
+        },
+        {
+            "market": "magi",
+            "link": "/items/2111798721",
+            "price": 300,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1670719023",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/135276921",
+            "price": 330,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/547113825",
+            "price": 300,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1479024304",
+            "price": 450,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/687147648",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/710391126",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/235791194",
+            "price": 500,
+            "name": "基本鋼エネルギー:S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/259126722",
+            "price": 300,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1248148836",
+            "price": 666,
+            "name": "【SR】基本鋼エネル",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1660574947",
+            "price": 310,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1109159589",
+            "price": 300,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/919562016",
+            "price": 390,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1925945105",
+            "price": 400,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1322988058",
+            "price": 300,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/267814682",
+            "price": 300,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/449208411",
+            "price": 350,
+            "name": "基本鋼エネルギー S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26397",
+            "price": 500,
+            "name": "基本鋼エネルギー:S",
+            "date": "2022-12-15",
+            "stock": 79
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38438",
+            "price": 380,
+            "name": "基本鋼エネルギー25",
+            "date": "2022-12-15",
+            "stock": 161
         }
     ]
 }

@@ -2,18 +2,10 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1021128050",
-            "price": 150,
-            "name": "ハピナスV RR 1",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/153249011",
             "price": 110,
             "name": "ハピナスV RR 1",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -21,7 +13,7 @@
             "link": "/items/445515702",
             "price": 150,
             "name": "ハピナスV RR 1",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 2
         },
         {
@@ -29,15 +21,7 @@
             "link": "/items/2103350007",
             "price": 204,
             "name": "ハピナスV RR 1",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/681738469",
-            "price": 170,
-            "name": "【ノーマル特価】ハピ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -45,39 +29,39 @@
             "link": "/items/1660552523",
             "price": 600,
             "name": "ハピナスV RR 1",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21095",
-            "price": 100,
+            "price": 80,
             "name": "ハピナスV(RR){",
-            "date": "2022-12-04",
-            "stock": 203
+            "date": "2022-12-22",
+            "stock": 341
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22765",
             "price": 180,
             "name": "ハピナスV127/1",
-            "date": "2022-12-04",
-            "stock": 85
+            "date": "2022-12-22",
+            "stock": 50
+        },
+        {
+            "market": "magi",
+            "link": "/items/445515702",
+            "price": 150,
+            "name": "ハピナスV RR 1",
+            "date": "2022-12-21",
+            "stock": 2
         },
         {
             "market": "magi",
             "link": "/items/153249011",
             "price": 110,
             "name": "ハピナスV RR 1",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1021128050",
-            "price": 150,
-            "name": "ハピナスV RR 1",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -85,15 +69,7 @@
             "link": "/items/2103350007",
             "price": 204,
             "name": "ハピナスV RR 1",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/681738469",
-            "price": 170,
-            "name": "【ノーマル特価】ハピ",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -101,55 +77,31 @@
             "link": "/items/1660552523",
             "price": 600,
             "name": "ハピナスV RR 1",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/445515702",
-            "price": 150,
-            "name": "ハピナスV RR 1",
-            "date": "2022-12-03",
-            "stock": 2
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21095",
-            "price": 100,
+            "price": 80,
             "name": "ハピナスV(RR){",
-            "date": "2022-12-03",
-            "stock": 203
+            "date": "2022-12-21",
+            "stock": 341
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22765",
             "price": 180,
             "name": "ハピナスV127/1",
-            "date": "2022-12-03",
-            "stock": 86
-        },
-        {
-            "market": "magi",
-            "link": "/items/445515702",
-            "price": 150,
-            "name": "ハピナスV RR 1",
-            "date": "2022-12-02",
-            "stock": 2
+            "date": "2022-12-21",
+            "stock": 50
         },
         {
             "market": "magi",
             "link": "/items/1660552523",
             "price": 600,
             "name": "ハピナスV RR 1",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/681738469",
-            "price": 170,
-            "name": "【ノーマル特価】ハピ",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -157,15 +109,7 @@
             "link": "/items/2103350007",
             "price": 204,
             "name": "ハピナスV RR 1",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1021128050",
-            "price": 150,
-            "name": "ハピナスV RR 1",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -173,63 +117,7 @@
             "link": "/items/153249011",
             "price": 110,
             "name": "ハピナスV RR 1",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21095",
-            "price": 100,
-            "name": "ハピナスV(RR){",
-            "date": "2022-12-02",
-            "stock": 204
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22765",
-            "price": 180,
-            "name": "ハピナスV127/1",
-            "date": "2022-12-02",
-            "stock": 87
-        },
-        {
-            "market": "magi",
-            "link": "/items/1021128050",
-            "price": 150,
-            "name": "ハピナスV RR 1",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/153249011",
-            "price": 110,
-            "name": "ハピナスV RR 1",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2103350007",
-            "price": 204,
-            "name": "ハピナスV RR 1",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/681738469",
-            "price": 170,
-            "name": "【ノーマル特価】ハピ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1660552523",
-            "price": 600,
-            "name": "ハピナスV RR 1",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -237,7 +125,7 @@
             "link": "/items/445515702",
             "price": 150,
             "name": "ハピナスV RR 1",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 2
         },
         {
@@ -245,47 +133,39 @@
             "link": "https://www.hareruya2.com/product/21095",
             "price": 100,
             "name": "ハピナスV(RR){",
-            "date": "2022-12-01",
-            "stock": 201
+            "date": "2022-12-20",
+            "stock": 316
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22765",
             "price": 180,
             "name": "ハピナスV127/1",
-            "date": "2022-12-01",
-            "stock": 90
+            "date": "2022-12-20",
+            "stock": 54
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32835",
+            "price": 150,
+            "name": "ハピナスV127/1",
+            "date": "2022-12-20",
+            "stock": 2
         },
         {
             "market": "magi",
             "link": "/items/445515702",
             "price": 150,
             "name": "ハピナスV RR 1",
-            "date": "2022-11-30",
+            "date": "2022-12-19",
             "stock": 2
         },
         {
             "market": "magi",
-            "link": "/items/1660552523",
-            "price": 600,
+            "link": "/items/153249011",
+            "price": 110,
             "name": "ハピナスV RR 1",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1021128050",
-            "price": 150,
-            "name": "ハピナスV RR 1",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/681738469",
-            "price": 170,
-            "name": "【ノーマル特価】ハピ",
-            "date": "2022-11-30",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -293,63 +173,7 @@
             "link": "/items/2103350007",
             "price": 204,
             "name": "ハピナスV RR 1",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/153249011",
-            "price": 110,
-            "name": "ハピナスV RR 1",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21095",
-            "price": 100,
-            "name": "ハピナスV(RR){",
-            "date": "2022-11-30",
-            "stock": 201
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22765",
-            "price": 180,
-            "name": "ハピナスV127/1",
-            "date": "2022-11-30",
-            "stock": 90
-        },
-        {
-            "market": "magi",
-            "link": "/items/153249011",
-            "price": 110,
-            "name": "ハピナスV RR 1",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2103350007",
-            "price": 204,
-            "name": "ハピナスV RR 1",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/681738469",
-            "price": 170,
-            "name": "【ノーマル特価】ハピ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1021128050",
-            "price": 150,
-            "name": "ハピナスV RR 1",
-            "date": "2022-11-29",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -357,111 +181,39 @@
             "link": "/items/1660552523",
             "price": 600,
             "name": "ハピナスV RR 1",
-            "date": "2022-11-29",
+            "date": "2022-12-19",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/445515702",
-            "price": 150,
-            "name": "ハピナスV RR 1",
-            "date": "2022-11-29",
-            "stock": 2
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21095",
             "price": 100,
             "name": "ハピナスV(RR){",
-            "date": "2022-11-29",
-            "stock": 201
+            "date": "2022-12-19",
+            "stock": 316
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22765",
             "price": 180,
             "name": "ハピナスV127/1",
-            "date": "2022-11-29",
-            "stock": 94
+            "date": "2022-12-19",
+            "stock": 48
         },
         {
-            "market": "magi",
-            "link": "/items/153249011",
-            "price": 110,
-            "name": "ハピナスV RR 1",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2103350007",
-            "price": 204,
-            "name": "ハピナスV RR 1",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/681738469",
-            "price": 170,
-            "name": "【ノーマル特価】ハピ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1021128050",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32835",
             "price": 150,
-            "name": "ハピナスV RR 1",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1660552523",
-            "price": 600,
-            "name": "ハピナスV RR 1",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/445515702",
-            "price": 150,
-            "name": "ハピナスV RR 1",
-            "date": "2022-11-28",
+            "name": "ハピナスV127/1",
+            "date": "2022-12-19",
             "stock": 2
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21095",
-            "price": 100,
-            "name": "ハピナスV(RR){",
-            "date": "2022-11-28",
-            "stock": 201
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22765",
-            "price": 180,
-            "name": "ハピナスV127/1",
-            "date": "2022-11-28",
-            "stock": 94
-        },
-        {
             "market": "magi",
             "link": "/items/1660552523",
             "price": 600,
             "name": "ハピナスV RR 1",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/681738469",
-            "price": 170,
-            "name": "【ノーマル特価】ハピ",
-            "date": "2022-11-27",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -469,7 +221,7 @@
             "link": "/items/153249011",
             "price": 110,
             "name": "ハピナスV RR 1",
-            "date": "2022-11-27",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -477,15 +229,7 @@
             "link": "/items/2103350007",
             "price": 204,
             "name": "ハピナスV RR 1",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1021128050",
-            "price": 150,
-            "name": "ハピナスV RR 1",
-            "date": "2022-11-27",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -493,7 +237,7 @@
             "link": "/items/445515702",
             "price": 150,
             "name": "ハピナスV RR 1",
-            "date": "2022-11-27",
+            "date": "2022-12-18",
             "stock": 2
         },
         {
@@ -501,16 +245,208 @@
             "link": "https://www.hareruya2.com/product/21095",
             "price": 100,
             "name": "ハピナスV(RR){",
-            "date": "2022-11-27",
-            "stock": 182
+            "date": "2022-12-18",
+            "stock": 316
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22765",
             "price": 180,
             "name": "ハピナスV127/1",
-            "date": "2022-11-27",
-            "stock": 94
+            "date": "2022-12-18",
+            "stock": 48
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32835",
+            "price": 150,
+            "name": "ハピナスV127/1",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/681738469",
+            "price": 170,
+            "name": "【ノーマル特価】ハピ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/153249011",
+            "price": 110,
+            "name": "ハピナスV RR 1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1660552523",
+            "price": 600,
+            "name": "ハピナスV RR 1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2103350007",
+            "price": 204,
+            "name": "ハピナスV RR 1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/445515702",
+            "price": 150,
+            "name": "ハピナスV RR 1",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21095",
+            "price": 100,
+            "name": "ハピナスV(RR){",
+            "date": "2022-12-17",
+            "stock": 282
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32835",
+            "price": 150,
+            "name": "ハピナスV127/1",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22765",
+            "price": 180,
+            "name": "ハピナスV127/1",
+            "date": "2022-12-17",
+            "stock": 51
+        },
+        {
+            "market": "magi",
+            "link": "/items/445515702",
+            "price": 150,
+            "name": "ハピナスV RR 1",
+            "date": "2022-12-16",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/681738469",
+            "price": 170,
+            "name": "【ノーマル特価】ハピ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2103350007",
+            "price": 204,
+            "name": "ハピナスV RR 1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/153249011",
+            "price": 110,
+            "name": "ハピナスV RR 1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1660552523",
+            "price": 600,
+            "name": "ハピナスV RR 1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21095",
+            "price": 100,
+            "name": "ハピナスV(RR){",
+            "date": "2022-12-16",
+            "stock": 216
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32835",
+            "price": 150,
+            "name": "ハピナスV127/1",
+            "date": "2022-12-16",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22765",
+            "price": 180,
+            "name": "ハピナスV127/1",
+            "date": "2022-12-16",
+            "stock": 52
+        },
+        {
+            "market": "magi",
+            "link": "/items/2103350007",
+            "price": 204,
+            "name": "ハピナスV RR 1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/681738469",
+            "price": 170,
+            "name": "【ノーマル特価】ハピ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/153249011",
+            "price": 110,
+            "name": "ハピナスV RR 1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1660552523",
+            "price": 600,
+            "name": "ハピナスV RR 1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/445515702",
+            "price": 150,
+            "name": "ハピナスV RR 1",
+            "date": "2022-12-15",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21095",
+            "price": 100,
+            "name": "ハピナスV(RR){",
+            "date": "2022-12-15",
+            "stock": 216
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22765",
+            "price": 180,
+            "name": "ハピナスV127/1",
+            "date": "2022-12-15",
+            "stock": 61
         }
     ]
 }

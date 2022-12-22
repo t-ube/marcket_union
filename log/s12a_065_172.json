@@ -2,34 +2,26 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/40648270",
+            "link": "/items/1071996916",
+            "price": 111,
+            "name": "ブリムオンV RR ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1769426612",
             "price": 120,
             "name": "ブリムオンV RR ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/352272159",
-            "price": 200,
-            "name": "ブリムオンV RR ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1071996916",
-            "price": 180,
-            "name": "ブリムオンV RR ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1544016574",
+            "link": "/items/1175633552",
             "price": 280,
-            "name": "ブリムオンV RR ",
-            "date": "2022-12-04",
+            "name": "プレゼント付き　ブリ",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -37,47 +29,79 @@
             "link": "https://www.hareruya2.com/product/26088",
             "price": 100,
             "name": "ブリムオンV(RR)",
-            "date": "2022-12-04",
-            "stock": 11
+            "date": "2022-12-22",
+            "stock": 52
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38149",
-            "price": 120,
+            "price": 80,
             "name": "ブリムオンV065/",
-            "date": "2022-12-04",
-            "stock": 158
+            "date": "2022-12-22",
+            "stock": 159
         },
         {
             "market": "magi",
-            "link": "/items/352272159",
-            "price": 500,
+            "link": "/items/1071996916",
+            "price": 111,
             "name": "ブリムオンV RR ",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/40648270",
-            "price": 120,
+            "link": "/items/1769426612",
+            "price": 150,
             "name": "ブリムオンV RR ",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1544016574",
-            "price": 200,
+            "link": "/items/1175633552",
+            "price": 280,
+            "name": "プレゼント付き　ブリ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26088",
+            "price": 100,
+            "name": "ブリムオンV(RR)",
+            "date": "2022-12-21",
+            "stock": 52
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38149",
+            "price": 80,
+            "name": "ブリムオンV065/",
+            "date": "2022-12-21",
+            "stock": 164
+        },
+        {
+            "market": "magi",
+            "link": "/items/1769426612",
+            "price": 150,
             "name": "ブリムオンV RR ",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1175633552",
+            "price": 280,
+            "name": "プレゼント付き　ブリ",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1071996916",
-            "price": 180,
+            "price": 111,
             "name": "ブリムオンV RR ",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -85,31 +109,39 @@
             "link": "https://www.hareruya2.com/product/26088",
             "price": 100,
             "name": "ブリムオンV(RR)",
-            "date": "2022-12-03",
-            "stock": 25
+            "date": "2022-12-20",
+            "stock": 52
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38149",
-            "price": 120,
+            "price": 80,
             "name": "ブリムオンV065/",
-            "date": "2022-12-03",
-            "stock": 126
+            "date": "2022-12-20",
+            "stock": 168
         },
         {
             "market": "magi",
-            "link": "/items/352272159",
-            "price": 500,
+            "link": "/items/1071996916",
+            "price": 111,
             "name": "ブリムオンV RR ",
-            "date": "2022-12-02",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/40648270",
-            "price": 120,
+            "link": "/items/1175633552",
+            "price": 280,
+            "name": "プレゼント付き　ブリ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1769426612",
+            "price": 150,
             "name": "ブリムオンV RR ",
-            "date": "2022-12-02",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -117,16 +149,176 @@
             "link": "https://www.hareruya2.com/product/26088",
             "price": 100,
             "name": "ブリムオンV(RR)",
-            "date": "2022-12-02",
-            "stock": 26
+            "date": "2022-12-19",
+            "stock": 52
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38149",
-            "price": 120,
+            "price": 80,
             "name": "ブリムオンV065/",
-            "date": "2022-12-02",
-            "stock": 86
+            "date": "2022-12-19",
+            "stock": 174
+        },
+        {
+            "market": "magi",
+            "link": "/items/1769426612",
+            "price": 200,
+            "name": "ブリムオンV RR ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1175633552",
+            "price": 280,
+            "name": "プレゼント付き　ブリ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1071996916",
+            "price": 111,
+            "name": "ブリムオンV RR ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26088",
+            "price": 100,
+            "name": "ブリムオンV(RR)",
+            "date": "2022-12-18",
+            "stock": 52
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38149",
+            "price": 80,
+            "name": "ブリムオンV065/",
+            "date": "2022-12-18",
+            "stock": 181
+        },
+        {
+            "market": "magi",
+            "link": "/items/1071996916",
+            "price": 111,
+            "name": "ブリムオンV RR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1765157530",
+            "price": 300,
+            "name": "プレゼント付き　ブリ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1769426612",
+            "price": 200,
+            "name": "ブリムオンV RR ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26088",
+            "price": 100,
+            "name": "ブリムオンV(RR)",
+            "date": "2022-12-17",
+            "stock": 52
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38149",
+            "price": 80,
+            "name": "ブリムオンV065/",
+            "date": "2022-12-17",
+            "stock": 189
+        },
+        {
+            "market": "magi",
+            "link": "/items/1765157530",
+            "price": 300,
+            "name": "プレゼント付き　ブリ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1071996916",
+            "price": 111,
+            "name": "ブリムオンV RR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1769426612",
+            "price": 200,
+            "name": "ブリムオンV RR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26088",
+            "price": 100,
+            "name": "ブリムオンV(RR)",
+            "date": "2022-12-16",
+            "stock": 54
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38149",
+            "price": 80,
+            "name": "ブリムオンV065/",
+            "date": "2022-12-16",
+            "stock": 197
+        },
+        {
+            "market": "magi",
+            "link": "/items/1769426612",
+            "price": 200,
+            "name": "ブリムオンV RR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1071996916",
+            "price": 111,
+            "name": "ブリムオンV RR ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1765157530",
+            "price": 300,
+            "name": "プレゼント付き　ブリ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26088",
+            "price": 100,
+            "name": "ブリムオンV(RR)",
+            "date": "2022-12-15",
+            "stock": 54
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38149",
+            "price": 80,
+            "name": "ブリムオンV065/",
+            "date": "2022-12-15",
+            "stock": 205
         }
     ]
 }

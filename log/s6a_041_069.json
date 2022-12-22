@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1951155325",
-            "price": 150,
+            "link": "/items/1748083730",
+            "price": 100,
             "name": "ニンフィアVMAX ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1951155325",
+            "price": 145,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,7 +21,7 @@
             "link": "/items/637645777",
             "price": 250,
             "name": "ニンフィアVMAX ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -21,7 +29,7 @@
             "link": "/items/213921250",
             "price": 100,
             "name": "ニンフィアVMAX ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -29,7 +37,15 @@
             "link": "/items/1138851298",
             "price": 1800,
             "name": "ニンフィアVMAX ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/360229251",
+            "price": 263,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -37,79 +53,23 @@
             "link": "https://www.hareruya2.com/product/19517",
             "price": 100,
             "name": "ニンフィアVMAX(",
-            "date": "2022-12-04",
-            "stock": 197
+            "date": "2022-12-22",
+            "stock": 205
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20691",
-            "price": 80,
+            "price": 120,
             "name": "ニンフィアVMAX0",
-            "date": "2022-12-04",
-            "stock": 2
+            "date": "2022-12-22",
+            "stock": 12
         },
         {
             "market": "magi",
-            "link": "/items/637645777",
-            "price": 250,
-            "name": "ニンフィアVMAX ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1951155325",
-            "price": 150,
-            "name": "ニンフィアVMAX ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/213921250",
+            "link": "/items/1748083730",
             "price": 100,
             "name": "ニンフィアVMAX ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1138851298",
-            "price": 1800,
-            "name": "ニンフィアVMAX ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19517",
-            "price": 100,
-            "name": "ニンフィアVMAX(",
-            "date": "2022-12-03",
-            "stock": 199
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20691",
-            "price": 80,
-            "name": "ニンフィアVMAX0",
-            "date": "2022-12-03",
-            "stock": 33
-        },
-        {
-            "market": "magi",
-            "link": "/items/1951155325",
-            "price": 150,
-            "name": "ニンフィアVMAX ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/213921250",
-            "price": 100,
-            "name": "ニンフィアVMAX ",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -117,7 +77,7 @@
             "link": "/items/637645777",
             "price": 250,
             "name": "ニンフィアVMAX ",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -125,95 +85,23 @@
             "link": "/items/1138851298",
             "price": 1800,
             "name": "ニンフィアVMAX ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19517",
-            "price": 100,
-            "name": "ニンフィアVMAX(",
-            "date": "2022-12-02",
-            "stock": 199
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20691",
-            "price": 80,
-            "name": "ニンフィアVMAX0",
-            "date": "2022-12-02",
-            "stock": 35
-        },
-        {
-            "market": "magi",
-            "link": "/items/213921250",
-            "price": 100,
-            "name": "ニンフィアVMAX ",
-            "date": "2022-12-01",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1951155325",
-            "price": 150,
+            "price": 145,
             "name": "ニンフィアVMAX ",
-            "date": "2022-12-01",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/637645777",
-            "price": 250,
+            "link": "/items/360229251",
+            "price": 263,
             "name": "ニンフィアVMAX ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1138851298",
-            "price": 1800,
-            "name": "ニンフィアVMAX ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19517",
-            "price": 100,
-            "name": "ニンフィアVMAX(",
-            "date": "2022-12-01",
-            "stock": 199
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20691",
-            "price": 80,
-            "name": "ニンフィアVMAX0",
-            "date": "2022-12-01",
-            "stock": 35
-        },
-        {
-            "market": "magi",
-            "link": "/items/1138851298",
-            "price": 1800,
-            "name": "ニンフィアVMAX ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1951155325",
-            "price": 150,
-            "name": "ニンフィアVMAX ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/637645777",
-            "price": 250,
-            "name": "ニンフィアVMAX ",
-            "date": "2022-11-30",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -221,7 +109,7 @@
             "link": "/items/213921250",
             "price": 100,
             "name": "ニンフィアVMAX ",
-            "date": "2022-11-30",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -229,31 +117,31 @@
             "link": "https://www.hareruya2.com/product/19517",
             "price": 100,
             "name": "ニンフィアVMAX(",
-            "date": "2022-11-30",
-            "stock": 199
+            "date": "2022-12-21",
+            "stock": 205
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20691",
-            "price": 80,
+            "price": 120,
             "name": "ニンフィアVMAX0",
-            "date": "2022-11-30",
-            "stock": 37
-        },
-        {
-            "market": "magi",
-            "link": "/items/1138851298",
-            "price": 1800,
-            "name": "ニンフィアVMAX ",
-            "date": "2022-11-29",
-            "stock": 1
+            "date": "2022-12-21",
+            "stock": 12
         },
         {
             "market": "magi",
             "link": "/items/637645777",
             "price": 250,
             "name": "ニンフィアVMAX ",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1951155325",
+            "price": 145,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -261,47 +149,23 @@
             "link": "/items/213921250",
             "price": 100,
             "name": "ニンフィアVMAX ",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1951155325",
-            "price": 150,
-            "name": "ニンフィアVMAX ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19517",
-            "price": 100,
-            "name": "ニンフィアVMAX(",
-            "date": "2022-11-29",
-            "stock": 200
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20691",
-            "price": 80,
-            "name": "ニンフィアVMAX0",
-            "date": "2022-11-29",
-            "stock": 32
-        },
-        {
-            "market": "magi",
-            "link": "/items/1951155325",
-            "price": 150,
-            "name": "ニンフィアVMAX ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/213921250",
+            "link": "/items/1748083730",
             "price": 100,
             "name": "ニンフィアVMAX ",
-            "date": "2022-11-28",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/360229251",
+            "price": 263,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -309,15 +173,7 @@
             "link": "/items/1138851298",
             "price": 1800,
             "name": "ニンフィアVMAX ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/637645777",
-            "price": 250,
-            "name": "ニンフィアVMAX ",
-            "date": "2022-11-28",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -325,39 +181,23 @@
             "link": "https://www.hareruya2.com/product/19517",
             "price": 100,
             "name": "ニンフィアVMAX(",
-            "date": "2022-11-28",
-            "stock": 209
+            "date": "2022-12-20",
+            "stock": 205
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20691",
-            "price": 80,
+            "price": 120,
             "name": "ニンフィアVMAX0",
-            "date": "2022-11-28",
-            "stock": 32
+            "date": "2022-12-20",
+            "stock": 5
         },
         {
             "market": "magi",
             "link": "/items/1951155325",
-            "price": 150,
+            "price": 145,
             "name": "ニンフィアVMAX ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/637645777",
-            "price": 250,
-            "name": "ニンフィアVMAX ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1138851298",
-            "price": 1800,
-            "name": "ニンフィアVMAX ",
-            "date": "2022-11-27",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -365,7 +205,39 @@
             "link": "/items/213921250",
             "price": 100,
             "name": "ニンフィアVMAX ",
-            "date": "2022-11-27",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/637645777",
+            "price": 250,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1748083730",
+            "price": 100,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1138851298",
+            "price": 1800,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/360229251",
+            "price": 263,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -373,16 +245,224 @@
             "link": "https://www.hareruya2.com/product/19517",
             "price": 100,
             "name": "ニンフィアVMAX(",
-            "date": "2022-11-27",
-            "stock": 173
+            "date": "2022-12-19",
+            "stock": 205
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20691",
-            "price": 80,
-            "name": "ニンフィアVMAX0",
-            "date": "2022-11-27",
-            "stock": 33
+            "market": "magi",
+            "link": "/items/1951155325",
+            "price": 145,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1748083730",
+            "price": 100,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/637645777",
+            "price": 250,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/213921250",
+            "price": 100,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1138851298",
+            "price": 1800,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/360229251",
+            "price": 263,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19517",
+            "price": 100,
+            "name": "ニンフィアVMAX(",
+            "date": "2022-12-18",
+            "stock": 205
+        },
+        {
+            "market": "magi",
+            "link": "/items/213921250",
+            "price": 100,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1138851298",
+            "price": 1800,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1951155325",
+            "price": 145,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/637645777",
+            "price": 250,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/360229251",
+            "price": 263,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1748083730",
+            "price": 100,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19517",
+            "price": 100,
+            "name": "ニンフィアVMAX(",
+            "date": "2022-12-17",
+            "stock": 186
+        },
+        {
+            "market": "magi",
+            "link": "/items/360229251",
+            "price": 263,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1138851298",
+            "price": 1800,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1951155325",
+            "price": 148,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/213921250",
+            "price": 100,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1748083730",
+            "price": 100,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/637645777",
+            "price": 250,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19517",
+            "price": 100,
+            "name": "ニンフィアVMAX(",
+            "date": "2022-12-16",
+            "stock": 185
+        },
+        {
+            "market": "magi",
+            "link": "/items/1951155325",
+            "price": 148,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/637645777",
+            "price": 250,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1138851298",
+            "price": 1800,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/360229251",
+            "price": 263,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/213921250",
+            "price": 100,
+            "name": "ニンフィアVMAX ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19517",
+            "price": 100,
+            "name": "ニンフィアVMAX(",
+            "date": "2022-12-15",
+            "stock": 185
         }
     ]
 }

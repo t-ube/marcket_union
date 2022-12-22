@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/2121048252",
+            "link": "/items/124672104",
             "price": 400,
-            "name": "プレゼント付き　ガラ",
-            "date": "2022-12-04",
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1421041824",
+            "price": 250,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,95 +21,79 @@
             "link": "/items/1073903898",
             "price": 500,
             "name": "ガラルサンダー AR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/983841239",
-            "price": 400,
-            "name": "【AR】ガラルサンダ",
-            "date": "2022-12-04",
+            "link": "/items/2121048252",
+            "price": 250,
+            "name": "プレゼント付き　ガラ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1921034105",
+            "price": 380,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1027976419",
+            "price": 260,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/218650708",
-            "price": 500,
-            "name": "ガラルサンダー AR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/738969094",
             "price": 350,
             "name": "ガラルサンダー AR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26327",
-            "price": 200,
-            "name": "ガラルサンダー(AR",
-            "date": "2022-12-04",
-            "stock": 30
+            "market": "magi",
+            "link": "/items/949636597",
+            "price": 150,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-22",
+            "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38368",
+            "market": "magi",
+            "link": "/items/1262152660",
             "price": 220,
-            "name": "ガラルサンダー188",
-            "date": "2022-12-04",
-            "stock": 90
-        },
-        {
-            "market": "magi",
-            "link": "/items/1073903898",
-            "price": 500,
-            "name": "ガラルサンダー AR",
-            "date": "2022-12-03",
+            "name": "ガラルサンダー【AR",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2121048252",
-            "price": 400,
-            "name": "プレゼント付き　ガラ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/738969094",
-            "price": 350,
-            "name": "ガラルサンダー AR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26327",
-            "price": 200,
-            "name": "ガラルサンダー(AR",
-            "date": "2022-12-03",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38368",
+            "link": "/items/395727935",
             "price": 220,
-            "name": "ガラルサンダー188",
-            "date": "2022-12-03",
-            "stock": 47
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-22",
+            "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1073903898",
-            "price": 500,
+            "link": "/items/1455817941",
+            "price": 220,
             "name": "ガラルサンダー AR",
-            "date": "2022-12-02",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1455259525",
+            "price": 220,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -109,16 +101,760 @@
             "link": "https://www.hareruya2.com/product/26327",
             "price": 200,
             "name": "ガラルサンダー(AR",
-            "date": "2022-12-02",
-            "stock": 40
+            "date": "2022-12-22",
+            "stock": 57
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38368",
             "price": 280,
             "name": "ガラルサンダー188",
-            "date": "2022-12-02",
-            "stock": 142
+            "date": "2022-12-22",
+            "stock": 85
+        },
+        {
+            "market": "magi",
+            "link": "/items/1921034105",
+            "price": 380,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1073903898",
+            "price": 500,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2121048252",
+            "price": 250,
+            "name": "プレゼント付き　ガラ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/218650708",
+            "price": 350,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/124672104",
+            "price": 400,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1455817941",
+            "price": 220,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1027976419",
+            "price": 260,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1421041824",
+            "price": 250,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/395727935",
+            "price": 220,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1262152660",
+            "price": 220,
+            "name": "ガラルサンダー【AR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/949636597",
+            "price": 200,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1455259525",
+            "price": 220,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26327",
+            "price": 200,
+            "name": "ガラルサンダー(AR",
+            "date": "2022-12-21",
+            "stock": 58
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38368",
+            "price": 280,
+            "name": "ガラルサンダー188",
+            "date": "2022-12-21",
+            "stock": 69
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38635",
+            "price": 260,
+            "name": "ガラルサンダー188",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1073903898",
+            "price": 500,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2121048252",
+            "price": 250,
+            "name": "プレゼント付き　ガラ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/218650708",
+            "price": 350,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/124672104",
+            "price": 400,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1921034105",
+            "price": 380,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1421041824",
+            "price": 250,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/949636597",
+            "price": 200,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1262152660",
+            "price": 220,
+            "name": "ガラルサンダー【AR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1027976419",
+            "price": 260,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1455817941",
+            "price": 220,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1455259525",
+            "price": 220,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/395727935",
+            "price": 220,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26327",
+            "price": 200,
+            "name": "ガラルサンダー(AR",
+            "date": "2022-12-20",
+            "stock": 59
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38368",
+            "price": 220,
+            "name": "ガラルサンダー188",
+            "date": "2022-12-20",
+            "stock": 46
+        },
+        {
+            "market": "magi",
+            "link": "/items/1073903898",
+            "price": 500,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2121048252",
+            "price": 250,
+            "name": "プレゼント付き　ガラ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1421041824",
+            "price": 250,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1027976419",
+            "price": 280,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/124672104",
+            "price": 400,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1921034105",
+            "price": 400,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1455259525",
+            "price": 220,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/949636597",
+            "price": 200,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1455817941",
+            "price": 220,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/636989916",
+            "price": 220,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/395727935",
+            "price": 220,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1262152660",
+            "price": 220,
+            "name": "ガラルサンダー【AR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/218650708",
+            "price": 350,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26327",
+            "price": 200,
+            "name": "ガラルサンダー(AR",
+            "date": "2022-12-19",
+            "stock": 61
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38368",
+            "price": 220,
+            "name": "ガラルサンダー188",
+            "date": "2022-12-19",
+            "stock": 14
+        },
+        {
+            "market": "magi",
+            "link": "/items/1921034105",
+            "price": 400,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/124672104",
+            "price": 400,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1027976419",
+            "price": 280,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1421041824",
+            "price": 250,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1193251437",
+            "price": 220,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/218650708",
+            "price": 350,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1073903898",
+            "price": 500,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/949636597",
+            "price": 200,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/40698360",
+            "price": 440,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1262152660",
+            "price": 220,
+            "name": "ガラルサンダー【AR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2121048252",
+            "price": 250,
+            "name": "プレゼント付き　ガラ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26327",
+            "price": 200,
+            "name": "ガラルサンダー(AR",
+            "date": "2022-12-18",
+            "stock": 62
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38368",
+            "price": 220,
+            "name": "ガラルサンダー188",
+            "date": "2022-12-18",
+            "stock": 38
+        },
+        {
+            "market": "magi",
+            "link": "/items/949636597",
+            "price": 200,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1027976419",
+            "price": 280,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1421041824",
+            "price": 250,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/40698360",
+            "price": 440,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1073903898",
+            "price": 500,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/124672104",
+            "price": 400,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/218650708",
+            "price": 350,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1193251437",
+            "price": 220,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/2121048252",
+            "price": 250,
+            "name": "プレゼント付き　ガラ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1921034105",
+            "price": 400,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26327",
+            "price": 200,
+            "name": "ガラルサンダー(AR",
+            "date": "2022-12-17",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38368",
+            "price": 220,
+            "name": "ガラルサンダー188",
+            "date": "2022-12-17",
+            "stock": 46
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38635",
+            "price": 200,
+            "name": "ガラルサンダー188",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/949636597",
+            "price": 200,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/40698360",
+            "price": 440,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1421041824",
+            "price": 250,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1921034105",
+            "price": 400,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2121048252",
+            "price": 250,
+            "name": "プレゼント付き　ガラ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1027976419",
+            "price": 280,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/218650708",
+            "price": 350,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1073903898",
+            "price": 500,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1193251437",
+            "price": 220,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-16",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/124672104",
+            "price": 400,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38368",
+            "price": 220,
+            "name": "ガラルサンダー188",
+            "date": "2022-12-16",
+            "stock": 38
+        },
+        {
+            "market": "magi",
+            "link": "/items/1421041824",
+            "price": 250,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/40698360",
+            "price": 440,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/218650708",
+            "price": 350,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/124672104",
+            "price": 400,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1027976419",
+            "price": 280,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1193251437",
+            "price": 220,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-15",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1073903898",
+            "price": 500,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2121048252",
+            "price": 250,
+            "name": "プレゼント付き　ガラ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1153168194",
+            "price": 200,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1921034105",
+            "price": 450,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/949636597",
+            "price": 200,
+            "name": "ガラルサンダー AR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38368",
+            "price": 220,
+            "name": "ガラルサンダー188",
+            "date": "2022-12-15",
+            "stock": 60
         }
     ]
 }

@@ -2,66 +2,18 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/2008748852",
-            "price": 313,
-            "name": "ハイパーボール(D)",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2139744193",
-            "price": 87,
-            "name": "ハイパーボール(キラ",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/1470169046",
             "price": 150,
             "name": "ハイパーボール(キラ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/898840700",
-            "price": 345,
-            "name": "ハイパーボール(D)",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/841674706",
-            "price": 25,
+            "link": "/items/1167933599",
+            "price": 50,
             "name": "ハイパーボール TD",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/167522906",
-            "price": 25,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/600496990",
-            "price": 26,
-            "name": "[４枚セット]ハイパ",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/68127817",
-            "price": 37,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 4
         },
         {
@@ -69,151 +21,39 @@
             "link": "/items/219507288",
             "price": 62,
             "name": "【4枚セット】ハイパ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/783341040",
-            "price": 27,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/790075654",
+            "link": "/items/1072350173",
             "price": 100,
             "name": "ハイパーボール TD",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/216324718",
-            "price": 245,
-            "name": "ハイパーボール:ミラ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/380641346",
-            "price": 345,
-            "name": "ハイパーボール(D)",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1933986759",
-            "price": 150,
+            "link": "/items/199126155",
+            "price": 100,
             "name": "ハイパーボール TD",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/278483017",
-            "price": 200,
-            "name": "ハイパーボール 37",
-            "date": "2022-12-04",
+            "link": "/items/316725747",
+            "price": 180,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1615130212",
-            "price": 185,
+            "price": 180,
             "name": "【特価】ハイパーボー",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/216217232",
-            "price": 220,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1167933599",
-            "price": 50,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21965",
-            "price": 100,
-            "name": "ハイパーボール(D)",
-            "date": "2022-12-04",
-            "stock": 170
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21586",
-            "price": 150,
-            "name": "ハイパーボール:ミラ",
-            "date": "2022-12-04",
-            "stock": 206
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23672",
-            "price": 80,
-            "name": "ハイパーボール375",
-            "date": "2022-12-04",
-            "stock": 102
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23671",
-            "price": 80,
-            "name": "ハイパーボール375",
-            "date": "2022-12-04",
-            "stock": 26
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g375-414-SI-B/",
-            "price": 88,
-            "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-12-04",
-            "stock": 117
-        },
-        {
-            "market": "magi",
-            "link": "/items/2139744193",
-            "price": 87,
-            "name": "ハイパーボール(キラ",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/783341040",
-            "price": 27,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/216324718",
-            "price": 245,
-            "name": "ハイパーボール:ミラ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/278483017",
-            "price": 200,
-            "name": "ハイパーボール 37",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -221,159 +61,31 @@
             "link": "/items/1933986759",
             "price": 150,
             "name": "ハイパーボール TD",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/380641346",
-            "price": 345,
+            "price": 297,
             "name": "ハイパーボール(D)",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/790075654",
-            "price": 100,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/898840700",
-            "price": 345,
-            "name": "ハイパーボール(D)",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1167933599",
-            "price": 50,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/841674706",
-            "price": 25,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/167522906",
-            "price": 25,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/216217232",
-            "price": 220,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/219507288",
-            "price": 62,
-            "name": "【4枚セット】ハイパ",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/2008748852",
-            "price": 313,
-            "name": "ハイパーボール(D)",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1470169046",
-            "price": 150,
-            "name": "ハイパーボール(キラ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/600496990",
-            "price": 26,
-            "name": "[４枚セット]ハイパ",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/68127817",
-            "price": 37,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21586",
-            "price": 150,
+            "link": "/items/216324718",
+            "price": 197,
             "name": "ハイパーボール:ミラ",
-            "date": "2022-12-03",
-            "stock": 206
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21965",
-            "price": 100,
-            "name": "ハイパーボール(D)",
-            "date": "2022-12-03",
-            "stock": 177
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23671",
-            "price": 80,
-            "name": "ハイパーボール375",
-            "date": "2022-12-03",
-            "stock": 38
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23672",
-            "price": 80,
-            "name": "ハイパーボール375",
-            "date": "2022-12-03",
-            "stock": 114
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g375-414-SI-B/",
-            "price": 88,
-            "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-12-03",
-            "stock": 117
+            "date": "2022-12-22",
+            "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/167522906",
-            "price": 25,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/898840700",
-            "price": 345,
-            "name": "ハイパーボール(D)",
-            "date": "2022-12-02",
+            "link": "/items/1475545664",
+            "price": 180,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -381,279 +93,7 @@
             "link": "/items/2139744193",
             "price": 87,
             "name": "ハイパーボール(キラ",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/841674706",
-            "price": 25,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/790075654",
-            "price": 100,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2008748852",
-            "price": 313,
-            "name": "ハイパーボール(D)",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1470169046",
-            "price": 150,
-            "name": "ハイパーボール(キラ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1933986759",
-            "price": 150,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/216324718",
-            "price": 245,
-            "name": "ハイパーボール:ミラ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/68127817",
-            "price": 37,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1167933599",
-            "price": 50,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/380641346",
-            "price": 345,
-            "name": "ハイパーボール(D)",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/219507288",
-            "price": 62,
-            "name": "【4枚セット】ハイパ",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/278483017",
-            "price": 200,
-            "name": "ハイパーボール 37",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/216217232",
-            "price": 220,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/600496990",
-            "price": 26,
-            "name": "[４枚セット]ハイパ",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/783341040",
-            "price": 27,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21965",
-            "price": 100,
-            "name": "ハイパーボール(D)",
-            "date": "2022-12-02",
-            "stock": 182
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21586",
-            "price": 150,
-            "name": "ハイパーボール:ミラ",
-            "date": "2022-12-02",
-            "stock": 206
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23671",
-            "price": 80,
-            "name": "ハイパーボール375",
-            "date": "2022-12-02",
-            "stock": 78
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23672",
-            "price": 80,
-            "name": "ハイパーボール375",
-            "date": "2022-12-02",
-            "stock": 128
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g375-414-SI-B/",
-            "price": 88,
-            "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-12-02",
-            "stock": 117
-        },
-        {
-            "market": "magi",
-            "link": "/items/1470169046",
-            "price": 150,
-            "name": "ハイパーボール(キラ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/790075654",
-            "price": 100,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/167522906",
-            "price": 25,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1167933599",
-            "price": 50,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/2008748852",
-            "price": 313,
-            "name": "ハイパーボール(D)",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2139744193",
-            "price": 87,
-            "name": "ハイパーボール(キラ",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/216324718",
-            "price": 245,
-            "name": "ハイパーボール:ミラ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/600496990",
-            "price": 26,
-            "name": "[４枚セット]ハイパ",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/783341040",
-            "price": 27,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/278483017",
-            "price": 200,
-            "name": "ハイパーボール 37",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/380641346",
-            "price": 345,
-            "name": "ハイパーボール(D)",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1933986759",
-            "price": 150,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/898840700",
-            "price": 345,
-            "name": "ハイパーボール(D)",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/216217232",
-            "price": 220,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/841674706",
-            "price": 25,
-            "name": "ハイパーボール TD",
-            "date": "2022-12-01",
+            "date": "2022-12-22",
             "stock": 4
         },
         {
@@ -661,79 +101,7 @@
             "link": "/items/68127817",
             "price": 37,
             "name": "ハイパーボール TD",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/219507288",
-            "price": 62,
-            "name": "【4枚セット】ハイパ",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21965",
-            "price": 100,
-            "name": "ハイパーボール(D)",
-            "date": "2022-12-01",
-            "stock": 183
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21586",
-            "price": 150,
-            "name": "ハイパーボール:ミラ",
-            "date": "2022-12-01",
-            "stock": 206
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23671",
-            "price": 80,
-            "name": "ハイパーボール375",
-            "date": "2022-12-01",
-            "stock": 94
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23672",
-            "price": 80,
-            "name": "ハイパーボール375",
-            "date": "2022-12-01",
-            "stock": 129
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g375-414-SI-B/",
-            "price": 88,
-            "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-12-01",
-            "stock": 117
-        },
-        {
-            "market": "magi",
-            "link": "/items/898840700",
-            "price": 345,
-            "name": "ハイパーボール(D)",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/216217232",
-            "price": 220,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/219507288",
-            "price": 62,
-            "name": "【4枚セット】ハイパ",
-            "date": "2022-11-30",
+            "date": "2022-12-22",
             "stock": 4
         },
         {
@@ -741,175 +109,7 @@
             "link": "/items/600496990",
             "price": 26,
             "name": "[４枚セット]ハイパ",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/2008748852",
-            "price": 313,
-            "name": "ハイパーボール(D)",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2139744193",
-            "price": 87,
-            "name": "ハイパーボール(キラ",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/216324718",
-            "price": 245,
-            "name": "ハイパーボール:ミラ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1470169046",
-            "price": 150,
-            "name": "ハイパーボール(キラ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/783341040",
-            "price": 27,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/380641346",
-            "price": 345,
-            "name": "ハイパーボール(D)",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/167522906",
-            "price": 25,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/278483017",
-            "price": 200,
-            "name": "ハイパーボール 37",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/790075654",
-            "price": 100,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/68127817",
-            "price": 37,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1933986759",
-            "price": 150,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1167933599",
-            "price": 50,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/841674706",
-            "price": 25,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21965",
-            "price": 100,
-            "name": "ハイパーボール(D)",
-            "date": "2022-11-30",
-            "stock": 183
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21586",
-            "price": 150,
-            "name": "ハイパーボール:ミラ",
-            "date": "2022-11-30",
-            "stock": 206
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23672",
-            "price": 80,
-            "name": "ハイパーボール375",
-            "date": "2022-11-30",
-            "stock": 133
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23671",
-            "price": 80,
-            "name": "ハイパーボール375",
-            "date": "2022-11-30",
-            "stock": 98
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g375-414-SI-B/",
-            "price": 88,
-            "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-11-30",
-            "stock": 117
-        },
-        {
-            "market": "magi",
-            "link": "/items/600496990",
-            "price": 26,
-            "name": "[４枚セット]ハイパ",
-            "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/216217232",
-            "price": 220,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/219507288",
-            "price": 62,
-            "name": "【4枚セット】ハイパ",
-            "date": "2022-11-29",
+            "date": "2022-12-22",
             "stock": 4
         },
         {
@@ -917,23 +117,23 @@
             "link": "/items/167522906",
             "price": 25,
             "name": "ハイパーボール TD",
-            "date": "2022-11-29",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/841674706",
+            "price": 25,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-22",
             "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/898840700",
-            "price": 345,
+            "price": 297,
             "name": "ハイパーボール(D)",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1933986759",
-            "price": 150,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-29",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -941,159 +141,95 @@
             "link": "/items/783341040",
             "price": 27,
             "name": "ハイパーボール TD",
-            "date": "2022-11-29",
+            "date": "2022-12-22",
             "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/2008748852",
-            "price": 313,
+            "price": 280,
             "name": "ハイパーボール(D)",
-            "date": "2022-11-29",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/841674706",
-            "price": 25,
+            "link": "/items/216217232",
+            "price": 220,
             "name": "ハイパーボール TD",
-            "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/790075654",
-            "price": 100,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/278483017",
-            "price": 200,
-            "name": "ハイパーボール 37",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1167933599",
-            "price": 50,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/2139744193",
-            "price": 87,
-            "name": "ハイパーボール(キラ",
-            "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/216324718",
-            "price": 245,
-            "name": "ハイパーボール:ミラ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/68127817",
-            "price": 37,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/380641346",
-            "price": 345,
-            "name": "ハイパーボール(D)",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1470169046",
-            "price": 150,
-            "name": "ハイパーボール(キラ",
-            "date": "2022-11-29",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21586",
-            "price": 150,
+            "price": 80,
             "name": "ハイパーボール:ミラ",
-            "date": "2022-11-29",
-            "stock": 206
+            "date": "2022-12-22",
+            "stock": 231
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21965",
             "price": 100,
             "name": "ハイパーボール(D)",
-            "date": "2022-11-29",
-            "stock": 183
+            "date": "2022-12-22",
+            "stock": 418
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23672",
-            "price": 80,
-            "name": "ハイパーボール375",
-            "date": "2022-11-29",
-            "stock": 117
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23671",
-            "price": 80,
-            "name": "ハイパーボール375",
-            "date": "2022-11-29",
+            "market": "torecolo",
+            "link": "/shop/g/g375-414-SI-B/",
+            "price": 88,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2022-12-22",
             "stock": 103
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g375-414-SI-B/",
-            "price": 88,
-            "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-11-29",
-            "stock": 128
-        },
-        {
             "market": "magi",
-            "link": "/items/380641346",
-            "price": 345,
-            "name": "ハイパーボール(D)",
-            "date": "2022-11-28",
+            "link": "/items/199126155",
+            "price": 100,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/68127817",
-            "price": 37,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-28",
+            "link": "/items/600496990",
+            "price": 26,
+            "name": "[４枚セット]ハイパ",
+            "date": "2022-12-21",
             "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/898840700",
-            "price": 345,
-            "name": "ハイパーボール(D)",
-            "date": "2022-11-28",
+            "link": "/items/216217232",
+            "price": 220,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
+            "link": "/items/219507288",
+            "price": 62,
+            "name": "【4枚セット】ハイパ",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/2008748852",
-            "price": 313,
+            "price": 280,
             "name": "ハイパーボール(D)",
-            "date": "2022-11-28",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1470169046",
+            "price": 150,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -1101,39 +237,55 @@
             "link": "/items/783341040",
             "price": 27,
             "name": "ハイパーボール TD",
-            "date": "2022-11-28",
+            "date": "2022-12-21",
             "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/790075654",
-            "price": 100,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-28",
+            "link": "/items/898840700",
+            "price": 297,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-21",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/216324718",
-            "price": 245,
-            "name": "ハイパーボール:ミラ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/167522906",
-            "price": 25,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-28",
-            "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/841674706",
             "price": 25,
             "name": "ハイパーボール TD",
-            "date": "2022-11-28",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/167522906",
+            "price": 25,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/216324718",
+            "price": 197,
+            "name": "ハイパーボール:ミラ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1615130212",
+            "price": 180,
+            "name": "【特価】ハイパーボー",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/68127817",
+            "price": 37,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-21",
             "stock": 4
         },
         {
@@ -1141,7 +293,167 @@
             "link": "/items/2139744193",
             "price": 87,
             "name": "ハイパーボール(キラ",
-            "date": "2022-11-28",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1167933599",
+            "price": 50,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/380641346",
+            "price": 297,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1933986759",
+            "price": 150,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/316725747",
+            "price": 180,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1072350173",
+            "price": 100,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1475545664",
+            "price": 180,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21965",
+            "price": 100,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-21",
+            "stock": 418
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21586",
+            "price": 80,
+            "name": "ハイパーボール:ミラ",
+            "date": "2022-12-21",
+            "stock": 232
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g375-414-SI-B/",
+            "price": 88,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2022-12-21",
+            "stock": 103
+        },
+        {
+            "market": "magi",
+            "link": "/items/216217232",
+            "price": 220,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1615130212",
+            "price": 180,
+            "name": "【特価】ハイパーボー",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/216324718",
+            "price": 197,
+            "name": "ハイパーボール:ミラ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2139744193",
+            "price": 87,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/167522906",
+            "price": 25,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/219507288",
+            "price": 62,
+            "name": "【4枚セット】ハイパ",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1470169046",
+            "price": 150,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/783341040",
+            "price": 27,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/380641346",
+            "price": 297,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/898840700",
+            "price": 297,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/841674706",
+            "price": 25,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-20",
             "stock": 4
         },
         {
@@ -1149,23 +461,7 @@
             "link": "/items/1933986759",
             "price": 150,
             "name": "ハイパーボール TD",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/216217232",
-            "price": 220,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1470169046",
-            "price": 150,
-            "name": "ハイパーボール(キラ",
-            "date": "2022-11-28",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -1173,183 +469,7 @@
             "link": "/items/600496990",
             "price": 26,
             "name": "[４枚セット]ハイパ",
-            "date": "2022-11-28",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1167933599",
-            "price": 50,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-28",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/219507288",
-            "price": 62,
-            "name": "【4枚セット】ハイパ",
-            "date": "2022-11-28",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21965",
-            "price": 100,
-            "name": "ハイパーボール(D)",
-            "date": "2022-11-28",
-            "stock": 183
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21586",
-            "price": 150,
-            "name": "ハイパーボール:ミラ",
-            "date": "2022-11-28",
-            "stock": 206
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23672",
-            "price": 80,
-            "name": "ハイパーボール375",
-            "date": "2022-11-28",
-            "stock": 122
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23671",
-            "price": 80,
-            "name": "ハイパーボール375",
-            "date": "2022-11-28",
-            "stock": 132
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g375-414-SI-B/",
-            "price": 88,
-            "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-11-28",
-            "stock": 128
-        },
-        {
-            "market": "magi",
-            "link": "/items/1848545285",
-            "price": 100,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1470169046",
-            "price": 150,
-            "name": "ハイパーボール(キラ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2139744193",
-            "price": 87,
-            "name": "ハイパーボール(キラ",
-            "date": "2022-11-27",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/167522906",
-            "price": 25,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-27",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1462936917",
-            "price": 180,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1167933599",
-            "price": 50,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-27",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/2008748852",
-            "price": 313,
-            "name": "ハイパーボール(D)",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/600496990",
-            "price": 26,
-            "name": "[４枚セット]ハイパ",
-            "date": "2022-11-27",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/216324718",
-            "price": 245,
-            "name": "ハイパーボール:ミラ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/790075654",
-            "price": 100,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/898840700",
-            "price": 345,
-            "name": "ハイパーボール(D)",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/783341040",
-            "price": 27,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-27",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/380641346",
-            "price": 345,
-            "name": "ハイパーボール(D)",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/216217232",
-            "price": 220,
-            "name": "ハイパーボール TD",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/219507288",
-            "price": 62,
-            "name": "【4枚セット】ハイパ",
-            "date": "2022-11-27",
+            "date": "2022-12-20",
             "stock": 4
         },
         {
@@ -1357,7 +477,327 @@
             "link": "/items/68127817",
             "price": 37,
             "name": "ハイパーボール TD",
-            "date": "2022-11-27",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1167933599",
+            "price": 50,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2008748852",
+            "price": 280,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1072350173",
+            "price": 100,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/199126155",
+            "price": 100,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1475545664",
+            "price": 180,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/316725747",
+            "price": 180,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21965",
+            "price": 100,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-20",
+            "stock": 418
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21586",
+            "price": 150,
+            "name": "ハイパーボール:ミラ",
+            "date": "2022-12-20",
+            "stock": 232
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g375-414-SI-B/",
+            "price": 88,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2022-12-20",
+            "stock": 103
+        },
+        {
+            "market": "magi",
+            "link": "/items/316725747",
+            "price": 180,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/167522906",
+            "price": 25,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2008748852",
+            "price": 280,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/841674706",
+            "price": 25,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/898840700",
+            "price": 297,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/783341040",
+            "price": 27,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/199126155",
+            "price": 100,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/380641346",
+            "price": 297,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1933986759",
+            "price": 150,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1470169046",
+            "price": 150,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1615130212",
+            "price": 180,
+            "name": "【特価】ハイパーボー",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1475545664",
+            "price": 180,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/600496990",
+            "price": 26,
+            "name": "[４枚セット]ハイパ",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/219507288",
+            "price": 62,
+            "name": "【4枚セット】ハイパ",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1072350173",
+            "price": 100,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2139744193",
+            "price": 87,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1167933599",
+            "price": 50,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/68127817",
+            "price": 37,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/216324718",
+            "price": 197,
+            "name": "ハイパーボール:ミラ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/216217232",
+            "price": 220,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21586",
+            "price": 150,
+            "name": "ハイパーボール:ミラ",
+            "date": "2022-12-19",
+            "stock": 232
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21965",
+            "price": 100,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-19",
+            "stock": 418
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g375-414-SI-B/",
+            "price": 88,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2022-12-19",
+            "stock": 95
+        },
+        {
+            "market": "magi",
+            "link": "/items/898840700",
+            "price": 297,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1470169046",
+            "price": 150,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/380641346",
+            "price": 297,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/216324718",
+            "price": 197,
+            "name": "ハイパーボール:ミラ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1167933599",
+            "price": 50,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1475545664",
+            "price": 180,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/68127817",
+            "price": 37,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/167522906",
+            "price": 25,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-18",
             "stock": 4
         },
         {
@@ -1365,7 +805,655 @@
             "link": "/items/841674706",
             "price": 25,
             "name": "ハイパーボール TD",
-            "date": "2022-11-27",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1615130212",
+            "price": 180,
+            "name": "【特価】ハイパーボー",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/216217232",
+            "price": 220,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1933986759",
+            "price": 150,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2008748852",
+            "price": 280,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/219507288",
+            "price": 62,
+            "name": "【4枚セット】ハイパ",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/600496990",
+            "price": 26,
+            "name": "[４枚セット]ハイパ",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2139744193",
+            "price": 87,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/783341040",
+            "price": 27,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/199126155",
+            "price": 100,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1072350173",
+            "price": 100,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/316725747",
+            "price": 180,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21586",
+            "price": 150,
+            "name": "ハイパーボール:ミラ",
+            "date": "2022-12-18",
+            "stock": 232
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21965",
+            "price": 100,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-18",
+            "stock": 418
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g375-414-SI-B/",
+            "price": 88,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2022-12-18",
+            "stock": 95
+        },
+        {
+            "market": "magi",
+            "link": "/items/600496990",
+            "price": 26,
+            "name": "[４枚セット]ハイパ",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/380641346",
+            "price": 297,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1475545664",
+            "price": 180,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/219507288",
+            "price": 62,
+            "name": "【4枚セット】ハイパ",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/167522906",
+            "price": 25,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/216324718",
+            "price": 197,
+            "name": "ハイパーボール:ミラ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/783341040",
+            "price": 27,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1615130212",
+            "price": 180,
+            "name": "【特価】ハイパーボー",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/898840700",
+            "price": 297,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/841674706",
+            "price": 25,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/316725747",
+            "price": 180,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1072350173",
+            "price": 100,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/199126155",
+            "price": 100,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1470169046",
+            "price": 150,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2008748852",
+            "price": 280,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2139744193",
+            "price": 87,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/68127817",
+            "price": 37,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1933986759",
+            "price": 150,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1167933599",
+            "price": 50,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/216217232",
+            "price": 220,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21586",
+            "price": 150,
+            "name": "ハイパーボール:ミラ",
+            "date": "2022-12-17",
+            "stock": 203
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21965",
+            "price": 100,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-17",
+            "stock": 175
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g375-414-SI-B/",
+            "price": 88,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2022-12-17",
+            "stock": 95
+        },
+        {
+            "market": "magi",
+            "link": "/items/1470169046",
+            "price": 150,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/216324718",
+            "price": 197,
+            "name": "ハイパーボール:ミラ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/167522906",
+            "price": 25,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/898840700",
+            "price": 297,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/216217232",
+            "price": 220,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1167933599",
+            "price": 50,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1475545664",
+            "price": 180,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/600496990",
+            "price": 26,
+            "name": "[４枚セット]ハイパ",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/68127817",
+            "price": 37,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1072350173",
+            "price": 100,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/316725747",
+            "price": 180,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/199126155",
+            "price": 100,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/841674706",
+            "price": 25,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2139744193",
+            "price": 87,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1615130212",
+            "price": 180,
+            "name": "【特価】ハイパーボー",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2008748852",
+            "price": 280,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/219507288",
+            "price": 62,
+            "name": "【4枚セット】ハイパ",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/783341040",
+            "price": 27,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1933986759",
+            "price": 150,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/380641346",
+            "price": 297,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21586",
+            "price": 150,
+            "name": "ハイパーボール:ミラ",
+            "date": "2022-12-16",
+            "stock": 203
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21965",
+            "price": 100,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-16",
+            "stock": 173
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g375-414-SI-B/",
+            "price": 88,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2022-12-16",
+            "stock": 95
+        },
+        {
+            "market": "magi",
+            "link": "/items/600496990",
+            "price": 26,
+            "name": "[４枚セット]ハイパ",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2008748852",
+            "price": 280,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/316725747",
+            "price": 180,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/841674706",
+            "price": 25,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/898840700",
+            "price": 297,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/199126155",
+            "price": 100,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/783341040",
+            "price": 27,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1933986759",
+            "price": 150,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/278483017",
+            "price": 200,
+            "name": "ハイパーボール 37",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1470169046",
+            "price": 150,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/380641346",
+            "price": 297,
+            "name": "ハイパーボール(D)",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/219507288",
+            "price": 62,
+            "name": "【4枚セット】ハイパ",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/216217232",
+            "price": 220,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/167522906",
+            "price": 25,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1475545664",
+            "price": 180,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1615130212",
+            "price": 180,
+            "name": "【特価】ハイパーボー",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1072350173",
+            "price": 100,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1167933599",
+            "price": 50,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/216324718",
+            "price": 197,
+            "name": "ハイパーボール:ミラ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/68127817",
+            "price": 37,
+            "name": "ハイパーボール TD",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2139744193",
+            "price": 87,
+            "name": "ハイパーボール(キラ",
+            "date": "2022-12-15",
             "stock": 4
         },
         {
@@ -1373,40 +1461,24 @@
             "link": "https://www.hareruya2.com/product/21586",
             "price": 150,
             "name": "ハイパーボール:ミラ",
-            "date": "2022-11-27",
-            "stock": 206
+            "date": "2022-12-15",
+            "stock": 203
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21965",
             "price": 100,
             "name": "ハイパーボール(D)",
-            "date": "2022-11-27",
-            "stock": 180
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23672",
-            "price": 80,
-            "name": "ハイパーボール375",
-            "date": "2022-11-27",
-            "stock": 125
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23671",
-            "price": 80,
-            "name": "ハイパーボール375",
-            "date": "2022-11-27",
-            "stock": 134
+            "date": "2022-12-15",
+            "stock": 175
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g375-414-SI-B/",
             "price": 88,
             "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-11-27",
-            "stock": 128
+            "date": "2022-12-15",
+            "stock": 109
         }
     ]
 }

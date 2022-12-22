@@ -2,10 +2,10 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1070208486",
-            "price": 170,
+            "link": "/items/1717390221",
+            "price": 100,
             "name": "ヒスイクレベース U",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,23 +13,7 @@
             "link": "/items/867670386",
             "price": 25,
             "name": "ヒスイクレベース U",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1712411008",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/665602491",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 4
         },
         {
@@ -37,23 +21,47 @@
             "link": "/items/329621943",
             "price": 120,
             "name": "ヒスイクレベース U",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/665602491",
+            "price": 25,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1712411008",
+            "price": 25,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-22",
+            "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/1252408292",
             "price": 120,
             "name": "ヒスイクレベース U",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1717390221",
+            "link": "/items/1070208486",
+            "price": 170,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1440913592",
             "price": 100,
             "name": "ヒスイクレベース U",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -61,7 +69,7 @@
             "link": "https://www.hareruya2.com/product/23022",
             "price": 50,
             "name": "ヒスイクレベース(U",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 36
         },
         {
@@ -69,7 +77,191 @@
             "link": "https://www.cardrush-pokemon.jp/product/34693",
             "price": 30,
             "name": "ヒスイクレベース02",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 63
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g025-067-S10P-B/",
+            "price": 2,
+            "name": "【ポケカ】Ｕ◇ヒスイ",
+            "date": "2022-12-22",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/1070208486",
+            "price": 170,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1717390221",
+            "price": 100,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1252408292",
+            "price": 120,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/855401697",
+            "price": 10,
+            "name": "1枚10円！ヒスイク",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1440913592",
+            "price": 100,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/665602491",
+            "price": 25,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1712411008",
+            "price": 25,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/329621943",
+            "price": 120,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/867670386",
+            "price": 25,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23022",
+            "price": 50,
+            "name": "ヒスイクレベース(U",
+            "date": "2022-12-21",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34693",
+            "price": 30,
+            "name": "ヒスイクレベース02",
+            "date": "2022-12-21",
+            "stock": 63
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g025-067-S10P-B/",
+            "price": 2,
+            "name": "【ポケカ】Ｕ◇ヒスイ",
+            "date": "2022-12-21",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/1712411008",
+            "price": 25,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1440913592",
+            "price": 100,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1070208486",
+            "price": 170,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/867670386",
+            "price": 25,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/329621943",
+            "price": 120,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/665602491",
+            "price": 25,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1252408292",
+            "price": 120,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1717390221",
+            "price": 100,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23022",
+            "price": 50,
+            "name": "ヒスイクレベース(U",
+            "date": "2022-12-20",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34693",
+            "price": 30,
+            "name": "ヒスイクレベース02",
+            "date": "2022-12-20",
             "stock": 64
         },
         {
@@ -77,167 +269,7 @@
             "link": "/shop/g/g025-067-S10P-B/",
             "price": 2,
             "name": "【ポケカ】Ｕ◇ヒスイ",
-            "date": "2022-12-04",
-            "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/867670386",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1070208486",
-            "price": 170,
-            "name": "ヒスイクレベース U",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1712411008",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/329621943",
-            "price": 120,
-            "name": "ヒスイクレベース U",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1252408292",
-            "price": 120,
-            "name": "ヒスイクレベース U",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1717390221",
-            "price": 100,
-            "name": "ヒスイクレベース U",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/665602491",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23022",
-            "price": 50,
-            "name": "ヒスイクレベース(U",
-            "date": "2022-12-03",
-            "stock": 36
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34693",
-            "price": 30,
-            "name": "ヒスイクレベース02",
-            "date": "2022-12-03",
-            "stock": 65
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g025-067-S10P-B/",
-            "price": 2,
-            "name": "【ポケカ】Ｕ◇ヒスイ",
-            "date": "2022-12-03",
-            "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/867670386",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1717390221",
-            "price": 100,
-            "name": "ヒスイクレベース U",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1252408292",
-            "price": 120,
-            "name": "ヒスイクレベース U",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/665602491",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1712411008",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/329621943",
-            "price": 120,
-            "name": "ヒスイクレベース U",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1070208486",
-            "price": 170,
-            "name": "ヒスイクレベース U",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23022",
-            "price": 50,
-            "name": "ヒスイクレベース(U",
-            "date": "2022-12-02",
-            "stock": 36
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34693",
-            "price": 30,
-            "name": "ヒスイクレベース02",
-            "date": "2022-12-02",
-            "stock": 65
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g025-067-S10P-B/",
-            "price": 2,
-            "name": "【ポケカ】Ｕ◇ヒスイ",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 11
         },
         {
@@ -245,31 +277,47 @@
             "link": "/items/1712411008",
             "price": 25,
             "name": "ヒスイクレベース U",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1440913592",
+            "price": 100,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1070208486",
+            "price": 170,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-19",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/867670386",
             "price": 25,
             "name": "ヒスイクレベース U",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/329621943",
-            "price": 120,
-            "name": "ヒスイクレベース U",
-            "date": "2022-12-01",
-            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1717390221",
             "price": 100,
             "name": "ヒスイクレベース U",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/329621943",
+            "price": 120,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -277,7 +325,7 @@
             "link": "/items/1252408292",
             "price": 120,
             "name": "ヒスイクレベース U",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -285,23 +333,15 @@
             "link": "/items/665602491",
             "price": 25,
             "name": "ヒスイクレベース U",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1070208486",
-            "price": 170,
-            "name": "ヒスイクレベース U",
-            "date": "2022-12-01",
-            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23022",
             "price": 50,
             "name": "ヒスイクレベース(U",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 36
         },
         {
@@ -309,23 +349,31 @@
             "link": "https://www.cardrush-pokemon.jp/product/34693",
             "price": 30,
             "name": "ヒスイクレベース02",
-            "date": "2022-12-01",
-            "stock": 65
+            "date": "2022-12-19",
+            "stock": 64
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g025-067-S10P-B/",
             "price": 2,
             "name": "【ポケカ】Ｕ◇ヒスイ",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 11
         },
         {
             "market": "magi",
-            "link": "/items/329621943",
-            "price": 120,
+            "link": "/items/1712411008",
+            "price": 25,
             "name": "ヒスイクレベース U",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1717390221",
+            "price": 100,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -333,7 +381,303 @@
             "link": "/items/1252408292",
             "price": 120,
             "name": "ヒスイクレベース U",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/329621943",
+            "price": 120,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1440913592",
+            "price": 100,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/665602491",
+            "price": 25,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1070208486",
+            "price": 170,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/867670386",
+            "price": 25,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23022",
+            "price": 50,
+            "name": "ヒスイクレベース(U",
+            "date": "2022-12-18",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34693",
+            "price": 30,
+            "name": "ヒスイクレベース02",
+            "date": "2022-12-18",
+            "stock": 64
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g025-067-S10P-B/",
+            "price": 2,
+            "name": "【ポケカ】Ｕ◇ヒスイ",
+            "date": "2022-12-18",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/1070208486",
+            "price": 170,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/329621943",
+            "price": 120,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1440913592",
+            "price": 100,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1717390221",
+            "price": 100,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1252408292",
+            "price": 120,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/665602491",
+            "price": 25,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/867670386",
+            "price": 25,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1712411008",
+            "price": 25,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23022",
+            "price": 50,
+            "name": "ヒスイクレベース(U",
+            "date": "2022-12-17",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34693",
+            "price": 30,
+            "name": "ヒスイクレベース02",
+            "date": "2022-12-17",
+            "stock": 64
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g025-067-S10P-B/",
+            "price": 2,
+            "name": "【ポケカ】Ｕ◇ヒスイ",
+            "date": "2022-12-17",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/1070208486",
+            "price": 170,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/665602491",
+            "price": 25,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/867670386",
+            "price": 25,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1712411008",
+            "price": 25,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/329621943",
+            "price": 120,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1252408292",
+            "price": 120,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1440913592",
+            "price": 100,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1717390221",
+            "price": 100,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23022",
+            "price": 50,
+            "name": "ヒスイクレベース(U",
+            "date": "2022-12-16",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34693",
+            "price": 30,
+            "name": "ヒスイクレベース02",
+            "date": "2022-12-16",
+            "stock": 64
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g025-067-S10P-B/",
+            "price": 2,
+            "name": "【ポケカ】Ｕ◇ヒスイ",
+            "date": "2022-12-16",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/665602491",
+            "price": 25,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1717390221",
+            "price": 100,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1252408292",
+            "price": 120,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/867670386",
+            "price": 25,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/329621943",
+            "price": 120,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1440913592",
+            "price": 100,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1070208486",
+            "price": 170,
+            "name": "ヒスイクレベース U",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -341,39 +685,7 @@
             "link": "/items/1712411008",
             "price": 25,
             "name": "ヒスイクレベース U",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/665602491",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1717390221",
-            "price": 100,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1070208486",
-            "price": 170,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/867670386",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-30",
+            "date": "2022-12-15",
             "stock": 4
         },
         {
@@ -381,7 +693,7 @@
             "link": "https://www.hareruya2.com/product/23022",
             "price": 50,
             "name": "ヒスイクレベース(U",
-            "date": "2022-11-30",
+            "date": "2022-12-15",
             "stock": 36
         },
         {
@@ -389,255 +701,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/34693",
             "price": 30,
             "name": "ヒスイクレベース02",
-            "date": "2022-11-30",
-            "stock": 65
+            "date": "2022-12-15",
+            "stock": 64
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g025-067-S10P-B/",
             "price": 2,
             "name": "【ポケカ】Ｕ◇ヒスイ",
-            "date": "2022-11-30",
-            "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/1070208486",
-            "price": 170,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/329621943",
-            "price": 120,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1712411008",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/665602491",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1717390221",
-            "price": 100,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1252408292",
-            "price": 120,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/867670386",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23022",
-            "price": 50,
-            "name": "ヒスイクレベース(U",
-            "date": "2022-11-29",
-            "stock": 36
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34693",
-            "price": 30,
-            "name": "ヒスイクレベース02",
-            "date": "2022-11-29",
-            "stock": 65
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g025-067-S10P-B/",
-            "price": 2,
-            "name": "【ポケカ】Ｕ◇ヒスイ",
-            "date": "2022-11-29",
-            "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/1717390221",
-            "price": 100,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/329621943",
-            "price": 120,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/867670386",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-28",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1252408292",
-            "price": 120,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1712411008",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-28",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/665602491",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-28",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1070208486",
-            "price": 170,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23022",
-            "price": 50,
-            "name": "ヒスイクレベース(U",
-            "date": "2022-11-28",
-            "stock": 36
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34693",
-            "price": 30,
-            "name": "ヒスイクレベース02",
-            "date": "2022-11-28",
-            "stock": 65
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g025-067-S10P-B/",
-            "price": 2,
-            "name": "【ポケカ】Ｕ◇ヒスイ",
-            "date": "2022-11-28",
-            "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/665602491",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-27",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1070208486",
-            "price": 170,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1252408292",
-            "price": 120,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1712411008",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-27",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/867670386",
-            "price": 25,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-27",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1717390221",
-            "price": 100,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/329621943",
-            "price": 120,
-            "name": "ヒスイクレベース U",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23022",
-            "price": 50,
-            "name": "ヒスイクレベース(U",
-            "date": "2022-11-27",
-            "stock": 36
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34693",
-            "price": 30,
-            "name": "ヒスイクレベース02",
-            "date": "2022-11-27",
-            "stock": 65
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g025-067-S10P-B/",
-            "price": 2,
-            "name": "【ポケカ】Ｕ◇ヒスイ",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 11
         }
     ]

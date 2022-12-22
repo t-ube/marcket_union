@@ -2,34 +2,42 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/2000161283",
-            "price": 800,
+            "link": "/items/1369612580",
+            "price": 1500,
             "name": "ヒスイダイケンキVS",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/245842764",
-            "price": 999,
+            "link": "/items/1223458682",
+            "price": 899,
             "name": "ヒスイダイケンキVS",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/247115448",
-            "price": 2400,
+            "link": "/items/1226125623",
+            "price": 770,
             "name": "ヒスイダイケンキVS",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2085513652",
-            "price": 800,
+            "link": "/items/1390228403",
+            "price": 890,
             "name": "ヒスイダイケンキVS",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1986009140",
+            "price": 880,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -37,39 +45,71 @@
             "link": "https://www.hareruya2.com/product/26369",
             "price": 1000,
             "name": "ヒスイダイケンキVS",
-            "date": "2022-12-04",
-            "stock": 28
+            "date": "2022-12-22",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38677",
+            "price": 930,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-22",
+            "stock": 3
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38410",
             "price": 980,
             "name": "ヒスイダイケンキVS",
-            "date": "2022-12-04",
-            "stock": 69
+            "date": "2022-12-22",
+            "stock": 27
         },
         {
             "market": "magi",
-            "link": "/items/245842764",
-            "price": 999,
+            "link": "/items/1390228403",
+            "price": 890,
             "name": "ヒスイダイケンキVS",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2000161283",
-            "price": 800,
+            "link": "/items/1223458682",
+            "price": 899,
             "name": "ヒスイダイケンキVS",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1938879787",
-            "price": 750,
+            "link": "/items/1226125623",
+            "price": 770,
             "name": "ヒスイダイケンキVS",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1369612580",
+            "price": 1500,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/741474965",
+            "price": 770,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1986009140",
+            "price": 880,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -77,31 +117,63 @@
             "link": "https://www.hareruya2.com/product/26369",
             "price": 1000,
             "name": "ヒスイダイケンキVS",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 8
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38410",
-            "price": 1080,
+            "price": 980,
             "name": "ヒスイダイケンキVS",
-            "date": "2022-12-03",
-            "stock": 45
+            "date": "2022-12-21",
+            "stock": 26
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38677",
+            "price": 930,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-21",
+            "stock": 3
         },
         {
             "market": "magi",
-            "link": "/items/245842764",
-            "price": 999,
+            "link": "/items/1223458682",
+            "price": 899,
             "name": "ヒスイダイケンキVS",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2000161283",
-            "price": 800,
+            "link": "/items/1986009140",
+            "price": 880,
             "name": "ヒスイダイケンキVS",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1390228403",
+            "price": 890,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1226125623",
+            "price": 770,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1369612580",
+            "price": 1500,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -109,16 +181,312 @@
             "link": "https://www.hareruya2.com/product/26369",
             "price": 1000,
             "name": "ヒスイダイケンキVS",
-            "date": "2022-12-02",
-            "stock": 13
+            "date": "2022-12-20",
+            "stock": 8
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38410",
-            "price": 1080,
+            "price": 880,
             "name": "ヒスイダイケンキVS",
-            "date": "2022-12-02",
-            "stock": 45
+            "date": "2022-12-20",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38677",
+            "price": 830,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-20",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1223458682",
+            "price": 899,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1226125623",
+            "price": 780,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1369612580",
+            "price": 1500,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/747642816",
+            "price": 800,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1390228403",
+            "price": 890,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1986009140",
+            "price": 880,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26369",
+            "price": 1000,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-19",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38410",
+            "price": 880,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-19",
+            "stock": 16
+        },
+        {
+            "market": "magi",
+            "link": "/items/1390228403",
+            "price": 890,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1369612580",
+            "price": 1500,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1986009140",
+            "price": 880,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/371767334",
+            "price": 900,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/747642816",
+            "price": 800,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1226125623",
+            "price": 780,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1223458682",
+            "price": 899,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26369",
+            "price": 1000,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1369612580",
+            "price": 1500,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1390228403",
+            "price": 890,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1226125623",
+            "price": 780,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/747642816",
+            "price": 800,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1223458682",
+            "price": 899,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26369",
+            "price": 1000,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38677",
+            "price": 830,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38410",
+            "price": 880,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-17",
+            "stock": 17
+        },
+        {
+            "market": "magi",
+            "link": "/items/747642816",
+            "price": 800,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1223458682",
+            "price": 899,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1390228403",
+            "price": 890,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1369612580",
+            "price": 1500,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1226125623",
+            "price": 780,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38410",
+            "price": 880,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-16",
+            "stock": 32
+        },
+        {
+            "market": "magi",
+            "link": "/items/1226125623",
+            "price": 800,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1369612580",
+            "price": 1500,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1223458682",
+            "price": 899,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/747642816",
+            "price": 800,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1390228403",
+            "price": 890,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38410",
+            "price": 880,
+            "name": "ヒスイダイケンキVS",
+            "date": "2022-12-15",
+            "stock": 39
         }
     ]
 }

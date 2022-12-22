@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1616369663",
+            "link": "/items/1998796835",
             "price": 100,
             "name": "オドリドリ U 01",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1256228198",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,23 +21,15 @@
             "link": "/items/726624253",
             "price": 25,
             "name": "オドリドリ U 01",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/12721664",
-            "price": 100,
-            "name": "オドリドリ U 01",
-            "date": "2022-12-04",
-            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1747986061",
             "price": 120,
             "name": "オドリドリ U 01",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -37,15 +37,15 @@
             "link": "/items/1829294679",
             "price": 198,
             "name": "オドリドリ U 01",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1256228198",
+            "link": "/items/12721664",
             "price": 100,
             "name": "オドリドリ U 01",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -53,15 +53,23 @@
             "link": "/items/1017809554",
             "price": 300,
             "name": "オドリドリ U 01",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1632707524",
-            "price": 111,
+            "price": 100,
             "name": "【特価】ねっけつレッ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1616369663",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -69,31 +77,39 @@
             "link": "https://www.hareruya2.com/product/20384",
             "price": 50,
             "name": "オドリドリ(U){炎",
-            "date": "2022-12-04",
-            "stock": 269
+            "date": "2022-12-22",
+            "stock": 306
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22092",
             "price": 80,
             "name": "オドリドリ017/1",
-            "date": "2022-12-04",
-            "stock": 165
+            "date": "2022-12-22",
+            "stock": 189
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g017-100-S8-B/",
             "price": 33,
             "name": "【ポケカ】Ｕ◇オドリ",
-            "date": "2022-12-04",
-            "stock": 20
+            "date": "2022-12-22",
+            "stock": 18
         },
         {
             "market": "magi",
             "link": "/items/1829294679",
             "price": 198,
             "name": "オドリドリ U 01",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1256228198",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -101,7 +117,39 @@
             "link": "/items/12721664",
             "price": 100,
             "name": "オドリドリ U 01",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1747986061",
+            "price": 120,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1632707524",
+            "price": 100,
+            "name": "【特価】ねっけつレッ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1017809554",
+            "price": 300,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1616369663",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -109,47 +157,15 @@
             "link": "/items/726624253",
             "price": 25,
             "name": "オドリドリ U 01",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/1747986061",
-            "price": 120,
-            "name": "オドリドリ U 01",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1616369663",
+            "link": "/items/1998796835",
             "price": 100,
             "name": "オドリドリ U 01",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1632707524",
-            "price": 111,
-            "name": "【特価】ねっけつレッ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1017809554",
-            "price": 300,
-            "name": "オドリドリ U 01",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1256228198",
-            "price": 100,
-            "name": "オドリドリ U 01",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -157,55 +173,31 @@
             "link": "https://www.hareruya2.com/product/20384",
             "price": 50,
             "name": "オドリドリ(U){炎",
-            "date": "2022-12-03",
-            "stock": 269
+            "date": "2022-12-21",
+            "stock": 304
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22092",
             "price": 80,
             "name": "オドリドリ017/1",
-            "date": "2022-12-03",
-            "stock": 165
+            "date": "2022-12-21",
+            "stock": 166
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g017-100-S8-B/",
             "price": 33,
             "name": "【ポケカ】Ｕ◇オドリ",
-            "date": "2022-12-03",
-            "stock": 20
+            "date": "2022-12-21",
+            "stock": 18
         },
         {
             "market": "magi",
-            "link": "/items/1747986061",
-            "price": 120,
+            "link": "/items/1829294679",
+            "price": 198,
             "name": "オドリドリ U 01",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/12721664",
-            "price": 100,
-            "name": "オドリドリ U 01",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1632707524",
-            "price": 111,
-            "name": "【特価】ねっけつレッ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1616369663",
-            "price": 100,
-            "name": "オドリドリ U 01",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -213,7 +205,39 @@
             "link": "/items/1256228198",
             "price": 100,
             "name": "オドリドリ U 01",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1998796835",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/726624253",
+            "price": 25,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/12721664",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1747986061",
+            "price": 120,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -221,7 +245,63 @@
             "link": "/items/1017809554",
             "price": 300,
             "name": "オドリドリ U 01",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1632707524",
+            "price": 100,
+            "name": "【特価】ねっけつレッ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1616369663",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20384",
+            "price": 50,
+            "name": "オドリドリ(U){炎",
+            "date": "2022-12-20",
+            "stock": 304
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22092",
+            "price": 80,
+            "name": "オドリドリ017/1",
+            "date": "2022-12-20",
+            "stock": 166
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-100-S8-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ◇オドリ",
+            "date": "2022-12-20",
+            "stock": 18
+        },
+        {
+            "market": "magi",
+            "link": "/items/1998796835",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1256228198",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -229,39 +309,15 @@
             "link": "/items/1829294679",
             "price": 198,
             "name": "オドリドリ U 01",
-            "date": "2022-12-02",
+            "date": "2022-12-19",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20384",
-            "price": 50,
-            "name": "オドリドリ(U){炎",
-            "date": "2022-12-02",
-            "stock": 271
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22092",
-            "price": 80,
-            "name": "オドリドリ017/1",
-            "date": "2022-12-02",
-            "stock": 165
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-100-S8-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ◇オドリ",
-            "date": "2022-12-02",
-            "stock": 20
         },
         {
             "market": "magi",
             "link": "/items/12721664",
             "price": 100,
             "name": "オドリドリ U 01",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -269,15 +325,7 @@
             "link": "/items/1747986061",
             "price": 120,
             "name": "オドリドリ U 01",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1829294679",
-            "price": 198,
-            "name": "オドリドリ U 01",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -285,31 +333,31 @@
             "link": "/items/1616369663",
             "price": 100,
             "name": "オドリドリ U 01",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/726624253",
+            "price": 25,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-19",
+            "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/1017809554",
             "price": 300,
             "name": "オドリドリ U 01",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1256228198",
-            "price": 100,
-            "name": "オドリドリ U 01",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1632707524",
-            "price": 111,
+            "price": 100,
             "name": "【特価】ねっけつレッ",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -317,7 +365,295 @@
             "link": "https://www.hareruya2.com/product/20384",
             "price": 50,
             "name": "オドリドリ(U){炎",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
+            "stock": 305
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22092",
+            "price": 80,
+            "name": "オドリドリ017/1",
+            "date": "2022-12-19",
+            "stock": 166
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-100-S8-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ◇オドリ",
+            "date": "2022-12-19",
+            "stock": 18
+        },
+        {
+            "market": "magi",
+            "link": "/items/1017809554",
+            "price": 300,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1256228198",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/12721664",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1998796835",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1747986061",
+            "price": 120,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/726624253",
+            "price": 25,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1829294679",
+            "price": 198,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1632707524",
+            "price": 100,
+            "name": "【特価】ねっけつレッ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1616369663",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20384",
+            "price": 50,
+            "name": "オドリドリ(U){炎",
+            "date": "2022-12-18",
+            "stock": 306
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22092",
+            "price": 80,
+            "name": "オドリドリ017/1",
+            "date": "2022-12-18",
+            "stock": 157
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-100-S8-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ◇オドリ",
+            "date": "2022-12-18",
+            "stock": 19
+        },
+        {
+            "market": "magi",
+            "link": "/items/1017809554",
+            "price": 300,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1256228198",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/726624253",
+            "price": 25,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1616369663",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1632707524",
+            "price": 100,
+            "name": "【特価】ねっけつレッ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1998796835",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1747986061",
+            "price": 120,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1829294679",
+            "price": 198,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/12721664",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20384",
+            "price": 50,
+            "name": "オドリドリ(U){炎",
+            "date": "2022-12-17",
+            "stock": 260
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22092",
+            "price": 80,
+            "name": "オドリドリ017/1",
+            "date": "2022-12-17",
+            "stock": 156
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-100-S8-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ◇オドリ",
+            "date": "2022-12-17",
+            "stock": 18
+        },
+        {
+            "market": "magi",
+            "link": "/items/1829294679",
+            "price": 198,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1632707524",
+            "price": 110,
+            "name": "【特価】ねっけつレッ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1256228198",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/12721664",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1998796835",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1747986061",
+            "price": 120,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/726624253",
+            "price": 25,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1017809554",
+            "price": 300,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1616369663",
+            "price": 100,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20384",
+            "price": 50,
+            "name": "オドリドリ(U){炎",
+            "date": "2022-12-16",
             "stock": 259
         },
         {
@@ -325,31 +661,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/22092",
             "price": 80,
             "name": "オドリドリ017/1",
-            "date": "2022-12-01",
-            "stock": 165
+            "date": "2022-12-16",
+            "stock": 156
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g017-100-S8-B/",
             "price": 33,
             "name": "【ポケカ】Ｕ◇オドリ",
-            "date": "2022-12-01",
-            "stock": 20
+            "date": "2022-12-16",
+            "stock": 18
         },
         {
             "market": "magi",
-            "link": "/items/1256228198",
+            "link": "/items/1616369663",
             "price": 100,
             "name": "オドリドリ U 01",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1632707524",
-            "price": 111,
-            "name": "【特価】ねっけつレッ",
-            "date": "2022-11-30",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -357,31 +685,23 @@
             "link": "/items/1017809554",
             "price": 300,
             "name": "オドリドリ U 01",
-            "date": "2022-11-30",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1829294679",
-            "price": 198,
-            "name": "オドリドリ U 01",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1747986061",
-            "price": 120,
-            "name": "オドリドリ U 01",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1616369663",
+            "link": "/items/1998796835",
             "price": 100,
             "name": "オドリドリ U 01",
-            "date": "2022-11-30",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1632707524",
+            "price": 110,
+            "name": "【特価】ねっけつレッ",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -389,63 +709,15 @@
             "link": "/items/12721664",
             "price": 100,
             "name": "オドリドリ U 01",
-            "date": "2022-11-30",
+            "date": "2022-12-15",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20384",
-            "price": 50,
-            "name": "オドリドリ(U){炎",
-            "date": "2022-11-30",
-            "stock": 260
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22092",
-            "price": 80,
-            "name": "オドリドリ017/1",
-            "date": "2022-11-30",
-            "stock": 167
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-100-S8-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ◇オドリ",
-            "date": "2022-11-30",
-            "stock": 20
         },
         {
             "market": "magi",
             "link": "/items/1747986061",
             "price": 120,
             "name": "オドリドリ U 01",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/12721664",
-            "price": 100,
-            "name": "オドリドリ U 01",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1616369663",
-            "price": 100,
-            "name": "オドリドリ U 01",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1017809554",
-            "price": 300,
-            "name": "オドリドリ U 01",
-            "date": "2022-11-29",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -453,23 +725,23 @@
             "link": "/items/1829294679",
             "price": 198,
             "name": "オドリドリ U 01",
-            "date": "2022-11-29",
+            "date": "2022-12-15",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/726624253",
+            "price": 25,
+            "name": "オドリドリ U 01",
+            "date": "2022-12-15",
+            "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/1256228198",
             "price": 100,
             "name": "オドリドリ U 01",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1632707524",
-            "price": 111,
-            "name": "【特価】ねっけつレッ",
-            "date": "2022-11-29",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -477,183 +749,23 @@
             "link": "https://www.hareruya2.com/product/20384",
             "price": 50,
             "name": "オドリドリ(U){炎",
-            "date": "2022-11-29",
-            "stock": 260
+            "date": "2022-12-15",
+            "stock": 259
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22092",
             "price": 80,
             "name": "オドリドリ017/1",
-            "date": "2022-11-29",
-            "stock": 161
+            "date": "2022-12-15",
+            "stock": 159
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g017-100-S8-B/",
             "price": 33,
             "name": "【ポケカ】Ｕ◇オドリ",
-            "date": "2022-11-29",
-            "stock": 20
-        },
-        {
-            "market": "magi",
-            "link": "/items/1747986061",
-            "price": 120,
-            "name": "オドリドリ U 01",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1256228198",
-            "price": 100,
-            "name": "オドリドリ U 01",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1616369663",
-            "price": 100,
-            "name": "オドリドリ U 01",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1632707524",
-            "price": 111,
-            "name": "【特価】ねっけつレッ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1829294679",
-            "price": 198,
-            "name": "オドリドリ U 01",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1017809554",
-            "price": 300,
-            "name": "オドリドリ U 01",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/12721664",
-            "price": 100,
-            "name": "オドリドリ U 01",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20384",
-            "price": 50,
-            "name": "オドリドリ(U){炎",
-            "date": "2022-11-28",
-            "stock": 261
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22092",
-            "price": 80,
-            "name": "オドリドリ017/1",
-            "date": "2022-11-28",
-            "stock": 161
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-100-S8-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ◇オドリ",
-            "date": "2022-11-28",
-            "stock": 20
-        },
-        {
-            "market": "magi",
-            "link": "/items/1632707524",
-            "price": 111,
-            "name": "【特価】ねっけつレッ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1829294679",
-            "price": 198,
-            "name": "オドリドリ U 01",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/12721664",
-            "price": 100,
-            "name": "オドリドリ U 01",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1256228198",
-            "price": 100,
-            "name": "オドリドリ U 01",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1747986061",
-            "price": 120,
-            "name": "オドリドリ U 01",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1017809554",
-            "price": 300,
-            "name": "オドリドリ U 01",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1616369663",
-            "price": 100,
-            "name": "オドリドリ U 01",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20384",
-            "price": 50,
-            "name": "オドリドリ(U){炎",
-            "date": "2022-11-27",
-            "stock": 261
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22092",
-            "price": 80,
-            "name": "オドリドリ017/1",
-            "date": "2022-11-27",
-            "stock": 152
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-100-S8-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ◇オドリ",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 20
         }
     ]

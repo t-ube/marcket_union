@@ -2,18 +2,10 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1302197879",
-            "price": 199,
-            "name": "レジエレキ U 02",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1198630779",
+            "link": "/items/1581233052",
             "price": 100,
             "name": "レジエレキ U 02",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -21,15 +13,15 @@
             "link": "/items/645902426",
             "price": 100,
             "name": "レジエレキ U 02",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1581233052",
-            "price": 100,
+            "link": "/items/489790053",
+            "price": 50,
             "name": "レジエレキ U 02",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -37,15 +29,23 @@
             "link": "/items/1287428123",
             "price": 100,
             "name": "レジエレキ U 02",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 2
         },
         {
             "market": "magi",
-            "link": "/items/489790053",
-            "price": 50,
+            "link": "/items/1302197879",
+            "price": 199,
             "name": "レジエレキ U 02",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1198630779",
+            "price": 100,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -53,31 +53,47 @@
             "link": "https://www.hareruya2.com/product/22952",
             "price": 50,
             "name": "レジエレキ(U){雷",
-            "date": "2022-12-04",
-            "stock": 85
+            "date": "2022-12-22",
+            "stock": 130
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34623",
             "price": 30,
             "name": "レジエレキ022/0",
-            "date": "2022-12-04",
-            "stock": 618
+            "date": "2022-12-22",
+            "stock": 588
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g022-067-S10D-B/",
             "price": 77,
             "name": "【ポケカ】Ｕ◇レジエ",
-            "date": "2022-12-04",
-            "stock": 3
+            "date": "2022-12-22",
+            "stock": 2
         },
         {
             "market": "magi",
-            "link": "/items/645902426",
+            "link": "/items/1287428123",
             "price": 100,
             "name": "レジエレキ U 02",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1198630779",
+            "price": 100,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/489790053",
+            "price": 50,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -85,15 +101,15 @@
             "link": "/items/1302197879",
             "price": 199,
             "name": "レジエレキ U 02",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1198630779",
+            "link": "/items/645902426",
             "price": 100,
             "name": "レジエレキ U 02",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -101,23 +117,7 @@
             "link": "/items/1581233052",
             "price": 100,
             "name": "レジエレキ U 02",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1287428123",
-            "price": 100,
-            "name": "レジエレキ U 02",
-            "date": "2022-12-03",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/489790053",
-            "price": 50,
-            "name": "レジエレキ U 02",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -125,31 +125,39 @@
             "link": "https://www.hareruya2.com/product/22952",
             "price": 50,
             "name": "レジエレキ(U){雷",
-            "date": "2022-12-03",
-            "stock": 86
+            "date": "2022-12-21",
+            "stock": 116
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34623",
             "price": 30,
             "name": "レジエレキ022/0",
-            "date": "2022-12-03",
-            "stock": 620
+            "date": "2022-12-21",
+            "stock": 588
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g022-067-S10D-B/",
             "price": 77,
             "name": "【ポケカ】Ｕ◇レジエ",
-            "date": "2022-12-03",
-            "stock": 3
+            "date": "2022-12-21",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/645902426",
+            "price": 100,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-20",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1581233052",
             "price": 100,
             "name": "レジエレキ U 02",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -157,7 +165,7 @@
             "link": "/items/1198630779",
             "price": 100,
             "name": "レジエレキ U 02",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -165,7 +173,7 @@
             "link": "/items/1287428123",
             "price": 100,
             "name": "レジエレキ U 02",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 2
         },
         {
@@ -173,7 +181,7 @@
             "link": "/items/1302197879",
             "price": 199,
             "name": "レジエレキ U 02",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -181,15 +189,7 @@
             "link": "/items/489790053",
             "price": 50,
             "name": "レジエレキ U 02",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/645902426",
-            "price": 100,
-            "name": "レジエレキ U 02",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -197,47 +197,31 @@
             "link": "https://www.hareruya2.com/product/22952",
             "price": 50,
             "name": "レジエレキ(U){雷",
-            "date": "2022-12-02",
-            "stock": 86
+            "date": "2022-12-20",
+            "stock": 116
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34623",
             "price": 30,
             "name": "レジエレキ022/0",
-            "date": "2022-12-02",
-            "stock": 628
+            "date": "2022-12-20",
+            "stock": 588
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g022-067-S10D-B/",
             "price": 77,
             "name": "【ポケカ】Ｕ◇レジエ",
-            "date": "2022-12-02",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1581233052",
-            "price": 100,
-            "name": "レジエレキ U 02",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1198630779",
-            "price": 100,
-            "name": "レジエレキ U 02",
-            "date": "2022-12-01",
-            "stock": 1
+            "date": "2022-12-20",
+            "stock": 2
         },
         {
             "market": "magi",
             "link": "/items/645902426",
             "price": 100,
             "name": "レジエレキ U 02",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -245,7 +229,7 @@
             "link": "/items/1287428123",
             "price": 100,
             "name": "レジエレキ U 02",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 2
         },
         {
@@ -253,7 +237,7 @@
             "link": "/items/489790053",
             "price": 50,
             "name": "レジエレキ U 02",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -261,55 +245,7 @@
             "link": "/items/1302197879",
             "price": 199,
             "name": "レジエレキ U 02",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22952",
-            "price": 50,
-            "name": "レジエレキ(U){雷",
-            "date": "2022-12-01",
-            "stock": 79
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34623",
-            "price": 80,
-            "name": "レジエレキ022/0",
-            "date": "2022-12-01",
-            "stock": 628
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g022-067-S10D-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｕ◇レジエ",
-            "date": "2022-12-01",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1287428123",
-            "price": 100,
-            "name": "レジエレキ U 02",
-            "date": "2022-11-30",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1581233052",
-            "price": 100,
-            "name": "レジエレキ U 02",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/489790053",
-            "price": 50,
-            "name": "レジエレキ U 02",
-            "date": "2022-11-30",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -317,63 +253,7 @@
             "link": "/items/1198630779",
             "price": 100,
             "name": "レジエレキ U 02",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/645902426",
-            "price": 100,
-            "name": "レジエレキ U 02",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1302197879",
-            "price": 199,
-            "name": "レジエレキ U 02",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22952",
-            "price": 50,
-            "name": "レジエレキ(U){雷",
-            "date": "2022-11-30",
-            "stock": 79
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34623",
-            "price": 80,
-            "name": "レジエレキ022/0",
-            "date": "2022-11-30",
-            "stock": 628
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g022-067-S10D-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｕ◇レジエ",
-            "date": "2022-11-30",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/645902426",
-            "price": 100,
-            "name": "レジエレキ U 02",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1198630779",
-            "price": 100,
-            "name": "レジエレキ U 02",
-            "date": "2022-11-29",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -381,55 +261,31 @@
             "link": "/items/1581233052",
             "price": 100,
             "name": "レジエレキ U 02",
-            "date": "2022-11-29",
+            "date": "2022-12-19",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1302197879",
-            "price": 199,
-            "name": "レジエレキ U 02",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/489790053",
-            "price": 50,
-            "name": "レジエレキ U 02",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1287428123",
-            "price": 100,
-            "name": "レジエレキ U 02",
-            "date": "2022-11-29",
-            "stock": 2
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22952",
             "price": 50,
             "name": "レジエレキ(U){雷",
-            "date": "2022-11-29",
-            "stock": 79
+            "date": "2022-12-19",
+            "stock": 116
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34623",
-            "price": 80,
+            "price": 30,
             "name": "レジエレキ022/0",
-            "date": "2022-11-29",
-            "stock": 629
+            "date": "2022-12-19",
+            "stock": 590
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g022-067-S10D-B/",
             "price": 77,
             "name": "【ポケカ】Ｕ◇レジエ",
-            "date": "2022-11-29",
+            "date": "2022-12-19",
             "stock": 3
         },
         {
@@ -437,15 +293,31 @@
             "link": "/items/1198630779",
             "price": 100,
             "name": "レジエレキ U 02",
-            "date": "2022-11-28",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/489790053",
-            "price": 50,
+            "link": "/items/1302197879",
+            "price": 199,
             "name": "レジエレキ U 02",
-            "date": "2022-11-28",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1287428123",
+            "price": 100,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1581233052",
+            "price": 100,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -453,31 +325,15 @@
             "link": "/items/645902426",
             "price": 100,
             "name": "レジエレキ U 02",
-            "date": "2022-11-28",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1287428123",
-            "price": 100,
+            "link": "/items/489790053",
+            "price": 50,
             "name": "レジエレキ U 02",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1302197879",
-            "price": 199,
-            "name": "レジエレキ U 02",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1581233052",
-            "price": 100,
-            "name": "レジエレキ U 02",
-            "date": "2022-11-28",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -485,39 +341,39 @@
             "link": "https://www.hareruya2.com/product/22952",
             "price": 50,
             "name": "レジエレキ(U){雷",
-            "date": "2022-11-28",
-            "stock": 79
+            "date": "2022-12-18",
+            "stock": 118
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34623",
-            "price": 80,
+            "price": 30,
             "name": "レジエレキ022/0",
-            "date": "2022-11-28",
-            "stock": 629
+            "date": "2022-12-18",
+            "stock": 592
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g022-067-S10D-B/",
             "price": 77,
             "name": "【ポケカ】Ｕ◇レジエ",
-            "date": "2022-11-28",
+            "date": "2022-12-18",
             "stock": 3
         },
         {
             "market": "magi",
-            "link": "/items/1287428123",
+            "link": "/items/1581233052",
             "price": 100,
             "name": "レジエレキ U 02",
-            "date": "2022-11-27",
-            "stock": 2
+            "date": "2022-12-17",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1198630779",
             "price": 100,
             "name": "レジエレキ U 02",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -525,15 +381,23 @@
             "link": "/items/489790053",
             "price": 50,
             "name": "レジエレキ U 02",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1287428123",
+            "price": 100,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-17",
+            "stock": 2
         },
         {
             "market": "magi",
             "link": "/items/1302197879",
             "price": 199,
             "name": "レジエレキ U 02",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -541,15 +405,7 @@
             "link": "/items/645902426",
             "price": 100,
             "name": "レジエレキ U 02",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1581233052",
-            "price": 100,
-            "name": "レジエレキ U 02",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -557,23 +413,167 @@
             "link": "https://www.hareruya2.com/product/22952",
             "price": 50,
             "name": "レジエレキ(U){雷",
-            "date": "2022-11-27",
-            "stock": 70
+            "date": "2022-12-17",
+            "stock": 87
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34623",
-            "price": 80,
+            "price": 30,
             "name": "レジエレキ022/0",
-            "date": "2022-11-27",
-            "stock": 393
+            "date": "2022-12-17",
+            "stock": 594
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g022-067-S10D-B/",
             "price": 77,
             "name": "【ポケカ】Ｕ◇レジエ",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1198630779",
+            "price": 100,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/489790053",
+            "price": 50,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1287428123",
+            "price": 100,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-16",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1302197879",
+            "price": 199,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1581233052",
+            "price": 100,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/645902426",
+            "price": 100,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22952",
+            "price": 50,
+            "name": "レジエレキ(U){雷",
+            "date": "2022-12-16",
+            "stock": 87
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34623",
+            "price": 30,
+            "name": "レジエレキ022/0",
+            "date": "2022-12-16",
+            "stock": 595
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g022-067-S10D-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｕ◇レジエ",
+            "date": "2022-12-16",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1581233052",
+            "price": 100,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/489790053",
+            "price": 50,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/645902426",
+            "price": 100,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1287428123",
+            "price": 100,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-15",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1302197879",
+            "price": 199,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1198630779",
+            "price": 100,
+            "name": "レジエレキ U 02",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22952",
+            "price": 50,
+            "name": "レジエレキ(U){雷",
+            "date": "2022-12-15",
+            "stock": 87
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34623",
+            "price": 30,
+            "name": "レジエレキ022/0",
+            "date": "2022-12-15",
+            "stock": 595
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g022-067-S10D-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｕ◇レジエ",
+            "date": "2022-12-15",
             "stock": 3
         }
     ]

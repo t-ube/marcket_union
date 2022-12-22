@@ -1,11 +1,19 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19455",
+            "price": 50,
+            "name": "オクタン(-){水}",
+            "date": "2022-12-22",
+            "stock": 45
+        },
+        {
             "market": "magi",
             "link": "/items/1490527071",
             "price": 37,
             "name": "【特価】オクタン(R",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 5
         },
         {
@@ -13,31 +21,23 @@
             "link": "/items/1628742103",
             "price": 100,
             "name": "オクタン(R仕様) ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19455",
-            "price": 50,
-            "name": "オクタン(-){水}",
-            "date": "2022-12-04",
-            "stock": 45
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20629",
             "price": 80,
             "name": "オクタン003/02",
-            "date": "2022-12-04",
-            "stock": 51
+            "date": "2022-12-22",
+            "stock": 49
         },
         {
             "market": "magi",
             "link": "/items/1490527071",
             "price": 37,
             "name": "【特価】オクタン(R",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 5
         },
         {
@@ -45,7 +45,7 @@
             "link": "/items/1628742103",
             "price": 100,
             "name": "オクタン(R仕様) ",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -53,7 +53,7 @@
             "link": "https://www.hareruya2.com/product/19455",
             "price": 50,
             "name": "オクタン(-){水}",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 45
         },
         {
@@ -61,15 +61,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/20629",
             "price": 80,
             "name": "オクタン003/02",
-            "date": "2022-12-03",
-            "stock": 51
+            "date": "2022-12-21",
+            "stock": 49
         },
         {
             "market": "magi",
             "link": "/items/1490527071",
             "price": 37,
             "name": "【特価】オクタン(R",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 5
         },
         {
@@ -77,7 +77,7 @@
             "link": "/items/1628742103",
             "price": 100,
             "name": "オクタン(R仕様) ",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -85,7 +85,7 @@
             "link": "https://www.hareruya2.com/product/19455",
             "price": 50,
             "name": "オクタン(-){水}",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 45
         },
         {
@@ -93,15 +93,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/20629",
             "price": 80,
             "name": "オクタン003/02",
-            "date": "2022-12-02",
-            "stock": 51
+            "date": "2022-12-20",
+            "stock": 49
         },
         {
             "market": "magi",
             "link": "/items/1490527071",
             "price": 37,
             "name": "【特価】オクタン(R",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 5
         },
         {
@@ -109,7 +109,7 @@
             "link": "/items/1628742103",
             "price": 100,
             "name": "オクタン(R仕様) ",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -117,7 +117,7 @@
             "link": "https://www.hareruya2.com/product/19455",
             "price": 50,
             "name": "オクタン(-){水}",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 45
         },
         {
@@ -125,15 +125,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/20629",
             "price": 80,
             "name": "オクタン003/02",
-            "date": "2022-12-01",
-            "stock": 51
+            "date": "2022-12-19",
+            "stock": 49
         },
         {
             "market": "magi",
             "link": "/items/1490527071",
             "price": 37,
             "name": "【特価】オクタン(R",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 5
         },
         {
@@ -141,7 +141,7 @@
             "link": "/items/1628742103",
             "price": 100,
             "name": "オクタン(R仕様) ",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -149,7 +149,7 @@
             "link": "https://www.hareruya2.com/product/19455",
             "price": 50,
             "name": "オクタン(-){水}",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 45
         },
         {
@@ -157,15 +157,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/20629",
             "price": 80,
             "name": "オクタン003/02",
-            "date": "2022-11-30",
-            "stock": 51
+            "date": "2022-12-18",
+            "stock": 49
         },
         {
             "market": "magi",
             "link": "/items/1490527071",
             "price": 37,
             "name": "【特価】オクタン(R",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 5
         },
         {
@@ -173,7 +173,7 @@
             "link": "/items/1628742103",
             "price": 100,
             "name": "オクタン(R仕様) ",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -181,7 +181,7 @@
             "link": "https://www.hareruya2.com/product/19455",
             "price": 50,
             "name": "オクタン(-){水}",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
             "stock": 45
         },
         {
@@ -189,15 +189,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/20629",
             "price": 80,
             "name": "オクタン003/02",
-            "date": "2022-11-29",
-            "stock": 51
+            "date": "2022-12-17",
+            "stock": 49
         },
         {
             "market": "magi",
             "link": "/items/1628742103",
             "price": 100,
             "name": "オクタン(R仕様) ",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -205,7 +205,7 @@
             "link": "/items/1490527071",
             "price": 37,
             "name": "【特価】オクタン(R",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 5
         },
         {
@@ -213,7 +213,7 @@
             "link": "https://www.hareruya2.com/product/19455",
             "price": 50,
             "name": "オクタン(-){水}",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 45
         },
         {
@@ -221,15 +221,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/20629",
             "price": 80,
             "name": "オクタン003/02",
-            "date": "2022-11-28",
-            "stock": 51
+            "date": "2022-12-16",
+            "stock": 49
         },
         {
             "market": "magi",
             "link": "/items/1490527071",
             "price": 37,
             "name": "【特価】オクタン(R",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 5
         },
         {
@@ -237,7 +237,7 @@
             "link": "/items/1628742103",
             "price": 100,
             "name": "オクタン(R仕様) ",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -245,7 +245,7 @@
             "link": "https://www.hareruya2.com/product/19455",
             "price": 50,
             "name": "オクタン(-){水}",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 45
         },
         {
@@ -253,8 +253,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/20629",
             "price": 80,
             "name": "オクタン003/02",
-            "date": "2022-11-27",
-            "stock": 51
+            "date": "2022-12-15",
+            "stock": 49
         }
     ]
 }

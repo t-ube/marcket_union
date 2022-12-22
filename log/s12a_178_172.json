@@ -2,99 +2,651 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1520344827",
+            "price": 500,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1612906856",
+            "price": 888,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1213593935",
+            "price": 540,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/822975753",
+            "price": 400,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/378284110",
             "price": 500,
             "name": "マナフィ AR 17",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1213593935",
-            "price": 540,
+            "link": "/items/1552341403",
+            "price": 450,
             "name": "マナフィ AR 17",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/741000137",
-            "price": 444,
+            "link": "/items/1883073763",
+            "price": 290,
             "name": "マナフィ AR 17",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/332992682",
-            "price": 166,
-            "name": "マナフィ AR 17",
-            "date": "2022-12-04",
-            "stock": 6
+            "link": "/items/118951720",
+            "price": 900,
+            "name": "プレゼント付き　マナ",
+            "date": "2022-12-22",
+            "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/434372806",
+            "link": "/items/89642515",
             "price": 350,
-            "name": "【AR】マナフィ A",
-            "date": "2022-12-04",
+            "name": "マナフィ AR 17",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26317",
-            "price": 500,
+            "price": 580,
             "name": "マナフィ(AR){水",
-            "date": "2022-12-04",
-            "stock": 10
+            "date": "2022-12-22",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38358",
+            "price": 420,
+            "name": "マナフィ178/17",
+            "date": "2022-12-22",
+            "stock": 171
+        },
+        {
+            "market": "magi",
+            "link": "/items/822975753",
+            "price": 400,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1612906856",
+            "price": 888,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1213593935",
             "price": 540,
             "name": "マナフィ AR 17",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1552341403",
+            "price": 450,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1883073763",
+            "price": 380,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/118951720",
+            "price": 950,
+            "name": "プレゼント付き　マナ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/89642515",
+            "price": 350,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/378284110",
+            "price": 500,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26317",
-            "price": 500,
+            "price": 580,
             "name": "マナフィ(AR){水",
-            "date": "2022-12-03",
-            "stock": 31
+            "date": "2022-12-21",
+            "stock": 34
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38358",
-            "price": 380,
+            "price": 420,
             "name": "マナフィ178/17",
-            "date": "2022-12-03",
-            "stock": 47
+            "date": "2022-12-21",
+            "stock": 177
+        },
+        {
+            "market": "magi",
+            "link": "/items/822975753",
+            "price": 450,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1552341403",
+            "price": 450,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1883073763",
+            "price": 380,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/118951720",
+            "price": 980,
+            "name": "プレゼント付き　マナ",
+            "date": "2022-12-20",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1213593935",
             "price": 540,
             "name": "マナフィ AR 17",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/89642515",
+            "price": 350,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/378284110",
+            "price": 500,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26317",
-            "price": 500,
+            "price": 580,
             "name": "マナフィ(AR){水",
-            "date": "2022-12-02",
-            "stock": 32
+            "date": "2022-12-20",
+            "stock": 37
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38358",
-            "price": 380,
+            "price": 420,
             "name": "マナフィ178/17",
-            "date": "2022-12-02",
-            "stock": 126
+            "date": "2022-12-20",
+            "stock": 155
+        },
+        {
+            "market": "magi",
+            "link": "/items/822975753",
+            "price": 450,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/378284110",
+            "price": 500,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1213593935",
+            "price": 540,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1681621907",
+            "price": 350,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/118951720",
+            "price": 980,
+            "name": "プレゼント付き　マナ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1018562698",
+            "price": 374,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1552341403",
+            "price": 450,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/89642515",
+            "price": 350,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1883073763",
+            "price": 380,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26317",
+            "price": 600,
+            "name": "マナフィ(AR){水",
+            "date": "2022-12-19",
+            "stock": 38
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38358",
+            "price": 480,
+            "name": "マナフィ178/17",
+            "date": "2022-12-19",
+            "stock": 145
+        },
+        {
+            "market": "magi",
+            "link": "/items/1681621907",
+            "price": 350,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1552341403",
+            "price": 450,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/118951720",
+            "price": 980,
+            "name": "プレゼント付き　マナ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/378284110",
+            "price": 500,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/89642515",
+            "price": 350,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1018562698",
+            "price": 374,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1883073763",
+            "price": 380,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/822975753",
+            "price": 450,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1213593935",
+            "price": 540,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26317",
+            "price": 700,
+            "name": "マナフィ(AR){水",
+            "date": "2022-12-18",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38358",
+            "price": 480,
+            "name": "マナフィ178/17",
+            "date": "2022-12-18",
+            "stock": 112
+        },
+        {
+            "market": "magi",
+            "link": "/items/1018562698",
+            "price": 374,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/319162346",
+            "price": 1100,
+            "name": "プレゼント付き　マナ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1552341403",
+            "price": 450,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1883073763",
+            "price": 380,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1213593935",
+            "price": 540,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/822975753",
+            "price": 450,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1681621907",
+            "price": 350,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/378284110",
+            "price": 500,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26317",
+            "price": 700,
+            "name": "マナフィ(AR){水",
+            "date": "2022-12-17",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38358",
+            "price": 480,
+            "name": "マナフィ178/17",
+            "date": "2022-12-17",
+            "stock": 128
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38625",
+            "price": 450,
+            "name": "マナフィ178/17",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1018562698",
+            "price": 374,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1213593935",
+            "price": 540,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/319162346",
+            "price": 1100,
+            "name": "プレゼント付き　マナ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1552341403",
+            "price": 450,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/822975753",
+            "price": 450,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/378284110",
+            "price": 500,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1883073763",
+            "price": 430,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26317",
+            "price": 700,
+            "name": "マナフィ(AR){水",
+            "date": "2022-12-16",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38358",
+            "price": 480,
+            "name": "マナフィ178/17",
+            "date": "2022-12-16",
+            "stock": 121
+        },
+        {
+            "market": "magi",
+            "link": "/items/1213593935",
+            "price": 540,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/319162346",
+            "price": 1100,
+            "name": "プレゼント付き　マナ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/822975753",
+            "price": 450,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1552341403",
+            "price": 450,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/378284110",
+            "price": 500,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1018562698",
+            "price": 374,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1883073763",
+            "price": 430,
+            "name": "マナフィ AR 17",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26317",
+            "price": 700,
+            "name": "マナフィ(AR){水",
+            "date": "2022-12-15",
+            "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38358",
+            "price": 480,
+            "name": "マナフィ178/17",
+            "date": "2022-12-15",
+            "stock": 104
         }
     ]
 }

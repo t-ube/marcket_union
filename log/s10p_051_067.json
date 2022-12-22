@@ -2,58 +2,10 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1139215406",
-            "price": 250,
-            "name": "【レジ5種】レジアイ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1554025629",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1009670148",
-            "price": 25,
-            "name": "1枚25円 s10P",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1418028792",
-            "price": 300,
+            "price": 196,
             "name": "レジドラゴ(U){ド",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/552644464",
-            "price": 300,
-            "name": "レジドラゴ(U){ド",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2004970086",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/410088971",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -61,7 +13,23 @@
             "link": "/items/1283904857",
             "price": 100,
             "name": "レジドラゴ U 05",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1009670148",
+            "price": 25,
+            "name": "1枚25円 s10P",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1139215406",
+            "price": 250,
+            "name": "【レジ5種】レジアイ",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -69,87 +37,79 @@
             "link": "/items/799378376",
             "price": 42,
             "name": "レジドラゴ U 05",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1716936999",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/410088971",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1554025629",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/552644464",
+            "price": 196,
+            "name": "レジドラゴ(U){ド",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2004970086",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-22",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/23048",
             "price": 100,
             "name": "レジドラゴ(U){ド",
-            "date": "2022-12-04",
-            "stock": 88
+            "date": "2022-12-22",
+            "stock": 169
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34719",
             "price": 30,
             "name": "レジドラゴ051/0",
-            "date": "2022-12-04",
-            "stock": 299
+            "date": "2022-12-22",
+            "stock": 256
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g051-067-S10P-B/",
             "price": 55,
             "name": "【ポケカ】Ｕ◇レジド",
-            "date": "2022-12-04",
-            "stock": 82
+            "date": "2022-12-22",
+            "stock": 81
         },
         {
             "market": "magi",
-            "link": "/items/1418028792",
-            "price": 300,
+            "link": "/items/552644464",
+            "price": 196,
             "name": "レジドラゴ(U){ド",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/799378376",
-            "price": 42,
-            "name": "レジドラゴ U 05",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1283904857",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/410088971",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1554025629",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1139215406",
-            "price": 250,
-            "name": "【レジ5種】レジアイ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2004970086",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -157,15 +117,71 @@
             "link": "/items/1009670148",
             "price": 25,
             "name": "1枚25円 s10P",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/552644464",
-            "price": 300,
+            "link": "/items/1716936999",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2004970086",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1418028792",
+            "price": 196,
             "name": "レジドラゴ(U){ド",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1554025629",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/410088971",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1283904857",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/799378376",
+            "price": 42,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1139215406",
+            "price": 250,
+            "name": "【レジ5種】レジアイ",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -173,63 +189,31 @@
             "link": "https://www.hareruya2.com/product/23048",
             "price": 100,
             "name": "レジドラゴ(U){ド",
-            "date": "2022-12-03",
-            "stock": 88
+            "date": "2022-12-21",
+            "stock": 166
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34719",
             "price": 30,
             "name": "レジドラゴ051/0",
-            "date": "2022-12-03",
-            "stock": 301
+            "date": "2022-12-21",
+            "stock": 256
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g051-067-S10P-B/",
-            "price": 66,
+            "price": 55,
             "name": "【ポケカ】Ｕ◇レジド",
-            "date": "2022-12-03",
-            "stock": 82
-        },
-        {
-            "market": "magi",
-            "link": "/items/2004970086",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1139215406",
-            "price": 250,
-            "name": "【レジ5種】レジアイ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/799378376",
-            "price": 42,
-            "name": "レジドラゴ U 05",
-            "date": "2022-12-02",
-            "stock": 4
+            "date": "2022-12-21",
+            "stock": 81
         },
         {
             "market": "magi",
             "link": "/items/1009670148",
             "price": 25,
             "name": "1枚25円 s10P",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1554025629",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -237,31 +221,71 @@
             "link": "/items/410088971",
             "price": 100,
             "name": "レジドラゴ U 05",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1716936999",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1139215406",
+            "price": 250,
+            "name": "【レジ5種】レジアイ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/799378376",
+            "price": 42,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-20",
+            "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/1283904857",
             "price": 100,
             "name": "レジドラゴ U 05",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1418028792",
-            "price": 300,
-            "name": "レジドラゴ(U){ド",
-            "date": "2022-12-02",
+            "link": "/items/2004970086",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1554025629",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/552644464",
-            "price": 300,
+            "price": 196,
             "name": "レジドラゴ(U){ド",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1418028792",
+            "price": 196,
+            "name": "レジドラゴ(U){ド",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -269,79 +293,31 @@
             "link": "https://www.hareruya2.com/product/23048",
             "price": 100,
             "name": "レジドラゴ(U){ド",
-            "date": "2022-12-02",
-            "stock": 88
+            "date": "2022-12-20",
+            "stock": 166
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34719",
             "price": 30,
             "name": "レジドラゴ051/0",
-            "date": "2022-12-02",
-            "stock": 301
+            "date": "2022-12-20",
+            "stock": 257
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g051-067-S10P-B/",
-            "price": 66,
+            "price": 55,
             "name": "【ポケカ】Ｕ◇レジド",
-            "date": "2022-12-02",
-            "stock": 82
-        },
-        {
-            "market": "magi",
-            "link": "/items/1554025629",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1283904857",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/552644464",
-            "price": 300,
-            "name": "レジドラゴ(U){ド",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1418028792",
-            "price": 300,
-            "name": "レジドラゴ(U){ド",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/410088971",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1009670148",
-            "price": 25,
-            "name": "1枚25円 s10P",
-            "date": "2022-12-01",
-            "stock": 1
+            "date": "2022-12-20",
+            "stock": 81
         },
         {
             "market": "magi",
             "link": "/items/799378376",
             "price": 42,
             "name": "レジドラゴ U 05",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 4
         },
         {
@@ -349,79 +325,15 @@
             "link": "/items/1139215406",
             "price": 250,
             "name": "【レジ5種】レジアイ",
-            "date": "2022-12-01",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2004970086",
+            "link": "/items/1554025629",
             "price": 100,
             "name": "レジドラゴ U 05",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23048",
-            "price": 100,
-            "name": "レジドラゴ(U){ド",
-            "date": "2022-12-01",
-            "stock": 59
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34719",
-            "price": 80,
-            "name": "レジドラゴ051/0",
-            "date": "2022-12-01",
-            "stock": 301
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g051-067-S10P-B/",
-            "price": 66,
-            "name": "【ポケカ】Ｕ◇レジド",
-            "date": "2022-12-01",
-            "stock": 82
-        },
-        {
-            "market": "magi",
-            "link": "/items/1418028792",
-            "price": 300,
-            "name": "レジドラゴ(U){ド",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/552644464",
-            "price": 300,
-            "name": "レジドラゴ(U){ド",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1009670148",
-            "price": 25,
-            "name": "1枚25円 s10P",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2004970086",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/410088971",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-11-30",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -429,7 +341,143 @@
             "link": "/items/1283904857",
             "price": 100,
             "name": "レジドラゴ U 05",
-            "date": "2022-11-30",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2004970086",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1418028792",
+            "price": 196,
+            "name": "レジドラゴ(U){ド",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/552644464",
+            "price": 196,
+            "name": "レジドラゴ(U){ド",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1009670148",
+            "price": 25,
+            "name": "1枚25円 s10P",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/410088971",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1716936999",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23048",
+            "price": 100,
+            "name": "レジドラゴ(U){ド",
+            "date": "2022-12-19",
+            "stock": 166
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34719",
+            "price": 30,
+            "name": "レジドラゴ051/0",
+            "date": "2022-12-19",
+            "stock": 260
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g051-067-S10P-B/",
+            "price": 55,
+            "name": "【ポケカ】Ｕ◇レジド",
+            "date": "2022-12-19",
+            "stock": 82
+        },
+        {
+            "market": "magi",
+            "link": "/items/410088971",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1418028792",
+            "price": 196,
+            "name": "レジドラゴ(U){ド",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/552644464",
+            "price": 196,
+            "name": "レジドラゴ(U){ド",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2004970086",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1009670148",
+            "price": 25,
+            "name": "1枚25円 s10P",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1283904857",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1554025629",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1716936999",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -437,15 +485,63 @@
             "link": "/items/799378376",
             "price": 42,
             "name": "レジドラゴ U 05",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/1554025629",
+            "link": "/items/1139215406",
+            "price": 250,
+            "name": "【レジ5種】レジアイ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23048",
+            "price": 100,
+            "name": "レジドラゴ(U){ド",
+            "date": "2022-12-18",
+            "stock": 166
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34719",
+            "price": 30,
+            "name": "レジドラゴ051/0",
+            "date": "2022-12-18",
+            "stock": 265
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g051-067-S10P-B/",
+            "price": 55,
+            "name": "【ポケカ】Ｕ◇レジド",
+            "date": "2022-12-18",
+            "stock": 82
+        },
+        {
+            "market": "magi",
+            "link": "/items/1418028792",
+            "price": 196,
+            "name": "レジドラゴ(U){ド",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/799378376",
+            "price": 42,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1716936999",
             "price": 100,
             "name": "レジドラゴ U 05",
-            "date": "2022-11-30",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -453,7 +549,55 @@
             "link": "/items/1139215406",
             "price": 250,
             "name": "【レジ5種】レジアイ",
-            "date": "2022-11-30",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1009670148",
+            "price": 25,
+            "name": "1枚25円 s10P",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/552644464",
+            "price": 196,
+            "name": "レジドラゴ(U){ド",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2004970086",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1283904857",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1554025629",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/410088971",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -461,55 +605,71 @@
             "link": "https://www.hareruya2.com/product/23048",
             "price": 100,
             "name": "レジドラゴ(U){ド",
-            "date": "2022-11-30",
-            "stock": 59
+            "date": "2022-12-17",
+            "stock": 87
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34719",
-            "price": 80,
+            "price": 30,
             "name": "レジドラゴ051/0",
-            "date": "2022-11-30",
-            "stock": 301
+            "date": "2022-12-17",
+            "stock": 269
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g051-067-S10P-B/",
-            "price": 66,
+            "price": 55,
             "name": "【ポケカ】Ｕ◇レジド",
-            "date": "2022-11-30",
+            "date": "2022-12-17",
             "stock": 82
         },
         {
             "market": "magi",
-            "link": "/items/799378376",
-            "price": 42,
-            "name": "レジドラゴ U 05",
-            "date": "2022-11-29",
-            "stock": 4
+            "link": "/items/552644464",
+            "price": 196,
+            "name": "レジドラゴ(U){ド",
+            "date": "2022-12-16",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/410088971",
             "price": 100,
             "name": "レジドラゴ U 05",
-            "date": "2022-11-29",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1418028792",
-            "price": 300,
-            "name": "レジドラゴ(U){ド",
-            "date": "2022-11-29",
+            "link": "/items/1716936999",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/552644464",
-            "price": 300,
-            "name": "レジドラゴ(U){ド",
-            "date": "2022-11-29",
+            "link": "/items/1554025629",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1009670148",
+            "price": 25,
+            "name": "1枚25円 s10P",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2004970086",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -517,79 +677,15 @@
             "link": "/items/1139215406",
             "price": 250,
             "name": "【レジ5種】レジアイ",
-            "date": "2022-11-29",
+            "date": "2022-12-16",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1009670148",
-            "price": 25,
-            "name": "1枚25円 s10P",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2004970086",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1554025629",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1283904857",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23048",
-            "price": 100,
-            "name": "レジドラゴ(U){ド",
-            "date": "2022-11-29",
-            "stock": 59
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34719",
-            "price": 80,
-            "name": "レジドラゴ051/0",
-            "date": "2022-11-29",
-            "stock": 303
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g051-067-S10P-B/",
-            "price": 66,
-            "name": "【ポケカ】Ｕ◇レジド",
-            "date": "2022-11-29",
-            "stock": 82
         },
         {
             "market": "magi",
             "link": "/items/1418028792",
-            "price": 300,
+            "price": 196,
             "name": "レジドラゴ(U){ド",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/410088971",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -597,47 +693,7 @@
             "link": "/items/1283904857",
             "price": 100,
             "name": "レジドラゴ U 05",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1009670148",
-            "price": 25,
-            "name": "1枚25円 s10P",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/552644464",
-            "price": 300,
-            "name": "レジドラゴ(U){ド",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1490074757",
-            "price": 250,
-            "name": "5種10枚！レジアイ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1554025629",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2004970086",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -645,7 +701,7 @@
             "link": "/items/799378376",
             "price": 42,
             "name": "レジドラゴ U 05",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 4
         },
         {
@@ -653,55 +709,31 @@
             "link": "https://www.hareruya2.com/product/23048",
             "price": 100,
             "name": "レジドラゴ(U){ド",
-            "date": "2022-11-28",
-            "stock": 59
+            "date": "2022-12-16",
+            "stock": 87
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34719",
-            "price": 80,
+            "price": 30,
             "name": "レジドラゴ051/0",
-            "date": "2022-11-28",
-            "stock": 303
+            "date": "2022-12-16",
+            "stock": 273
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g051-067-S10P-B/",
-            "price": 66,
+            "price": 55,
             "name": "【ポケカ】Ｕ◇レジド",
-            "date": "2022-11-28",
+            "date": "2022-12-16",
             "stock": 82
         },
         {
             "market": "magi",
-            "link": "/items/1490074757",
-            "price": 250,
-            "name": "5種10枚！レジアイ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/410088971",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/799378376",
-            "price": 42,
-            "name": "レジドラゴ U 05",
-            "date": "2022-11-27",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1554025629",
-            "price": 100,
-            "name": "レジドラゴ U 05",
-            "date": "2022-11-27",
+            "link": "/items/552644464",
+            "price": 196,
+            "name": "レジドラゴ(U){ド",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -709,15 +741,47 @@
             "link": "/items/1009670148",
             "price": 25,
             "name": "1枚25円 s10P",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/552644464",
-            "price": 300,
-            "name": "レジドラゴ(U){ド",
-            "date": "2022-11-27",
+            "link": "/items/799378376",
+            "price": 42,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/410088971",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1139215406",
+            "price": 250,
+            "name": "【レジ5種】レジアイ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1716936999",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1554025629",
+            "price": 100,
+            "name": "レジドラゴ U 05",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -725,15 +789,15 @@
             "link": "/items/2004970086",
             "price": 100,
             "name": "レジドラゴ U 05",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1418028792",
-            "price": 300,
+            "price": 196,
             "name": "レジドラゴ(U){ド",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -741,7 +805,7 @@
             "link": "/items/1283904857",
             "price": 100,
             "name": "レジドラゴ U 05",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -749,23 +813,23 @@
             "link": "https://www.hareruya2.com/product/23048",
             "price": 100,
             "name": "レジドラゴ(U){ド",
-            "date": "2022-11-27",
-            "stock": 57
+            "date": "2022-12-15",
+            "stock": 87
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34719",
-            "price": 80,
+            "price": 30,
             "name": "レジドラゴ051/0",
-            "date": "2022-11-27",
-            "stock": 306
+            "date": "2022-12-15",
+            "stock": 273
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g051-067-S10P-B/",
-            "price": 66,
+            "price": 55,
             "name": "【ポケカ】Ｕ◇レジド",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 82
         }
     ]

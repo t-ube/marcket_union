@@ -2,10 +2,50 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/201332776",
-            "price": 550,
+            "link": "/items/334978251",
+            "price": 40,
+            "name": "博士の研究 [オーキ",
+            "date": "2022-12-22",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/355470144",
+            "price": 120,
             "name": "博士の研究[オーキド",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1767087270",
+            "price": 190,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1728898153",
+            "price": 50,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2078118972",
+            "price": 37,
+            "name": "【4枚セット】博士の",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/389453755",
+            "price": 266,
+            "name": "博士の研究（オーキド",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,47 +53,15 @@
             "link": "/items/760187172",
             "price": 150,
             "name": "博士の研究[オーキド",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/389453755",
-            "price": 274,
-            "name": "博士の研究（オーキド",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2078118972",
-            "price": 37,
-            "name": "【4枚セット】博士の",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1728898153",
-            "price": 50,
+            "link": "/items/201332776",
+            "price": 550,
             "name": "博士の研究[オーキド",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1767087270",
-            "price": 190,
-            "name": "博士の研究[オーキド",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/355470144",
-            "price": 120,
-            "name": "博士の研究[オーキド",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -61,7 +69,7 @@
             "link": "/items/85078410",
             "price": 100,
             "name": "博士の研究[オーキド",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -69,79 +77,31 @@
             "link": "https://www.cardrush-pokemon.jp/product/22348",
             "price": 80,
             "name": "博士の研究オーキド博",
-            "date": "2022-12-04",
-            "stock": 919
+            "date": "2022-12-22",
+            "stock": 833
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22408",
             "price": 280,
             "name": "博士の研究オーキド博",
-            "date": "2022-12-04",
-            "stock": 32
+            "date": "2022-12-22",
+            "stock": 18
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32675",
             "price": 250,
             "name": "博士の研究オーキド博",
-            "date": "2022-12-04",
-            "stock": 1
+            "date": "2022-12-22",
+            "stock": 2
         },
         {
             "market": "magi",
             "link": "/items/760187172",
             "price": 150,
             "name": "博士の研究[オーキド",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/201332776",
-            "price": 550,
-            "name": "博士の研究[オーキド",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/389453755",
-            "price": 274,
-            "name": "博士の研究（オーキド",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/85078410",
-            "price": 100,
-            "name": "博士の研究[オーキド",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/355470144",
-            "price": 120,
-            "name": "博士の研究[オーキド",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1728898153",
-            "price": 50,
-            "name": "博士の研究[オーキド",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1767087270",
-            "price": 190,
-            "name": "博士の研究[オーキド",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -149,23 +109,63 @@
             "link": "/items/2078118972",
             "price": 37,
             "name": "【4枚セット】博士の",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 4
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22408",
-            "price": 280,
-            "name": "博士の研究オーキド博",
-            "date": "2022-12-03",
-            "stock": 32
+            "market": "magi",
+            "link": "/items/201332776",
+            "price": 550,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32675",
-            "price": 250,
-            "name": "博士の研究オーキド博",
-            "date": "2022-12-03",
+            "market": "magi",
+            "link": "/items/334978251",
+            "price": 40,
+            "name": "博士の研究 [オーキ",
+            "date": "2022-12-21",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1728898153",
+            "price": 50,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1767087270",
+            "price": 190,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/355470144",
+            "price": 120,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/85078410",
+            "price": 100,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/389453755",
+            "price": 266,
+            "name": "博士の研究（オーキド",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -173,119 +173,31 @@
             "link": "https://www.cardrush-pokemon.jp/product/22348",
             "price": 80,
             "name": "博士の研究オーキド博",
-            "date": "2022-12-03",
-            "stock": 921
-        },
-        {
-            "market": "magi",
-            "link": "/items/760187172",
-            "price": 150,
-            "name": "博士の研究[オーキド",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2078118972",
-            "price": 37,
-            "name": "【4枚セット】博士の",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/201332776",
-            "price": 550,
-            "name": "博士の研究[オーキド",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/85078410",
-            "price": 100,
-            "name": "博士の研究[オーキド",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/355470144",
-            "price": 120,
-            "name": "博士の研究[オーキド",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/389453755",
-            "price": 274,
-            "name": "博士の研究（オーキド",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1767087270",
-            "price": 190,
-            "name": "博士の研究[オーキド",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1728898153",
-            "price": 50,
-            "name": "博士の研究[オーキド",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32675",
-            "price": 250,
-            "name": "博士の研究オーキド博",
-            "date": "2022-12-02",
-            "stock": 1
+            "date": "2022-12-21",
+            "stock": 833
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22408",
             "price": 280,
             "name": "博士の研究オーキド博",
-            "date": "2022-12-02",
-            "stock": 32
+            "date": "2022-12-21",
+            "stock": 18
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22348",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/32675",
+            "price": 250,
             "name": "博士の研究オーキド博",
-            "date": "2022-12-02",
-            "stock": 931
-        },
-        {
-            "market": "magi",
-            "link": "/items/85078410",
-            "price": 100,
-            "name": "博士の研究[オーキド",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1728898153",
-            "price": 50,
-            "name": "博士の研究[オーキド",
-            "date": "2022-12-01",
-            "stock": 4
+            "date": "2022-12-21",
+            "stock": 2
         },
         {
             "market": "magi",
             "link": "/items/389453755",
-            "price": 274,
+            "price": 266,
             "name": "博士の研究（オーキド",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -293,7 +205,7 @@
             "link": "/items/1767087270",
             "price": 190,
             "name": "博士の研究[オーキド",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -301,23 +213,7 @@
             "link": "/items/760187172",
             "price": 150,
             "name": "博士の研究[オーキド",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/355470144",
-            "price": 120,
-            "name": "博士の研究[オーキド",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/201332776",
-            "price": 550,
-            "name": "博士の研究[オーキド",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -325,119 +221,39 @@
             "link": "/items/2078118972",
             "price": 37,
             "name": "【4枚セット】博士の",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22348",
-            "price": 80,
-            "name": "博士の研究オーキド博",
-            "date": "2022-12-01",
-            "stock": 931
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32675",
-            "price": 250,
-            "name": "博士の研究オーキド博",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22408",
-            "price": 280,
-            "name": "博士の研究オーキド博",
-            "date": "2022-12-01",
-            "stock": 32
         },
         {
             "market": "magi",
             "link": "/items/1728898153",
             "price": 50,
             "name": "博士の研究[オーキド",
-            "date": "2022-11-30",
+            "date": "2022-12-20",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/355470144",
-            "price": 120,
-            "name": "博士の研究[オーキド",
-            "date": "2022-11-30",
-            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/201332776",
             "price": 550,
             "name": "博士の研究[オーキド",
-            "date": "2022-11-30",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/389453755",
-            "price": 274,
-            "name": "博士の研究（オーキド",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1767087270",
-            "price": 190,
-            "name": "博士の研究[オーキド",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/760187172",
-            "price": 150,
-            "name": "博士の研究[オーキド",
-            "date": "2022-11-30",
-            "stock": 1
+            "link": "/items/334978251",
+            "price": 40,
+            "name": "博士の研究 [オーキ",
+            "date": "2022-12-20",
+            "stock": 3
         },
         {
             "market": "magi",
             "link": "/items/85078410",
             "price": 100,
             "name": "博士の研究[オーキド",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2078118972",
-            "price": 37,
-            "name": "【4枚セット】博士の",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22348",
-            "price": 80,
-            "name": "博士の研究オーキド博",
-            "date": "2022-11-30",
-            "stock": 931
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22408",
-            "price": 280,
-            "name": "博士の研究オーキド博",
-            "date": "2022-11-30",
-            "stock": 33
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32675",
-            "price": 250,
-            "name": "博士の研究オーキド博",
-            "date": "2022-11-30",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -445,71 +261,7 @@
             "link": "/items/355470144",
             "price": 120,
             "name": "博士の研究[オーキド",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1728898153",
-            "price": 50,
-            "name": "博士の研究[オーキド",
-            "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/389453755",
-            "price": 274,
-            "name": "博士の研究（オーキド",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1767087270",
-            "price": 190,
-            "name": "博士の研究[オーキド",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/760187172",
-            "price": 150,
-            "name": "博士の研究[オーキド",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/201332776",
-            "price": 550,
-            "name": "博士の研究[オーキド",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2078118972",
-            "price": 37,
-            "name": "【4枚セット】博士の",
-            "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/85078410",
-            "price": 100,
-            "name": "博士の研究[オーキド",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32675",
-            "price": 250,
-            "name": "博士の研究オーキド博",
-            "date": "2022-11-29",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -517,71 +269,39 @@
             "link": "https://www.cardrush-pokemon.jp/product/22348",
             "price": 80,
             "name": "博士の研究オーキド博",
-            "date": "2022-11-29",
-            "stock": 931
+            "date": "2022-12-20",
+            "stock": 833
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22408",
             "price": 280,
             "name": "博士の研究オーキド博",
-            "date": "2022-11-29",
-            "stock": 33
+            "date": "2022-12-20",
+            "stock": 18
         },
         {
-            "market": "magi",
-            "link": "/items/1767087270",
-            "price": 190,
-            "name": "博士の研究[オーキド",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1728898153",
-            "price": 50,
-            "name": "博士の研究[オーキド",
-            "date": "2022-11-28",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/201332776",
-            "price": 550,
-            "name": "博士の研究[オーキド",
-            "date": "2022-11-28",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32675",
+            "price": 250,
+            "name": "博士の研究オーキド博",
+            "date": "2022-12-20",
+            "stock": 2
         },
         {
             "market": "magi",
             "link": "/items/85078410",
             "price": 100,
             "name": "博士の研究[オーキド",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/355470144",
-            "price": 120,
+            "link": "/items/1767087270",
+            "price": 190,
             "name": "博士の研究[オーキド",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/389453755",
-            "price": 274,
-            "name": "博士の研究（オーキド",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/760187172",
-            "price": 150,
-            "name": "博士の研究[オーキド",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -589,79 +309,95 @@
             "link": "/items/2078118972",
             "price": 37,
             "name": "【4枚セット】博士の",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/355470144",
+            "price": 120,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/760187172",
+            "price": 150,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/201332776",
+            "price": 550,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/389453755",
+            "price": 266,
+            "name": "博士の研究（オーキド",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1728898153",
+            "price": 50,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/334978251",
+            "price": 40,
+            "name": "博士の研究 [オーキ",
+            "date": "2022-12-19",
+            "stock": 3
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32675",
             "price": 250,
             "name": "博士の研究オーキド博",
-            "date": "2022-11-28",
+            "date": "2022-12-19",
             "stock": 2
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22408",
-            "price": 280,
-            "name": "博士の研究オーキド博",
-            "date": "2022-11-28",
-            "stock": 33
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22348",
             "price": 80,
             "name": "博士の研究オーキド博",
-            "date": "2022-11-28",
-            "stock": 939
+            "date": "2022-12-19",
+            "stock": 841
         },
         {
-            "market": "magi",
-            "link": "/items/1767087270",
-            "price": 190,
-            "name": "博士の研究[オーキド",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1728898153",
-            "price": 50,
-            "name": "博士の研究[オーキド",
-            "date": "2022-11-27",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/2078118972",
-            "price": 37,
-            "name": "【4枚セット】博士の",
-            "date": "2022-11-27",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/201332776",
-            "price": 550,
-            "name": "博士の研究[オーキド",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/389453755",
-            "price": 274,
-            "name": "博士の研究（オーキド",
-            "date": "2022-11-27",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22408",
+            "price": 280,
+            "name": "博士の研究オーキド博",
+            "date": "2022-12-19",
+            "stock": 18
         },
         {
             "market": "magi",
             "link": "/items/355470144",
             "price": 120,
             "name": "博士の研究[オーキド",
-            "date": "2022-11-27",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1767087270",
+            "price": 190,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -669,7 +405,103 @@
             "link": "/items/760187172",
             "price": 150,
             "name": "博士の研究[オーキド",
-            "date": "2022-11-27",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/201332776",
+            "price": 550,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/389453755",
+            "price": 266,
+            "name": "博士の研究（オーキド",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2078118972",
+            "price": 37,
+            "name": "【4枚セット】博士の",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1728898153",
+            "price": 50,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/85078410",
+            "price": 100,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22348",
+            "price": 80,
+            "name": "博士の研究オーキド博",
+            "date": "2022-12-18",
+            "stock": 852
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22408",
+            "price": 280,
+            "name": "博士の研究オーキド博",
+            "date": "2022-12-18",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32675",
+            "price": 250,
+            "name": "博士の研究オーキド博",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/389453755",
+            "price": 266,
+            "name": "博士の研究（オーキド",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1728898153",
+            "price": 50,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/201332776",
+            "price": 550,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/760187172",
+            "price": 150,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -677,7 +509,127 @@
             "link": "/items/85078410",
             "price": 100,
             "name": "博士の研究[オーキド",
-            "date": "2022-11-27",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1767087270",
+            "price": 190,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/355470144",
+            "price": 120,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2078118972",
+            "price": 37,
+            "name": "【4枚セット】博士の",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32675",
+            "price": 250,
+            "name": "博士の研究オーキド博",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22348",
+            "price": 80,
+            "name": "博士の研究オーキド博",
+            "date": "2022-12-17",
+            "stock": 867
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22408",
+            "price": 280,
+            "name": "博士の研究オーキド博",
+            "date": "2022-12-17",
+            "stock": 18
+        },
+        {
+            "market": "magi",
+            "link": "/items/201332776",
+            "price": 550,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1728898153",
+            "price": 50,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/389453755",
+            "price": 266,
+            "name": "博士の研究（オーキド",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/85078410",
+            "price": 100,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/760187172",
+            "price": 150,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/551816925",
+            "price": 260,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2078118972",
+            "price": 37,
+            "name": "【4枚セット】博士の",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/355470144",
+            "price": 120,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1767087270",
+            "price": 190,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -685,24 +637,120 @@
             "link": "https://www.cardrush-pokemon.jp/product/22408",
             "price": 280,
             "name": "博士の研究オーキド博",
-            "date": "2022-11-27",
-            "stock": 16
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22348",
-            "price": 80,
-            "name": "博士の研究オーキド博",
-            "date": "2022-11-27",
-            "stock": 940
+            "date": "2022-12-16",
+            "stock": 18
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32675",
             "price": 250,
             "name": "博士の研究オーキド博",
-            "date": "2022-11-27",
+            "date": "2022-12-16",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22348",
+            "price": 80,
+            "name": "博士の研究オーキド博",
+            "date": "2022-12-16",
+            "stock": 872
+        },
+        {
+            "market": "magi",
+            "link": "/items/760187172",
+            "price": 150,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/551816925",
+            "price": 260,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/201332776",
+            "price": 550,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/389453755",
+            "price": 266,
+            "name": "博士の研究（オーキド",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/85078410",
+            "price": 100,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/355470144",
+            "price": 120,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2078118972",
+            "price": 37,
+            "name": "【4枚セット】博士の",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1728898153",
+            "price": 50,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1767087270",
+            "price": 190,
+            "name": "博士の研究[オーキド",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22408",
+            "price": 280,
+            "name": "博士の研究オーキド博",
+            "date": "2022-12-15",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32675",
+            "price": 250,
+            "name": "博士の研究オーキド博",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22348",
+            "price": 80,
+            "name": "博士の研究オーキド博",
+            "date": "2022-12-15",
+            "stock": 872
         }
     ]
 }

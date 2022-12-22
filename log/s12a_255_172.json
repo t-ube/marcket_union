@@ -2,10 +2,642 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1389079693",
-            "price": 370,
+            "link": "/items/1964062838",
+            "price": 450,
             "name": "基本超エネルギー S",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/329877557",
+            "price": 1500,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1504536448",
+            "price": 480,
+            "name": "基本超エネルギー(S",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/266904065",
+            "price": 500,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1453334502",
+            "price": 350,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1086265683",
+            "price": 300,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/358946186",
+            "price": 300,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1731694226",
+            "price": 580,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2015299927",
+            "price": 350,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26394",
+            "price": 480,
+            "name": "基本超エネルギー:S",
+            "date": "2022-12-22",
+            "stock": 46
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38702",
+            "price": 450,
+            "name": "基本超エネルギー25",
+            "date": "2022-12-22",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38916",
+            "price": 320,
+            "name": "基本超エネルギー25",
+            "date": "2022-12-22",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38435",
+            "price": 480,
+            "name": "基本超エネルギー25",
+            "date": "2022-12-22",
+            "stock": 214
+        },
+        {
+            "market": "magi",
+            "link": "/items/1548554497",
+            "price": 290,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1453334502",
+            "price": 350,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1086265683",
+            "price": 300,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/266904065",
+            "price": 500,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/329877557",
+            "price": 1500,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1504536448",
+            "price": 480,
+            "name": "基本超エネルギー(S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1731694226",
+            "price": 580,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/358946186",
+            "price": 300,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2015299927",
+            "price": 350,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26394",
+            "price": 480,
+            "name": "基本超エネルギー:S",
+            "date": "2022-12-21",
+            "stock": 46
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38916",
+            "price": 320,
+            "name": "基本超エネルギー25",
+            "date": "2022-12-21",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38702",
+            "price": 450,
+            "name": "基本超エネルギー25",
+            "date": "2022-12-21",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38435",
+            "price": 480,
+            "name": "基本超エネルギー25",
+            "date": "2022-12-21",
+            "stock": 196
+        },
+        {
+            "market": "magi",
+            "link": "/items/1504536448",
+            "price": 480,
+            "name": "基本超エネルギー(S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2015299927",
+            "price": 350,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1086265683",
+            "price": 400,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1453334502",
+            "price": 350,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1548554497",
+            "price": 350,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/358946186",
+            "price": 300,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/266904065",
+            "price": 500,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1731694226",
+            "price": 600,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/329877557",
+            "price": 1500,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26394",
+            "price": 480,
+            "name": "基本超エネルギー:S",
+            "date": "2022-12-20",
+            "stock": 46
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38702",
+            "price": 450,
+            "name": "基本超エネルギー25",
+            "date": "2022-12-20",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38916",
+            "price": 320,
+            "name": "基本超エネルギー25",
+            "date": "2022-12-20",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38435",
+            "price": 480,
+            "name": "基本超エネルギー25",
+            "date": "2022-12-20",
+            "stock": 165
+        },
+        {
+            "market": "magi",
+            "link": "/items/1548554497",
+            "price": 350,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/188795285",
+            "price": 1000,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1504536448",
+            "price": 480,
+            "name": "基本超エネルギー(S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1086265683",
+            "price": 400,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/358946186",
+            "price": 350,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1453334502",
+            "price": 350,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/329877557",
+            "price": 1500,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/266904065",
+            "price": 500,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2015299927",
+            "price": 350,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1731694226",
+            "price": 600,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26394",
+            "price": 500,
+            "name": "基本超エネルギー:S",
+            "date": "2022-12-19",
+            "stock": 46
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38435",
+            "price": 480,
+            "name": "基本超エネルギー25",
+            "date": "2022-12-19",
+            "stock": 178
+        },
+        {
+            "market": "magi",
+            "link": "/items/1548554497",
+            "price": 380,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/266904065",
+            "price": 500,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/188795285",
+            "price": 1000,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1086265683",
+            "price": 400,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2015299927",
+            "price": 350,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1731694226",
+            "price": 600,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/329877557",
+            "price": 1500,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/358946186",
+            "price": 350,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1504536448",
+            "price": 480,
+            "name": "基本超エネルギー(S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1453334502",
+            "price": 350,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26394",
+            "price": 600,
+            "name": "基本超エネルギー:S",
+            "date": "2022-12-18",
+            "stock": 49
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38435",
+            "price": 480,
+            "name": "基本超エネルギー25",
+            "date": "2022-12-18",
+            "stock": 131
+        },
+        {
+            "market": "magi",
+            "link": "/items/266904065",
+            "price": 500,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1086265683",
+            "price": 400,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1453334502",
+            "price": 350,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/329877557",
+            "price": 1500,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/188795285",
+            "price": 1000,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26394",
+            "price": 600,
+            "name": "基本超エネルギー:S",
+            "date": "2022-12-17",
+            "stock": 49
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38702",
+            "price": 450,
+            "name": "基本超エネルギー25",
+            "date": "2022-12-17",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38435",
+            "price": 480,
+            "name": "基本超エネルギー25",
+            "date": "2022-12-17",
+            "stock": 162
+        },
+        {
+            "market": "magi",
+            "link": "/items/1453334502",
+            "price": 350,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/188795285",
+            "price": 1000,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1086265683",
+            "price": 400,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/266904065",
+            "price": 500,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/329877557",
+            "price": 1500,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26394",
+            "price": 600,
+            "name": "基本超エネルギー:S",
+            "date": "2022-12-16",
+            "stock": 49
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38435",
+            "price": 480,
+            "name": "基本超エネルギー25",
+            "date": "2022-12-16",
+            "stock": 148
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38702",
+            "price": 450,
+            "name": "基本超エネルギー25",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/460525427",
+            "price": 300,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -13,88 +645,64 @@
             "link": "/items/188795285",
             "price": 1300,
             "name": "基本超エネルギー S",
-            "date": "2022-12-04",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/329877557",
+            "price": 1560,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/266904065",
+            "price": 500,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1086265683",
+            "price": 400,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1453334502",
+            "price": 350,
+            "name": "基本超エネルギー S",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26394",
-            "price": 500,
+            "price": 600,
             "name": "基本超エネルギー:S",
-            "date": "2022-12-04",
-            "stock": 38
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38435",
-            "price": 580,
-            "name": "基本超エネルギー25",
-            "date": "2022-12-04",
-            "stock": 181
+            "date": "2022-12-15",
+            "stock": 49
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38702",
-            "price": 530,
+            "price": 450,
             "name": "基本超エネルギー25",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/188795285",
-            "price": 1300,
-            "name": "基本超エネルギー S",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26394",
-            "price": 500,
-            "name": "基本超エネルギー:S",
-            "date": "2022-12-03",
-            "stock": 39
+            "date": "2022-12-15",
+            "stock": 4
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38435",
-            "price": 580,
+            "price": 480,
             "name": "基本超エネルギー25",
-            "date": "2022-12-03",
-            "stock": 111
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38702",
-            "price": 530,
-            "name": "基本超エネルギー25",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/332290145",
-            "price": 500,
-            "name": "基本超エネルギー S",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/188795285",
-            "price": 1400,
-            "name": "基本超エネルギー S",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26394",
-            "price": 500,
-            "name": "基本超エネルギー:S",
-            "date": "2022-12-02",
-            "stock": 1
+            "date": "2022-12-15",
+            "stock": 144
         }
     ]
 }

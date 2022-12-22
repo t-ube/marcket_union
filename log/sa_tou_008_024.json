@@ -1,11 +1,19 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17240",
+            "price": 50,
+            "name": "スナヘビ(D){闘}",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g008-024-SA-BRM/",
             "price": 33,
             "name": "【ポケカ】ＳＳ）ミラ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 5
         },
         {
@@ -13,7 +21,23 @@
             "link": "/shop/g/g008-024-SA-BR/",
             "price": 44,
             "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 12
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17240",
+            "price": 50,
+            "name": "スナヘビ(D){闘}",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g008-024-SA-BR/",
+            "price": 44,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2022-12-21",
             "stock": 12
         },
         {
@@ -21,7 +45,23 @@
             "link": "/shop/g/g008-024-SA-BRM/",
             "price": 33,
             "name": "【ポケカ】ＳＳ）ミラ",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 5
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17240",
+            "price": 50,
+            "name": "スナヘビ(D){闘}",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g008-024-SA-BRM/",
+            "price": 33,
+            "name": "【ポケカ】ＳＳ）ミラ",
+            "date": "2022-12-20",
             "stock": 5
         },
         {
@@ -29,15 +69,47 @@
             "link": "/shop/g/g008-024-SA-BR/",
             "price": 44,
             "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 12
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17240",
+            "price": 50,
+            "name": "スナヘビ(D){闘}",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g008-024-SA-BRM/",
+            "price": 33,
+            "name": "【ポケカ】ＳＳ）ミラ",
+            "date": "2022-12-19",
+            "stock": 5
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g008-024-SA-BR/",
             "price": 44,
             "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-12-02",
+            "date": "2022-12-19",
+            "stock": 12
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17240",
+            "price": 50,
+            "name": "スナヘビ(D){闘}",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g008-024-SA-BR/",
+            "price": 44,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2022-12-18",
             "stock": 12
         },
         {
@@ -45,55 +117,7 @@
             "link": "/shop/g/g008-024-SA-BRM/",
             "price": 33,
             "name": "【ポケカ】ＳＳ）ミラ",
-            "date": "2022-12-02",
-            "stock": 5
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g008-024-SA-BR/",
-            "price": 44,
-            "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-12-01",
-            "stock": 12
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g008-024-SA-BRM/",
-            "price": 33,
-            "name": "【ポケカ】ＳＳ）ミラ",
-            "date": "2022-12-01",
-            "stock": 5
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g008-024-SA-BR/",
-            "price": 44,
-            "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-11-30",
-            "stock": 12
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g008-024-SA-BRM/",
-            "price": 33,
-            "name": "【ポケカ】ＳＳ）ミラ",
-            "date": "2022-11-30",
-            "stock": 5
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g008-024-SA-BR/",
-            "price": 44,
-            "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-11-29",
-            "stock": 12
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g008-024-SA-BRM/",
-            "price": 33,
-            "name": "【ポケカ】ＳＳ）ミラ",
-            "date": "2022-11-29",
+            "date": "2022-12-18",
             "stock": 5
         },
         {
@@ -101,7 +125,7 @@
             "link": "/shop/g/g008-024-SA-BRM/",
             "price": 33,
             "name": "【ポケカ】ＳＳ）ミラ",
-            "date": "2022-11-28",
+            "date": "2022-12-17",
             "stock": 5
         },
         {
@@ -109,7 +133,7 @@
             "link": "/shop/g/g008-024-SA-BR/",
             "price": 44,
             "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-11-28",
+            "date": "2022-12-17",
             "stock": 12
         },
         {
@@ -117,7 +141,7 @@
             "link": "/shop/g/g008-024-SA-BRM/",
             "price": 33,
             "name": "【ポケカ】ＳＳ）ミラ",
-            "date": "2022-11-27",
+            "date": "2022-12-16",
             "stock": 5
         },
         {
@@ -125,8 +149,24 @@
             "link": "/shop/g/g008-024-SA-BR/",
             "price": 44,
             "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-11-27",
+            "date": "2022-12-16",
             "stock": 12
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g008-024-SA-BR/",
+            "price": 44,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2022-12-15",
+            "stock": 12
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g008-024-SA-BRM/",
+            "price": 33,
+            "name": "【ポケカ】ＳＳ）ミラ",
+            "date": "2022-12-15",
+            "stock": 5
         }
     ]
 }

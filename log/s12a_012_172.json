@@ -2,42 +2,66 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/371309286",
-            "price": 400,
-            "name": "リーフィアVSTAR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/938850841",
             "price": 190,
             "name": "リーフィアVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/103633307",
-            "price": 500,
+            "price": 300,
             "name": "リーフィアVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1628458597",
-            "price": 300,
+            "price": 250,
             "name": "リーフィアVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1288858500",
+            "link": "/items/2039948786",
+            "price": 777,
+            "name": "【特価】リーフィアV",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/920848788",
+            "price": 87,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2117622439",
+            "price": 350,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/506385398",
             "price": 250,
             "name": "リーフィアVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/963351610",
+            "price": 350,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -45,7 +69,7 @@
             "link": "/items/537283146",
             "price": 280,
             "name": "リーフィアVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -53,55 +77,87 @@
             "link": "https://www.hareruya2.com/product/26035",
             "price": 100,
             "name": "リーフィアVSTAR",
-            "date": "2022-12-04",
-            "stock": 31
+            "date": "2022-12-22",
+            "stock": 20
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38096",
             "price": 80,
             "name": "リーフィアVSTAR",
-            "date": "2022-12-04",
-            "stock": 242
+            "date": "2022-12-22",
+            "stock": 485
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38445",
+            "price": 70,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-22",
+            "stock": 3
         },
         {
             "market": "magi",
-            "link": "/items/103633307",
-            "price": 500,
+            "link": "/items/506385398",
+            "price": 250,
             "name": "リーフィアVSTAR",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/920848788",
+            "price": 87,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2117622439",
+            "price": 350,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/938850841",
+            "price": 190,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1628458597",
+            "price": 250,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/537283146",
+            "price": 280,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/103633307",
             "price": 300,
             "name": "リーフィアVSTAR",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/938850841",
-            "price": 190,
+            "link": "/items/963351610",
+            "price": 350,
             "name": "リーフィアVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/371309286",
-            "price": 400,
-            "name": "リーフィアVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1288858500",
-            "price": 400,
-            "name": "リーフィアVSTAR",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -109,39 +165,79 @@
             "link": "https://www.hareruya2.com/product/26035",
             "price": 100,
             "name": "リーフィアVSTAR",
-            "date": "2022-12-03",
-            "stock": 38
+            "date": "2022-12-21",
+            "stock": 21
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38096",
             "price": 80,
             "name": "リーフィアVSTAR",
-            "date": "2022-12-03",
-            "stock": 104
-        },
-        {
-            "market": "magi",
-            "link": "/items/1288858500",
-            "price": 400,
-            "name": "リーフィアVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/371309286",
-            "price": 400,
-            "name": "リーフィアVSTAR",
-            "date": "2022-12-02",
-            "stock": 1
+            "date": "2022-12-21",
+            "stock": 454
         },
         {
             "market": "magi",
             "link": "/items/938850841",
             "price": 190,
             "name": "リーフィアVSTAR",
-            "date": "2022-12-02",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1628458597",
+            "price": 250,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/920848788",
+            "price": 87,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2117622439",
+            "price": 350,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/537283146",
+            "price": 280,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/963351610",
+            "price": 350,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/506385398",
+            "price": 250,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/103633307",
+            "price": 300,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -149,16 +245,416 @@
             "link": "https://www.hareruya2.com/product/26035",
             "price": 100,
             "name": "リーフィアVSTAR",
-            "date": "2022-12-02",
-            "stock": 39
+            "date": "2022-12-20",
+            "stock": 22
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38096",
             "price": 80,
             "name": "リーフィアVSTAR",
-            "date": "2022-12-02",
-            "stock": 88
+            "date": "2022-12-20",
+            "stock": 411
+        },
+        {
+            "market": "magi",
+            "link": "/items/938850841",
+            "price": 190,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/920848788",
+            "price": 87,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2117622439",
+            "price": 350,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/506385398",
+            "price": 250,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/537283146",
+            "price": 280,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/103633307",
+            "price": 300,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1628458597",
+            "price": 250,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/963351610",
+            "price": 350,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26035",
+            "price": 100,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-19",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38096",
+            "price": 80,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-19",
+            "stock": 445
+        },
+        {
+            "market": "magi",
+            "link": "/items/938850841",
+            "price": 190,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2117622439",
+            "price": 350,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/963351610",
+            "price": 350,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1628458597",
+            "price": 250,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/506385398",
+            "price": 250,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/103633307",
+            "price": 300,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/537283146",
+            "price": 280,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/920848788",
+            "price": 87,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26035",
+            "price": 100,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-18",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38096",
+            "price": 80,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-18",
+            "stock": 461
+        },
+        {
+            "market": "magi",
+            "link": "/items/537283146",
+            "price": 280,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/103633307",
+            "price": 300,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/506385398",
+            "price": 250,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/938850841",
+            "price": 190,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/963351610",
+            "price": 350,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1628458597",
+            "price": 250,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/920848788",
+            "price": 87,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2117622439",
+            "price": 350,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26035",
+            "price": 100,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-17",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38096",
+            "price": 80,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-17",
+            "stock": 474
+        },
+        {
+            "market": "magi",
+            "link": "/items/938850841",
+            "price": 190,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/920848788",
+            "price": 100,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/506385398",
+            "price": 250,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1628458597",
+            "price": 250,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/537283146",
+            "price": 280,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/963351610",
+            "price": 350,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2117622439",
+            "price": 350,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/103633307",
+            "price": 300,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26035",
+            "price": 100,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-16",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38096",
+            "price": 80,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-16",
+            "stock": 467
+        },
+        {
+            "market": "magi",
+            "link": "/items/537283146",
+            "price": 280,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1628458597",
+            "price": 250,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/920848788",
+            "price": 100,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/938850841",
+            "price": 190,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/506385398",
+            "price": 250,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/963351610",
+            "price": 350,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2117622439",
+            "price": 350,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/103633307",
+            "price": 300,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26035",
+            "price": 100,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-15",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38096",
+            "price": 80,
+            "name": "リーフィアVSTAR",
+            "date": "2022-12-15",
+            "stock": 406
         }
     ]
 }

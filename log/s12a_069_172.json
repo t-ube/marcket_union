@@ -1,100 +1,268 @@
 ﻿{
     "items": [
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26225",
-            "price": 100,
-            "name": "ヒスイガーディ:ミラ",
-            "date": "2022-12-04",
-            "stock": 20
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26092",
-            "price": 50,
-            "name": "ヒスイガーディ(CP",
-            "date": "2022-12-04",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38286",
-            "price": 50,
-            "name": "ヒスイガーディ069",
-            "date": "2022-12-04",
-            "stock": 84
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38153",
-            "price": 30,
-            "name": "ヒスイガーディ069",
-            "date": "2022-12-04",
-            "stock": 157
+            "market": "magi",
+            "link": "/items/870892924",
+            "price": 20,
+            "name": "ヒスイガーディ 06",
+            "date": "2022-12-22",
+            "stock": 5
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26225",
             "price": 100,
             "name": "ヒスイガーディ:ミラ",
-            "date": "2022-12-03",
-            "stock": 20
+            "date": "2022-12-22",
+            "stock": 19
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26092",
             "price": 50,
             "name": "ヒスイガーディ(CP",
-            "date": "2022-12-03",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38153",
-            "price": 30,
-            "name": "ヒスイガーディ069",
-            "date": "2022-12-03",
-            "stock": 157
+            "date": "2022-12-22",
+            "stock": 39
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38286",
             "price": 50,
             "name": "ヒスイガーディ069",
-            "date": "2022-12-03",
-            "stock": 75
+            "date": "2022-12-22",
+            "stock": 86
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38153",
+            "price": 30,
+            "name": "ヒスイガーディ069",
+            "date": "2022-12-22",
+            "stock": 215
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26225",
             "price": 100,
             "name": "ヒスイガーディ:ミラ",
-            "date": "2022-12-02",
-            "stock": 20
+            "date": "2022-12-21",
+            "stock": 19
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26092",
             "price": 50,
             "name": "ヒスイガーディ(CP",
-            "date": "2022-12-02",
-            "stock": 40
+            "date": "2022-12-21",
+            "stock": 39
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38286",
             "price": 50,
             "name": "ヒスイガーディ069",
-            "date": "2022-12-02",
-            "stock": 76
+            "date": "2022-12-21",
+            "stock": 86
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38153",
             "price": 30,
             "name": "ヒスイガーディ069",
-            "date": "2022-12-02",
-            "stock": 157
+            "date": "2022-12-21",
+            "stock": 215
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26092",
+            "price": 50,
+            "name": "ヒスイガーディ(CP",
+            "date": "2022-12-20",
+            "stock": 39
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26225",
+            "price": 100,
+            "name": "ヒスイガーディ:ミラ",
+            "date": "2022-12-20",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38153",
+            "price": 30,
+            "name": "ヒスイガーディ069",
+            "date": "2022-12-20",
+            "stock": 156
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38286",
+            "price": 50,
+            "name": "ヒスイガーディ069",
+            "date": "2022-12-20",
+            "stock": 88
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26225",
+            "price": 100,
+            "name": "ヒスイガーディ:ミラ",
+            "date": "2022-12-19",
+            "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26092",
+            "price": 50,
+            "name": "ヒスイガーディ(CP",
+            "date": "2022-12-19",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38286",
+            "price": 50,
+            "name": "ヒスイガーディ069",
+            "date": "2022-12-19",
+            "stock": 89
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38153",
+            "price": 30,
+            "name": "ヒスイガーディ069",
+            "date": "2022-12-19",
+            "stock": 156
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26225",
+            "price": 100,
+            "name": "ヒスイガーディ:ミラ",
+            "date": "2022-12-18",
+            "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26092",
+            "price": 50,
+            "name": "ヒスイガーディ(CP",
+            "date": "2022-12-18",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38153",
+            "price": 30,
+            "name": "ヒスイガーディ069",
+            "date": "2022-12-18",
+            "stock": 156
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38286",
+            "price": 50,
+            "name": "ヒスイガーディ069",
+            "date": "2022-12-18",
+            "stock": 91
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26225",
+            "price": 100,
+            "name": "ヒスイガーディ:ミラ",
+            "date": "2022-12-17",
+            "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26092",
+            "price": 50,
+            "name": "ヒスイガーディ(CP",
+            "date": "2022-12-17",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38153",
+            "price": 30,
+            "name": "ヒスイガーディ069",
+            "date": "2022-12-17",
+            "stock": 156
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38286",
+            "price": 50,
+            "name": "ヒスイガーディ069",
+            "date": "2022-12-17",
+            "stock": 94
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26092",
+            "price": 50,
+            "name": "ヒスイガーディ(CP",
+            "date": "2022-12-16",
+            "stock": 39
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26225",
+            "price": 100,
+            "name": "ヒスイガーディ:ミラ",
+            "date": "2022-12-16",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38286",
+            "price": 50,
+            "name": "ヒスイガーディ069",
+            "date": "2022-12-16",
+            "stock": 94
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38153",
+            "price": 30,
+            "name": "ヒスイガーディ069",
+            "date": "2022-12-16",
+            "stock": 156
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26225",
+            "price": 100,
+            "name": "ヒスイガーディ:ミラ",
+            "date": "2022-12-15",
+            "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26092",
+            "price": 50,
+            "name": "ヒスイガーディ(CP",
+            "date": "2022-12-15",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38153",
+            "price": 30,
+            "name": "ヒスイガーディ069",
+            "date": "2022-12-15",
+            "stock": 156
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38286",
+            "price": 50,
+            "name": "ヒスイガーディ069",
+            "date": "2022-12-15",
+            "stock": 95
         }
     ]
 }

@@ -2,18 +2,26 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/479081243",
+            "link": "/items/607882250",
             "price": 250,
             "name": "ゼラオラVMAX R",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/607882250",
+            "link": "/items/1491813753",
             "price": 250,
+            "name": "プレゼント付き　ゼラ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1395418156",
+            "price": 300,
             "name": "ゼラオラVMAX R",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -21,7 +29,55 @@
             "link": "/items/444189638",
             "price": 250,
             "name": "ゼラオラVMAX R",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1952619545",
+            "price": 1000,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/929636921",
+            "price": 91,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-22",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/130006936",
+            "price": 320,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/845350898",
+            "price": 200,
+            "name": "ゼラオラVMAX(R",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2081669541",
+            "price": 400,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/721453611",
+            "price": 150,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -29,7 +85,391 @@
             "link": "/items/1526229814",
             "price": 250,
             "name": "ゼラオラVMAX R",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26064",
+            "price": 100,
+            "name": "ゼラオラVMAX(R",
+            "date": "2022-12-22",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38125",
+            "price": 80,
+            "name": "ゼラオラVMAX04",
+            "date": "2022-12-22",
+            "stock": 356
+        },
+        {
+            "market": "magi",
+            "link": "/items/1395418156",
+            "price": 300,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/607882250",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/444189638",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/130006936",
+            "price": 320,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1526229814",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2081669541",
+            "price": 400,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/929636921",
+            "price": 91,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-21",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/721453611",
+            "price": 150,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/845350898",
+            "price": 200,
+            "name": "ゼラオラVMAX(R",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1491813753",
+            "price": 250,
+            "name": "プレゼント付き　ゼラ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1952619545",
+            "price": 1000,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26064",
+            "price": 100,
+            "name": "ゼラオラVMAX(R",
+            "date": "2022-12-21",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38125",
+            "price": 80,
+            "name": "ゼラオラVMAX04",
+            "date": "2022-12-21",
+            "stock": 372
+        },
+        {
+            "market": "magi",
+            "link": "/items/2081669541",
+            "price": 400,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/929636921",
+            "price": 91,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-20",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/1491813753",
+            "price": 250,
+            "name": "プレゼント付き　ゼラ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/845350898",
+            "price": 200,
+            "name": "ゼラオラVMAX(R",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/607882250",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/444189638",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1952619545",
+            "price": 1000,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/721453611",
+            "price": 150,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1395418156",
+            "price": 300,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1526229814",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/130006936",
+            "price": 320,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26064",
+            "price": 100,
+            "name": "ゼラオラVMAX(R",
+            "date": "2022-12-20",
+            "stock": 26
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38125",
+            "price": 80,
+            "name": "ゼラオラVMAX04",
+            "date": "2022-12-20",
+            "stock": 380
+        },
+        {
+            "market": "magi",
+            "link": "/items/444189638",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1526229814",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1395418156",
+            "price": 300,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/607882250",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2081669541",
+            "price": 400,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/130006936",
+            "price": 320,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1952619545",
+            "price": 1000,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1491813753",
+            "price": 250,
+            "name": "プレゼント付き　ゼラ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/929636921",
+            "price": 91,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-19",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/721453611",
+            "price": 150,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/845350898",
+            "price": 200,
+            "name": "ゼラオラVMAX(R",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26064",
+            "price": 100,
+            "name": "ゼラオラVMAX(R",
+            "date": "2022-12-19",
+            "stock": 26
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38125",
+            "price": 80,
+            "name": "ゼラオラVMAX04",
+            "date": "2022-12-19",
+            "stock": 380
+        },
+        {
+            "market": "magi",
+            "link": "/items/1526229814",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1952619545",
+            "price": 1000,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/929636921",
+            "price": 91,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-18",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/845350898",
+            "price": 200,
+            "name": "ゼラオラVMAX(R",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2081669541",
+            "price": 400,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1491813753",
+            "price": 250,
+            "name": "プレゼント付き　ゼラ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/130006936",
+            "price": 330,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -37,103 +477,31 @@
             "link": "/items/1395418156",
             "price": 333,
             "name": "ゼラオラVMAX R",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26064",
-            "price": 100,
-            "name": "ゼラオラVMAX(R",
-            "date": "2022-12-04",
-            "stock": 35
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38125",
-            "price": 80,
-            "name": "ゼラオラVMAX04",
-            "date": "2022-12-04",
-            "stock": 309
-        },
-        {
-            "market": "magi",
-            "link": "/items/607882250",
-            "price": 300,
-            "name": "ゼラオラVMAX R",
-            "date": "2022-12-03",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/444189638",
-            "price": 300,
+            "price": 250,
             "name": "ゼラオラVMAX R",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1526229814",
-            "price": 300,
-            "name": "ゼラオラVMAX R",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/479081243",
-            "price": 300,
-            "name": "ゼラオラVMAX R",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26064",
-            "price": 100,
-            "name": "ゼラオラVMAX(R",
-            "date": "2022-12-03",
-            "stock": 35
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38125",
-            "price": 80,
-            "name": "ゼラオラVMAX04",
-            "date": "2022-12-03",
-            "stock": 138
-        },
-        {
-            "market": "magi",
-            "link": "/items/479081243",
-            "price": 300,
-            "name": "ゼラオラVMAX R",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1526229814",
-            "price": 300,
-            "name": "ゼラオラVMAX R",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/444189638",
-            "price": 300,
-            "name": "ゼラオラVMAX R",
-            "date": "2022-12-02",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/607882250",
-            "price": 300,
+            "price": 250,
             "name": "ゼラオラVMAX R",
-            "date": "2022-12-02",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/721453611",
+            "price": 150,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -141,16 +509,304 @@
             "link": "https://www.hareruya2.com/product/26064",
             "price": 100,
             "name": "ゼラオラVMAX(R",
-            "date": "2022-12-02",
-            "stock": 35
+            "date": "2022-12-18",
+            "stock": 27
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38125",
             "price": 80,
             "name": "ゼラオラVMAX04",
-            "date": "2022-12-02",
-            "stock": 96
+            "date": "2022-12-18",
+            "stock": 439
+        },
+        {
+            "market": "magi",
+            "link": "/items/721453611",
+            "price": 150,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1491813753",
+            "price": 250,
+            "name": "プレゼント付き　ゼラ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/929636921",
+            "price": 91,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-17",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/1952619545",
+            "price": 1000,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/607882250",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1395418156",
+            "price": 333,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/444189638",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1526229814",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2081669541",
+            "price": 400,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/845350898",
+            "price": 200,
+            "name": "ゼラオラVMAX(R",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26064",
+            "price": 100,
+            "name": "ゼラオラVMAX(R",
+            "date": "2022-12-17",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38125",
+            "price": 80,
+            "name": "ゼラオラVMAX04",
+            "date": "2022-12-17",
+            "stock": 442
+        },
+        {
+            "market": "magi",
+            "link": "/items/1952619545",
+            "price": 1000,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/444189638",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1491813753",
+            "price": 250,
+            "name": "プレゼント付き　ゼラ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2081669541",
+            "price": 500,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/929636921",
+            "price": 91,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-16",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/721453611",
+            "price": 150,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1395418156",
+            "price": 333,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1526229814",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/607882250",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/845350898",
+            "price": 200,
+            "name": "ゼラオラVMAX(R",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26064",
+            "price": 100,
+            "name": "ゼラオラVMAX(R",
+            "date": "2022-12-16",
+            "stock": 30
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38125",
+            "price": 80,
+            "name": "ゼラオラVMAX04",
+            "date": "2022-12-16",
+            "stock": 445
+        },
+        {
+            "market": "magi",
+            "link": "/items/1491813753",
+            "price": 250,
+            "name": "プレゼント付き　ゼラ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/845350898",
+            "price": 200,
+            "name": "ゼラオラVMAX(R",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1952619545",
+            "price": 1000,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/607882250",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/929636921",
+            "price": 91,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-15",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/721453611",
+            "price": 150,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1526229814",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/444189638",
+            "price": 250,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2081669541",
+            "price": 500,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1395418156",
+            "price": 333,
+            "name": "ゼラオラVMAX R",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26064",
+            "price": 100,
+            "name": "ゼラオラVMAX(R",
+            "date": "2022-12-15",
+            "stock": 30
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38125",
+            "price": 80,
+            "name": "ゼラオラVMAX04",
+            "date": "2022-12-15",
+            "stock": 451
         }
     ]
 }

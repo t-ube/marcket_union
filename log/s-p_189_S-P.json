@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1153273343",
-            "price": 25000,
-            "name": "エーフィVMAX 1",
-            "date": "2022-12-04",
+            "link": "/items/1904971811",
+            "price": 39800,
+            "name": "ポケカ【極美品】エー",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/675042179",
+            "price": 27090,
+            "name": "エーフィVMAX(S",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,15 +21,71 @@
             "link": "/items/1181980166",
             "price": 80000,
             "name": "PSA10 エーフィ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/675042179",
-            "price": 29190,
-            "name": "エーフィVMAX(S",
-            "date": "2022-12-04",
+            "link": "/items/1629450738",
+            "price": 62790,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1931055647",
+            "price": 21000,
+            "name": "エーフィVMAX プ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19955",
+            "price": 27000,
+            "name": "エーフィVMAX(-",
+            "date": "2022-12-22",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21155",
+            "price": 29000,
+            "name": "【未開封プロモ】 エ",
+            "date": "2022-12-22",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20733",
+            "price": 27800,
+            "name": "エーフィVMAX18",
+            "date": "2022-12-22",
+            "stock": 55
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35566",
+            "price": 59800,
+            "name": "エーフィVMAX18",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20732",
+            "price": 25800,
+            "name": "エーフィVMAX18",
+            "date": "2022-12-22",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/1181980166",
+            "price": 80000,
+            "name": "PSA10 エーフィ",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -29,63 +93,271 @@
             "link": "/items/1904971811",
             "price": 39800,
             "name": "ポケカ【極美品】エー",
-            "date": "2022-12-04",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19955",
-            "price": 28000,
-            "name": "エーフィVMAX(-",
-            "date": "2022-12-04",
-            "stock": 3
+            "market": "magi",
+            "link": "/items/1629450738",
+            "price": 62790,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/675042179",
+            "price": 27090,
+            "name": "エーフィVMAX(S",
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21155",
             "price": 29000,
             "name": "【未開封プロモ】 エ",
-            "date": "2022-12-04",
-            "stock": 12
+            "date": "2022-12-21",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19955",
+            "price": 27000,
+            "name": "エーフィVMAX(-",
+            "date": "2022-12-21",
+            "stock": 2
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20732",
+            "price": 25800,
+            "name": "エーフィVMAX18",
+            "date": "2022-12-21",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20733",
             "price": 27800,
             "name": "エーフィVMAX18",
-            "date": "2022-12-04",
+            "date": "2022-12-21",
+            "stock": 56
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35566",
+            "price": 59800,
+            "name": "エーフィVMAX18",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1904971811",
+            "price": 39800,
+            "name": "ポケカ【極美品】エー",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/675042179",
+            "price": 27090,
+            "name": "エーフィVMAX(S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1181980166",
+            "price": 80000,
+            "name": "PSA10 エーフィ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1629450738",
+            "price": 62790,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19955",
+            "price": 27000,
+            "name": "エーフィVMAX(-",
+            "date": "2022-12-20",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20733",
+            "price": 27800,
+            "name": "エーフィVMAX18",
+            "date": "2022-12-20",
+            "stock": 56
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20732",
+            "price": 25800,
+            "name": "エーフィVMAX18",
+            "date": "2022-12-20",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35566",
+            "price": 59800,
+            "name": "エーフィVMAX18",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1181980166",
+            "price": 80000,
+            "name": "PSA10 エーフィ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/675042179",
+            "price": 27090,
+            "name": "エーフィVMAX(S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1904971811",
+            "price": 39800,
+            "name": "ポケカ【極美品】エー",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1629450738",
+            "price": 62790,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19955",
+            "price": 27000,
+            "name": "エーフィVMAX(-",
+            "date": "2022-12-19",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21155",
+            "price": 29000,
+            "name": "【未開封プロモ】 エ",
+            "date": "2022-12-19",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35566",
+            "price": 59800,
+            "name": "エーフィVMAX18",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20733",
+            "price": 27800,
+            "name": "エーフィVMAX18",
+            "date": "2022-12-19",
+            "stock": 55
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20732",
+            "price": 25800,
+            "name": "エーフィVMAX18",
+            "date": "2022-12-19",
+            "stock": 7
+        },
+        {
+            "market": "magi",
+            "link": "/items/1181980166",
+            "price": 80000,
+            "name": "PSA10 エーフィ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/675042179",
+            "price": 27090,
+            "name": "エーフィVMAX(S",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1629450738",
+            "price": 62790,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1904971811",
+            "price": 39800,
+            "name": "ポケカ【極美品】エー",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21155",
+            "price": 29000,
+            "name": "【未開封プロモ】 エ",
+            "date": "2022-12-18",
+            "stock": 16
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19955",
+            "price": 27000,
+            "name": "エーフィVMAX(-",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20732",
+            "price": 25800,
+            "name": "エーフィVMAX18",
+            "date": "2022-12-18",
             "stock": 7
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20733",
-            "price": 29800,
+            "price": 27800,
             "name": "エーフィVMAX18",
-            "date": "2022-12-04",
-            "stock": 52
+            "date": "2022-12-18",
+            "stock": 54
         },
         {
-            "market": "magi",
-            "link": "/items/1181980166",
-            "price": 80000,
-            "name": "PSA10 エーフィ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/134595790",
-            "price": 62790,
-            "name": "〔PSA10鑑定済〕",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1153273343",
-            "price": 25000,
-            "name": "エーフィVMAX 1",
-            "date": "2022-12-03",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35566",
+            "price": 59800,
+            "name": "エーフィVMAX18",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -93,15 +365,31 @@
             "link": "/items/1904971811",
             "price": 39800,
             "name": "ポケカ【極美品】エー",
-            "date": "2022-12-03",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/675042179",
-            "price": 29190,
+            "price": 27090,
             "name": "エーフィVMAX(S",
-            "date": "2022-12-03",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1181980166",
+            "price": 80000,
+            "name": "PSA10 エーフィ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1629450738",
+            "price": 62790,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -109,79 +397,47 @@
             "link": "https://www.hareruya2.com/product/21155",
             "price": 29000,
             "name": "【未開封プロモ】 エ",
-            "date": "2022-12-03",
-            "stock": 12
+            "date": "2022-12-17",
+            "stock": 16
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19955",
-            "price": 28000,
+            "price": 27000,
             "name": "エーフィVMAX(-",
-            "date": "2022-12-03",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32042",
-            "price": 24800,
-            "name": "エーフィVMAX18",
-            "date": "2022-12-03",
-            "stock": 1
+            "date": "2022-12-17",
+            "stock": 2
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35566",
             "price": 59800,
             "name": "エーフィVMAX18",
-            "date": "2022-12-03",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20732",
-            "price": 27800,
+            "price": 25800,
             "name": "エーフィVMAX18",
-            "date": "2022-12-03",
+            "date": "2022-12-17",
             "stock": 7
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20733",
-            "price": 29800,
+            "price": 27800,
             "name": "エーフィVMAX18",
-            "date": "2022-12-03",
-            "stock": 61
-        },
-        {
-            "market": "magi",
-            "link": "/items/134595790",
-            "price": 62790,
-            "name": "〔PSA10鑑定済〕",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1904971811",
-            "price": 39800,
-            "name": "ポケカ【極美品】エー",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1153273343",
-            "price": 25000,
-            "name": "エーフィVMAX 1",
-            "date": "2022-12-02",
-            "stock": 1
+            "date": "2022-12-17",
+            "stock": 54
         },
         {
             "market": "magi",
             "link": "/items/675042179",
-            "price": 29190,
+            "price": 27090,
             "name": "エーフィVMAX(S",
-            "date": "2022-12-02",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -189,79 +445,7 @@
             "link": "/items/1181980166",
             "price": 80000,
             "name": "PSA10 エーフィ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21155",
-            "price": 29000,
-            "name": "【未開封プロモ】 エ",
-            "date": "2022-12-02",
-            "stock": 13
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19955",
-            "price": 28000,
-            "name": "エーフィVMAX(-",
-            "date": "2022-12-02",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35566",
-            "price": 59800,
-            "name": "エーフィVMAX18",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20733",
-            "price": 29800,
-            "name": "エーフィVMAX18",
-            "date": "2022-12-02",
-            "stock": 57
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32042",
-            "price": 24800,
-            "name": "エーフィVMAX18",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20732",
-            "price": 27800,
-            "name": "エーフィVMAX18",
-            "date": "2022-12-02",
-            "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/675042179",
-            "price": 29190,
-            "name": "エーフィVMAX(S",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1153273343",
-            "price": 25000,
-            "name": "エーフィVMAX 1",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/134595790",
-            "price": 62790,
-            "name": "〔PSA10鑑定済〕",
-            "date": "2022-12-01",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -269,95 +453,71 @@
             "link": "/items/1904971811",
             "price": 39800,
             "name": "ポケカ【極美品】エー",
-            "date": "2022-12-01",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1181980166",
-            "price": 80000,
-            "name": "PSA10 エーフィ",
-            "date": "2022-12-01",
+            "link": "/items/540878396",
+            "price": 62790,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-16",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19955",
-            "price": 28000,
-            "name": "エーフィVMAX(-",
-            "date": "2022-12-01",
-            "stock": 3
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21155",
             "price": 29000,
             "name": "【未開封プロモ】 エ",
-            "date": "2022-12-01",
-            "stock": 13
+            "date": "2022-12-16",
+            "stock": 16
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19955",
+            "price": 28000,
+            "name": "エーフィVMAX(-",
+            "date": "2022-12-16",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20732",
+            "price": 25800,
+            "name": "エーフィVMAX18",
+            "date": "2022-12-16",
+            "stock": 7
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35566",
             "price": 59800,
             "name": "エーフィVMAX18",
-            "date": "2022-12-01",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20733",
-            "price": 29800,
-            "name": "エーフィVMAX18",
-            "date": "2022-12-01",
-            "stock": 58
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32042",
-            "price": 24800,
-            "name": "エーフィVMAX18",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20732",
             "price": 27800,
             "name": "エーフィVMAX18",
-            "date": "2022-12-01",
-            "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/134595790",
-            "price": 62790,
-            "name": "〔PSA10鑑定済〕",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1153273343",
-            "price": 25000,
-            "name": "エーフィVMAX 1",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/675042179",
-            "price": 29190,
-            "name": "エーフィVMAX(S",
-            "date": "2022-11-30",
-            "stock": 1
+            "date": "2022-12-16",
+            "stock": 53
         },
         {
             "market": "magi",
             "link": "/items/1181980166",
             "price": 80000,
             "name": "PSA10 エーフィ",
-            "date": "2022-11-30",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/540878396",
+            "price": 62790,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -365,288 +525,56 @@
             "link": "/items/1904971811",
             "price": 39800,
             "name": "ポケカ【極美品】エー",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19955",
-            "price": 28000,
-            "name": "エーフィVMAX(-",
-            "date": "2022-11-30",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21155",
-            "price": 29000,
-            "name": "【未開封プロモ】 エ",
-            "date": "2022-11-30",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20732",
-            "price": 27800,
-            "name": "エーフィVMAX18",
-            "date": "2022-11-30",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20733",
-            "price": 29800,
-            "name": "エーフィVMAX18",
-            "date": "2022-11-30",
-            "stock": 66
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35566",
-            "price": 59800,
-            "name": "エーフィVMAX18",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1904971811",
-            "price": 39800,
-            "name": "ポケカ【極美品】エー",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/134595790",
-            "price": 62790,
-            "name": "〔PSA10鑑定済〕",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1181980166",
-            "price": 80000,
-            "name": "PSA10 エーフィ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1153273343",
-            "price": 25000,
-            "name": "エーフィVMAX 1",
-            "date": "2022-11-29",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/675042179",
-            "price": 29190,
+            "price": 27090,
             "name": "エーフィVMAX(S",
-            "date": "2022-11-29",
+            "date": "2022-12-15",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21155",
-            "price": 29000,
-            "name": "【未開封プロモ】 エ",
-            "date": "2022-11-29",
-            "stock": 13
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19955",
             "price": 28000,
             "name": "エーフィVMAX(-",
-            "date": "2022-11-29",
+            "date": "2022-12-15",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20733",
-            "price": 29800,
-            "name": "エーフィVMAX18",
-            "date": "2022-11-29",
-            "stock": 63
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20732",
-            "price": 27800,
-            "name": "エーフィVMAX18",
-            "date": "2022-11-29",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35566",
-            "price": 59800,
-            "name": "エーフィVMAX18",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1181980166",
-            "price": 80000,
-            "name": "PSA10 エーフィ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1153273343",
-            "price": 25000,
-            "name": "エーフィVMAX 1",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/134595790",
-            "price": 62790,
-            "name": "〔PSA10鑑定済〕",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/675042179",
-            "price": 29190,
-            "name": "エーフィVMAX(S",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1904971811",
-            "price": 39800,
-            "name": "ポケカ【極美品】エー",
-            "date": "2022-11-28",
-            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21155",
             "price": 29000,
             "name": "【未開封プロモ】 エ",
-            "date": "2022-11-28",
-            "stock": 13
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19955",
-            "price": 28000,
-            "name": "エーフィVMAX(-",
-            "date": "2022-11-28",
-            "stock": 3
+            "date": "2022-12-15",
+            "stock": 16
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35566",
             "price": 59800,
             "name": "エーフィVMAX18",
-            "date": "2022-11-28",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20733",
-            "price": 29800,
+            "price": 27800,
             "name": "エーフィVMAX18",
-            "date": "2022-11-28",
-            "stock": 64
+            "date": "2022-12-15",
+            "stock": 53
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20732",
-            "price": 27800,
+            "price": 25800,
             "name": "エーフィVMAX18",
-            "date": "2022-11-28",
-            "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/1181980166",
-            "price": 80000,
-            "name": "PSA10 エーフィ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/134595790",
-            "price": 62790,
-            "name": "〔PSA10鑑定済〕",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1153273343",
-            "price": 25000,
-            "name": "エーフィVMAX 1",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/675042179",
-            "price": 29190,
-            "name": "エーフィVMAX(S",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1904971811",
-            "price": 39800,
-            "name": "ポケカ【極美品】エー",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21155",
-            "price": 29000,
-            "name": "【未開封プロモ】 エ",
-            "date": "2022-11-27",
-            "stock": 13
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19955",
-            "price": 28000,
-            "name": "エーフィVMAX(-",
-            "date": "2022-11-27",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35566",
-            "price": 59800,
-            "name": "エーフィVMAX18",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20733",
-            "price": 29800,
-            "name": "エーフィVMAX18",
-            "date": "2022-11-27",
-            "stock": 63
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20732",
-            "price": 27800,
-            "name": "エーフィVMAX18",
-            "date": "2022-11-27",
-            "stock": 8
+            "date": "2022-12-15",
+            "stock": 7
         }
     ]
 }

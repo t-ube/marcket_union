@@ -1,84 +1,356 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/360232122",
+            "price": 100,
+            "name": "ヨマワル 057/1",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1303380205",
+            "price": 100,
+            "name": "ヨマワル 057/1",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26080",
             "price": 50,
             "name": "ヨマワル(CP){超",
-            "date": "2022-12-04",
-            "stock": 40
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26220",
-            "price": 100,
-            "name": "ヨマワル:ミラー(C",
-            "date": "2022-12-04",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38141",
-            "price": 30,
-            "name": "ヨマワル057/17",
-            "date": "2022-12-04",
-            "stock": 159
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38281",
-            "price": 50,
-            "name": "ヨマワル057/17",
-            "date": "2022-12-04",
-            "stock": 43
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38141",
-            "price": 30,
-            "name": "ヨマワル057/17",
-            "date": "2022-12-03",
-            "stock": 159
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38281",
-            "price": 50,
-            "name": "ヨマワル057/17",
-            "date": "2022-12-03",
+            "date": "2022-12-22",
             "stock": 41
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26080",
-            "price": 50,
-            "name": "ヨマワル(CP){超",
-            "date": "2022-12-02",
-            "stock": 40
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26220",
             "price": 100,
             "name": "ヨマワル:ミラー(C",
-            "date": "2022-12-02",
-            "stock": 19
+            "date": "2022-12-22",
+            "stock": 16
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38141",
             "price": 30,
             "name": "ヨマワル057/17",
-            "date": "2022-12-02",
-            "stock": 159
+            "date": "2022-12-22",
+            "stock": 158
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38281",
             "price": 50,
             "name": "ヨマワル057/17",
-            "date": "2022-12-02",
-            "stock": 42
+            "date": "2022-12-22",
+            "stock": 31
+        },
+        {
+            "market": "magi",
+            "link": "/items/360232122",
+            "price": 100,
+            "name": "ヨマワル 057/1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1303380205",
+            "price": 100,
+            "name": "ヨマワル 057/1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26080",
+            "price": 50,
+            "name": "ヨマワル(CP){超",
+            "date": "2022-12-21",
+            "stock": 41
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26220",
+            "price": 100,
+            "name": "ヨマワル:ミラー(C",
+            "date": "2022-12-21",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38141",
+            "price": 30,
+            "name": "ヨマワル057/17",
+            "date": "2022-12-21",
+            "stock": 158
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38281",
+            "price": 50,
+            "name": "ヨマワル057/17",
+            "date": "2022-12-21",
+            "stock": 32
+        },
+        {
+            "market": "magi",
+            "link": "/items/1303380205",
+            "price": 100,
+            "name": "ヨマワル 057/1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/360232122",
+            "price": 100,
+            "name": "ヨマワル 057/1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26220",
+            "price": 100,
+            "name": "ヨマワル:ミラー(C",
+            "date": "2022-12-20",
+            "stock": 16
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26080",
+            "price": 50,
+            "name": "ヨマワル(CP){超",
+            "date": "2022-12-20",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38281",
+            "price": 50,
+            "name": "ヨマワル057/17",
+            "date": "2022-12-20",
+            "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38141",
+            "price": 30,
+            "name": "ヨマワル057/17",
+            "date": "2022-12-20",
+            "stock": 158
+        },
+        {
+            "market": "magi",
+            "link": "/items/360232122",
+            "price": 100,
+            "name": "ヨマワル 057/1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1303380205",
+            "price": 100,
+            "name": "ヨマワル 057/1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26220",
+            "price": 100,
+            "name": "ヨマワル:ミラー(C",
+            "date": "2022-12-19",
+            "stock": 16
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26080",
+            "price": 50,
+            "name": "ヨマワル(CP){超",
+            "date": "2022-12-19",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38281",
+            "price": 50,
+            "name": "ヨマワル057/17",
+            "date": "2022-12-19",
+            "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38141",
+            "price": 30,
+            "name": "ヨマワル057/17",
+            "date": "2022-12-19",
+            "stock": 158
+        },
+        {
+            "market": "magi",
+            "link": "/items/1303380205",
+            "price": 100,
+            "name": "ヨマワル 057/1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26220",
+            "price": 100,
+            "name": "ヨマワル:ミラー(C",
+            "date": "2022-12-18",
+            "stock": 16
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26080",
+            "price": 50,
+            "name": "ヨマワル(CP){超",
+            "date": "2022-12-18",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38141",
+            "price": 30,
+            "name": "ヨマワル057/17",
+            "date": "2022-12-18",
+            "stock": 158
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38281",
+            "price": 50,
+            "name": "ヨマワル057/17",
+            "date": "2022-12-18",
+            "stock": 34
+        },
+        {
+            "market": "magi",
+            "link": "/items/1303380205",
+            "price": 100,
+            "name": "ヨマワル 057/1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26220",
+            "price": 100,
+            "name": "ヨマワル:ミラー(C",
+            "date": "2022-12-17",
+            "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26080",
+            "price": 50,
+            "name": "ヨマワル(CP){超",
+            "date": "2022-12-17",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38141",
+            "price": 30,
+            "name": "ヨマワル057/17",
+            "date": "2022-12-17",
+            "stock": 158
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38281",
+            "price": 50,
+            "name": "ヨマワル057/17",
+            "date": "2022-12-17",
+            "stock": 36
+        },
+        {
+            "market": "magi",
+            "link": "/items/1303380205",
+            "price": 100,
+            "name": "ヨマワル 057/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26220",
+            "price": 100,
+            "name": "ヨマワル:ミラー(C",
+            "date": "2022-12-16",
+            "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26080",
+            "price": 50,
+            "name": "ヨマワル(CP){超",
+            "date": "2022-12-16",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38281",
+            "price": 50,
+            "name": "ヨマワル057/17",
+            "date": "2022-12-16",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38141",
+            "price": 30,
+            "name": "ヨマワル057/17",
+            "date": "2022-12-16",
+            "stock": 158
+        },
+        {
+            "market": "magi",
+            "link": "/items/1303380205",
+            "price": 100,
+            "name": "ヨマワル 057/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26080",
+            "price": 50,
+            "name": "ヨマワル(CP){超",
+            "date": "2022-12-15",
+            "stock": 41
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26220",
+            "price": 100,
+            "name": "ヨマワル:ミラー(C",
+            "date": "2022-12-15",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38281",
+            "price": 50,
+            "name": "ヨマワル057/17",
+            "date": "2022-12-15",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38141",
+            "price": 30,
+            "name": "ヨマワル057/17",
+            "date": "2022-12-15",
+            "stock": 158
         }
     ]
 }

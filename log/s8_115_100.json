@@ -2,10 +2,58 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1717429273",
+            "price": 800,
+            "name": "ポッドとデントとコー",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/443646470",
             "price": 555,
             "name": "ポッドとデントとコー",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20488",
+            "price": 800,
+            "name": "ポッドとデントとコー",
+            "date": "2022-12-22",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22200",
+            "price": 880,
+            "name": "ポッドとデントとコー",
+            "date": "2022-12-22",
+            "stock": 187
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32584",
+            "price": 730,
+            "name": "ポッドとデントとコー",
+            "date": "2022-12-22",
+            "stock": 52
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g115-100-S8-B/",
+            "price": 660,
+            "name": "【ポケカ】ＳＲ◇ポッ",
+            "date": "2022-12-22",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/443646470",
+            "price": 555,
+            "name": "ポッドとデントとコー",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -13,15 +61,7 @@
             "link": "/items/1717429273",
             "price": 800,
             "name": "ポッドとデントとコー",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1732873929",
-            "price": 600,
-            "name": "ポッドとデントとコー",
-            "date": "2022-12-04",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -29,47 +69,39 @@
             "link": "https://www.hareruya2.com/product/20488",
             "price": 800,
             "name": "ポッドとデントとコー",
-            "date": "2022-12-04",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24075",
-            "price": 580,
-            "name": "ポッドとデントとコー",
-            "date": "2022-12-04",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32584",
-            "price": 730,
-            "name": "ポッドとデントとコー",
-            "date": "2022-12-04",
-            "stock": 28
+            "date": "2022-12-21",
+            "stock": 4
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22200",
             "price": 880,
             "name": "ポッドとデントとコー",
-            "date": "2022-12-04",
-            "stock": 95
+            "date": "2022-12-21",
+            "stock": 187
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32584",
+            "price": 730,
+            "name": "ポッドとデントとコー",
+            "date": "2022-12-21",
+            "stock": 52
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g115-100-S8-B/",
             "price": 660,
             "name": "【ポケカ】ＳＲ◇ポッ",
-            "date": "2022-12-04",
+            "date": "2022-12-21",
             "stock": 2
         },
         {
             "market": "magi",
-            "link": "/items/1732873929",
-            "price": 600,
+            "link": "/items/443646470",
+            "price": 555,
             "name": "ポッドとデントとコー",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -77,15 +109,7 @@
             "link": "/items/1717429273",
             "price": 800,
             "name": "ポッドとデントとコー",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/443646470",
-            "price": 555,
-            "name": "ポッドとデントとコー",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -93,39 +117,31 @@
             "link": "https://www.hareruya2.com/product/20488",
             "price": 800,
             "name": "ポッドとデントとコー",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24075",
-            "price": 580,
-            "name": "ポッドとデントとコー",
-            "date": "2022-12-03",
-            "stock": 3
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32584",
             "price": 730,
             "name": "ポッドとデントとコー",
-            "date": "2022-12-03",
-            "stock": 28
+            "date": "2022-12-20",
+            "stock": 52
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22200",
             "price": 880,
             "name": "ポッドとデントとコー",
-            "date": "2022-12-03",
-            "stock": 100
+            "date": "2022-12-20",
+            "stock": 186
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g115-100-S8-B/",
             "price": 660,
             "name": "【ポケカ】ＳＲ◇ポッ",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
             "stock": 2
         },
         {
@@ -133,15 +149,7 @@
             "link": "/items/443646470",
             "price": 555,
             "name": "ポッドとデントとコー",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1732873929",
-            "price": 600,
-            "name": "ポッドとデントとコー",
-            "date": "2022-12-02",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -149,7 +157,7 @@
             "link": "/items/1717429273",
             "price": 800,
             "name": "ポッドとデントとコー",
-            "date": "2022-12-02",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -157,39 +165,127 @@
             "link": "https://www.hareruya2.com/product/20488",
             "price": 800,
             "name": "ポッドとデントとコー",
-            "date": "2022-12-02",
+            "date": "2022-12-19",
             "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24075",
-            "price": 580,
-            "name": "ポッドとデントとコー",
-            "date": "2022-12-02",
-            "stock": 3
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22200",
             "price": 880,
             "name": "ポッドとデントとコー",
-            "date": "2022-12-02",
-            "stock": 100
+            "date": "2022-12-19",
+            "stock": 187
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32584",
             "price": 730,
             "name": "ポッドとデントとコー",
-            "date": "2022-12-02",
-            "stock": 28
+            "date": "2022-12-19",
+            "stock": 52
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g115-100-S8-B/",
             "price": 660,
             "name": "【ポケカ】ＳＲ◇ポッ",
-            "date": "2022-12-02",
+            "date": "2022-12-19",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1717429273",
+            "price": 800,
+            "name": "ポッドとデントとコー",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/443646470",
+            "price": 555,
+            "name": "ポッドとデントとコー",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20488",
+            "price": 800,
+            "name": "ポッドとデントとコー",
+            "date": "2022-12-18",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32584",
+            "price": 730,
+            "name": "ポッドとデントとコー",
+            "date": "2022-12-18",
+            "stock": 52
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22200",
+            "price": 880,
+            "name": "ポッドとデントとコー",
+            "date": "2022-12-18",
+            "stock": 188
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g115-100-S8-B/",
+            "price": 660,
+            "name": "【ポケカ】ＳＲ◇ポッ",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1717429273",
+            "price": 800,
+            "name": "ポッドとデントとコー",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/443646470",
+            "price": 555,
+            "name": "ポッドとデントとコー",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20488",
+            "price": 800,
+            "name": "ポッドとデントとコー",
+            "date": "2022-12-17",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22200",
+            "price": 880,
+            "name": "ポッドとデントとコー",
+            "date": "2022-12-17",
+            "stock": 188
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32584",
+            "price": 730,
+            "name": "ポッドとデントとコー",
+            "date": "2022-12-17",
+            "stock": 52
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g115-100-S8-B/",
+            "price": 660,
+            "name": "【ポケカ】ＳＲ◇ポッ",
+            "date": "2022-12-17",
             "stock": 2
         },
         {
@@ -197,7 +293,7 @@
             "link": "/items/443646470",
             "price": 555,
             "name": "ポッドとデントとコー",
-            "date": "2022-12-01",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -205,15 +301,7 @@
             "link": "/items/1717429273",
             "price": 800,
             "name": "ポッドとデントとコー",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1732873929",
-            "price": 600,
-            "name": "ポッドとデントとコー",
-            "date": "2022-12-01",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -221,71 +309,7 @@
             "link": "https://www.hareruya2.com/product/20488",
             "price": 800,
             "name": "ポッドとデントとコー",
-            "date": "2022-12-01",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32584",
-            "price": 730,
-            "name": "ポッドとデントとコー",
-            "date": "2022-12-01",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22200",
-            "price": 880,
-            "name": "ポッドとデントとコー",
-            "date": "2022-12-01",
-            "stock": 106
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24075",
-            "price": 580,
-            "name": "ポッドとデントとコー",
-            "date": "2022-12-01",
-            "stock": 3
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g115-100-S8-B/",
-            "price": 660,
-            "name": "【ポケカ】ＳＲ◇ポッ",
-            "date": "2022-12-01",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/443646470",
-            "price": 555,
-            "name": "ポッドとデントとコー",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1721141163",
-            "price": 480,
-            "name": "ポッドとデントとコー",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1732873929",
-            "price": 600,
-            "name": "ポッドとデントとコー",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20488",
-            "price": 800,
-            "name": "ポッドとデントとコー",
-            "date": "2022-11-30",
+            "date": "2022-12-16",
             "stock": 10
         },
         {
@@ -293,87 +317,31 @@
             "link": "https://www.cardrush-pokemon.jp/product/22200",
             "price": 880,
             "name": "ポッドとデントとコー",
-            "date": "2022-11-30",
-            "stock": 105
+            "date": "2022-12-16",
+            "stock": 187
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24075",
             "price": 580,
             "name": "ポッドとデントとコー",
-            "date": "2022-11-30",
-            "stock": 3
+            "date": "2022-12-16",
+            "stock": 4
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32584",
             "price": 730,
             "name": "ポッドとデントとコー",
-            "date": "2022-11-30",
-            "stock": 28
+            "date": "2022-12-16",
+            "stock": 52
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g115-100-S8-B/",
             "price": 660,
             "name": "【ポケカ】ＳＲ◇ポッ",
-            "date": "2022-11-30",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1732873929",
-            "price": 600,
-            "name": "ポッドとデントとコー",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/443646470",
-            "price": 555,
-            "name": "ポッドとデントとコー",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20488",
-            "price": 800,
-            "name": "ポッドとデントとコー",
-            "date": "2022-11-29",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32584",
-            "price": 730,
-            "name": "ポッドとデントとコー",
-            "date": "2022-11-29",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22200",
-            "price": 880,
-            "name": "ポッドとデントとコー",
-            "date": "2022-11-29",
-            "stock": 94
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24075",
-            "price": 580,
-            "name": "ポッドとデントとコー",
-            "date": "2022-11-29",
-            "stock": 3
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g115-100-S8-B/",
-            "price": 660,
-            "name": "【ポケカ】ＳＲ◇ポッ",
-            "date": "2022-11-29",
+            "date": "2022-12-16",
             "stock": 2
         },
         {
@@ -381,15 +349,15 @@
             "link": "/items/443646470",
             "price": 555,
             "name": "ポッドとデントとコー",
-            "date": "2022-11-28",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1732873929",
-            "price": 600,
+            "link": "/items/1717429273",
+            "price": 800,
             "name": "ポッドとデントとコー",
-            "date": "2022-11-28",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -397,95 +365,39 @@
             "link": "https://www.hareruya2.com/product/20488",
             "price": 800,
             "name": "ポッドとデントとコー",
-            "date": "2022-11-28",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32584",
-            "price": 730,
-            "name": "ポッドとデントとコー",
-            "date": "2022-11-28",
-            "stock": 28
+            "date": "2022-12-15",
+            "stock": 10
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24075",
             "price": 580,
             "name": "ポッドとデントとコー",
-            "date": "2022-11-28",
-            "stock": 3
+            "date": "2022-12-15",
+            "stock": 4
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22200",
             "price": 880,
             "name": "ポッドとデントとコー",
-            "date": "2022-11-28",
-            "stock": 105
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g115-100-S8-B/",
-            "price": 660,
-            "name": "【ポケカ】ＳＲ◇ポッ",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1732873929",
-            "price": 600,
-            "name": "ポッドとデントとコー",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/443646470",
-            "price": 555,
-            "name": "ポッドとデントとコー",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20488",
-            "price": 800,
-            "name": "ポッドとデントとコー",
-            "date": "2022-11-27",
-            "stock": 17
+            "date": "2022-12-15",
+            "stock": 170
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32584",
             "price": 730,
             "name": "ポッドとデントとコー",
-            "date": "2022-11-27",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22200",
-            "price": 880,
-            "name": "ポッドとデントとコー",
-            "date": "2022-11-27",
-            "stock": 105
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24075",
-            "price": 580,
-            "name": "ポッドとデントとコー",
-            "date": "2022-11-27",
-            "stock": 3
+            "date": "2022-12-15",
+            "stock": 52
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g115-100-S8-B/",
             "price": 660,
             "name": "【ポケカ】ＳＲ◇ポッ",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 2
         }
     ]

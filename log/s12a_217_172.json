@@ -2,139 +2,731 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1738367949",
-            "price": 7000,
+            "link": "/items/442671420",
+            "price": 4500,
             "name": "グレイシアVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1528360754",
-            "price": 4704,
+            "link": "/items/112431331",
+            "price": 14444,
             "name": "グレイシアVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1019652176",
-            "price": 6999,
+            "link": "/items/666244106",
+            "price": 4800,
             "name": "グレイシアVSTAR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1176477644",
+            "price": 4179,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2081627322",
+            "price": 4500,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1402189241",
+            "price": 4380,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/666545231",
+            "price": 5380,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1193888686",
+            "price": 4444,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1879607470",
+            "price": 4999,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26356",
-            "price": 4000,
+            "price": 4200,
             "name": "グレイシアVSTAR",
-            "date": "2022-12-04",
-            "stock": 28
+            "date": "2022-12-22",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38397",
+            "price": 3980,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-22",
+            "stock": 75
+        },
+        {
+            "market": "magi",
+            "link": "/items/972530260",
+            "price": 4400,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1176477644",
+            "price": 4494,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/666545231",
+            "price": 5390,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/442671420",
+            "price": 4500,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1879607470",
+            "price": 4999,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1402189241",
+            "price": 4380,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1193888686",
+            "price": 4444,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/112431331",
+            "price": 14444,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2081627322",
+            "price": 4500,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/666244106",
+            "price": 4800,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/756233991",
+            "price": 4179,
+            "name": "〔状態A-〕グレイシ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26356",
+            "price": 4200,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-21",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38397",
+            "price": 4280,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-21",
+            "stock": 61
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38664",
+            "price": 3980,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1193888686",
+            "price": 4444,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/972530260",
+            "price": 4400,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2081627322",
+            "price": 4500,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/756233991",
+            "price": 4179,
+            "name": "〔状態A-〕グレイシ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/442671420",
+            "price": 4500,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1402189241",
+            "price": 4380,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1879607470",
+            "price": 4999,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/666244106",
+            "price": 4800,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1176477644",
+            "price": 4494,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/666545231",
+            "price": 5390,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26356",
+            "price": 4200,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-20",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38878",
+            "price": 2980,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38397",
+            "price": 4280,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-20",
+            "stock": 71
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38664",
+            "price": 3980,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1879607470",
+            "price": 4999,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/972530260",
+            "price": 4400,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/666244106",
+            "price": 4800,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1176477644",
+            "price": 4704,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1292196647",
+            "price": 5780,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1193888686",
+            "price": 4444,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/442671420",
+            "price": 4500,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/666545231",
+            "price": 5390,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1402189241",
+            "price": 4380,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26356",
+            "price": 4200,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-19",
+            "stock": 15
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38397",
             "price": 4480,
             "name": "グレイシアVSTAR",
-            "date": "2022-12-04",
-            "stock": 105
+            "date": "2022-12-19",
+            "stock": 25
         },
         {
             "market": "magi",
-            "link": "/items/616821709",
-            "price": 5124,
-            "name": "〔状態A-〕グレイシ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1909072538",
-            "price": 5229,
-            "name": "グレイシアVSTAR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1753653278",
+            "link": "/items/442671420",
             "price": 4500,
             "name": "グレイシアVSTAR",
-            "date": "2022-12-03",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/634878955",
-            "price": 4000,
+            "link": "/items/1364395570",
+            "price": 4704,
             "name": "グレイシアVSTAR",
-            "date": "2022-12-03",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/666545231",
+            "price": 5400,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1879607470",
+            "price": 4999,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1292196647",
+            "price": 5780,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1402189241",
+            "price": 4380,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1193888686",
+            "price": 4444,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26356",
-            "price": 4800,
+            "price": 4500,
             "name": "グレイシアVSTAR",
-            "date": "2022-12-03",
-            "stock": 12
+            "date": "2022-12-18",
+            "stock": 16
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38397",
-            "price": 4980,
+            "price": 4480,
             "name": "グレイシアVSTAR",
-            "date": "2022-12-03",
-            "stock": 77
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38664",
-            "price": 4580,
-            "name": "グレイシアVSTAR",
-            "date": "2022-12-03",
-            "stock": 2
+            "date": "2022-12-18",
+            "stock": 12
         },
         {
             "market": "magi",
-            "link": "/items/616821709",
-            "price": 5124,
-            "name": "〔状態A-〕グレイシ",
-            "date": "2022-12-02",
+            "link": "/items/1292196647",
+            "price": 5780,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1753653278",
-            "price": 4800,
+            "link": "/items/1364395570",
+            "price": 4704,
             "name": "グレイシアVSTAR",
-            "date": "2022-12-02",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1909072538",
-            "price": 5754,
+            "link": "/items/666545231",
+            "price": 5400,
             "name": "グレイシアVSTAR",
-            "date": "2022-12-02",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1776994508",
-            "price": 3888,
+            "link": "/items/1193888686",
+            "price": 4444,
             "name": "グレイシアVSTAR",
-            "date": "2022-12-02",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1175875764",
+            "price": 2780,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1402189241",
+            "price": 4500,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1879607470",
+            "price": 4999,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/442671420",
+            "price": 4500,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26356",
+            "price": 4500,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-17",
+            "stock": 24
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38397",
+            "price": 4480,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-17",
+            "stock": 26
+        },
+        {
+            "market": "magi",
+            "link": "/items/1193888686",
+            "price": 4444,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/442671420",
+            "price": 4500,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1472232218",
+            "price": 4704,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1292196647",
+            "price": 5780,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/346637205",
+            "price": 4000,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/666545231",
+            "price": 5400,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/175832776",
+            "price": 3900,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-16",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1879607470",
+            "price": 4999,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26356",
+            "price": 4500,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-16",
+            "stock": 24
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38397",
+            "price": 4480,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-16",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/555150570",
             "price": 4800,
             "name": "グレイシアVSTAR",
-            "date": "2022-12-02",
-            "stock": 13
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/442671420",
+            "price": 4500,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/666545231",
+            "price": 5400,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/175832776",
+            "price": 4000,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-15",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1292196647",
+            "price": 5780,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/476628604",
+            "price": 4494,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/948765576",
+            "price": 3200,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1193888686",
+            "price": 4999,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1879607470",
+            "price": 4999,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/346637205",
+            "price": 4000,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26356",
+            "price": 4500,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-15",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38397",
+            "price": 4280,
+            "name": "グレイシアVSTAR",
+            "date": "2022-12-15",
+            "stock": 48
         }
     ]
 }

@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1045202895",
+            "price": 50,
+            "name": "ルミナスメイズの森 ",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/9806539",
             "price": 150,
             "name": "ルミナスメイズの森(",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,31 +21,31 @@
             "link": "/items/1405340442",
             "price": 800,
             "name": "ルミナスメイズの森(",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18587",
-            "price": 100,
-            "name": "ルミナスメイズの森(",
-            "date": "2022-12-04",
-            "stock": 8
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18847",
             "price": 150,
             "name": "ルミナスメイズの森:",
-            "date": "2022-12-04",
-            "stock": 1
+            "date": "2022-12-22",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18587",
+            "price": 100,
+            "name": "ルミナスメイズの森(",
+            "date": "2022-12-22",
+            "stock": 13
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17164",
             "price": 80,
             "name": "ルミナスメイズの森1",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 2
         },
         {
@@ -45,7 +53,71 @@
             "link": "https://www.cardrush-pokemon.jp/product/17330",
             "price": 120,
             "name": "ルミナスメイズの森1",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g181-190-S4A-B/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-22",
+            "stock": 14
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g181-190-S4A-BM/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-22",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/9806539",
+            "price": 150,
+            "name": "ルミナスメイズの森(",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1405340442",
+            "price": 800,
+            "name": "ルミナスメイズの森(",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1045202895",
+            "price": 50,
+            "name": "ルミナスメイズの森 ",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18587",
+            "price": 100,
+            "name": "ルミナスメイズの森(",
+            "date": "2022-12-21",
+            "stock": 13
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18847",
+            "price": 150,
+            "name": "ルミナスメイズの森:",
+            "date": "2022-12-21",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17164",
+            "price": 80,
+            "name": "ルミナスメイズの森1",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -53,31 +125,103 @@
             "link": "/shop/g/g181-190-S4A-B/",
             "price": 88,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-04",
-            "stock": 10
+            "date": "2022-12-21",
+            "stock": 14
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g181-190-S4A-BM/",
             "price": 88,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-04",
+            "date": "2022-12-21",
             "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1405340442",
-            "price": 800,
-            "name": "ルミナスメイズの森(",
-            "date": "2022-12-03",
-            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/9806539",
             "price": 150,
             "name": "ルミナスメイズの森(",
-            "date": "2022-12-03",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1405340442",
+            "price": 800,
+            "name": "ルミナスメイズの森(",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1045202895",
+            "price": 50,
+            "name": "ルミナスメイズの森 ",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18847",
+            "price": 150,
+            "name": "ルミナスメイズの森:",
+            "date": "2022-12-20",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18587",
+            "price": 100,
+            "name": "ルミナスメイズの森(",
+            "date": "2022-12-20",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17164",
+            "price": 80,
+            "name": "ルミナスメイズの森1",
+            "date": "2022-12-20",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g181-190-S4A-BM/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-20",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g181-190-S4A-B/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-20",
+            "stock": 14
+        },
+        {
+            "market": "magi",
+            "link": "/items/1045202895",
+            "price": 50,
+            "name": "ルミナスメイズの森 ",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/9806539",
+            "price": 150,
+            "name": "ルミナスメイズの森(",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1405340442",
+            "price": 800,
+            "name": "ルミナスメイズの森(",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -85,7 +229,119 @@
             "link": "https://www.hareruya2.com/product/18847",
             "price": 150,
             "name": "ルミナスメイズの森:",
-            "date": "2022-12-03",
+            "date": "2022-12-19",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18587",
+            "price": 100,
+            "name": "ルミナスメイズの森(",
+            "date": "2022-12-19",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17164",
+            "price": 80,
+            "name": "ルミナスメイズの森1",
+            "date": "2022-12-19",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g181-190-S4A-B/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-19",
+            "stock": 14
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g181-190-S4A-BM/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-19",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/9806539",
+            "price": 150,
+            "name": "ルミナスメイズの森(",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1045202895",
+            "price": 50,
+            "name": "ルミナスメイズの森 ",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1405340442",
+            "price": 800,
+            "name": "ルミナスメイズの森(",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18847",
+            "price": 150,
+            "name": "ルミナスメイズの森:",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18587",
+            "price": 100,
+            "name": "ルミナスメイズの森(",
+            "date": "2022-12-18",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17164",
+            "price": 80,
+            "name": "ルミナスメイズの森1",
+            "date": "2022-12-18",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g181-190-S4A-B/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-18",
+            "stock": 14
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g181-190-S4A-BM/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/9806539",
+            "price": 150,
+            "name": "ルミナスメイズの森(",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1405340442",
+            "price": 800,
+            "name": "ルミナスメイズの森(",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -93,47 +349,87 @@
             "link": "https://www.hareruya2.com/product/18587",
             "price": 100,
             "name": "ルミナスメイズの森(",
-            "date": "2022-12-03",
-            "stock": 8
+            "date": "2022-12-17",
+            "stock": 7
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17164",
             "price": 80,
             "name": "ルミナスメイズの森1",
-            "date": "2022-12-03",
+            "date": "2022-12-17",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g181-190-S4A-BM/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g181-190-S4A-B/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-17",
+            "stock": 13
+        },
+        {
+            "market": "magi",
+            "link": "/items/9806539",
+            "price": 150,
+            "name": "ルミナスメイズの森(",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1405340442",
+            "price": 800,
+            "name": "ルミナスメイズの森(",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18587",
+            "price": 100,
+            "name": "ルミナスメイズの森(",
+            "date": "2022-12-16",
             "stock": 6
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17330",
-            "price": 120,
+            "link": "https://www.cardrush-pokemon.jp/product/17164",
+            "price": 80,
             "name": "ルミナスメイズの森1",
-            "date": "2022-12-03",
+            "date": "2022-12-16",
             "stock": 3
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g181-190-S4A-BM/",
-            "price": 121,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g181-190-S4A-B/",
             "price": 88,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-03",
-            "stock": 10
+            "date": "2022-12-16",
+            "stock": 13
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g181-190-S4A-BM/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-16",
+            "stock": 2
         },
         {
             "market": "magi",
             "link": "/items/9806539",
             "price": 150,
             "name": "ルミナスメイズの森(",
-            "date": "2022-12-02",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -141,7 +437,7 @@
             "link": "/items/1405340442",
             "price": 800,
             "name": "ルミナスメイズの森(",
-            "date": "2022-12-02",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -149,368 +445,24 @@
             "link": "https://www.hareruya2.com/product/18587",
             "price": 100,
             "name": "ルミナスメイズの森(",
-            "date": "2022-12-02",
-            "stock": 8
+            "date": "2022-12-15",
+            "stock": 6
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18847",
-            "price": 150,
-            "name": "ルミナスメイズの森:",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17330",
-            "price": 120,
-            "name": "ルミナスメイズの森1",
-            "date": "2022-12-02",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17164",
-            "price": 80,
-            "name": "ルミナスメイズの森1",
-            "date": "2022-12-02",
-            "stock": 14
+            "market": "torecolo",
+            "link": "/shop/g/g181-190-S4A-BM/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-15",
+            "stock": 2
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g181-190-S4A-B/",
             "price": 88,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-02",
-            "stock": 10
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g181-190-S4A-BM/",
-            "price": 121,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1405340442",
-            "price": 800,
-            "name": "ルミナスメイズの森(",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/9806539",
-            "price": 150,
-            "name": "ルミナスメイズの森(",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18587",
-            "price": 100,
-            "name": "ルミナスメイズの森(",
-            "date": "2022-12-01",
-            "stock": 8
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18847",
-            "price": 150,
-            "name": "ルミナスメイズの森:",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17330",
-            "price": 120,
-            "name": "ルミナスメイズの森1",
-            "date": "2022-12-01",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17164",
-            "price": 80,
-            "name": "ルミナスメイズの森1",
-            "date": "2022-12-01",
-            "stock": 14
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g181-190-S4A-B/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-01",
-            "stock": 8
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g181-190-S4A-BM/",
-            "price": 121,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1405340442",
-            "price": 800,
-            "name": "ルミナスメイズの森(",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/9806539",
-            "price": 150,
-            "name": "ルミナスメイズの森(",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18587",
-            "price": 100,
-            "name": "ルミナスメイズの森(",
-            "date": "2022-11-30",
-            "stock": 8
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18847",
-            "price": 150,
-            "name": "ルミナスメイズの森:",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17164",
-            "price": 80,
-            "name": "ルミナスメイズの森1",
-            "date": "2022-11-30",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17330",
-            "price": 120,
-            "name": "ルミナスメイズの森1",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g181-190-S4A-B/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-30",
-            "stock": 8
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g181-190-S4A-BM/",
-            "price": 121,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1405340442",
-            "price": 800,
-            "name": "ルミナスメイズの森(",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/9806539",
-            "price": 150,
-            "name": "ルミナスメイズの森(",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18847",
-            "price": 150,
-            "name": "ルミナスメイズの森:",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18587",
-            "price": 100,
-            "name": "ルミナスメイズの森(",
-            "date": "2022-11-29",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17330",
-            "price": 120,
-            "name": "ルミナスメイズの森1",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17164",
-            "price": 80,
-            "name": "ルミナスメイズの森1",
-            "date": "2022-11-29",
-            "stock": 34
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g181-190-S4A-B/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-29",
-            "stock": 8
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g181-190-S4A-BM/",
-            "price": 121,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1405340442",
-            "price": 800,
-            "name": "ルミナスメイズの森(",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/9806539",
-            "price": 150,
-            "name": "ルミナスメイズの森(",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18847",
-            "price": 150,
-            "name": "ルミナスメイズの森:",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18587",
-            "price": 100,
-            "name": "ルミナスメイズの森(",
-            "date": "2022-11-28",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17164",
-            "price": 80,
-            "name": "ルミナスメイズの森1",
-            "date": "2022-11-28",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17330",
-            "price": 120,
-            "name": "ルミナスメイズの森1",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g181-190-S4A-BM/",
-            "price": 121,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g181-190-S4A-B/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-28",
-            "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/1405340442",
-            "price": 800,
-            "name": "ルミナスメイズの森(",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/9806539",
-            "price": 150,
-            "name": "ルミナスメイズの森(",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18587",
-            "price": 100,
-            "name": "ルミナスメイズの森(",
-            "date": "2022-11-27",
-            "stock": 9
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18847",
-            "price": 150,
-            "name": "ルミナスメイズの森:",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17330",
-            "price": 120,
-            "name": "ルミナスメイズの森1",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17164",
-            "price": 80,
-            "name": "ルミナスメイズの森1",
-            "date": "2022-11-27",
-            "stock": 34
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g181-190-S4A-B/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-27",
-            "stock": 8
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g181-190-S4A-BM/",
-            "price": 121,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-27",
-            "stock": 1
+            "date": "2022-12-15",
+            "stock": 13
         }
     ]
 }

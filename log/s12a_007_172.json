@@ -1,84 +1,436 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/1200501174",
+            "price": 100,
+            "name": "ハヤシガメ 007/",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/907072125",
+            "price": 120,
+            "name": "ハヤシガメ【-】{0",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1759111502",
+            "price": 100,
+            "name": "ハヤシガメ 007/",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26030",
             "price": 50,
             "name": "ハヤシガメ(CP){",
-            "date": "2022-12-04",
-            "stock": 40
+            "date": "2022-12-22",
+            "stock": 38
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26201",
             "price": 100,
             "name": "ハヤシガメ:ミラー(",
-            "date": "2022-12-04",
-            "stock": 11
+            "date": "2022-12-22",
+            "stock": 24
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38091",
             "price": 30,
             "name": "ハヤシガメ007/1",
-            "date": "2022-12-04",
-            "stock": 158
+            "date": "2022-12-22",
+            "stock": 136
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38262",
             "price": 80,
             "name": "ハヤシガメ007/1",
-            "date": "2022-12-04",
-            "stock": 46
+            "date": "2022-12-22",
+            "stock": 30
+        },
+        {
+            "market": "magi",
+            "link": "/items/907072125",
+            "price": 120,
+            "name": "ハヤシガメ【-】{0",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1200501174",
+            "price": 100,
+            "name": "ハヤシガメ 007/",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1759111502",
+            "price": 100,
+            "name": "ハヤシガメ 007/",
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26030",
             "price": 50,
             "name": "ハヤシガメ(CP){",
-            "date": "2022-12-03",
-            "stock": 40
+            "date": "2022-12-21",
+            "stock": 38
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26201",
             "price": 100,
             "name": "ハヤシガメ:ミラー(",
-            "date": "2022-12-03",
-            "stock": 19
+            "date": "2022-12-21",
+            "stock": 24
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38091",
             "price": 30,
             "name": "ハヤシガメ007/1",
-            "date": "2022-12-03",
-            "stock": 159
+            "date": "2022-12-21",
+            "stock": 136
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38262",
             "price": 80,
             "name": "ハヤシガメ007/1",
-            "date": "2022-12-03",
-            "stock": 44
+            "date": "2022-12-21",
+            "stock": 34
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26030",
-            "price": 50,
-            "name": "ハヤシガメ(CP){",
-            "date": "2022-12-02",
-            "stock": 40
+            "market": "magi",
+            "link": "/items/907072125",
+            "price": 120,
+            "name": "ハヤシガメ【-】{0",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1759111502",
+            "price": 100,
+            "name": "ハヤシガメ 007/",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1200501174",
+            "price": 100,
+            "name": "ハヤシガメ 007/",
+            "date": "2022-12-20",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26201",
             "price": 100,
             "name": "ハヤシガメ:ミラー(",
-            "date": "2022-12-02",
-            "stock": 19
+            "date": "2022-12-20",
+            "stock": 24
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26030",
+            "price": 50,
+            "name": "ハヤシガメ(CP){",
+            "date": "2022-12-20",
+            "stock": 38
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38262",
+            "price": 80,
+            "name": "ハヤシガメ007/1",
+            "date": "2022-12-20",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38091",
+            "price": 30,
+            "name": "ハヤシガメ007/1",
+            "date": "2022-12-20",
+            "stock": 136
+        },
+        {
+            "market": "magi",
+            "link": "/items/907072125",
+            "price": 120,
+            "name": "ハヤシガメ【-】{0",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1200501174",
+            "price": 100,
+            "name": "ハヤシガメ 007/",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1759111502",
+            "price": 100,
+            "name": "ハヤシガメ 007/",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26201",
+            "price": 100,
+            "name": "ハヤシガメ:ミラー(",
+            "date": "2022-12-19",
+            "stock": 25
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26030",
+            "price": 50,
+            "name": "ハヤシガメ(CP){",
+            "date": "2022-12-19",
+            "stock": 38
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38262",
+            "price": 80,
+            "name": "ハヤシガメ007/1",
+            "date": "2022-12-19",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38091",
+            "price": 30,
+            "name": "ハヤシガメ007/1",
+            "date": "2022-12-19",
+            "stock": 139
+        },
+        {
+            "market": "magi",
+            "link": "/items/1200501174",
+            "price": 100,
+            "name": "ハヤシガメ 007/",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1759111502",
+            "price": 100,
+            "name": "ハヤシガメ 007/",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/907072125",
+            "price": 120,
+            "name": "ハヤシガメ【-】{0",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26030",
+            "price": 50,
+            "name": "ハヤシガメ(CP){",
+            "date": "2022-12-18",
+            "stock": 38
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26201",
+            "price": 100,
+            "name": "ハヤシガメ:ミラー(",
+            "date": "2022-12-18",
+            "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38091",
+            "price": 30,
+            "name": "ハヤシガメ007/1",
+            "date": "2022-12-18",
+            "stock": 141
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38262",
+            "price": 80,
+            "name": "ハヤシガメ007/1",
+            "date": "2022-12-18",
+            "stock": 40
+        },
+        {
+            "market": "magi",
+            "link": "/items/1200501174",
+            "price": 100,
+            "name": "ハヤシガメ 007/",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/907072125",
+            "price": 120,
+            "name": "ハヤシガメ【-】{0",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1759111502",
+            "price": 100,
+            "name": "ハヤシガメ 007/",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26201",
+            "price": 100,
+            "name": "ハヤシガメ:ミラー(",
+            "date": "2022-12-17",
+            "stock": 29
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26030",
+            "price": 50,
+            "name": "ハヤシガメ(CP){",
+            "date": "2022-12-17",
+            "stock": 38
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38262",
+            "price": 80,
+            "name": "ハヤシガメ007/1",
+            "date": "2022-12-17",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38091",
+            "price": 30,
+            "name": "ハヤシガメ007/1",
+            "date": "2022-12-17",
+            "stock": 141
+        },
+        {
+            "market": "magi",
+            "link": "/items/907072125",
+            "price": 120,
+            "name": "ハヤシガメ【-】{0",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1759111502",
+            "price": 100,
+            "name": "ハヤシガメ 007/",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26030",
+            "price": 50,
+            "name": "ハヤシガメ(CP){",
+            "date": "2022-12-16",
+            "stock": 38
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26201",
+            "price": 100,
+            "name": "ハヤシガメ:ミラー(",
+            "date": "2022-12-16",
+            "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38091",
+            "price": 30,
+            "name": "ハヤシガメ007/1",
+            "date": "2022-12-16",
+            "stock": 141
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38262",
+            "price": 80,
+            "name": "ハヤシガメ007/1",
+            "date": "2022-12-16",
+            "stock": 41
+        },
+        {
+            "market": "magi",
+            "link": "/items/907072125",
+            "price": 120,
+            "name": "ハヤシガメ【-】{0",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1759111502",
+            "price": 100,
+            "name": "ハヤシガメ 007/",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26030",
+            "price": 50,
+            "name": "ハヤシガメ(CP){",
+            "date": "2022-12-15",
+            "stock": 38
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26201",
+            "price": 100,
+            "name": "ハヤシガメ:ミラー(",
+            "date": "2022-12-15",
+            "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38262",
+            "price": 80,
+            "name": "ハヤシガメ007/1",
+            "date": "2022-12-15",
+            "stock": 42
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38091",
+            "price": 30,
+            "name": "ハヤシガメ007/1",
+            "date": "2022-12-15",
+            "stock": 141
         }
     ]
 }

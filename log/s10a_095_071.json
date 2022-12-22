@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1676865937",
+            "price": 1333,
+            "name": "ヒナツ HR 095",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1885283411",
             "price": 3333,
             "name": "ヒナツ HR 095",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,7 +21,7 @@
             "link": "/items/1298320280",
             "price": 7000,
             "name": "[状態B]ヒナツ| ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -21,39 +29,263 @@
             "link": "https://www.hareruya2.com/product/23491",
             "price": 1700,
             "name": "ヒナツ(HR){サポ",
-            "date": "2022-12-04",
-            "stock": 2
+            "date": "2022-12-22",
+            "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/35374",
             "price": 1580,
             "name": "ヒナツ095/071",
-            "date": "2022-12-04",
-            "stock": 15
+            "date": "2022-12-22",
+            "stock": 24
+        },
+        {
+            "market": "magi",
+            "link": "/items/1885283411",
+            "price": 3333,
+            "name": "ヒナツ HR 095",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1676865937",
+            "price": 1333,
+            "name": "ヒナツ HR 095",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1298320280",
+            "price": 7000,
+            "name": "[状態B]ヒナツ| ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23491",
+            "price": 1700,
+            "name": "ヒナツ(HR){サポ",
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35445",
-            "price": 1080,
+            "link": "https://www.cardrush-pokemon.jp/product/35374",
+            "price": 1580,
             "name": "ヒナツ095/071",
-            "date": "2022-12-04",
+            "date": "2022-12-21",
+            "stock": 24
+        },
+        {
+            "market": "magi",
+            "link": "/items/1885283411",
+            "price": 3333,
+            "name": "ヒナツ HR 095",
+            "date": "2022-12-20",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1676865937",
+            "price": 1333,
+            "name": "ヒナツ HR 095",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1298320280",
+            "price": 7000,
+            "name": "[状態B]ヒナツ| ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23491",
+            "price": 1700,
+            "name": "ヒナツ(HR){サポ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35374",
+            "price": 1580,
+            "name": "ヒナツ095/071",
+            "date": "2022-12-20",
+            "stock": 24
+        },
+        {
+            "market": "magi",
+            "link": "/items/1298320280",
+            "price": 7000,
+            "name": "[状態B]ヒナツ| ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1676865937",
+            "price": 1333,
+            "name": "ヒナツ HR 095",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1885283411",
+            "price": 3333,
+            "name": "ヒナツ HR 095",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23491",
+            "price": 1700,
+            "name": "ヒナツ(HR){サポ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35374",
+            "price": 1580,
+            "name": "ヒナツ095/071",
+            "date": "2022-12-19",
+            "stock": 25
+        },
+        {
+            "market": "magi",
+            "link": "/items/1885283411",
+            "price": 3333,
+            "name": "ヒナツ HR 095",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1676865937",
+            "price": 1555,
+            "name": "ヒナツ HR 095",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1298320280",
+            "price": 7000,
+            "name": "[状態B]ヒナツ| ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23491",
+            "price": 1700,
+            "name": "ヒナツ(HR){サポ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35374",
+            "price": 1580,
+            "name": "ヒナツ095/071",
+            "date": "2022-12-18",
+            "stock": 25
+        },
+        {
+            "market": "magi",
+            "link": "/items/1885283411",
+            "price": 3333,
+            "name": "ヒナツ HR 095",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1298320280",
+            "price": 7000,
+            "name": "[状態B]ヒナツ| ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1676865937",
+            "price": 1555,
+            "name": "ヒナツ HR 095",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23491",
+            "price": 1700,
+            "name": "ヒナツ(HR){サポ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35374",
+            "price": 1580,
+            "name": "ヒナツ095/071",
+            "date": "2022-12-17",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35395",
+            "price": 1330,
+            "name": "ヒナツ095/071",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1298320280",
+            "price": 7000,
+            "name": "[状態B]ヒナツ| ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1885283411",
+            "price": 3333,
+            "name": "ヒナツ HR 095",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23491",
+            "price": 1700,
+            "name": "ヒナツ(HR){サポ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35374",
+            "price": 1580,
+            "name": "ヒナツ095/071",
+            "date": "2022-12-16",
+            "stock": 25
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g095-071-S10A-B/",
             "price": 1430,
             "name": "【ポケカ】ＨＲ◇ヒナ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1298320280",
-            "price": 7000,
-            "name": "[状態B]ヒナツ| ",
-            "date": "2022-12-03",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -61,47 +293,7 @@
             "link": "/items/1885283411",
             "price": 3333,
             "name": "ヒナツ HR 095",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23491",
-            "price": 1700,
-            "name": "ヒナツ(HR){サポ",
-            "date": "2022-12-03",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35374",
-            "price": 1580,
-            "name": "ヒナツ095/071",
-            "date": "2022-12-03",
-            "stock": 16
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35445",
-            "price": 1080,
-            "name": "ヒナツ095/071",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g095-071-S10A-B/",
-            "price": 1430,
-            "name": "【ポケカ】ＨＲ◇ヒナ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1885283411",
-            "price": 3333,
-            "name": "ヒナツ HR 095",
-            "date": "2022-12-02",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -109,7 +301,7 @@
             "link": "/items/1298320280",
             "price": 7000,
             "name": "[状態B]ヒナツ| ",
-            "date": "2022-12-02",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -117,15 +309,7 @@
             "link": "https://www.hareruya2.com/product/23491",
             "price": 1700,
             "name": "ヒナツ(HR){サポ",
-            "date": "2022-12-02",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35445",
-            "price": 1080,
-            "name": "ヒナツ095/071",
-            "date": "2022-12-02",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -133,216 +317,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/35374",
             "price": 1580,
             "name": "ヒナツ095/071",
-            "date": "2022-12-02",
-            "stock": 15
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g095-071-S10A-B/",
-            "price": 1430,
-            "name": "【ポケカ】ＨＲ◇ヒナ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1298320280",
-            "price": 7000,
-            "name": "[状態B]ヒナツ| ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1885283411",
-            "price": 3333,
-            "name": "ヒナツ HR 095",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23491",
-            "price": 1700,
-            "name": "ヒナツ(HR){サポ",
-            "date": "2022-12-01",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35445",
-            "price": 1080,
-            "name": "ヒナツ095/071",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35374",
-            "price": 1580,
-            "name": "ヒナツ095/071",
-            "date": "2022-12-01",
-            "stock": 15
-        },
-        {
-            "market": "magi",
-            "link": "/items/1885283411",
-            "price": 3333,
-            "name": "ヒナツ HR 095",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1298320280",
-            "price": 7000,
-            "name": "[状態B]ヒナツ| ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23491",
-            "price": 1700,
-            "name": "ヒナツ(HR){サポ",
-            "date": "2022-11-30",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35445",
-            "price": 1080,
-            "name": "ヒナツ095/071",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35374",
-            "price": 1580,
-            "name": "ヒナツ095/071",
-            "date": "2022-11-30",
-            "stock": 15
-        },
-        {
-            "market": "magi",
-            "link": "/items/1298320280",
-            "price": 7000,
-            "name": "[状態B]ヒナツ| ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1885283411",
-            "price": 3333,
-            "name": "ヒナツ HR 095",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23491",
-            "price": 1700,
-            "name": "ヒナツ(HR){サポ",
-            "date": "2022-11-29",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35374",
-            "price": 1580,
-            "name": "ヒナツ095/071",
-            "date": "2022-11-29",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35445",
-            "price": 1080,
-            "name": "ヒナツ095/071",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1298320280",
-            "price": 7000,
-            "name": "[状態B]ヒナツ| ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1885283411",
-            "price": 3333,
-            "name": "ヒナツ HR 095",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23491",
-            "price": 1700,
-            "name": "ヒナツ(HR){サポ",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35445",
-            "price": 1080,
-            "name": "ヒナツ095/071",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35374",
-            "price": 1580,
-            "name": "ヒナツ095/071",
-            "date": "2022-11-28",
-            "stock": 14
-        },
-        {
-            "market": "magi",
-            "link": "/items/1298320280",
-            "price": 7000,
-            "name": "[状態B]ヒナツ| ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1885283411",
-            "price": 3333,
-            "name": "ヒナツ HR 095",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23491",
-            "price": 1700,
-            "name": "ヒナツ(HR){サポ",
-            "date": "2022-11-27",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35445",
-            "price": 1080,
-            "name": "ヒナツ095/071",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35374",
-            "price": 1580,
-            "name": "ヒナツ095/071",
-            "date": "2022-11-27",
-            "stock": 14
+            "date": "2022-12-15",
+            "stock": 25
         }
     ]
 }

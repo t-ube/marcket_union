@@ -1,100 +1,412 @@
 ﻿{
     "items": [
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26208",
+            "market": "magi",
+            "link": "/items/44816647",
             "price": 100,
-            "name": "レジアイス:ミラー(",
-            "date": "2022-12-04",
-            "stock": 20
+            "name": "レジアイス 025/",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1149937496",
+            "price": 120,
+            "name": "レジアイス【-】{0",
+            "date": "2022-12-22",
+            "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26048",
             "price": 50,
             "name": "レジアイス(CP){",
-            "date": "2022-12-04",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38269",
-            "price": 80,
-            "name": "レジアイス025/1",
-            "date": "2022-12-04",
-            "stock": 104
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38109",
-            "price": 30,
-            "name": "レジアイス025/1",
-            "date": "2022-12-04",
-            "stock": 149
+            "date": "2022-12-22",
+            "stock": 41
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26208",
             "price": 100,
             "name": "レジアイス:ミラー(",
-            "date": "2022-12-03",
-            "stock": 20
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26048",
-            "price": 50,
-            "name": "レジアイス(CP){",
-            "date": "2022-12-03",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38269",
-            "price": 80,
-            "name": "レジアイス025/1",
-            "date": "2022-12-03",
-            "stock": 73
+            "date": "2022-12-22",
+            "stock": 13
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38109",
             "price": 30,
             "name": "レジアイス025/1",
-            "date": "2022-12-03",
-            "stock": 151
+            "date": "2022-12-22",
+            "stock": 95
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38269",
+            "price": 80,
+            "name": "レジアイス025/1",
+            "date": "2022-12-22",
+            "stock": 398
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38543",
+            "price": 70,
+            "name": "レジアイス025/1",
+            "date": "2022-12-22",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/44816647",
+            "price": 100,
+            "name": "レジアイス 025/",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1149937496",
+            "price": 120,
+            "name": "レジアイス【-】{0",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26048",
+            "price": 50,
+            "name": "レジアイス(CP){",
+            "date": "2022-12-21",
+            "stock": 41
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26208",
             "price": 100,
             "name": "レジアイス:ミラー(",
-            "date": "2022-12-02",
-            "stock": 20
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26048",
-            "price": 50,
-            "name": "レジアイス(CP){",
-            "date": "2022-12-02",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38269",
-            "price": 80,
-            "name": "レジアイス025/1",
-            "date": "2022-12-02",
-            "stock": 78
+            "date": "2022-12-21",
+            "stock": 13
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38109",
             "price": 30,
             "name": "レジアイス025/1",
-            "date": "2022-12-02",
-            "stock": 155
+            "date": "2022-12-21",
+            "stock": 101
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38269",
+            "price": 80,
+            "name": "レジアイス025/1",
+            "date": "2022-12-21",
+            "stock": 385
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38543",
+            "price": 70,
+            "name": "レジアイス025/1",
+            "date": "2022-12-21",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1149937496",
+            "price": 120,
+            "name": "レジアイス【-】{0",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/44816647",
+            "price": 100,
+            "name": "レジアイス 025/",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26208",
+            "price": 100,
+            "name": "レジアイス:ミラー(",
+            "date": "2022-12-20",
+            "stock": 13
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26048",
+            "price": 50,
+            "name": "レジアイス(CP){",
+            "date": "2022-12-20",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38269",
+            "price": 80,
+            "name": "レジアイス025/1",
+            "date": "2022-12-20",
+            "stock": 350
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38109",
+            "price": 30,
+            "name": "レジアイス025/1",
+            "date": "2022-12-20",
+            "stock": 111
+        },
+        {
+            "market": "magi",
+            "link": "/items/44816647",
+            "price": 100,
+            "name": "レジアイス 025/",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1149937496",
+            "price": 120,
+            "name": "レジアイス【-】{0",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26208",
+            "price": 100,
+            "name": "レジアイス:ミラー(",
+            "date": "2022-12-19",
+            "stock": 15
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26048",
+            "price": 50,
+            "name": "レジアイス(CP){",
+            "date": "2022-12-19",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38109",
+            "price": 30,
+            "name": "レジアイス025/1",
+            "date": "2022-12-19",
+            "stock": 115
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38269",
+            "price": 80,
+            "name": "レジアイス025/1",
+            "date": "2022-12-19",
+            "stock": 344
+        },
+        {
+            "market": "magi",
+            "link": "/items/44816647",
+            "price": 100,
+            "name": "レジアイス 025/",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1149937496",
+            "price": 120,
+            "name": "レジアイス【-】{0",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26208",
+            "price": 100,
+            "name": "レジアイス:ミラー(",
+            "date": "2022-12-18",
+            "stock": 15
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26048",
+            "price": 50,
+            "name": "レジアイス(CP){",
+            "date": "2022-12-18",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38109",
+            "price": 30,
+            "name": "レジアイス025/1",
+            "date": "2022-12-18",
+            "stock": 117
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38269",
+            "price": 80,
+            "name": "レジアイス025/1",
+            "date": "2022-12-18",
+            "stock": 334
+        },
+        {
+            "market": "magi",
+            "link": "/items/44816647",
+            "price": 100,
+            "name": "レジアイス 025/",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1149937496",
+            "price": 120,
+            "name": "レジアイス【-】{0",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26048",
+            "price": 50,
+            "name": "レジアイス(CP){",
+            "date": "2022-12-17",
+            "stock": 41
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26208",
+            "price": 100,
+            "name": "レジアイス:ミラー(",
+            "date": "2022-12-17",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38543",
+            "price": 70,
+            "name": "レジアイス025/1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38109",
+            "price": 30,
+            "name": "レジアイス025/1",
+            "date": "2022-12-17",
+            "stock": 119
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38269",
+            "price": 80,
+            "name": "レジアイス025/1",
+            "date": "2022-12-17",
+            "stock": 333
+        },
+        {
+            "market": "magi",
+            "link": "/items/1149937496",
+            "price": 120,
+            "name": "レジアイス【-】{0",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26208",
+            "price": 100,
+            "name": "レジアイス:ミラー(",
+            "date": "2022-12-16",
+            "stock": 15
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26048",
+            "price": 50,
+            "name": "レジアイス(CP){",
+            "date": "2022-12-16",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38543",
+            "price": 70,
+            "name": "レジアイス025/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38269",
+            "price": 80,
+            "name": "レジアイス025/1",
+            "date": "2022-12-16",
+            "stock": 328
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38109",
+            "price": 30,
+            "name": "レジアイス025/1",
+            "date": "2022-12-16",
+            "stock": 121
+        },
+        {
+            "market": "magi",
+            "link": "/items/1149937496",
+            "price": 120,
+            "name": "レジアイス【-】{0",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26048",
+            "price": 50,
+            "name": "レジアイス(CP){",
+            "date": "2022-12-15",
+            "stock": 41
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26208",
+            "price": 100,
+            "name": "レジアイス:ミラー(",
+            "date": "2022-12-15",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38543",
+            "price": 70,
+            "name": "レジアイス025/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38269",
+            "price": 80,
+            "name": "レジアイス025/1",
+            "date": "2022-12-15",
+            "stock": 323
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38109",
+            "price": 30,
+            "name": "レジアイス025/1",
+            "date": "2022-12-15",
+            "stock": 122
         }
     ]
 }

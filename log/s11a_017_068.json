@@ -2,34 +2,18 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/111103918",
-            "price": 100,
-            "name": "一枚２５円 テールナ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/923734850",
-            "price": 100,
+            "link": "/items/1163754842",
+            "price": 15,
             "name": "テールナー C 01",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/436254654",
-            "price": 100,
-            "name": "テールナー C 01",
-            "date": "2022-12-04",
-            "stock": 1
+            "date": "2022-12-22",
+            "stock": 10
         },
         {
             "market": "magi",
             "link": "/items/2119202615",
             "price": 100,
             "name": "テールナー C 01",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -37,7 +21,31 @@
             "link": "/items/938065818",
             "price": 150,
             "name": "テールナー C 01",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/923734850",
+            "price": 100,
+            "name": "テールナー C 01",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/111103918",
+            "price": 100,
+            "name": "一枚２５円 テールナ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/436254654",
+            "price": 100,
+            "name": "テールナー C 01",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -45,7 +53,455 @@
             "link": "https://www.hareruya2.com/product/25161",
             "price": 100,
             "name": "テールナー:ミラー(",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 27
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25100",
+            "price": 50,
+            "name": "テールナー(C){炎",
+            "date": "2022-12-22",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36967",
+            "price": 120,
+            "name": "テールナー017/0",
+            "date": "2022-12-22",
+            "stock": 96
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36906",
+            "price": 80,
+            "name": "テールナー017/0",
+            "date": "2022-12-22",
+            "stock": 347
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-068-S11A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-22",
+            "stock": 39
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-068-S11A-BM/",
+            "price": 44,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-22",
+            "stock": 8
+        },
+        {
+            "market": "magi",
+            "link": "/items/938065818",
+            "price": 150,
+            "name": "テールナー C 01",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1163754842",
+            "price": 15,
+            "name": "テールナー C 01",
+            "date": "2022-12-21",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/436254654",
+            "price": 100,
+            "name": "テールナー C 01",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2119202615",
+            "price": 100,
+            "name": "テールナー C 01",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/111103918",
+            "price": 100,
+            "name": "一枚２５円 テールナ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/923734850",
+            "price": 100,
+            "name": "テールナー C 01",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25161",
+            "price": 100,
+            "name": "テールナー:ミラー(",
+            "date": "2022-12-21",
+            "stock": 27
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25100",
+            "price": 50,
+            "name": "テールナー(C){炎",
+            "date": "2022-12-21",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36906",
+            "price": 80,
+            "name": "テールナー017/0",
+            "date": "2022-12-21",
+            "stock": 347
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36967",
+            "price": 120,
+            "name": "テールナー017/0",
+            "date": "2022-12-21",
+            "stock": 96
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-068-S11A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-21",
+            "stock": 39
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-068-S11A-BM/",
+            "price": 44,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-21",
+            "stock": 8
+        },
+        {
+            "market": "magi",
+            "link": "/items/2119202615",
+            "price": 100,
+            "name": "テールナー C 01",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/923734850",
+            "price": 100,
+            "name": "テールナー C 01",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/436254654",
+            "price": 100,
+            "name": "テールナー C 01",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/938065818",
+            "price": 150,
+            "name": "テールナー C 01",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/111103918",
+            "price": 100,
+            "name": "一枚２５円 テールナ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25161",
+            "price": 100,
+            "name": "テールナー:ミラー(",
+            "date": "2022-12-20",
+            "stock": 27
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25100",
+            "price": 50,
+            "name": "テールナー(C){炎",
+            "date": "2022-12-20",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36967",
+            "price": 120,
+            "name": "テールナー017/0",
+            "date": "2022-12-20",
+            "stock": 96
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36906",
+            "price": 80,
+            "name": "テールナー017/0",
+            "date": "2022-12-20",
+            "stock": 348
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-068-S11A-BM/",
+            "price": 44,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-20",
+            "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-068-S11A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-20",
+            "stock": 39
+        },
+        {
+            "market": "magi",
+            "link": "/items/923734850",
+            "price": 100,
+            "name": "テールナー C 01",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2119202615",
+            "price": 100,
+            "name": "テールナー C 01",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/938065818",
+            "price": 150,
+            "name": "テールナー C 01",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/436254654",
+            "price": 100,
+            "name": "テールナー C 01",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/111103918",
+            "price": 100,
+            "name": "一枚２５円 テールナ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25100",
+            "price": 50,
+            "name": "テールナー(C){炎",
+            "date": "2022-12-19",
+            "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25161",
+            "price": 100,
+            "name": "テールナー:ミラー(",
+            "date": "2022-12-19",
+            "stock": 27
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36906",
+            "price": 80,
+            "name": "テールナー017/0",
+            "date": "2022-12-19",
+            "stock": 348
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36967",
+            "price": 120,
+            "name": "テールナー017/0",
+            "date": "2022-12-19",
+            "stock": 96
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-068-S11A-BM/",
+            "price": 44,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-19",
+            "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-068-S11A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-19",
+            "stock": 39
+        },
+        {
+            "market": "magi",
+            "link": "/items/436254654",
+            "price": 100,
+            "name": "テールナー C 01",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/938065818",
+            "price": 150,
+            "name": "テールナー C 01",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2119202615",
+            "price": 100,
+            "name": "テールナー C 01",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/111103918",
+            "price": 100,
+            "name": "一枚２５円 テールナ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/923734850",
+            "price": 100,
+            "name": "テールナー C 01",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25100",
+            "price": 50,
+            "name": "テールナー(C){炎",
+            "date": "2022-12-18",
+            "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25161",
+            "price": 100,
+            "name": "テールナー:ミラー(",
+            "date": "2022-12-18",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36906",
+            "price": 80,
+            "name": "テールナー017/0",
+            "date": "2022-12-18",
+            "stock": 351
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36967",
+            "price": 120,
+            "name": "テールナー017/0",
+            "date": "2022-12-18",
+            "stock": 100
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-068-S11A-BM/",
+            "price": 44,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-18",
+            "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-068-S11A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-18",
+            "stock": 39
+        },
+        {
+            "market": "magi",
+            "link": "/items/436254654",
+            "price": 100,
+            "name": "テールナー C 01",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2119202615",
+            "price": 100,
+            "name": "テールナー C 01",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/923734850",
+            "price": 100,
+            "name": "テールナー C 01",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/938065818",
+            "price": 150,
+            "name": "テールナー C 01",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/111103918",
+            "price": 100,
+            "name": "一枚２５円 テールナ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25161",
+            "price": 100,
+            "name": "テールナー:ミラー(",
+            "date": "2022-12-17",
             "stock": 28
         },
         {
@@ -53,15 +509,15 @@
             "link": "https://www.hareruya2.com/product/25100",
             "price": 50,
             "name": "テールナー(C){炎",
-            "date": "2022-12-04",
-            "stock": 19
+            "date": "2022-12-17",
+            "stock": 17
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36967",
             "price": 120,
             "name": "テールナー017/0",
-            "date": "2022-12-04",
+            "date": "2022-12-17",
             "stock": 100
         },
         {
@@ -69,31 +525,31 @@
             "link": "https://www.cardrush-pokemon.jp/product/36906",
             "price": 80,
             "name": "テールナー017/0",
-            "date": "2022-12-04",
-            "stock": 368
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-068-S11A-BM/",
-            "price": 44,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-04",
-            "stock": 12
+            "date": "2022-12-17",
+            "stock": 352
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g017-068-S11A-B/",
             "price": 33,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-04",
+            "date": "2022-12-17",
             "stock": 39
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-068-S11A-BM/",
+            "price": 44,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-17",
+            "stock": 8
         },
         {
             "market": "magi",
             "link": "/items/923734850",
             "price": 100,
             "name": "テールナー C 01",
-            "date": "2022-12-03",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -101,23 +557,7 @@
             "link": "/items/111103918",
             "price": 100,
             "name": "一枚２５円 テールナ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1511163044",
-            "price": 180,
-            "name": "テールナー C 01",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/436254654",
-            "price": 100,
-            "name": "テールナー C 01",
-            "date": "2022-12-03",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -125,7 +565,15 @@
             "link": "/items/2119202615",
             "price": 100,
             "name": "テールナー C 01",
-            "date": "2022-12-03",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/436254654",
+            "price": 100,
+            "name": "テールナー C 01",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -133,7 +581,7 @@
             "link": "/items/938065818",
             "price": 150,
             "name": "テールナー C 01",
-            "date": "2022-12-03",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -141,15 +589,15 @@
             "link": "https://www.hareruya2.com/product/25100",
             "price": 50,
             "name": "テールナー(C){炎",
-            "date": "2022-12-03",
-            "stock": 21
+            "date": "2022-12-16",
+            "stock": 18
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25161",
             "price": 100,
             "name": "テールナー:ミラー(",
-            "date": "2022-12-03",
+            "date": "2022-12-16",
             "stock": 28
         },
         {
@@ -157,47 +605,39 @@
             "link": "https://www.cardrush-pokemon.jp/product/36906",
             "price": 80,
             "name": "テールナー017/0",
-            "date": "2022-12-03",
-            "stock": 373
+            "date": "2022-12-16",
+            "stock": 352
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36967",
             "price": 120,
             "name": "テールナー017/0",
-            "date": "2022-12-03",
-            "stock": 101
+            "date": "2022-12-16",
+            "stock": 100
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g017-068-S11A-BM/",
             "price": 44,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-03",
-            "stock": 12
+            "date": "2022-12-16",
+            "stock": 8
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g017-068-S11A-B/",
             "price": 33,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-03",
+            "date": "2022-12-16",
             "stock": 39
         },
         {
             "market": "magi",
-            "link": "/items/2119202615",
+            "link": "/items/436254654",
             "price": 100,
             "name": "テールナー C 01",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/923734850",
-            "price": 100,
-            "name": "テールナー C 01",
-            "date": "2022-12-02",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -205,15 +645,7 @@
             "link": "/items/111103918",
             "price": 100,
             "name": "一枚２５円 テールナ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/436254654",
-            "price": 100,
-            "name": "テールナー C 01",
-            "date": "2022-12-02",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -221,119 +653,7 @@
             "link": "/items/938065818",
             "price": 150,
             "name": "テールナー C 01",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1511163044",
-            "price": 180,
-            "name": "テールナー C 01",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/159404688",
-            "price": 110,
-            "name": "テールナー C 01",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25161",
-            "price": 100,
-            "name": "テールナー:ミラー(",
-            "date": "2022-12-02",
-            "stock": 29
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25100",
-            "price": 50,
-            "name": "テールナー(C){炎",
-            "date": "2022-12-02",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36967",
-            "price": 120,
-            "name": "テールナー017/0",
-            "date": "2022-12-02",
-            "stock": 102
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36906",
-            "price": 80,
-            "name": "テールナー017/0",
-            "date": "2022-12-02",
-            "stock": 375
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-068-S11A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-02",
-            "stock": 39
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-068-S11A-BM/",
-            "price": 44,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-02",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/1511163044",
-            "price": 180,
-            "name": "テールナー C 01",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/159404688",
-            "price": 110,
-            "name": "テールナー C 01",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2119202615",
-            "price": 100,
-            "name": "テールナー C 01",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/436254654",
-            "price": 100,
-            "name": "テールナー C 01",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/938065818",
-            "price": 150,
-            "name": "テールナー C 01",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/111103918",
-            "price": 100,
-            "name": "一枚２５円 テールナ",
-            "date": "2022-12-01",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -341,71 +661,7 @@
             "link": "/items/923734850",
             "price": 100,
             "name": "テールナー C 01",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25161",
-            "price": 100,
-            "name": "テールナー:ミラー(",
-            "date": "2022-12-01",
-            "stock": 29
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25100",
-            "price": 50,
-            "name": "テールナー(C){炎",
-            "date": "2022-12-01",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36967",
-            "price": 120,
-            "name": "テールナー017/0",
-            "date": "2022-12-01",
-            "stock": 103
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36906",
-            "price": 80,
-            "name": "テールナー017/0",
-            "date": "2022-12-01",
-            "stock": 377
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-068-S11A-BM/",
-            "price": 44,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-01",
-            "stock": 12
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-068-S11A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-01",
-            "stock": 39
-        },
-        {
-            "market": "magi",
-            "link": "/items/1511163044",
-            "price": 180,
-            "name": "テールナー C 01",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/111103918",
-            "price": 100,
-            "name": "一枚２５円 テールナ",
-            "date": "2022-11-30",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -413,39 +669,7 @@
             "link": "/items/2119202615",
             "price": 100,
             "name": "テールナー C 01",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/938065818",
-            "price": 150,
-            "name": "テールナー C 01",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/159404688",
-            "price": 110,
-            "name": "テールナー C 01",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/923734850",
-            "price": 100,
-            "name": "テールナー C 01",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/436254654",
-            "price": 100,
-            "name": "テールナー C 01",
-            "date": "2022-11-30",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -453,343 +677,47 @@
             "link": "https://www.hareruya2.com/product/25161",
             "price": 100,
             "name": "テールナー:ミラー(",
-            "date": "2022-11-30",
-            "stock": 29
+            "date": "2022-12-15",
+            "stock": 28
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25100",
             "price": 50,
             "name": "テールナー(C){炎",
-            "date": "2022-11-30",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36906",
-            "price": 80,
-            "name": "テールナー017/0",
-            "date": "2022-11-30",
-            "stock": 379
+            "date": "2022-12-15",
+            "stock": 18
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36967",
             "price": 120,
             "name": "テールナー017/0",
-            "date": "2022-11-30",
-            "stock": 103
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-068-S11A-BM/",
-            "price": 44,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-30",
-            "stock": 12
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-068-S11A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-30",
-            "stock": 39
-        },
-        {
-            "market": "magi",
-            "link": "/items/159404688",
-            "price": 110,
-            "name": "テールナー C 01",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1511163044",
-            "price": 180,
-            "name": "テールナー C 01",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/938065818",
-            "price": 150,
-            "name": "テールナー C 01",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/111103918",
-            "price": 100,
-            "name": "一枚２５円 テールナ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/923734850",
-            "price": 100,
-            "name": "テールナー C 01",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2119202615",
-            "price": 100,
-            "name": "テールナー C 01",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/436254654",
-            "price": 100,
-            "name": "テールナー C 01",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25161",
-            "price": 100,
-            "name": "テールナー:ミラー(",
-            "date": "2022-11-29",
-            "stock": 29
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25100",
-            "price": 50,
-            "name": "テールナー(C){炎",
-            "date": "2022-11-29",
-            "stock": 21
+            "date": "2022-12-15",
+            "stock": 100
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36906",
             "price": 80,
             "name": "テールナー017/0",
-            "date": "2022-11-29",
-            "stock": 379
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36967",
-            "price": 120,
-            "name": "テールナー017/0",
-            "date": "2022-11-29",
-            "stock": 103
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-068-S11A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-29",
-            "stock": 39
+            "date": "2022-12-15",
+            "stock": 353
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g017-068-S11A-BM/",
             "price": 44,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-29",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/2119202615",
-            "price": 100,
-            "name": "テールナー C 01",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/111103918",
-            "price": 100,
-            "name": "一枚２５円 テールナ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/938065818",
-            "price": 150,
-            "name": "テールナー C 01",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/923734850",
-            "price": 100,
-            "name": "テールナー C 01",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/436254654",
-            "price": 100,
-            "name": "テールナー C 01",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/159404688",
-            "price": 110,
-            "name": "テールナー C 01",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25100",
-            "price": 50,
-            "name": "テールナー(C){炎",
-            "date": "2022-11-28",
-            "stock": 21
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25161",
-            "price": 100,
-            "name": "テールナー:ミラー(",
-            "date": "2022-11-28",
-            "stock": 29
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36906",
-            "price": 80,
-            "name": "テールナー017/0",
-            "date": "2022-11-28",
-            "stock": 380
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36967",
-            "price": 120,
-            "name": "テールナー017/0",
-            "date": "2022-11-28",
-            "stock": 104
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-068-S11A-BM/",
-            "price": 44,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-28",
-            "stock": 12
+            "date": "2022-12-15",
+            "stock": 8
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g017-068-S11A-B/",
             "price": 33,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-28",
-            "stock": 39
-        },
-        {
-            "market": "magi",
-            "link": "/items/2119202615",
-            "price": 100,
-            "name": "テールナー C 01",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/436254654",
-            "price": 100,
-            "name": "テールナー C 01",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/923734850",
-            "price": 100,
-            "name": "テールナー C 01",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/111103918",
-            "price": 100,
-            "name": "一枚２５円 テールナ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/938065818",
-            "price": 150,
-            "name": "テールナー C 01",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/159404688",
-            "price": 110,
-            "name": "テールナー C 01",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25161",
-            "price": 100,
-            "name": "テールナー:ミラー(",
-            "date": "2022-11-27",
-            "stock": 30
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25100",
-            "price": 50,
-            "name": "テールナー(C){炎",
-            "date": "2022-11-27",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36967",
-            "price": 120,
-            "name": "テールナー017/0",
-            "date": "2022-11-27",
-            "stock": 104
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36906",
-            "price": 80,
-            "name": "テールナー017/0",
-            "date": "2022-11-27",
-            "stock": 381
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-068-S11A-BM/",
-            "price": 44,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-27",
-            "stock": 12
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-068-S11A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 39
         }
     ]

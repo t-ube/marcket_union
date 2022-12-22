@@ -2,90 +2,298 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/436751563",
-            "price": 9429,
+            "link": "/items/1587537771",
+            "price": 7800,
             "name": "オリジンディアルガV",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/434648859",
-            "price": 7980,
+            "link": "/items/1038247340",
+            "price": 7329,
             "name": "オリジンディアルガV",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2022099318",
-            "price": 8904,
-            "name": "〔状態A-〕オリジン",
-            "date": "2022-12-04",
+            "link": "/items/1471506661",
+            "price": 11800,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1676106775",
-            "price": 14000,
+            "link": "/items/1112639347",
+            "price": 9500,
             "name": "オリジンディアルガV",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1192798535",
+            "price": 6400,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1588230214",
+            "price": 8000,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26399",
-            "price": 7800,
+            "price": 7500,
             "name": "オリジンディアルガV",
-            "date": "2022-12-04",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38707",
-            "price": 8480,
-            "name": "オリジンディアルガV",
-            "date": "2022-12-04",
-            "stock": 1
+            "date": "2022-12-22",
+            "stock": 14
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38440",
-            "price": 8980,
+            "price": 6980,
             "name": "オリジンディアルガV",
-            "date": "2022-12-04",
-            "stock": 41
+            "date": "2022-12-22",
+            "stock": 39
         },
         {
             "market": "magi",
-            "link": "/items/436751563",
-            "price": 10479,
+            "link": "/items/1038247340",
+            "price": 7854,
             "name": "オリジンディアルガV",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1676106775",
-            "price": 14000,
+            "link": "/items/1587537771",
+            "price": 7800,
             "name": "オリジンディアルガV",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/992704894",
-            "price": 7700,
+            "link": "/items/1588230214",
+            "price": 8000,
             "name": "オリジンディアルガV",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2022099318",
-            "price": 9639,
-            "name": "〔状態A-〕オリジン",
-            "date": "2022-12-03",
+            "link": "/items/1112639347",
+            "price": 9500,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1471506661",
+            "price": 11800,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26399",
+            "price": 7500,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-21",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38440",
+            "price": 7480,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-21",
+            "stock": 42
+        },
+        {
+            "market": "magi",
+            "link": "/items/1682991401",
+            "price": 6400,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1587537771",
+            "price": 7800,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1588230214",
+            "price": 8000,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1038247340",
+            "price": 7854,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1471506661",
+            "price": 11800,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1112639347",
+            "price": 9500,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26399",
+            "price": 7500,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-20",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38440",
+            "price": 7480,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-20",
+            "stock": 25
+        },
+        {
+            "market": "magi",
+            "link": "/items/1588230214",
+            "price": 8000,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1682991401",
+            "price": 6400,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1112639347",
+            "price": 9500,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1038247340",
+            "price": 7854,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1587537771",
+            "price": 7800,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1471506661",
+            "price": 11800,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26399",
+            "price": 7500,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-19",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38440",
+            "price": 7480,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-19",
+            "stock": 22
+        },
+        {
+            "market": "magi",
+            "link": "/items/1885006483",
+            "price": 14750,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1038247340",
+            "price": 7854,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1682991401",
+            "price": 6400,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1471506661",
+            "price": 11800,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1112639347",
+            "price": 9500,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1587537771",
+            "price": 7800,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -93,24 +301,192 @@
             "link": "https://www.hareruya2.com/product/26399",
             "price": 8000,
             "name": "オリジンディアルガV",
-            "date": "2022-12-03",
-            "stock": 5
+            "date": "2022-12-18",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38440",
+            "price": 7480,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-18",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/1587537771",
+            "price": 7800,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1013823225",
+            "price": 6500,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1038247340",
+            "price": 7854,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1112639347",
+            "price": 9500,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/899889666",
+            "price": 7329,
+            "name": "〔状態A-〕オリジン",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1471506661",
+            "price": 11800,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26399",
+            "price": 8000,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-17",
+            "stock": 19
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38707",
-            "price": 9180,
+            "price": 6980,
             "name": "オリジンディアルガV",
-            "date": "2022-12-03",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38440",
-            "price": 9980,
+            "price": 7480,
             "name": "オリジンディアルガV",
-            "date": "2022-12-03",
-            "stock": 26
+            "date": "2022-12-17",
+            "stock": 23
+        },
+        {
+            "market": "magi",
+            "link": "/items/1587537771",
+            "price": 7800,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1471506661",
+            "price": 11800,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1038247340",
+            "price": 7854,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1013823225",
+            "price": 7500,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1112639347",
+            "price": 9500,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26399",
+            "price": 8000,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-16",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38440",
+            "price": 7480,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-16",
+            "stock": 22
+        },
+        {
+            "market": "magi",
+            "link": "/items/1038247340",
+            "price": 7854,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1013823225",
+            "price": 7500,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1471506661",
+            "price": 11800,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1112639347",
+            "price": 9500,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26399",
+            "price": 8000,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-15",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38440",
+            "price": 7480,
+            "name": "オリジンディアルガV",
+            "date": "2022-12-15",
+            "stock": 25
         }
     ]
 }

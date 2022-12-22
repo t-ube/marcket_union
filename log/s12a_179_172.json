@@ -2,42 +2,250 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1016069681",
-            "price": 326,
-            "name": "ケルディオ AR 1",
-            "date": "2022-12-04",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/2088490015",
-            "price": 600,
-            "name": "ケルディオ AR 1",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/700333840",
-            "price": 550,
+            "price": 450,
             "name": "ケルディオ AR 1",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1812074610",
-            "price": 150,
+            "link": "/items/1359062804",
+            "price": 400,
             "name": "ケルディオ AR 1",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1254575068",
+            "price": 400,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/34145779",
+            "price": 330,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1819354218",
+            "price": 300,
+            "name": "プレゼント付き　ケル",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/890841335",
+            "price": 380,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1354230729",
+            "price": 200,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1106959959",
+            "price": 350,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26318",
-            "price": 150,
+            "price": 200,
             "name": "ケルディオ(AR){",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
+            "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38359",
+            "price": 280,
+            "name": "ケルディオ179/1",
+            "date": "2022-12-22",
+            "stock": 48
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38626",
+            "price": 260,
+            "name": "ケルディオ179/1",
+            "date": "2022-12-22",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1354230729",
+            "price": 200,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/700333840",
+            "price": 450,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1359062804",
+            "price": 400,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1254575068",
+            "price": 400,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1106959959",
+            "price": 400,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1819354218",
+            "price": 300,
+            "name": "プレゼント付き　ケル",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/890841335",
+            "price": 380,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/34145779",
+            "price": 340,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26318",
+            "price": 200,
+            "name": "ケルディオ(AR){",
+            "date": "2022-12-21",
+            "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38359",
+            "price": 280,
+            "name": "ケルディオ179/1",
+            "date": "2022-12-21",
+            "stock": 38
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38626",
+            "price": 260,
+            "name": "ケルディオ179/1",
+            "date": "2022-12-21",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/700333840",
+            "price": 450,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1254575068",
+            "price": 400,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1354230729",
+            "price": 200,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/34145779",
+            "price": 340,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1819354218",
+            "price": 300,
+            "name": "プレゼント付き　ケル",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/890841335",
+            "price": 380,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1359062804",
+            "price": 400,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26318",
+            "price": 200,
+            "name": "ケルディオ(AR){",
+            "date": "2022-12-20",
+            "stock": 30
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38359",
+            "price": 220,
+            "name": "ケルディオ179/1",
+            "date": "2022-12-20",
             "stock": 23
         },
         {
@@ -45,120 +253,416 @@
             "link": "https://www.cardrush-pokemon.jp/product/38626",
             "price": 200,
             "name": "ケルディオ179/1",
-            "date": "2022-12-04",
+            "date": "2022-12-20",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/34145779",
+            "price": 340,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-19",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1254575068",
+            "price": 420,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/700333840",
+            "price": 450,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1359062804",
+            "price": 400,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1354230729",
+            "price": 200,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/890841335",
+            "price": 380,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1819354218",
+            "price": 300,
+            "name": "プレゼント付き　ケル",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26318",
+            "price": 200,
+            "name": "ケルディオ(AR){",
+            "date": "2022-12-19",
+            "stock": 31
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38359",
             "price": 220,
             "name": "ケルディオ179/1",
-            "date": "2022-12-04",
-            "stock": 65
-        },
-        {
-            "market": "magi",
-            "link": "/items/1812074610",
-            "price": 150,
-            "name": "ケルディオ AR 1",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2088490015",
-            "price": 600,
-            "name": "ケルディオ AR 1",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/700333840",
-            "price": 550,
-            "name": "ケルディオ AR 1",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1016069681",
-            "price": 326,
-            "name": "ケルディオ AR 1",
-            "date": "2022-12-03",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26318",
-            "price": 150,
-            "name": "ケルディオ(AR){",
-            "date": "2022-12-03",
-            "stock": 36
+            "date": "2022-12-19",
+            "stock": 41
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38626",
             "price": 200,
             "name": "ケルディオ179/1",
-            "date": "2022-12-03",
+            "date": "2022-12-19",
             "stock": 2
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38359",
-            "price": 220,
-            "name": "ケルディオ179/1",
-            "date": "2022-12-03",
-            "stock": 97
+            "market": "magi",
+            "link": "/items/34145779",
+            "price": 350,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-18",
+            "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2088490015",
-            "price": 650,
+            "link": "/items/1354230729",
+            "price": 200,
             "name": "ケルディオ AR 1",
-            "date": "2022-12-02",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/890841335",
+            "price": 380,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1819354218",
+            "price": 300,
+            "name": "プレゼント付き　ケル",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1254575068",
+            "price": 420,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/700333840",
-            "price": 550,
+            "price": 450,
             "name": "ケルディオ AR 1",
-            "date": "2022-12-02",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1812074610",
-            "price": 150,
+            "link": "/items/1359062804",
+            "price": 400,
             "name": "ケルディオ AR 1",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/55000859",
-            "price": 580,
-            "name": "ケルディオ AR 1",
-            "date": "2022-12-02",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/26318",
-            "price": 150,
+            "price": 200,
             "name": "ケルディオ(AR){",
-            "date": "2022-12-02",
-            "stock": 38
+            "date": "2022-12-18",
+            "stock": 31
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/38359",
             "price": 220,
             "name": "ケルディオ179/1",
-            "date": "2022-12-02",
-            "stock": 146
+            "date": "2022-12-18",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38626",
+            "price": 200,
+            "name": "ケルディオ179/1",
+            "date": "2022-12-18",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/34145779",
+            "price": 350,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1819354218",
+            "price": 300,
+            "name": "プレゼント付き　ケル",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1354230729",
+            "price": 200,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/890841335",
+            "price": 380,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1254575068",
+            "price": 420,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/700333840",
+            "price": 450,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1359062804",
+            "price": 400,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26318",
+            "price": 200,
+            "name": "ケルディオ(AR){",
+            "date": "2022-12-17",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38626",
+            "price": 200,
+            "name": "ケルディオ179/1",
+            "date": "2022-12-17",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38359",
+            "price": 220,
+            "name": "ケルディオ179/1",
+            "date": "2022-12-17",
+            "stock": 29
+        },
+        {
+            "market": "magi",
+            "link": "/items/1359062804",
+            "price": 400,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1819354218",
+            "price": 300,
+            "name": "プレゼント付き　ケル",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/700333840",
+            "price": 450,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2127571585",
+            "price": 300,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/890841335",
+            "price": 400,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1254575068",
+            "price": 420,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/34145779",
+            "price": 350,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26318",
+            "price": 200,
+            "name": "ケルディオ(AR){",
+            "date": "2022-12-16",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38626",
+            "price": 200,
+            "name": "ケルディオ179/1",
+            "date": "2022-12-16",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38359",
+            "price": 220,
+            "name": "ケルディオ179/1",
+            "date": "2022-12-16",
+            "stock": 34
+        },
+        {
+            "market": "magi",
+            "link": "/items/1359062804",
+            "price": 400,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1819354218",
+            "price": 300,
+            "name": "プレゼント付き　ケル",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2127571585",
+            "price": 300,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/34145779",
+            "price": 350,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/700333840",
+            "price": 450,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1254575068",
+            "price": 510,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/890841335",
+            "price": 400,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1782327628",
+            "price": 250,
+            "name": "ケルディオ AR 1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26318",
+            "price": 200,
+            "name": "ケルディオ(AR){",
+            "date": "2022-12-15",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38359",
+            "price": 220,
+            "name": "ケルディオ179/1",
+            "date": "2022-12-15",
+            "stock": 61
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38626",
+            "price": 200,
+            "name": "ケルディオ179/1",
+            "date": "2022-12-15",
+            "stock": 3
         }
     ]
 }

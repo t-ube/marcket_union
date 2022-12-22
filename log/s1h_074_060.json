@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/843702558",
-            "price": 9429,
-            "name": "〔状態B〕クイックボ",
-            "date": "2022-12-04",
+            "link": "/items/1321936370",
+            "price": 11340,
+            "name": "〔状態A-〕クイック",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/56760819",
+            "price": 7000,
+            "name": "クイックボール UR",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,31 +21,15 @@
             "link": "/items/1166755456",
             "price": 15000,
             "name": "クイックボール　07",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/56760819",
-            "price": 9800,
-            "name": "クイックボール UR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/192252710",
-            "price": 15540,
+            "link": "/items/149309640",
+            "price": 14070,
             "name": "クイックボール【UR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1321936370",
-            "price": 13020,
-            "name": "〔状態A-〕クイック",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -45,551 +37,31 @@
             "link": "/items/1035196478",
             "price": 18500,
             "name": "クイックボール UR",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17576",
-            "price": 16000,
+            "price": 14000,
             "name": "クイックボール(UR",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/8298",
-            "price": 8980,
-            "name": "クイックボール074",
-            "date": "2022-12-04",
-            "stock": 2
+            "date": "2022-12-22",
+            "stock": 4
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29780",
-            "price": 12400,
+            "price": 10800,
             "name": "クイックボール074",
-            "date": "2022-12-04",
-            "stock": 32
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7046",
-            "price": 14800,
-            "name": "クイックボール074",
-            "date": "2022-12-04",
-            "stock": 42
-        },
-        {
-            "market": "magi",
-            "link": "/items/1321936370",
-            "price": 13020,
-            "name": "〔状態A-〕クイック",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1166755456",
-            "price": 15000,
-            "name": "クイックボール　07",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/56760819",
-            "price": 9800,
-            "name": "クイックボール UR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/192252710",
-            "price": 15540,
-            "name": "クイックボール【UR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/843702558",
-            "price": 9429,
-            "name": "〔状態B〕クイックボ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1035196478",
-            "price": 18800,
-            "name": "クイックボール UR",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17576",
-            "price": 16000,
-            "name": "クイックボール(UR",
-            "date": "2022-12-03",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29780",
-            "price": 12400,
-            "name": "クイックボール074",
-            "date": "2022-12-03",
-            "stock": 32
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/8298",
-            "price": 8980,
-            "name": "クイックボール074",
-            "date": "2022-12-03",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7046",
-            "price": 14800,
-            "name": "クイックボール074",
-            "date": "2022-12-03",
-            "stock": 42
-        },
-        {
-            "market": "magi",
-            "link": "/items/843702558",
-            "price": 9429,
-            "name": "〔状態B〕クイックボ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1321936370",
-            "price": 13020,
-            "name": "〔状態A-〕クイック",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1166755456",
-            "price": 15000,
-            "name": "クイックボール　07",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/56760819",
-            "price": 9800,
-            "name": "クイックボール UR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1035196478",
-            "price": 18800,
-            "name": "クイックボール UR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/192252710",
-            "price": 15540,
-            "name": "クイックボール【UR",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17576",
-            "price": 16000,
-            "name": "クイックボール(UR",
-            "date": "2022-12-02",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/8298",
-            "price": 8980,
-            "name": "クイックボール074",
-            "date": "2022-12-02",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29780",
-            "price": 12400,
-            "name": "クイックボール074",
-            "date": "2022-12-02",
-            "stock": 32
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7046",
-            "price": 14800,
-            "name": "クイックボール074",
-            "date": "2022-12-02",
-            "stock": 42
-        },
-        {
-            "market": "magi",
-            "link": "/items/843702558",
-            "price": 9429,
-            "name": "〔状態B〕クイックボ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1321936370",
-            "price": 13020,
-            "name": "〔状態A-〕クイック",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/192252710",
-            "price": 15540,
-            "name": "クイックボール【UR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1035196478",
-            "price": 18800,
-            "name": "クイックボール UR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/56760819",
-            "price": 9800,
-            "name": "クイックボール UR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1166755456",
-            "price": 15000,
-            "name": "クイックボール　07",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17576",
-            "price": 16000,
-            "name": "クイックボール(UR",
-            "date": "2022-12-01",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/8298",
-            "price": 8980,
-            "name": "クイックボール074",
-            "date": "2022-12-01",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29780",
-            "price": 12400,
-            "name": "クイックボール074",
-            "date": "2022-12-01",
-            "stock": 32
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7046",
-            "price": 14800,
-            "name": "クイックボール074",
-            "date": "2022-12-01",
-            "stock": 42
-        },
-        {
-            "market": "magi",
-            "link": "/items/56760819",
-            "price": 9800,
-            "name": "クイックボール UR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/843702558",
-            "price": 9429,
-            "name": "〔状態B〕クイックボ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/192252710",
-            "price": 15540,
-            "name": "クイックボール【UR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1166755456",
-            "price": 15000,
-            "name": "クイックボール　07",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1035196478",
-            "price": 18800,
-            "name": "クイックボール UR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1321936370",
-            "price": 13020,
-            "name": "〔状態A-〕クイック",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17576",
-            "price": 16000,
-            "name": "クイックボール(UR",
-            "date": "2022-11-30",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7046",
-            "price": 14800,
-            "name": "クイックボール074",
-            "date": "2022-11-30",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29780",
-            "price": 12400,
-            "name": "クイックボール074",
-            "date": "2022-11-30",
+            "date": "2022-12-22",
             "stock": 30
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/8298",
-            "price": 8980,
-            "name": "クイックボール074",
-            "date": "2022-11-30",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/192252710",
-            "price": 15540,
-            "name": "クイックボール【UR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/56760819",
-            "price": 9800,
-            "name": "クイックボール UR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1321936370",
-            "price": 13020,
-            "name": "〔状態A-〕クイック",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1166755456",
-            "price": 15000,
-            "name": "クイックボール　07",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1035196478",
-            "price": 18800,
-            "name": "クイックボール UR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/843702558",
-            "price": 9429,
-            "name": "〔状態B〕クイックボ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17576",
-            "price": 16000,
-            "name": "クイックボール(UR",
-            "date": "2022-11-29",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29780",
-            "price": 12400,
-            "name": "クイックボール074",
-            "date": "2022-11-29",
-            "stock": 27
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7046",
-            "price": 14800,
-            "name": "クイックボール074",
-            "date": "2022-11-29",
-            "stock": 38
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/8298",
-            "price": 8980,
-            "name": "クイックボール074",
-            "date": "2022-11-29",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/56760819",
-            "price": 9800,
-            "name": "クイックボール UR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1321936370",
-            "price": 14070,
-            "name": "〔状態A-〕クイック",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1035196478",
-            "price": 18800,
-            "name": "クイックボール UR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/843702558",
-            "price": 10479,
-            "name": "〔状態B〕クイックボ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1166755456",
-            "price": 15000,
-            "name": "クイックボール　07",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/192252710",
-            "price": 16590,
-            "name": "クイックボール【UR",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17576",
-            "price": 16000,
-            "name": "クイックボール(UR",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/8298",
-            "price": 9980,
-            "name": "クイックボール074",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29780",
             "price": 13400,
             "name": "クイックボール074",
-            "date": "2022-11-28",
-            "stock": 27
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7046",
-            "price": 15800,
-            "name": "クイックボール074",
-            "date": "2022-11-28",
-            "stock": 38
-        },
-        {
-            "market": "magi",
-            "link": "/items/843702558",
-            "price": 10479,
-            "name": "〔状態B〕クイックボ",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/56760819",
-            "price": 9800,
-            "name": "クイックボール UR",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1321936370",
-            "price": 14070,
-            "name": "〔状態A-〕クイック",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/192252710",
-            "price": 16590,
-            "name": "クイックボール【UR",
-            "date": "2022-11-27",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -597,15 +69,287 @@
             "link": "/items/1166755456",
             "price": 15000,
             "name": "クイックボール　07",
-            "date": "2022-11-27",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/149309640",
+            "price": 14070,
+            "name": "クイックボール【UR",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1035196478",
-            "price": 18800,
+            "price": 18500,
             "name": "クイックボール UR",
-            "date": "2022-11-27",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/56760819",
+            "price": 7000,
+            "name": "クイックボール UR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1321936370",
+            "price": 11340,
+            "name": "〔状態A-〕クイック",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17576",
+            "price": 14000,
+            "name": "クイックボール(UR",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7046",
+            "price": 13400,
+            "name": "クイックボール074",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29780",
+            "price": 10800,
+            "name": "クイックボール074",
+            "date": "2022-12-21",
+            "stock": 29
+        },
+        {
+            "market": "magi",
+            "link": "/items/149309640",
+            "price": 14070,
+            "name": "クイックボール【UR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1321936370",
+            "price": 11340,
+            "name": "〔状態A-〕クイック",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/56760819",
+            "price": 9800,
+            "name": "クイックボール UR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1166755456",
+            "price": 15000,
+            "name": "クイックボール　07",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1035196478",
+            "price": 18500,
+            "name": "クイックボール UR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17576",
+            "price": 14000,
+            "name": "クイックボール(UR",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29780",
+            "price": 10800,
+            "name": "クイックボール074",
+            "date": "2022-12-20",
+            "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7046",
+            "price": 13400,
+            "name": "クイックボール074",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/56760819",
+            "price": 9800,
+            "name": "クイックボール UR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1321936370",
+            "price": 11340,
+            "name": "〔状態A-〕クイック",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1035196478",
+            "price": 18500,
+            "name": "クイックボール UR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1166755456",
+            "price": 15000,
+            "name": "クイックボール　07",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/149309640",
+            "price": 14070,
+            "name": "クイックボール【UR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17576",
+            "price": 14000,
+            "name": "クイックボール(UR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29780",
+            "price": 10800,
+            "name": "クイックボール074",
+            "date": "2022-12-19",
+            "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7046",
+            "price": 13400,
+            "name": "クイックボール074",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1321936370",
+            "price": 11340,
+            "name": "〔状態A-〕クイック",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1035196478",
+            "price": 18500,
+            "name": "クイックボール UR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/56760819",
+            "price": 9800,
+            "name": "クイックボール UR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1166755456",
+            "price": 15000,
+            "name": "クイックボール　07",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/149309640",
+            "price": 14070,
+            "name": "クイックボール【UR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17576",
+            "price": 14000,
+            "name": "クイックボール(UR",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7046",
+            "price": 13400,
+            "name": "クイックボール074",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29780",
+            "price": 10800,
+            "name": "クイックボール074",
+            "date": "2022-12-18",
+            "stock": 29
+        },
+        {
+            "market": "magi",
+            "link": "/items/1035196478",
+            "price": 18500,
+            "name": "クイックボール UR",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1166755456",
+            "price": 15000,
+            "name": "クイックボール　07",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1321936370",
+            "price": 11340,
+            "name": "〔状態A-〕クイック",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/56760819",
+            "price": 9800,
+            "name": "クイックボール UR",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -613,32 +357,120 @@
             "link": "https://www.hareruya2.com/product/17576",
             "price": 16000,
             "name": "クイックボール(UR",
-            "date": "2022-11-27",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7046",
-            "price": 15800,
-            "name": "クイックボール074",
-            "date": "2022-11-27",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/8298",
-            "price": 9980,
-            "name": "クイックボール074",
-            "date": "2022-11-27",
-            "stock": 2
+            "date": "2022-12-17",
+            "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29780",
+            "price": 10800,
+            "name": "クイックボール074",
+            "date": "2022-12-17",
+            "stock": 29
+        },
+        {
+            "market": "magi",
+            "link": "/items/1166755456",
+            "price": 15000,
+            "name": "クイックボール　07",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1035196478",
+            "price": 18500,
+            "name": "クイックボール UR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1321936370",
+            "price": 11340,
+            "name": "〔状態A-〕クイック",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/56760819",
+            "price": 9800,
+            "name": "クイックボール UR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17576",
+            "price": 16000,
+            "name": "クイックボール(UR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29780",
+            "price": 10800,
+            "name": "クイックボール074",
+            "date": "2022-12-16",
+            "stock": 29
+        },
+        {
+            "market": "magi",
+            "link": "/items/56760819",
+            "price": 9800,
+            "name": "クイックボール UR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1035196478",
+            "price": 18500,
+            "name": "クイックボール UR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1166755456",
+            "price": 15000,
+            "name": "クイックボール　07",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/192252710",
+            "price": 14070,
+            "name": "クイックボール【UR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1321936370",
+            "price": 11340,
+            "name": "〔状態A-〕クイック",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29780",
+            "price": 10800,
+            "name": "クイックボール074",
+            "date": "2022-12-15",
+            "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7046",
             "price": 13400,
             "name": "クイックボール074",
-            "date": "2022-11-27",
-            "stock": 26
+            "date": "2022-12-15",
+            "stock": 25
         }
     ]
 }

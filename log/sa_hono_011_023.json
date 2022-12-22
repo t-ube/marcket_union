@@ -2,18 +2,18 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/42055988",
+            "link": "/items/1097496670",
             "price": 110,
             "name": "エネルギー転送 TD",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1097496670",
+            "link": "/items/42055988",
             "price": 110,
             "name": "エネルギー転送 TD",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -21,39 +21,39 @@
             "link": "https://www.cardrush-pokemon.jp/product/6710",
             "price": 80,
             "name": "エネルギー転送011",
-            "date": "2022-12-04",
-            "stock": 14
+            "date": "2022-12-22",
+            "stock": 10
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g011-023-SA-R/",
-            "price": 110,
+            "price": 77,
             "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 4
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g011-023-SA-GM/",
-            "price": 110,
+            "price": 77,
             "name": "【ポケカ】ＳＳ）ミラ",
-            "date": "2022-12-04",
+            "date": "2022-12-22",
             "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/42055988",
-            "price": 110,
-            "name": "エネルギー転送 TD",
-            "date": "2022-12-03",
-            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1097496670",
             "price": 110,
             "name": "エネルギー転送 TD",
-            "date": "2022-12-03",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/42055988",
+            "price": 110,
+            "name": "エネルギー転送 TD",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -61,63 +61,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/6710",
             "price": 80,
             "name": "エネルギー転送011",
-            "date": "2022-12-03",
-            "stock": 14
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g011-023-SA-R/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-12-03",
-            "stock": 4
+            "date": "2022-12-21",
+            "stock": 10
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g011-023-SA-GM/",
-            "price": 110,
+            "price": 77,
             "name": "【ポケカ】ＳＳ）ミラ",
-            "date": "2022-12-03",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/42055988",
-            "price": 110,
-            "name": "エネルギー転送 TD",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1097496670",
-            "price": 110,
-            "name": "エネルギー転送 TD",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6710",
-            "price": 80,
-            "name": "エネルギー転送011",
-            "date": "2022-12-02",
-            "stock": 14
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g011-023-SA-GM/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ）ミラ",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
             "stock": 2
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g011-023-SA-R/",
-            "price": 110,
+            "price": 77,
             "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-12-02",
+            "date": "2022-12-21",
             "stock": 4
         },
         {
@@ -125,7 +85,7 @@
             "link": "/items/42055988",
             "price": 110,
             "name": "エネルギー転送 TD",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -133,7 +93,7 @@
             "link": "/items/1097496670",
             "price": 110,
             "name": "エネルギー転送 TD",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -141,31 +101,71 @@
             "link": "https://www.cardrush-pokemon.jp/product/6710",
             "price": 80,
             "name": "エネルギー転送011",
-            "date": "2022-12-01",
-            "stock": 14
+            "date": "2022-12-20",
+            "stock": 10
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g011-023-SA-GM/",
-            "price": 110,
+            "price": 77,
             "name": "【ポケカ】ＳＳ）ミラ",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 2
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g011-023-SA-R/",
-            "price": 110,
+            "price": 77,
             "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-12-01",
+            "date": "2022-12-20",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/42055988",
+            "price": 110,
+            "name": "エネルギー転送 TD",
+            "date": "2022-12-19",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1097496670",
             "price": 110,
             "name": "エネルギー転送 TD",
-            "date": "2022-11-30",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6710",
+            "price": 80,
+            "name": "エネルギー転送011",
+            "date": "2022-12-19",
+            "stock": 10
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g011-023-SA-R/",
+            "price": 77,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g011-023-SA-GM/",
+            "price": 77,
+            "name": "【ポケカ】ＳＳ）ミラ",
+            "date": "2022-12-19",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1097496670",
+            "price": 110,
+            "name": "エネルギー転送 TD",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -173,7 +173,7 @@
             "link": "/items/42055988",
             "price": 110,
             "name": "エネルギー転送 TD",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -181,31 +181,111 @@
             "link": "https://www.cardrush-pokemon.jp/product/6710",
             "price": 80,
             "name": "エネルギー転送011",
-            "date": "2022-11-30",
-            "stock": 14
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g011-023-SA-GM/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ）ミラ",
-            "date": "2022-11-30",
-            "stock": 2
+            "date": "2022-12-18",
+            "stock": 10
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g011-023-SA-R/",
-            "price": 110,
+            "price": 77,
             "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-11-30",
+            "date": "2022-12-18",
             "stock": 4
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g011-023-SA-GM/",
+            "price": 77,
+            "name": "【ポケカ】ＳＳ）ミラ",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/42055988",
+            "price": 110,
+            "name": "エネルギー転送 TD",
+            "date": "2022-12-17",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1097496670",
             "price": 110,
             "name": "エネルギー転送 TD",
-            "date": "2022-11-29",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6710",
+            "price": 80,
+            "name": "エネルギー転送011",
+            "date": "2022-12-17",
+            "stock": 10
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g011-023-SA-GM/",
+            "price": 77,
+            "name": "【ポケカ】ＳＳ）ミラ",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g011-023-SA-R/",
+            "price": 77,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/42055988",
+            "price": 110,
+            "name": "エネルギー転送 TD",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1097496670",
+            "price": 110,
+            "name": "エネルギー転送 TD",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6710",
+            "price": 80,
+            "name": "エネルギー転送011",
+            "date": "2022-12-16",
+            "stock": 10
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g011-023-SA-R/",
+            "price": 77,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g011-023-SA-GM/",
+            "price": 77,
+            "name": "【ポケカ】ＳＳ）ミラ",
+            "date": "2022-12-16",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1097496670",
+            "price": 110,
+            "name": "エネルギー転送 TD",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -213,7 +293,7 @@
             "link": "/items/42055988",
             "price": 110,
             "name": "エネルギー転送 TD",
-            "date": "2022-11-29",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -221,103 +301,23 @@
             "link": "https://www.cardrush-pokemon.jp/product/6710",
             "price": 80,
             "name": "エネルギー転送011",
-            "date": "2022-11-29",
-            "stock": 14
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g011-023-SA-R/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-11-29",
-            "stock": 4
+            "date": "2022-12-15",
+            "stock": 10
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g011-023-SA-GM/",
-            "price": 110,
+            "price": 77,
             "name": "【ポケカ】ＳＳ）ミラ",
-            "date": "2022-11-29",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1097496670",
-            "price": 110,
-            "name": "エネルギー転送 TD",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/42055988",
-            "price": 110,
-            "name": "エネルギー転送 TD",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6710",
-            "price": 80,
-            "name": "エネルギー転送011",
-            "date": "2022-11-28",
-            "stock": 14
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g011-023-SA-R/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-11-28",
-            "stock": 4
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g011-023-SA-GM/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ）ミラ",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1097496670",
-            "price": 110,
-            "name": "エネルギー転送 TD",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/42055988",
-            "price": 110,
-            "name": "エネルギー転送 TD",
-            "date": "2022-11-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6710",
-            "price": 80,
-            "name": "エネルギー転送011",
-            "date": "2022-11-27",
-            "stock": 14
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g011-023-SA-GM/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ）ミラ",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 2
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g011-023-SA-R/",
-            "price": 110,
+            "price": 77,
             "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-11-27",
+            "date": "2022-12-15",
             "stock": 4
         }
     ]
