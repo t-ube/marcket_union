@@ -6,6 +6,7 @@ import numpy as np
 from pathlib import Path
 import random
 import datetime
+import gc
 import urllib.request
 
 
@@ -48,8 +49,9 @@ class deckTypeIndexGen:
             json.dump(dict_tmp, f, ensure_ascii=False)
 
 # デッキ画像を生成するための構成情報を出力する
-class cityLeagueDeckImageIDProvider:
+class cityLeagueDeckRecipeProvider:
     only_poke = False
+    priceDf = None
 
     def get(self):
         temp_dict = {'items':[]}
@@ -66,7 +68,7 @@ class cityLeagueDeckImageIDProvider:
                                 l = []
                                 if 'deck_info' in deck_item:
                                     for info in deck_item['deck_info']:
-                                        l.append({
+                                        write_deck_info = {
                                             'deck_id': info['deck_id'],
                                             'datetime': info['datetime'],
                                             'rank': info['rank'],
@@ -75,7 +77,16 @@ class cityLeagueDeckImageIDProvider:
                                             'player_name': info['player_name'],
                                             'items': self._getRecipe(item,info['deck_id']),
                                             'count': self._getRecipeCount(item,info['deck_id']),
-                                        })
+                                        }
+                                        write_deck_info['card_type'] = self._getDeckCardType(write_deck_info['items'])
+                                        write_deck_info['regulation'] = self._getDeckRegulation(write_deck_info['items'])
+                                        write_deck_info['price'] = self._getDeckPrice(write_deck_info['items'])
+                                        l.append(write_deck_info)
+                                if len(l) > 0:
+                                    data = pd.DataFrame()
+                                    df = data.from_dict(l)
+                                    df = df.sort_values(by=['rank','datetime'], ascending=[True,False])
+                                    l = df.to_dict(orient="record")
                                 temp_dict['items'].append({
                                     'deck_type': key,
                                     'items': l
@@ -86,20 +97,136 @@ class cityLeagueDeckImageIDProvider:
         with open(file_name, 'w', encoding='utf_8_sig') as f:
             json.dump(data, f, ensure_ascii=False)
 
-    def _getRecipe(self, item, deck_id):
+    def _getDeckRegulation(self, deck_items):
+        counts = {}
+        total = 0
+        for d in deck_items:
+            if d['regulation'] in counts:
+                counts[d['regulation']] += d['count']
+            else:
+                counts[d['regulation']] = d['count']
+            total += d['count']
+        result = []
+        for reg, count in counts.items():
+            result.append({'mark': reg, 'count':count, 'ratio': round(count / total * 100)})
+        result = sorted(result, key=lambda x: x['ratio'], reverse=True)
+        total_ratio = 0
+        for item in result:
+            total_ratio += item['ratio']
+        if total_ratio > 100:
+            result[0]['ratio'] -= (total_ratio - 100)
+            result[0]['ratio'] = round(result[0]['ratio'])
+        elif total_ratio < 100:
+            result[0]['ratio'] += (100 - total_ratio)
+            result[0]['ratio'] = round(result[0]['ratio'])
+        data = pd.DataFrame()
+        df = data.from_dict(result)
+        dfD = df[df['mark'] == 'D']
+        dfE = df[df['mark'] == 'E']
+        dfF = df[df['mark'] == 'F']
+        dfG = df[df['mark'] == 'G']
+        dfH = df[df['mark'] == 'H']
+        dfI = df[df['mark'] == 'I']
+        dfNan = df[df['mark'] == '']
+        df = pd.concat([dfD,dfE,dfF,dfG,dfH,dfI,dfNan])
+        result = df.to_dict(orient="record")
+        return result
+
+    def _getDeckCardType(self, deck_items):
+        counts = {}
+        total = 0
+        for d in deck_items:
+            temp_type = d['card_type']
+            if temp_type != 'P' and temp_type != 'E':
+                temp_type = 'T'
+            if temp_type in counts:
+                counts[temp_type] += d['count']
+            else:
+                counts[temp_type] = d['count']
+            total += d['count']
+        result = []
+        for reg, count in counts.items():
+            result.append({'mark': reg, 'count':count, 'ratio': round(count / total * 100)})
+        result = sorted(result, key=lambda x: x['ratio'], reverse=True)
+        total_ratio = 0
+        for item in result:
+            total_ratio += item['ratio']
+        if total_ratio > 100:
+            result[0]['ratio'] -= (total_ratio - 100)
+            result[0]['ratio'] = round(result[0]['ratio'])
+        elif total_ratio < 100:
+            result[0]['ratio'] += (100 - total_ratio)
+            result[0]['ratio'] = round(result[0]['ratio'])
+        data = pd.DataFrame()
+        df = data.from_dict(result)
+        dfP = df[df['mark'] == 'P']
+        dfT = df[df['mark'] == 'T']
+        dfE = df[df['mark'] == 'E']
+        df = pd.concat([dfP,dfT,dfE])
+        result = df.to_dict(orient="record")
+        return result
+
+    def _getDeckPrice(self, deck_items):
+        total = 0
+        diff = 0
+        zero = 0
+        zero_count = 0
+        for d in deck_items:
+            if d['price']['latest'] == 0:
+                zero += 1
+                zero_count += d['count']
+            else:
+                total += d['price']['latest'] * d['count']
+                diff += d['price']['diff_7d'] * d['count']
+        result = {
+            'total': total, 
+            'diff_7d': diff,
+            'percent_7d': round(((total / (total - diff)) - 1) * 100, 1),
+            'zero': zero,
+            'zero_count': zero_count
+        }
+        return result
+
+    def _getPrice(self, master_id: str):
+        df = self.priceDf[self.priceDf['master_id'] == master_id]
+        if len(df) == 0:
+            return {'latest': 0, 'diff_7d': 0, 'percent_7d': 0}
+        dict = df.iloc[0].to_dict()
+        return {'latest': dict['latest_price'], 'diff_7d': dict['diff_7d'], 'percent_7d': dict['percent_7d']}
+
+    def _getRecipe(self, item, deck_id: str):
         if item == None:
             return []
         if 'deck_recipe' in item:
             if deck_id in item['deck_recipe']:
                 if 'items' in item['deck_recipe'][deck_id]:
-                    return self._filteredPoke(item['deck_recipe'][deck_id]['items'])
+                    return self._mergePrice(self._filteredPoke(self._sortedPoke(item['deck_recipe'][deck_id]['items'])))
         return []
+
+    def _sortedPoke(self, l):
+        if len(l) > 0:
+            data = pd.DataFrame()
+            df = data.from_dict(l)
+            dfP = df[df['card_type'] == 'P'].sort_values(by=['count','card_id'], ascending=[False,False])
+            dfG = df[df['card_type'] == 'G'].sort_values(by=['count','card_id'], ascending=[False,False])
+            dfT = df[df['card_type'] == 'T'].sort_values(by=['count','card_id'], ascending=[False,False])
+            dfS = df[df['card_type'] == 'S'].sort_values(by=['count','card_id'], ascending=[False,False])
+            dfD = df[df['card_type'] == 'D'].sort_values(by=['count','card_id'], ascending=[False,False])
+            dfE = df[df['card_type'] == 'E'].sort_values(by=['count','card_id'], ascending=[False,False])
+            df = pd.concat([dfP,dfG,dfT,dfS,dfD,dfE])
+            l = df.to_dict(orient="record")
+        return l
 
     def _filteredPoke(self, list):
         if self.only_poke == True:
             return [d for d in list if d["card_type"] == "P"]
         else:
             return list
+
+    def _mergePrice(self, l):
+        for item in l:
+            item['price'] = self._getPrice(item['master_id'])
+        return l
 
     def _getRecipeCount(self, item, deck_id):
         count = 0
@@ -264,6 +391,19 @@ class chunkDfFactory:
         df = df.drop(columns={'price_list_hy'})
         chunks = [df[i:i+2000] for i in range(0, len(df), 2000)]
         return chunks
+
+    def save(self, chunks: pd.DataFrame, chunk_dir: str):
+        files = glob.glob(chunk_dir+'*/.json')
+        for file in files:
+            os.remove(file)
+        for i, chunk in enumerate(chunks):
+            chunkFact._save(chunk,chunk_dir+f'/all_chunk_{i}.json')
+
+    def _save(self, df: pd.DataFrame, file_name: str):
+        dict_tmp = {'items': []}
+        dict_tmp['items'] = df.to_dict(orient="record")
+        with open(file_name, 'w', encoding='utf_8_sig') as f:
+            json.dump(dict_tmp, f, ensure_ascii=False)
 
 # マスターIDのインデックスを生成する
 class masterIdIndexGen:
@@ -713,14 +853,30 @@ topCalc = calcTopPrice()
 ranks = rankCalculator()
 priceDf = ranks.getPriceRank(dailyDf,expDf)
 
+print('-------SA: priceDf------')
+print(priceDf[priceDf['expansion'] == 'SA'])
+print('------------------------')
+print('-------SJ: priceDf------')
+print(priceDf[priceDf['expansion'] == 'SJ'])
+print('------------------------')
+print('-------SC2: priceDf------')
+print(priceDf[priceDf['expansion'] == 'SC2'])
+print('------------------------')
+print('-------SH: priceDf------')
+print(priceDf[priceDf['expansion'] == 'SH'])
+print('------------------------')
+print('-------SK: priceDf------')
+print(priceDf[priceDf['expansion'] == 'SK'])
+print('------------------------')
+
+
 safeFact= safeTypeDfFactory()
 priceDf = safeFact.get(priceDf)
 
 # 検索用チャンクデータ生成
 chunkFact = chunkDfFactory()
 chunksDf = chunkFact.get(priceDf)
-for i, chunk in enumerate(chunksDf):
-    ranks.save(chunk,chunk_dir+f'/all_chunk_{i}.json')
+chunkFact.save(chunksDf,chunk_dir)
 
 indexer = masterIdIndexGen()
 indexer.output(priceDf,index_dir+'/id.json')
@@ -735,6 +891,18 @@ audit = auditStockLogger()
 audit.saveRegulation(priceDf, rank_dir+'/all_stock_regu.json')
 audit.saveRarity(priceDf, rank_dir+'/all_stock_rarity.json')
 
+# CLデッキレシピ生成
+imageLoader = cityLeagueDeckRecipeProvider()
+imageLoader.priceDf = priceDf
+imageLoader.save(imageLoader.get(), recipe_dir+'/deck_recipe.json')
+imageLoader.only_poke = True
+imageLoader.save(imageLoader.get(), recipe_dir+'/deck_recipe_p.json')
+
+del priceDf
+gc.collect()  
+
+# ---------------------
+
 ranks.is_filtered_dupcard = True
 priceDf = ranks.getPriceRank(dailyDf,expDf)
 topDf = topCalc.get7daysTopPrice(priceDf)
@@ -746,6 +914,9 @@ priceDf = ranks.getPriceRank(dailyDf,expDf)
 topDf = topCalc.get7daysTopPrice(priceDf)
 topCalc.save(topDf, rank_dir+'/all_price_rise_24h_top.json')
 
+del topDf
+gc.collect() 
+# ---------------------
 
 # シティリーグ対象
 topCalc = calcTopPrice()
@@ -771,6 +942,13 @@ counterCL.save(counterDf,rank_dir+'/cl_deck_top.json')
 counterDf = counterCL.getRank1()
 counterCL.save(counterDf,rank_dir+'/cl_deck_rank1_top.json')
 
+del topDf
+del priceDf
+del counterDf
+gc.collect() 
+
+# ---------------------
+
 # 新弾対象
 topCalc = calcTopPrice()
 ranksNew = rankCalculator()
@@ -779,15 +957,16 @@ priceDf = ranksNew.getPriceRank(dailyDf,expDf)
 topDf = topCalc.get7daysTopPrice(priceDf)
 topCalc.save(topDf, rank_dir+'/new_product_price_top.json')
 
+del topDf
+del priceDf
+gc.collect() 
+
+# ---------------------
+
 # デッキインデックス
 dtypeGen = deckTypeIndexGen()
 dtypeGen.output(index_dir+'/deck_type.json')
 
-# デッキ画像生成用データ
-imageLoader = cityLeagueDeckImageIDProvider()
-imageLoader.save(imageLoader.get(), recipe_dir+'/deck_recipe.json')
-imageLoader.only_poke = True
-imageLoader.save(imageLoader.get(), recipe_dir+'/deck_recipe_p.json')
 
 # マーケットログ生成
 log = logGen()
