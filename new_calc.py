@@ -1033,8 +1033,8 @@ chunkFact.save(chunksDf,chunk_dir)
 indexer = masterIdIndexGen()
 indexer.output(priceDf,index_dir+'/id.json')
 
-ranks.save(priceDf,rank_dir+'/all.json')
-ranks.save(priceDf.head(50),rank_dir+'/all_head.json')
+#ranks.save(priceDf,rank_dir+'/all.json')
+#ranks.save(priceDf.head(50),rank_dir+'/all_head.json')
 
 pchartProvider = priceChartDataProvider()
 pchartProvider.save(pchartProvider.getData(priceDf), chart_dir+'/all_line_charts.json')
