@@ -2,7 +2,783 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1261460250",
+            "price": 300,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1546768218",
+            "price": 100,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1180280955",
+            "price": 30,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1102870532",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2134029339",
+            "price": 25,
+            "name": "DM パワフル無色エ",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1400026898",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1710385594",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/127475917",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18596",
+            "price": 100,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-28",
+            "stock": 171
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18856",
+            "price": 200,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-28",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30656",
+            "price": 70,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-28",
+            "stock": 45
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17173",
+            "price": 80,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-28",
+            "stock": 226
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17339",
+            "price": 280,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-28",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30780",
+            "price": 250,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-28",
+            "stock": 10
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g190-190-S4A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g190-190-S4A-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-28",
+            "stock": 9
+        },
+        {
+            "market": "magi",
+            "link": "/items/2134029339",
+            "price": 25,
+            "name": "DM パワフル無色エ",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1546768218",
+            "price": 100,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1261460250",
+            "price": 300,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/127475917",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1710385594",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1400026898",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1180280955",
+            "price": 30,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1102870532",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18596",
+            "price": 100,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-27",
+            "stock": 171
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18856",
+            "price": 200,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-27",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17173",
+            "price": 80,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-27",
+            "stock": 230
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17339",
+            "price": 280,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-27",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30780",
+            "price": 250,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-27",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30656",
+            "price": 70,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-27",
+            "stock": 49
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g190-190-S4A-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-27",
+            "stock": 9
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g190-190-S4A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1546768218",
+            "price": 100,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1102870532",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-26",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1710385594",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-26",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2134029339",
+            "price": 25,
+            "name": "DM パワフル無色エ",
+            "date": "2022-12-26",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1400026898",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-26",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/127475917",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-26",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1261460250",
+            "price": 300,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18596",
+            "price": 100,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-26",
+            "stock": 171
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18856",
+            "price": 200,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-26",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30656",
+            "price": 70,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-26",
+            "stock": 49
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17339",
+            "price": 280,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-26",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30780",
+            "price": 250,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-26",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17173",
+            "price": 80,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-26",
+            "stock": 255
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g190-190-S4A-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-26",
+            "stock": 9
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g190-190-S4A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1102870532",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-25",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1400026898",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-25",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1710385594",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-25",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/127475917",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-25",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1261460250",
+            "price": 300,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1546768218",
+            "price": 100,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2134029339",
+            "price": 25,
+            "name": "DM パワフル無色エ",
+            "date": "2022-12-25",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18856",
+            "price": 200,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-25",
+            "stock": 14
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18596",
+            "price": 100,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-25",
+            "stock": 171
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30780",
+            "price": 250,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-25",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30656",
+            "price": 70,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-25",
+            "stock": 53
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17173",
+            "price": 80,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-25",
+            "stock": 255
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17339",
+            "price": 280,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-25",
+            "stock": 10
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g190-190-S4A-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-25",
+            "stock": 9
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g190-190-S4A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1400026898",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1546768218",
+            "price": 100,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1102870532",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2134029339",
+            "price": 25,
+            "name": "DM パワフル無色エ",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/127475917",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1710385594",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1261460250",
+            "price": 300,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18596",
+            "price": 100,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-24",
+            "stock": 171
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18856",
+            "price": 200,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-24",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30780",
+            "price": 250,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-24",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17339",
+            "price": 280,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-24",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17173",
+            "price": 80,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-24",
+            "stock": 273
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30656",
+            "price": 70,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-24",
+            "stock": 57
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g190-190-S4A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g190-190-S4A-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-24",
+            "stock": 9
+        },
+        {
+            "market": "magi",
+            "link": "/items/1102870532",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-23",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1546768218",
+            "price": 100,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1261460250",
+            "price": 300,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/127475917",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-23",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2134029339",
+            "price": 25,
+            "name": "DM パワフル無色エ",
+            "date": "2022-12-23",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1400026898",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-23",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1710385594",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-23",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18596",
+            "price": 100,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-23",
+            "stock": 111
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18856",
+            "price": 200,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-23",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30656",
+            "price": 70,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-23",
+            "stock": 60
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17339",
+            "price": 280,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-23",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30780",
+            "price": 250,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-23",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17173",
+            "price": 80,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-23",
+            "stock": 273
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g190-190-S4A-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-23",
+            "stock": 9
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g190-190-S4A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/127475917",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1841577978",
+            "price": 100,
+            "name": "【Ｄ特価】パワフル無",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1261460250",
+            "price": 300,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2134029339",
+            "price": 25,
+            "name": "DM パワフル無色エ",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1102870532",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1400026898",
             "price": 25,
             "name": "PC パワフル無色エ",
             "date": "2022-12-22",
@@ -25,46 +801,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1261460250",
-            "price": 300,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1841577978",
-            "price": 100,
-            "name": "【Ｄ特価】パワフル無",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1102870532",
-            "price": 25,
-            "name": "PC パワフル無色エ",
-            "date": "2022-12-22",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/2134029339",
-            "price": 25,
-            "name": "DM パワフル無色エ",
-            "date": "2022-12-22",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1400026898",
-            "price": 25,
-            "name": "PC パワフル無色エ",
-            "date": "2022-12-22",
-            "stock": 4
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18596",
             "price": 100,
@@ -82,11 +818,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30656",
-            "price": 70,
+            "link": "https://www.cardrush-pokemon.jp/product/30780",
+            "price": 250,
             "name": "パワフル無色エネルギ",
             "date": "2022-12-22",
-            "stock": 61
+            "stock": 6
         },
         {
             "market": "cardrush",
@@ -98,19 +834,19 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30656",
+            "price": 70,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-22",
+            "stock": 61
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17339",
             "price": 280,
             "name": "パワフル無色エネルギ",
             "date": "2022-12-22",
             "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30780",
-            "price": 250,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-22",
-            "stock": 6
         },
         {
             "market": "torecolo",
@@ -130,7 +866,39 @@
         },
         {
             "market": "magi",
+            "link": "/items/1400026898",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2134029339",
+            "price": 25,
+            "name": "DM パワフル無色エ",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/1710385594",
+            "price": 25,
+            "name": "PC パワフル無色エ",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1261460250",
+            "price": 300,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/127475917",
             "price": 25,
             "name": "PC パワフル無色エ",
             "date": "2022-12-21",
@@ -146,22 +914,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/2134029339",
-            "price": 25,
-            "name": "DM パワフル無色エ",
-            "date": "2022-12-21",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1261460250",
-            "price": 300,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1841577978",
             "price": 100,
             "name": "【Ｄ特価】パワフル無",
@@ -170,23 +922,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/127475917",
-            "price": 25,
-            "name": "PC パワフル無色エ",
-            "date": "2022-12-21",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/1102870532",
-            "price": 25,
-            "name": "PC パワフル無色エ",
-            "date": "2022-12-21",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1400026898",
             "price": 25,
             "name": "PC パワフル無色エ",
             "date": "2022-12-21",
@@ -210,6 +946,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30656",
+            "price": 70,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-21",
+            "stock": 63
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17173",
             "price": 80,
             "name": "パワフル無色エネルギ",
@@ -218,27 +962,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30780",
-            "price": 250,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-21",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30656",
-            "price": 70,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-21",
-            "stock": 63
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17339",
             "price": 280,
             "name": "パワフル無色エネルギ",
             "date": "2022-12-21",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30780",
+            "price": 250,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-21",
+            "stock": 6
         },
         {
             "market": "torecolo",
@@ -254,614 +990,6 @@
             "price": 110,
             "name": "【ポケカ】Ｃ）ミラー",
             "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2134029339",
-            "price": 25,
-            "name": "DM パワフル無色エ",
-            "date": "2022-12-20",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1261460250",
-            "price": 300,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1400026898",
-            "price": 25,
-            "name": "PC パワフル無色エ",
-            "date": "2022-12-20",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1102870532",
-            "price": 25,
-            "name": "PC パワフル無色エ",
-            "date": "2022-12-20",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1546768218",
-            "price": 100,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1841577978",
-            "price": 180,
-            "name": "【Ｄ特価】パワフル無",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1710385594",
-            "price": 25,
-            "name": "PC パワフル無色エ",
-            "date": "2022-12-20",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/127475917",
-            "price": 25,
-            "name": "PC パワフル無色エ",
-            "date": "2022-12-20",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18856",
-            "price": 200,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18596",
-            "price": 100,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-20",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17173",
-            "price": 80,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-20",
-            "stock": 293
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30656",
-            "price": 70,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-20",
-            "stock": 63
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17339",
-            "price": 280,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-20",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30780",
-            "price": 250,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-20",
-            "stock": 6
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g190-190-S4A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g190-190-S4A-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-20",
-            "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/1841577978",
-            "price": 180,
-            "name": "【Ｄ特価】パワフル無",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1710385594",
-            "price": 25,
-            "name": "PC パワフル無色エ",
-            "date": "2022-12-19",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1261460250",
-            "price": 300,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2134029339",
-            "price": 25,
-            "name": "DM パワフル無色エ",
-            "date": "2022-12-19",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1102870532",
-            "price": 25,
-            "name": "PC パワフル無色エ",
-            "date": "2022-12-19",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/127475917",
-            "price": 25,
-            "name": "PC パワフル無色エ",
-            "date": "2022-12-19",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1400026898",
-            "price": 25,
-            "name": "PC パワフル無色エ",
-            "date": "2022-12-19",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1546768218",
-            "price": 100,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18856",
-            "price": 200,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18596",
-            "price": 100,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-19",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17173",
-            "price": 80,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-19",
-            "stock": 293
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17339",
-            "price": 280,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-19",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30656",
-            "price": 70,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-19",
-            "stock": 63
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30780",
-            "price": 250,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-19",
-            "stock": 6
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g190-190-S4A-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-19",
-            "stock": 8
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g190-190-S4A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1546768218",
-            "price": 100,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1841577978",
-            "price": 180,
-            "name": "【Ｄ特価】パワフル無",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1261460250",
-            "price": 300,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18596",
-            "price": 100,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-18",
-            "stock": 40
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18856",
-            "price": 200,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17339",
-            "price": 280,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-18",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30656",
-            "price": 70,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-18",
-            "stock": 70
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17173",
-            "price": 80,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-18",
-            "stock": 293
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30780",
-            "price": 250,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-18",
-            "stock": 6
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g190-190-S4A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g190-190-S4A-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-18",
-            "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/1261460250",
-            "price": 300,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1546768218",
-            "price": 100,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1841577978",
-            "price": 180,
-            "name": "【Ｄ特価】パワフル無",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18856",
-            "price": 200,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18596",
-            "price": 100,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-17",
-            "stock": 42
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17339",
-            "price": 280,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-17",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17173",
-            "price": 80,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-17",
-            "stock": 293
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30656",
-            "price": 70,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-17",
-            "stock": 70
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30780",
-            "price": 250,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-17",
-            "stock": 6
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g190-190-S4A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g190-190-S4A-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-17",
-            "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/1841577978",
-            "price": 180,
-            "name": "【Ｄ特価】パワフル無",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1261460250",
-            "price": 300,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1546768218",
-            "price": 100,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18856",
-            "price": 200,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18596",
-            "price": 100,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-16",
-            "stock": 43
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30656",
-            "price": 70,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-16",
-            "stock": 35
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30780",
-            "price": 250,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17339",
-            "price": 280,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-16",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17173",
-            "price": 80,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-16",
-            "stock": 293
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g190-190-S4A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g190-190-S4A-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-16",
-            "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/1261460250",
-            "price": 300,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1546768218",
-            "price": 100,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1841577978",
-            "price": 180,
-            "name": "【Ｄ特価】パワフル無",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18596",
-            "price": 100,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-15",
-            "stock": 43
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18856",
-            "price": 200,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30780",
-            "price": 250,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17173",
-            "price": 80,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-15",
-            "stock": 305
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30656",
-            "price": 70,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-15",
-            "stock": 35
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17339",
-            "price": 280,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-15",
-            "stock": 9
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g190-190-S4A-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-15",
-            "stock": 8
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g190-190-S4A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-15",
             "stock": 1
         }
     ]

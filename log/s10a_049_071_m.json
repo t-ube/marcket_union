@@ -2,9 +2,393 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1405515402",
+            "price": 150,
+            "name": "ドクロッグ(ミラー)",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1456616985",
+            "price": 100,
+            "name": "ドクロッグ U 04",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1715542385",
             "price": 100,
             "name": "ドクロッグ U 04",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23384",
+            "price": 50,
+            "name": "ドクロッグ(U){悪",
+            "date": "2022-12-28",
+            "stock": 39
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23442",
+            "price": 50,
+            "name": "ドクロッグ:ミラー(",
+            "date": "2022-12-28",
+            "stock": 42
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35272",
+            "price": 30,
+            "name": "ドクロッグ049/0",
+            "date": "2022-12-28",
+            "stock": 179
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35330",
+            "price": 50,
+            "name": "ドクロッグ049/0",
+            "date": "2022-12-28",
+            "stock": 134
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g049-071-S10A-B/",
+            "price": 3,
+            "name": "【ポケカ】Ｕ）通常仕",
+            "date": "2022-12-28",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/1456616985",
+            "price": 100,
+            "name": "ドクロッグ U 04",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1715542385",
+            "price": 100,
+            "name": "ドクロッグ U 04",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1405515402",
+            "price": 150,
+            "name": "ドクロッグ(ミラー)",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23384",
+            "price": 50,
+            "name": "ドクロッグ(U){悪",
+            "date": "2022-12-27",
+            "stock": 39
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23442",
+            "price": 50,
+            "name": "ドクロッグ:ミラー(",
+            "date": "2022-12-27",
+            "stock": 42
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35272",
+            "price": 30,
+            "name": "ドクロッグ049/0",
+            "date": "2022-12-27",
+            "stock": 179
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35330",
+            "price": 50,
+            "name": "ドクロッグ049/0",
+            "date": "2022-12-27",
+            "stock": 134
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g049-071-S10A-B/",
+            "price": 3,
+            "name": "【ポケカ】Ｕ）通常仕",
+            "date": "2022-12-27",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/1456616985",
+            "price": 100,
+            "name": "ドクロッグ U 04",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1715542385",
+            "price": 100,
+            "name": "ドクロッグ U 04",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1405515402",
+            "price": 150,
+            "name": "ドクロッグ(ミラー)",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23384",
+            "price": 50,
+            "name": "ドクロッグ(U){悪",
+            "date": "2022-12-26",
+            "stock": 39
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23442",
+            "price": 50,
+            "name": "ドクロッグ:ミラー(",
+            "date": "2022-12-26",
+            "stock": 42
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35272",
+            "price": 30,
+            "name": "ドクロッグ049/0",
+            "date": "2022-12-26",
+            "stock": 179
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35330",
+            "price": 50,
+            "name": "ドクロッグ049/0",
+            "date": "2022-12-26",
+            "stock": 134
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g049-071-S10A-B/",
+            "price": 3,
+            "name": "【ポケカ】Ｕ）通常仕",
+            "date": "2022-12-26",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/1405515402",
+            "price": 150,
+            "name": "ドクロッグ(ミラー)",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1715542385",
+            "price": 100,
+            "name": "ドクロッグ U 04",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1456616985",
+            "price": 100,
+            "name": "ドクロッグ U 04",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23442",
+            "price": 50,
+            "name": "ドクロッグ:ミラー(",
+            "date": "2022-12-25",
+            "stock": 42
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23384",
+            "price": 50,
+            "name": "ドクロッグ(U){悪",
+            "date": "2022-12-25",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35330",
+            "price": 50,
+            "name": "ドクロッグ049/0",
+            "date": "2022-12-25",
+            "stock": 134
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35272",
+            "price": 30,
+            "name": "ドクロッグ049/0",
+            "date": "2022-12-25",
+            "stock": 179
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g049-071-S10A-B/",
+            "price": 3,
+            "name": "【ポケカ】Ｕ）通常仕",
+            "date": "2022-12-25",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/1405515402",
+            "price": 150,
+            "name": "ドクロッグ(ミラー)",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1456616985",
+            "price": 100,
+            "name": "ドクロッグ U 04",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1715542385",
+            "price": 100,
+            "name": "ドクロッグ U 04",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23442",
+            "price": 50,
+            "name": "ドクロッグ:ミラー(",
+            "date": "2022-12-24",
+            "stock": 42
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23384",
+            "price": 50,
+            "name": "ドクロッグ(U){悪",
+            "date": "2022-12-24",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35272",
+            "price": 30,
+            "name": "ドクロッグ049/0",
+            "date": "2022-12-24",
+            "stock": 179
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35330",
+            "price": 50,
+            "name": "ドクロッグ049/0",
+            "date": "2022-12-24",
+            "stock": 134
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g049-071-S10A-B/",
+            "price": 3,
+            "name": "【ポケカ】Ｕ）通常仕",
+            "date": "2022-12-24",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/1456616985",
+            "price": 100,
+            "name": "ドクロッグ U 04",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1405515402",
+            "price": 150,
+            "name": "ドクロッグ(ミラー)",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1715542385",
+            "price": 100,
+            "name": "ドクロッグ U 04",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23384",
+            "price": 50,
+            "name": "ドクロッグ(U){悪",
+            "date": "2022-12-23",
+            "stock": 39
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/23442",
+            "price": 50,
+            "name": "ドクロッグ:ミラー(",
+            "date": "2022-12-23",
+            "stock": 42
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35330",
+            "price": 50,
+            "name": "ドクロッグ049/0",
+            "date": "2022-12-23",
+            "stock": 134
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35272",
+            "price": 30,
+            "name": "ドクロッグ049/0",
+            "date": "2022-12-23",
+            "stock": 179
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g049-071-S10A-B/",
+            "price": 3,
+            "name": "【ポケカ】Ｕ）通常仕",
+            "date": "2022-12-23",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/1405515402",
+            "price": 150,
+            "name": "ドクロッグ(ミラー)",
             "date": "2022-12-22",
             "stock": 1
         },
@@ -18,9 +402,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1405515402",
-            "price": 150,
-            "name": "ドクロッグ(ミラー)",
+            "link": "/items/1715542385",
+            "price": 100,
+            "name": "ドクロッグ U 04",
             "date": "2022-12-22",
             "stock": 1
         },
@@ -66,7 +450,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1456616985",
+            "link": "/items/1715542385",
             "price": 100,
             "name": "ドクロッグ U 04",
             "date": "2022-12-21",
@@ -82,7 +466,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1715542385",
+            "link": "/items/1456616985",
             "price": 100,
             "name": "ドクロッグ U 04",
             "date": "2022-12-21",
@@ -126,390 +510,6 @@
             "price": 3,
             "name": "【ポケカ】Ｕ）通常仕",
             "date": "2022-12-21",
-            "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/1456616985",
-            "price": 100,
-            "name": "ドクロッグ U 04",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1405515402",
-            "price": 150,
-            "name": "ドクロッグ(ミラー)",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1715542385",
-            "price": 100,
-            "name": "ドクロッグ U 04",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23384",
-            "price": 50,
-            "name": "ドクロッグ(U){悪",
-            "date": "2022-12-20",
-            "stock": 39
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23442",
-            "price": 50,
-            "name": "ドクロッグ:ミラー(",
-            "date": "2022-12-20",
-            "stock": 42
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35330",
-            "price": 50,
-            "name": "ドクロッグ049/0",
-            "date": "2022-12-20",
-            "stock": 134
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35272",
-            "price": 30,
-            "name": "ドクロッグ049/0",
-            "date": "2022-12-20",
-            "stock": 179
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g049-071-S10A-B/",
-            "price": 3,
-            "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-12-20",
-            "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/1405515402",
-            "price": 150,
-            "name": "ドクロッグ(ミラー)",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1456616985",
-            "price": 100,
-            "name": "ドクロッグ U 04",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1715542385",
-            "price": 100,
-            "name": "ドクロッグ U 04",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23442",
-            "price": 50,
-            "name": "ドクロッグ:ミラー(",
-            "date": "2022-12-19",
-            "stock": 42
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23384",
-            "price": 50,
-            "name": "ドクロッグ(U){悪",
-            "date": "2022-12-19",
-            "stock": 39
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35272",
-            "price": 30,
-            "name": "ドクロッグ049/0",
-            "date": "2022-12-19",
-            "stock": 179
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35330",
-            "price": 50,
-            "name": "ドクロッグ049/0",
-            "date": "2022-12-19",
-            "stock": 134
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g049-071-S10A-B/",
-            "price": 3,
-            "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-12-19",
-            "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/1715542385",
-            "price": 100,
-            "name": "ドクロッグ U 04",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1405515402",
-            "price": 150,
-            "name": "ドクロッグ(ミラー)",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1456616985",
-            "price": 100,
-            "name": "ドクロッグ U 04",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23384",
-            "price": 50,
-            "name": "ドクロッグ(U){悪",
-            "date": "2022-12-18",
-            "stock": 39
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23442",
-            "price": 50,
-            "name": "ドクロッグ:ミラー(",
-            "date": "2022-12-18",
-            "stock": 42
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35272",
-            "price": 30,
-            "name": "ドクロッグ049/0",
-            "date": "2022-12-18",
-            "stock": 179
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35330",
-            "price": 50,
-            "name": "ドクロッグ049/0",
-            "date": "2022-12-18",
-            "stock": 134
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g049-071-S10A-B/",
-            "price": 3,
-            "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-12-18",
-            "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/1715542385",
-            "price": 100,
-            "name": "ドクロッグ U 04",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1405515402",
-            "price": 150,
-            "name": "ドクロッグ(ミラー)",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1456616985",
-            "price": 100,
-            "name": "ドクロッグ U 04",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23384",
-            "price": 50,
-            "name": "ドクロッグ(U){悪",
-            "date": "2022-12-17",
-            "stock": 39
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23442",
-            "price": 50,
-            "name": "ドクロッグ:ミラー(",
-            "date": "2022-12-17",
-            "stock": 42
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35272",
-            "price": 30,
-            "name": "ドクロッグ049/0",
-            "date": "2022-12-17",
-            "stock": 179
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35330",
-            "price": 50,
-            "name": "ドクロッグ049/0",
-            "date": "2022-12-17",
-            "stock": 134
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g049-071-S10A-B/",
-            "price": 3,
-            "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-12-17",
-            "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/1405515402",
-            "price": 150,
-            "name": "ドクロッグ(ミラー)",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1456616985",
-            "price": 100,
-            "name": "ドクロッグ U 04",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1715542385",
-            "price": 100,
-            "name": "ドクロッグ U 04",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23442",
-            "price": 50,
-            "name": "ドクロッグ:ミラー(",
-            "date": "2022-12-16",
-            "stock": 42
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23384",
-            "price": 50,
-            "name": "ドクロッグ(U){悪",
-            "date": "2022-12-16",
-            "stock": 39
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35272",
-            "price": 30,
-            "name": "ドクロッグ049/0",
-            "date": "2022-12-16",
-            "stock": 179
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35330",
-            "price": 50,
-            "name": "ドクロッグ049/0",
-            "date": "2022-12-16",
-            "stock": 134
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g049-071-S10A-B/",
-            "price": 3,
-            "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-12-16",
-            "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/1405515402",
-            "price": 150,
-            "name": "ドクロッグ(ミラー)",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1715542385",
-            "price": 100,
-            "name": "ドクロッグ U 04",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1456616985",
-            "price": 100,
-            "name": "ドクロッグ U 04",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23442",
-            "price": 50,
-            "name": "ドクロッグ:ミラー(",
-            "date": "2022-12-15",
-            "stock": 42
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/23384",
-            "price": 50,
-            "name": "ドクロッグ(U){悪",
-            "date": "2022-12-15",
-            "stock": 39
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35272",
-            "price": 30,
-            "name": "ドクロッグ049/0",
-            "date": "2022-12-15",
-            "stock": 179
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35330",
-            "price": 50,
-            "name": "ドクロッグ049/0",
-            "date": "2022-12-15",
-            "stock": 134
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g049-071-S10A-B/",
-            "price": 3,
-            "name": "【ポケカ】Ｕ）通常仕",
-            "date": "2022-12-15",
             "stock": 11
         }
     ]

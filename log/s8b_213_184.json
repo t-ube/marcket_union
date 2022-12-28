@@ -1,19 +1,35 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/341265078",
+            "price": 550,
+            "name": "コロトックV CSR",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/550969390",
+            "price": 444,
+            "name": "コロトックV CSR",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21360",
             "price": 700,
             "name": "コロトックV(CSR",
-            "date": "2022-12-22",
-            "stock": 4
+            "date": "2022-12-28",
+            "stock": 5
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23085",
             "price": 680,
             "name": "コロトックV213/",
-            "date": "2022-12-22",
+            "date": "2022-12-28",
             "stock": 22
         },
         {
@@ -21,176 +37,216 @@
             "link": "https://www.cardrush-pokemon.jp/product/22992",
             "price": 780,
             "name": "コロトックV213/",
-            "date": "2022-12-22",
-            "stock": 88
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21360",
-            "price": 700,
-            "name": "コロトックV(CSR",
-            "date": "2022-12-21",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23085",
-            "price": 680,
-            "name": "コロトックV213/",
-            "date": "2022-12-21",
-            "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22992",
-            "price": 780,
-            "name": "コロトックV213/",
-            "date": "2022-12-21",
-            "stock": 88
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21360",
-            "price": 700,
-            "name": "コロトックV(CSR",
-            "date": "2022-12-20",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23085",
-            "price": 680,
-            "name": "コロトックV213/",
-            "date": "2022-12-20",
-            "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22992",
-            "price": 780,
-            "name": "コロトックV213/",
-            "date": "2022-12-20",
-            "stock": 88
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21360",
-            "price": 700,
-            "name": "コロトックV(CSR",
-            "date": "2022-12-19",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22992",
-            "price": 780,
-            "name": "コロトックV213/",
-            "date": "2022-12-19",
-            "stock": 88
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23085",
-            "price": 680,
-            "name": "コロトックV213/",
-            "date": "2022-12-19",
-            "stock": 22
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21360",
-            "price": 700,
-            "name": "コロトックV(CSR",
-            "date": "2022-12-18",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22992",
-            "price": 780,
-            "name": "コロトックV213/",
-            "date": "2022-12-18",
-            "stock": 88
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23085",
-            "price": 680,
-            "name": "コロトックV213/",
-            "date": "2022-12-18",
-            "stock": 23
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21360",
-            "price": 700,
-            "name": "コロトックV(CSR",
-            "date": "2022-12-17",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22992",
-            "price": 780,
-            "name": "コロトックV213/",
-            "date": "2022-12-17",
-            "stock": 89
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23085",
-            "price": 680,
-            "name": "コロトックV213/",
-            "date": "2022-12-17",
-            "stock": 23
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21360",
-            "price": 700,
-            "name": "コロトックV(CSR",
-            "date": "2022-12-16",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22992",
-            "price": 780,
-            "name": "コロトックV213/",
-            "date": "2022-12-16",
-            "stock": 89
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23085",
-            "price": 680,
-            "name": "コロトックV213/",
-            "date": "2022-12-16",
-            "stock": 22
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21360",
-            "price": 700,
-            "name": "コロトックV(CSR",
-            "date": "2022-12-15",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23085",
-            "price": 680,
-            "name": "コロトックV213/",
-            "date": "2022-12-15",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22992",
-            "price": 780,
-            "name": "コロトックV213/",
-            "date": "2022-12-15",
+            "date": "2022-12-28",
             "stock": 87
+        },
+        {
+            "market": "magi",
+            "link": "/items/341265078",
+            "price": 550,
+            "name": "コロトックV CSR",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21360",
+            "price": 700,
+            "name": "コロトックV(CSR",
+            "date": "2022-12-27",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23085",
+            "price": 680,
+            "name": "コロトックV213/",
+            "date": "2022-12-27",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22992",
+            "price": 780,
+            "name": "コロトックV213/",
+            "date": "2022-12-27",
+            "stock": 79
+        },
+        {
+            "market": "magi",
+            "link": "/items/341265078",
+            "price": 550,
+            "name": "コロトックV CSR",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21360",
+            "price": 700,
+            "name": "コロトックV(CSR",
+            "date": "2022-12-26",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22992",
+            "price": 780,
+            "name": "コロトックV213/",
+            "date": "2022-12-26",
+            "stock": 79
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23085",
+            "price": 680,
+            "name": "コロトックV213/",
+            "date": "2022-12-26",
+            "stock": 22
+        },
+        {
+            "market": "magi",
+            "link": "/items/341265078",
+            "price": 550,
+            "name": "コロトックV CSR",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21360",
+            "price": 700,
+            "name": "コロトックV(CSR",
+            "date": "2022-12-25",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23085",
+            "price": 680,
+            "name": "コロトックV213/",
+            "date": "2022-12-25",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22992",
+            "price": 780,
+            "name": "コロトックV213/",
+            "date": "2022-12-25",
+            "stock": 79
+        },
+        {
+            "market": "magi",
+            "link": "/items/341265078",
+            "price": 550,
+            "name": "コロトックV CSR",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21360",
+            "price": 700,
+            "name": "コロトックV(CSR",
+            "date": "2022-12-24",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23085",
+            "price": 680,
+            "name": "コロトックV213/",
+            "date": "2022-12-24",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22992",
+            "price": 780,
+            "name": "コロトックV213/",
+            "date": "2022-12-24",
+            "stock": 79
+        },
+        {
+            "market": "magi",
+            "link": "/items/341265078",
+            "price": 550,
+            "name": "コロトックV CSR",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21360",
+            "price": 700,
+            "name": "コロトックV(CSR",
+            "date": "2022-12-23",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22992",
+            "price": 780,
+            "name": "コロトックV213/",
+            "date": "2022-12-23",
+            "stock": 83
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23085",
+            "price": 680,
+            "name": "コロトックV213/",
+            "date": "2022-12-23",
+            "stock": 22
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21360",
+            "price": 700,
+            "name": "コロトックV(CSR",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23085",
+            "price": 680,
+            "name": "コロトックV213/",
+            "date": "2022-12-22",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22992",
+            "price": 780,
+            "name": "コロトックV213/",
+            "date": "2022-12-22",
+            "stock": 88
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21360",
+            "price": 700,
+            "name": "コロトックV(CSR",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23085",
+            "price": 680,
+            "name": "コロトックV213/",
+            "date": "2022-12-21",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22992",
+            "price": 780,
+            "name": "コロトックV213/",
+            "date": "2022-12-21",
+            "stock": 88
         }
     ]
 }

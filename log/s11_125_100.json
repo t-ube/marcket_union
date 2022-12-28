@@ -2,10 +2,394 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1506875655",
+            "price": 7731,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1640644438",
+            "price": 6279,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1954670285",
+            "price": 6800,
+            "name": "美品 ギラティナVS",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/601200065",
+            "price": 7000,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/159930610",
+            "price": 5980,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/887770052",
             "price": 4800,
             "name": "【p86】ギラティナ",
-            "date": "2022-12-22",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1023960021",
+            "price": 5754,
+            "name": "〔状態A-〕ギラティ",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24320",
+            "price": 6000,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-28",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36451",
+            "price": 5480,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-28",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36392",
+            "price": 5980,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-28",
+            "stock": 8
+        },
+        {
+            "market": "magi",
+            "link": "/items/1506875655",
+            "price": 7731,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1954670285",
+            "price": 6800,
+            "name": "美品 ギラティナVS",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/601200065",
+            "price": 7000,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/308402540",
+            "price": 6279,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/887770052",
+            "price": 4800,
+            "name": "【p86】ギラティナ",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/159930610",
+            "price": 5980,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1023960021",
+            "price": 5754,
+            "name": "〔状態A-〕ギラティ",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24320",
+            "price": 6000,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-27",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36451",
+            "price": 5480,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-27",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36392",
+            "price": 5980,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1506875655",
+            "price": 7731,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/601200065",
+            "price": 7000,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/887770052",
+            "price": 4800,
+            "name": "【p86】ギラティナ",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1954670285",
+            "price": 6800,
+            "name": "美品 ギラティナVS",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/159930610",
+            "price": 6933,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/308402540",
+            "price": 6279,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24320",
+            "price": 6000,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-26",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36392",
+            "price": 5980,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-26",
+            "stock": 7
+        },
+        {
+            "market": "magi",
+            "link": "/items/308402540",
+            "price": 6279,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/601200065",
+            "price": 7000,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/159930610",
+            "price": 6938,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/887770052",
+            "price": 4800,
+            "name": "【p86】ギラティナ",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1506875655",
+            "price": 7731,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1954670285",
+            "price": 6800,
+            "name": "美品 ギラティナVS",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24320",
+            "price": 6000,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-25",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36392",
+            "price": 5980,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-25",
+            "stock": 7
+        },
+        {
+            "market": "magi",
+            "link": "/items/159930610",
+            "price": 6940,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/601200065",
+            "price": 7000,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1506875655",
+            "price": 7731,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1954670285",
+            "price": 6800,
+            "name": "美品 ギラティナVS",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/308402540",
+            "price": 6279,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/887770052",
+            "price": 4800,
+            "name": "【p86】ギラティナ",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24320",
+            "price": 6000,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-24",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36392",
+            "price": 5980,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-24",
+            "stock": 7
+        },
+        {
+            "market": "magi",
+            "link": "/items/1791657887",
+            "price": 6279,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1954670285",
+            "price": 6800,
+            "name": "美品 ギラティナVS",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/887770052",
+            "price": 4800,
+            "name": "【p86】ギラティナ",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/601200065",
+            "price": 7000,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1506875655",
+            "price": 7731,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-23",
             "stock": 1
         },
         {
@@ -13,8 +397,24 @@
             "link": "/items/159930610",
             "price": 6940,
             "name": "ギラティナVSTAR",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24320",
+            "price": 6000,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-23",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36392",
+            "price": 5980,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-23",
+            "stock": 64
         },
         {
             "market": "magi",
@@ -26,8 +426,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1506875655",
-            "price": 7731,
+            "link": "/items/159930610",
+            "price": 6940,
             "name": "ギラティナVSTAR",
             "date": "2022-12-22",
             "stock": 1
@@ -45,6 +445,22 @@
             "link": "/items/1954670285",
             "price": 6800,
             "name": "美品 ギラティナVS",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/887770052",
+            "price": 4800,
+            "name": "【p86】ギラティナ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1506875655",
+            "price": 7731,
+            "name": "ギラティナVSTAR",
             "date": "2022-12-22",
             "stock": 1
         },
@@ -66,16 +482,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/159930610",
-            "price": 6940,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/601200065",
-            "price": 7000,
+            "link": "/items/1506875655",
+            "price": 7731,
             "name": "ギラティナVSTAR",
             "date": "2022-12-21",
             "stock": 1
@@ -90,6 +498,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/601200065",
+            "price": 7000,
+            "name": "ギラティナVSTAR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/887770052",
             "price": 4800,
             "name": "【p86】ギラティナ",
@@ -98,16 +514,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1506875655",
-            "price": 7731,
+            "link": "/items/1791657887",
+            "price": 6279,
             "name": "ギラティナVSTAR",
             "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1791657887",
-            "price": 6279,
+            "link": "/items/159930610",
+            "price": 6940,
             "name": "ギラティナVSTAR",
             "date": "2022-12-21",
             "stock": 1
@@ -127,390 +543,6 @@
             "name": "ギラティナVSTAR",
             "date": "2022-12-21",
             "stock": 104
-        },
-        {
-            "market": "magi",
-            "link": "/items/887770052",
-            "price": 4800,
-            "name": "【p86】ギラティナ",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1954670285",
-            "price": 6800,
-            "name": "美品 ギラティナVS",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1506875655",
-            "price": 7731,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1791657887",
-            "price": 6279,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/601200065",
-            "price": 7000,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/159930610",
-            "price": 6940,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24320",
-            "price": 6000,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-20",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36392",
-            "price": 5980,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-20",
-            "stock": 55
-        },
-        {
-            "market": "magi",
-            "link": "/items/887770052",
-            "price": 4800,
-            "name": "【p86】ギラティナ",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/601200065",
-            "price": 7000,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/159930610",
-            "price": 6940,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1791657887",
-            "price": 6279,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1954670285",
-            "price": 6800,
-            "name": "美品 ギラティナVS",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1506875655",
-            "price": 7731,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24320",
-            "price": 6000,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-19",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36392",
-            "price": 5980,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-19",
-            "stock": 66
-        },
-        {
-            "market": "magi",
-            "link": "/items/887770052",
-            "price": 4800,
-            "name": "【p86】ギラティナ",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/159930610",
-            "price": 6940,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1506875655",
-            "price": 7731,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1954670285",
-            "price": 6800,
-            "name": "美品 ギラティナVS",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/601200065",
-            "price": 7000,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1791657887",
-            "price": 6279,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24320",
-            "price": 6000,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-18",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36392",
-            "price": 5980,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-18",
-            "stock": 66
-        },
-        {
-            "market": "magi",
-            "link": "/items/1954670285",
-            "price": 6800,
-            "name": "美品 ギラティナVS",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1506875655",
-            "price": 7731,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/887770052",
-            "price": 4800,
-            "name": "【p86】ギラティナ",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1791657887",
-            "price": 6279,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/159930610",
-            "price": 6940,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/601200065",
-            "price": 7000,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24320",
-            "price": 6000,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-17",
-            "stock": 16
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36392",
-            "price": 5980,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-17",
-            "stock": 66
-        },
-        {
-            "market": "magi",
-            "link": "/items/1506875655",
-            "price": 7731,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1791657887",
-            "price": 6279,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1954670285",
-            "price": 6800,
-            "name": "美品 ギラティナVS",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/601200065",
-            "price": 7000,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/159930610",
-            "price": 6940,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24320",
-            "price": 6000,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-16",
-            "stock": 16
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36392",
-            "price": 5980,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-16",
-            "stock": 67
-        },
-        {
-            "market": "magi",
-            "link": "/items/159930610",
-            "price": 6941,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1791657887",
-            "price": 6279,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/417672250",
-            "price": 5754,
-            "name": "〔状態A-〕ギラティ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/601200065",
-            "price": 7000,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1954670285",
-            "price": 6800,
-            "name": "美品 ギラティナVS",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1506875655",
-            "price": 7731,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24320",
-            "price": 6000,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-15",
-            "stock": 16
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36392",
-            "price": 5980,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-15",
-            "stock": 88
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36451",
-            "price": 5480,
-            "name": "ギラティナVSTAR",
-            "date": "2022-12-15",
-            "stock": 1
         }
     ]
 }

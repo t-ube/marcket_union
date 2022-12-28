@@ -2,16 +2,704 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/962482180",
+            "price": 100,
+            "name": "キバナ 150/18",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1858426565",
+            "price": 25,
+            "name": "キバナ 150/18",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2031134332",
+            "price": 25,
+            "name": "キバナ 150/18",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2115842592",
+            "price": 240,
+            "name": "キバナ 150/18",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1046151206",
+            "price": 49,
+            "name": "【特価】キバナ U ",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2000006849",
+            "price": 42,
+            "name": "キバナ 150/18",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/832346908",
             "price": 100,
             "name": "キバナ(キラ) 15",
-            "date": "2022-12-22",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21297",
+            "price": 100,
+            "name": "キバナ:ミラー(CP",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21118",
+            "price": 50,
+            "name": "キバナ(CP){サポ",
+            "date": "2022-12-28",
+            "stock": 255
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22788",
+            "price": 50,
+            "name": "キバナ150/184",
+            "date": "2022-12-28",
+            "stock": 161
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22929",
+            "price": 180,
+            "name": "キバナ150/184",
+            "date": "2022-12-28",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32969",
+            "price": 150,
+            "name": "キバナ150/184",
+            "date": "2022-12-28",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g150-184-S8B-BM/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g150-184-S8B-B/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-28",
+            "stock": 19
+        },
+        {
+            "market": "magi",
+            "link": "/items/832346908",
+            "price": 100,
+            "name": "キバナ(キラ) 15",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1046151206",
+            "price": 49,
+            "name": "【特価】キバナ U ",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2115842592",
+            "price": 240,
+            "name": "キバナ 150/18",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2031134332",
+            "price": 25,
+            "name": "キバナ 150/18",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1858426565",
+            "price": 25,
+            "name": "キバナ 150/18",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2000006849",
+            "price": 42,
+            "name": "キバナ 150/18",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/962482180",
+            "price": 100,
+            "name": "キバナ 150/18",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21297",
+            "price": 100,
+            "name": "キバナ:ミラー(CP",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21118",
+            "price": 50,
+            "name": "キバナ(CP){サポ",
+            "date": "2022-12-27",
+            "stock": 257
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22929",
+            "price": 180,
+            "name": "キバナ150/184",
+            "date": "2022-12-27",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32969",
+            "price": 150,
+            "name": "キバナ150/184",
+            "date": "2022-12-27",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22788",
+            "price": 50,
+            "name": "キバナ150/184",
+            "date": "2022-12-27",
+            "stock": 161
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g150-184-S8B-B/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-27",
+            "stock": 19
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g150-184-S8B-BM/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/832346908",
+            "price": 100,
+            "name": "キバナ(キラ) 15",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2115842592",
+            "price": 240,
+            "name": "キバナ 150/18",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/962482180",
+            "price": 100,
+            "name": "キバナ 150/18",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1858426565",
+            "price": 25,
+            "name": "キバナ 150/18",
+            "date": "2022-12-26",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2031134332",
+            "price": 25,
+            "name": "キバナ 150/18",
+            "date": "2022-12-26",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2000006849",
+            "price": 42,
+            "name": "キバナ 150/18",
+            "date": "2022-12-26",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1046151206",
+            "price": 49,
+            "name": "【特価】キバナ U ",
+            "date": "2022-12-26",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21297",
+            "price": 100,
+            "name": "キバナ:ミラー(CP",
+            "date": "2022-12-26",
+            "stock": 9
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21118",
+            "price": 50,
+            "name": "キバナ(CP){サポ",
+            "date": "2022-12-26",
+            "stock": 258
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32969",
+            "price": 150,
+            "name": "キバナ150/184",
+            "date": "2022-12-26",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22788",
+            "price": 50,
+            "name": "キバナ150/184",
+            "date": "2022-12-26",
+            "stock": 161
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22929",
+            "price": 180,
+            "name": "キバナ150/184",
+            "date": "2022-12-26",
+            "stock": 9
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g150-184-S8B-BM/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g150-184-S8B-B/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-26",
+            "stock": 19
+        },
+        {
+            "market": "magi",
+            "link": "/items/1046151206",
+            "price": 49,
+            "name": "【特価】キバナ U ",
+            "date": "2022-12-25",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2115842592",
+            "price": 240,
+            "name": "キバナ 150/18",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/645541680",
+            "price": 480,
+            "name": "キバナ 150/18",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1858426565",
+            "price": 25,
+            "name": "キバナ 150/18",
+            "date": "2022-12-25",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2031134332",
+            "price": 25,
+            "name": "キバナ 150/18",
+            "date": "2022-12-25",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/832346908",
+            "price": 100,
+            "name": "キバナ(キラ) 15",
+            "date": "2022-12-25",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/2000006849",
             "price": 42,
+            "name": "キバナ 150/18",
+            "date": "2022-12-25",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/962482180",
+            "price": 100,
+            "name": "キバナ 150/18",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21118",
+            "price": 50,
+            "name": "キバナ(CP){サポ",
+            "date": "2022-12-25",
+            "stock": 261
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21297",
+            "price": 100,
+            "name": "キバナ:ミラー(CP",
+            "date": "2022-12-25",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32969",
+            "price": 150,
+            "name": "キバナ150/184",
+            "date": "2022-12-25",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22788",
+            "price": 50,
+            "name": "キバナ150/184",
+            "date": "2022-12-25",
+            "stock": 161
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22929",
+            "price": 180,
+            "name": "キバナ150/184",
+            "date": "2022-12-25",
+            "stock": 9
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g150-184-S8B-BM/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g150-184-S8B-B/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-25",
+            "stock": 19
+        },
+        {
+            "market": "magi",
+            "link": "/items/832346908",
+            "price": 100,
+            "name": "キバナ(キラ) 15",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/962482180",
+            "price": 100,
+            "name": "キバナ 150/18",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2000006849",
+            "price": 42,
+            "name": "キバナ 150/18",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1046151206",
+            "price": 49,
+            "name": "【特価】キバナ U ",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/645541680",
+            "price": 480,
+            "name": "キバナ 150/18",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1858426565",
+            "price": 25,
+            "name": "キバナ 150/18",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2115842592",
+            "price": 240,
+            "name": "キバナ 150/18",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2031134332",
+            "price": 25,
+            "name": "キバナ 150/18",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21297",
+            "price": 100,
+            "name": "キバナ:ミラー(CP",
+            "date": "2022-12-24",
+            "stock": 9
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21118",
+            "price": 50,
+            "name": "キバナ(CP){サポ",
+            "date": "2022-12-24",
+            "stock": 269
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32969",
+            "price": 150,
+            "name": "キバナ150/184",
+            "date": "2022-12-24",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22788",
+            "price": 50,
+            "name": "キバナ150/184",
+            "date": "2022-12-24",
+            "stock": 167
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22929",
+            "price": 180,
+            "name": "キバナ150/184",
+            "date": "2022-12-24",
+            "stock": 10
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g150-184-S8B-BM/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g150-184-S8B-B/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-24",
+            "stock": 19
+        },
+        {
+            "market": "magi",
+            "link": "/items/962482180",
+            "price": 100,
+            "name": "キバナ 150/18",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2000006849",
+            "price": 42,
+            "name": "キバナ 150/18",
+            "date": "2022-12-23",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1046151206",
+            "price": 49,
+            "name": "【特価】キバナ U ",
+            "date": "2022-12-23",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/645541680",
+            "price": 480,
+            "name": "キバナ 150/18",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2115842592",
+            "price": 240,
+            "name": "キバナ 150/18",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/832346908",
+            "price": 100,
+            "name": "キバナ(キラ) 15",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2031134332",
+            "price": 25,
+            "name": "キバナ 150/18",
+            "date": "2022-12-23",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1858426565",
+            "price": 25,
+            "name": "キバナ 150/18",
+            "date": "2022-12-23",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21118",
+            "price": 50,
+            "name": "キバナ(CP){サポ",
+            "date": "2022-12-23",
+            "stock": 269
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21297",
+            "price": 100,
+            "name": "キバナ:ミラー(CP",
+            "date": "2022-12-23",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22788",
+            "price": 50,
+            "name": "キバナ150/184",
+            "date": "2022-12-23",
+            "stock": 168
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32969",
+            "price": 150,
+            "name": "キバナ150/184",
+            "date": "2022-12-23",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22929",
+            "price": 180,
+            "name": "キバナ150/184",
+            "date": "2022-12-23",
+            "stock": 9
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g150-184-S8B-BM/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g150-184-S8B-B/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-23",
+            "stock": 19
+        },
+        {
+            "market": "magi",
+            "link": "/items/2031134332",
+            "price": 25,
             "name": "キバナ 150/18",
             "date": "2022-12-22",
             "stock": 4
@@ -39,22 +727,6 @@
             "name": "キバナ 150/18",
             "date": "2022-12-22",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2031134332",
-            "price": 25,
-            "name": "キバナ 150/18",
-            "date": "2022-12-22",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1858426565",
-            "price": 25,
-            "name": "キバナ 150/18",
-            "date": "2022-12-22",
-            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -65,6 +737,22 @@
             "stock": 271
         },
         {
+            "market": "magi",
+            "link": "/items/1858426565",
+            "price": 25,
+            "name": "キバナ 150/18",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/832346908",
+            "price": 100,
+            "name": "キバナ(キラ) 15",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21297",
             "price": 100,
@@ -81,12 +769,20 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/2000006849",
+            "price": 42,
+            "name": "キバナ 150/18",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22788",
-            "price": 50,
+            "link": "https://www.cardrush-pokemon.jp/product/32969",
+            "price": 150,
             "name": "キバナ150/184",
             "date": "2022-12-22",
-            "stock": 168
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -98,19 +794,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32969",
-            "price": 150,
+            "link": "https://www.cardrush-pokemon.jp/product/22788",
+            "price": 50,
             "name": "キバナ150/184",
             "date": "2022-12-22",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g150-184-S8B-B/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-22",
-            "stock": 19
+            "stock": 168
         },
         {
             "market": "torecolo",
@@ -121,17 +809,57 @@
             "stock": 1
         },
         {
+            "market": "torecolo",
+            "link": "/shop/g/g150-184-S8B-B/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-22",
+            "stock": 19
+        },
+        {
             "market": "magi",
-            "link": "/items/962482180",
-            "price": 100,
+            "link": "/items/2115842592",
+            "price": 240,
             "name": "キバナ 150/18",
             "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
+            "link": "/items/2031134332",
+            "price": 25,
+            "name": "キバナ 150/18",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/645541680",
             "price": 480,
+            "name": "キバナ 150/18",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2000006849",
+            "price": 42,
+            "name": "キバナ 150/18",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/832346908",
+            "price": 100,
+            "name": "キバナ(キラ) 15",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/962482180",
+            "price": 100,
             "name": "キバナ 150/18",
             "date": "2022-12-21",
             "stock": 1
@@ -146,43 +874,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/2031134332",
-            "price": 25,
-            "name": "キバナ 150/18",
-            "date": "2022-12-21",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/2115842592",
-            "price": 240,
-            "name": "キバナ 150/18",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/832346908",
-            "price": 100,
-            "name": "キバナ(キラ) 15",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2000006849",
-            "price": 42,
-            "name": "キバナ 150/18",
-            "date": "2022-12-21",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/1046151206",
             "price": 49,
             "name": "【特価】キバナ U ",
             "date": "2022-12-21",
             "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21297",
+            "price": 100,
+            "name": "キバナ:ミラー(CP",
+            "date": "2022-12-21",
+            "stock": 9
         },
         {
             "market": "hareruya2",
@@ -193,30 +897,6 @@
             "stock": 265
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21297",
-            "price": 100,
-            "name": "キバナ:ミラー(CP",
-            "date": "2022-12-21",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22929",
-            "price": 180,
-            "name": "キバナ150/184",
-            "date": "2022-12-21",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22788",
-            "price": 50,
-            "name": "キバナ150/184",
-            "date": "2022-12-21",
-            "stock": 168
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32969",
             "price": 150,
@@ -225,6 +905,22 @@
             "stock": 2
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22788",
+            "price": 50,
+            "name": "キバナ150/184",
+            "date": "2022-12-21",
+            "stock": 168
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22929",
+            "price": 180,
+            "name": "キバナ150/184",
+            "date": "2022-12-21",
+            "stock": 9
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g150-184-S8B-B/",
             "price": 88,
@@ -238,622 +934,6 @@
             "price": 88,
             "name": "【ポケカ】Ｃ）ミラー",
             "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2115842592",
-            "price": 240,
-            "name": "キバナ 150/18",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/645541680",
-            "price": 480,
-            "name": "キバナ 150/18",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1046151206",
-            "price": 49,
-            "name": "【特価】キバナ U ",
-            "date": "2022-12-20",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/832346908",
-            "price": 100,
-            "name": "キバナ(キラ) 15",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/962482180",
-            "price": 100,
-            "name": "キバナ 150/18",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2000006849",
-            "price": 42,
-            "name": "キバナ 150/18",
-            "date": "2022-12-20",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21297",
-            "price": 100,
-            "name": "キバナ:ミラー(CP",
-            "date": "2022-12-20",
-            "stock": 9
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21118",
-            "price": 50,
-            "name": "キバナ(CP){サポ",
-            "date": "2022-12-20",
-            "stock": 265
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22929",
-            "price": 180,
-            "name": "キバナ150/184",
-            "date": "2022-12-20",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32969",
-            "price": 150,
-            "name": "キバナ150/184",
-            "date": "2022-12-20",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22788",
-            "price": 50,
-            "name": "キバナ150/184",
-            "date": "2022-12-20",
-            "stock": 168
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g150-184-S8B-B/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-20",
-            "stock": 19
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g150-184-S8B-BM/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/832346908",
-            "price": 100,
-            "name": "キバナ(キラ) 15",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/962482180",
-            "price": 100,
-            "name": "キバナ 150/18",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2000006849",
-            "price": 42,
-            "name": "キバナ 150/18",
-            "date": "2022-12-19",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/645541680",
-            "price": 480,
-            "name": "キバナ 150/18",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1046151206",
-            "price": 49,
-            "name": "【特価】キバナ U ",
-            "date": "2022-12-19",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/2115842592",
-            "price": 240,
-            "name": "キバナ 150/18",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21118",
-            "price": 50,
-            "name": "キバナ(CP){サポ",
-            "date": "2022-12-19",
-            "stock": 265
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21297",
-            "price": 100,
-            "name": "キバナ:ミラー(CP",
-            "date": "2022-12-19",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32969",
-            "price": 150,
-            "name": "キバナ150/184",
-            "date": "2022-12-19",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22788",
-            "price": 50,
-            "name": "キバナ150/184",
-            "date": "2022-12-19",
-            "stock": 168
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22929",
-            "price": 180,
-            "name": "キバナ150/184",
-            "date": "2022-12-19",
-            "stock": 9
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g150-184-S8B-B/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-19",
-            "stock": 19
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g150-184-S8B-BM/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2115842592",
-            "price": 240,
-            "name": "キバナ 150/18",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2000006849",
-            "price": 42,
-            "name": "キバナ 150/18",
-            "date": "2022-12-18",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/832346908",
-            "price": 100,
-            "name": "キバナ(キラ) 15",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/645541680",
-            "price": 480,
-            "name": "キバナ 150/18",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1046151206",
-            "price": 49,
-            "name": "【特価】キバナ U ",
-            "date": "2022-12-18",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/962482180",
-            "price": 100,
-            "name": "キバナ 150/18",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21118",
-            "price": 50,
-            "name": "キバナ(CP){サポ",
-            "date": "2022-12-18",
-            "stock": 267
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21297",
-            "price": 100,
-            "name": "キバナ:ミラー(CP",
-            "date": "2022-12-18",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22788",
-            "price": 50,
-            "name": "キバナ150/184",
-            "date": "2022-12-18",
-            "stock": 168
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22929",
-            "price": 180,
-            "name": "キバナ150/184",
-            "date": "2022-12-18",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32969",
-            "price": 150,
-            "name": "キバナ150/184",
-            "date": "2022-12-18",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g150-184-S8B-BM/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g150-184-S8B-B/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-18",
-            "stock": 19
-        },
-        {
-            "market": "magi",
-            "link": "/items/645541680",
-            "price": 480,
-            "name": "キバナ 150/18",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2000006849",
-            "price": 42,
-            "name": "キバナ 150/18",
-            "date": "2022-12-17",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/832346908",
-            "price": 100,
-            "name": "キバナ(キラ) 15",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2115842592",
-            "price": 240,
-            "name": "キバナ 150/18",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1046151206",
-            "price": 49,
-            "name": "【特価】キバナ U ",
-            "date": "2022-12-17",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/962482180",
-            "price": 100,
-            "name": "キバナ 150/18",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21297",
-            "price": 100,
-            "name": "キバナ:ミラー(CP",
-            "date": "2022-12-17",
-            "stock": 8
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21118",
-            "price": 50,
-            "name": "キバナ(CP){サポ",
-            "date": "2022-12-17",
-            "stock": 196
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22929",
-            "price": 180,
-            "name": "キバナ150/184",
-            "date": "2022-12-17",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22788",
-            "price": 50,
-            "name": "キバナ150/184",
-            "date": "2022-12-17",
-            "stock": 168
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32969",
-            "price": 150,
-            "name": "キバナ150/184",
-            "date": "2022-12-17",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g150-184-S8B-B/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-17",
-            "stock": 19
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g150-184-S8B-BM/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2115842592",
-            "price": 240,
-            "name": "キバナ 150/18",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1046151206",
-            "price": 49,
-            "name": "【特価】キバナ U ",
-            "date": "2022-12-16",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/645541680",
-            "price": 480,
-            "name": "キバナ 150/18",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/962482180",
-            "price": 100,
-            "name": "キバナ 150/18",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/832346908",
-            "price": 100,
-            "name": "キバナ(キラ) 15",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2000006849",
-            "price": 42,
-            "name": "キバナ 150/18",
-            "date": "2022-12-16",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21118",
-            "price": 50,
-            "name": "キバナ(CP){サポ",
-            "date": "2022-12-16",
-            "stock": 195
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21297",
-            "price": 100,
-            "name": "キバナ:ミラー(CP",
-            "date": "2022-12-16",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22788",
-            "price": 50,
-            "name": "キバナ150/184",
-            "date": "2022-12-16",
-            "stock": 168
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32969",
-            "price": 150,
-            "name": "キバナ150/184",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22929",
-            "price": 180,
-            "name": "キバナ150/184",
-            "date": "2022-12-16",
-            "stock": 9
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g150-184-S8B-B/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-16",
-            "stock": 19
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g150-184-S8B-BM/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1046151206",
-            "price": 49,
-            "name": "【特価】キバナ U ",
-            "date": "2022-12-15",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/832346908",
-            "price": 100,
-            "name": "キバナ(キラ) 15",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/962482180",
-            "price": 100,
-            "name": "キバナ 150/18",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2000006849",
-            "price": 42,
-            "name": "キバナ 150/18",
-            "date": "2022-12-15",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/645541680",
-            "price": 480,
-            "name": "キバナ 150/18",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2115842592",
-            "price": 240,
-            "name": "キバナ 150/18",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21297",
-            "price": 100,
-            "name": "キバナ:ミラー(CP",
-            "date": "2022-12-15",
-            "stock": 7
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21118",
-            "price": 50,
-            "name": "キバナ(CP){サポ",
-            "date": "2022-12-15",
-            "stock": 197
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22788",
-            "price": 50,
-            "name": "キバナ150/184",
-            "date": "2022-12-15",
-            "stock": 168
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22929",
-            "price": 180,
-            "name": "キバナ150/184",
-            "date": "2022-12-15",
-            "stock": 9
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g150-184-S8B-B/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-15",
-            "stock": 19
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g150-184-S8B-BM/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-15",
             "stock": 1
         }
     ]

@@ -2,11 +2,803 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1006079255",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2052334472",
+            "price": 70,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1455656391",
+            "price": 321,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/511087092",
+            "price": 49,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1267068894",
+            "price": 220,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/327593328",
+            "price": 100,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/73924055",
+            "price": 100,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1077891743",
+            "price": 120,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/571778619",
+            "price": 70,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/989359447",
+            "price": 50,
+            "name": "4枚セット　ボスの指",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/403205260",
+            "price": 100,
+            "name": "ボスの指令（アカギ）",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/439549158",
+            "price": 300,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/282286302",
+            "price": 250,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1912582945",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/352363314",
+            "price": 80,
+            "name": "1枚80円 s12a",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/676010229",
+            "price": 80,
+            "name": "1枚80円 s12a",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/361630060",
             "price": 200,
             "name": "ボスの指令[アカギ]",
-            "date": "2022-12-22",
+            "date": "2022-12-28",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38245",
+            "price": 80,
+            "name": "ボスの指令アカギ16",
+            "date": "2022-12-28",
+            "stock": 439
+        },
+        {
+            "market": "magi",
+            "link": "/items/403205260",
+            "price": 100,
+            "name": "ボスの指令（アカギ）",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/439549158",
+            "price": 300,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/361630060",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1455656391",
+            "price": 321,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/676010229",
+            "price": 80,
+            "name": "1枚80円 s12a",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/352363314",
+            "price": 80,
+            "name": "1枚80円 s12a",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1912582945",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1006079255",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/511087092",
+            "price": 49,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1267068894",
+            "price": 220,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/282286302",
+            "price": 250,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2052334472",
+            "price": 70,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/571778619",
+            "price": 70,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1077891743",
+            "price": 120,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/73924055",
+            "price": 100,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/989359447",
+            "price": 50,
+            "name": "4枚セット　ボスの指",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/327593328",
+            "price": 100,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38245",
+            "price": 80,
+            "name": "ボスの指令アカギ16",
+            "date": "2022-12-27",
+            "stock": 452
+        },
+        {
+            "market": "magi",
+            "link": "/items/676010229",
+            "price": 80,
+            "name": "1枚80円 s12a",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/439549158",
+            "price": 300,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1912582945",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/352363314",
+            "price": 80,
+            "name": "1枚80円 s12a",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/403205260",
+            "price": 100,
+            "name": "ボスの指令（アカギ）",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1455656391",
+            "price": 321,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1006079255",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/361630060",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2052334472",
+            "price": 70,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-26",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/571778619",
+            "price": 70,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-26",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1077891743",
+            "price": 120,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/73924055",
+            "price": 100,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/989359447",
+            "price": 50,
+            "name": "4枚セット　ボスの指",
+            "date": "2022-12-26",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/327593328",
+            "price": 100,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/282286302",
+            "price": 250,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38245",
+            "price": 80,
+            "name": "ボスの指令アカギ16",
+            "date": "2022-12-26",
+            "stock": 480
+        },
+        {
+            "market": "magi",
+            "link": "/items/2052334472",
+            "price": 70,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-25",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1006079255",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/352363314",
+            "price": 80,
+            "name": "1枚80円 s12a",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1455656391",
+            "price": 321,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1912582945",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/403205260",
+            "price": 100,
+            "name": "ボスの指令（アカギ）",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/571778619",
+            "price": 70,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-25",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/439549158",
+            "price": 300,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/361630060",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/327593328",
+            "price": 100,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/73924055",
+            "price": 100,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/676010229",
+            "price": 80,
+            "name": "1枚80円 s12a",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/989359447",
+            "price": 50,
+            "name": "4枚セット　ボスの指",
+            "date": "2022-12-25",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1077891743",
+            "price": 120,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/282286302",
+            "price": 250,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38245",
+            "price": 80,
+            "name": "ボスの指令アカギ16",
+            "date": "2022-12-25",
+            "stock": 493
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38519",
+            "price": 70,
+            "name": "ボスの指令アカギ16",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1006079255",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/73924055",
+            "price": 100,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/989359447",
+            "price": 50,
+            "name": "4枚セット　ボスの指",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1455656391",
+            "price": 321,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/352363314",
+            "price": 80,
+            "name": "1枚80円 s12a",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/282286302",
+            "price": 250,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1077891743",
+            "price": 120,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/571778619",
+            "price": 70,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2052334472",
+            "price": 70,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/439549158",
+            "price": 300,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/403205260",
+            "price": 100,
+            "name": "ボスの指令（アカギ）",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1912582945",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/676010229",
+            "price": 80,
+            "name": "1枚80円 s12a",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/361630060",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38245",
+            "price": 80,
+            "name": "ボスの指令アカギ16",
+            "date": "2022-12-24",
+            "stock": 531
+        },
+        {
+            "market": "magi",
+            "link": "/items/1077891743",
+            "price": 120,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/676010229",
+            "price": 80,
+            "name": "1枚80円 s12a",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/403205260",
+            "price": 100,
+            "name": "ボスの指令（アカギ）",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/989359447",
+            "price": 50,
+            "name": "4枚セット　ボスの指",
+            "date": "2022-12-23",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/282286302",
+            "price": 250,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/361630060",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1455656391",
+            "price": 321,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/352363314",
+            "price": 80,
+            "name": "1枚80円 s12a",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/439549158",
+            "price": 300,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1568146048",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2052334472",
+            "price": 70,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-23",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/571778619",
+            "price": 70,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-23",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1912582945",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1006079255",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/73924055",
+            "price": 100,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/38245",
+            "price": 80,
+            "name": "ボスの指令アカギ16",
+            "date": "2022-12-23",
+            "stock": 510
         },
         {
             "market": "magi",
@@ -18,16 +810,64 @@
         },
         {
             "market": "magi",
-            "link": "/items/989359447",
-            "price": 50,
-            "name": "4枚セット　ボスの指",
+            "link": "/items/676010229",
+            "price": 80,
+            "name": "1枚80円 s12a",
             "date": "2022-12-22",
-            "stock": 4
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/73924055",
             "price": 100,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/282286302",
+            "price": 250,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1568146048",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/352363314",
+            "price": 80,
+            "name": "1枚80円 s12a",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/571778619",
+            "price": 70,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/361630060",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1006079255",
+            "price": 200,
             "name": "ボスの指令[アカギ]",
             "date": "2022-12-22",
             "stock": 1
@@ -58,38 +898,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1568146048",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/571778619",
-            "price": 70,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-22",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/282286302",
-            "price": 250,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1006079255",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1912582945",
             "price": 200,
             "name": "ボスの指令[アカギ]",
@@ -98,19 +906,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/352363314",
-            "price": 80,
-            "name": "1枚80円 s12a",
+            "link": "/items/989359447",
+            "price": 50,
+            "name": "4枚セット　ボスの指",
             "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/676010229",
-            "price": 80,
-            "name": "1枚80円 s12a",
-            "date": "2022-12-22",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "magi",
@@ -130,19 +930,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/403205260",
-            "price": 100,
-            "name": "ボスの指令（アカギ）",
+            "link": "/items/1568146048",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
             "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/352363314",
+            "link": "/items/955912350",
             "price": 80,
-            "name": "1枚80円 s12a",
+            "name": "ボスの指令[アカギ]",
             "date": "2022-12-21",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "magi",
@@ -154,7 +954,39 @@
         },
         {
             "market": "magi",
-            "link": "/items/955912350",
+            "link": "/items/1006079255",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/676010229",
+            "price": 80,
+            "name": "1枚80円 s12a",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1077891743",
+            "price": 120,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/361630060",
+            "price": 200,
+            "name": "ボスの指令[アカギ]",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/571778619",
             "price": 80,
             "name": "ボスの指令[アカギ]",
             "date": "2022-12-21",
@@ -170,41 +1002,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1077891743",
-            "price": 120,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/571778619",
+            "link": "/items/352363314",
             "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-21",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1912582945",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2052334472",
-            "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-21",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1568146048",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
+            "name": "1枚80円 s12a",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -234,7 +1034,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1006079255",
+            "link": "/items/1912582945",
             "price": 200,
             "name": "ボスの指令[アカギ]",
             "date": "2022-12-21",
@@ -242,19 +1042,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/676010229",
+            "link": "/items/403205260",
+            "price": 100,
+            "name": "ボスの指令（アカギ）",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2052334472",
             "price": 80,
-            "name": "1枚80円 s12a",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/361630060",
-            "price": 200,
             "name": "ボスの指令[アカギ]",
             "date": "2022-12-21",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -263,782 +1063,6 @@
             "name": "ボスの指令アカギ16",
             "date": "2022-12-21",
             "stock": 475
-        },
-        {
-            "market": "magi",
-            "link": "/items/439549158",
-            "price": 300,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/73924055",
-            "price": 100,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2052334472",
-            "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-20",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/955912350",
-            "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-20",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/403205260",
-            "price": 100,
-            "name": "ボスの指令（アカギ）",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/989359447",
-            "price": 50,
-            "name": "4枚セット　ボスの指",
-            "date": "2022-12-20",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1077891743",
-            "price": 120,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/361630060",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1006079255",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1912582945",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/352363314",
-            "price": 80,
-            "name": "1枚80円 s12a",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/676010229",
-            "price": 80,
-            "name": "1枚80円 s12a",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1455656391",
-            "price": 321,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1568146048",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/282286302",
-            "price": 250,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/571778619",
-            "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-20",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38245",
-            "price": 80,
-            "name": "ボスの指令アカギ16",
-            "date": "2022-12-20",
-            "stock": 459
-        },
-        {
-            "market": "magi",
-            "link": "/items/403205260",
-            "price": 100,
-            "name": "ボスの指令（アカギ）",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/361630060",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/282286302",
-            "price": 250,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1455656391",
-            "price": 321,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/352363314",
-            "price": 80,
-            "name": "1枚80円 s12a",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1912582945",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1006079255",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/676010229",
-            "price": 80,
-            "name": "1枚80円 s12a",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/989359447",
-            "price": 50,
-            "name": "4枚セット　ボスの指",
-            "date": "2022-12-19",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/2052334472",
-            "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-19",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/571778619",
-            "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-19",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1077891743",
-            "price": 120,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/73924055",
-            "price": 100,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/439549158",
-            "price": 300,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1568146048",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/955912350",
-            "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-19",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38245",
-            "price": 80,
-            "name": "ボスの指令アカギ16",
-            "date": "2022-12-19",
-            "stock": 517
-        },
-        {
-            "market": "magi",
-            "link": "/items/361630060",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/403205260",
-            "price": 100,
-            "name": "ボスの指令（アカギ）",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1006079255",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/439549158",
-            "price": 300,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1455656391",
-            "price": 321,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/571778619",
-            "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-18",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/955912350",
-            "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-18",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/282286302",
-            "price": 250,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1077891743",
-            "price": 120,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/73924055",
-            "price": 100,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/989359447",
-            "price": 50,
-            "name": "4枚セット　ボスの指",
-            "date": "2022-12-18",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1568146048",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/352363314",
-            "price": 80,
-            "name": "1枚80円 s12a",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1912582945",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/676010229",
-            "price": 80,
-            "name": "1枚80円 s12a",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2052334472",
-            "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-18",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38245",
-            "price": 80,
-            "name": "ボスの指令アカギ16",
-            "date": "2022-12-18",
-            "stock": 543
-        },
-        {
-            "market": "magi",
-            "link": "/items/955912350",
-            "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-17",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1912582945",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/571778619",
-            "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-17",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1455656391",
-            "price": 321,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1568146048",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1006079255",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/403205260",
-            "price": 100,
-            "name": "ボスの指令（アカギ）",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2052334472",
-            "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-17",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/282286302",
-            "price": 250,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1077891743",
-            "price": 120,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/73924055",
-            "price": 100,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/361630060",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/676010229",
-            "price": 80,
-            "name": "1枚80円 s12a",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/352363314",
-            "price": 80,
-            "name": "1枚80円 s12a",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/439549158",
-            "price": 300,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38245",
-            "price": 80,
-            "name": "ボスの指令アカギ16",
-            "date": "2022-12-17",
-            "stock": 551
-        },
-        {
-            "market": "magi",
-            "link": "/items/282286302",
-            "price": 250,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/403205260",
-            "price": 100,
-            "name": "ボスの指令（アカギ）",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1912582945",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/571778619",
-            "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-16",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/439549158",
-            "price": 300,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1077891743",
-            "price": 120,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/361630060",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/352363314",
-            "price": 80,
-            "name": "1枚80円 s12a",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1455656391",
-            "price": 321,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1006079255",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/955912350",
-            "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-16",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/73924055",
-            "price": 100,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/676010229",
-            "price": 80,
-            "name": "1枚80円 s12a",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1568146048",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2052334472",
-            "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-16",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38245",
-            "price": 80,
-            "name": "ボスの指令アカギ16",
-            "date": "2022-12-16",
-            "stock": 547
-        },
-        {
-            "market": "magi",
-            "link": "/items/2052334472",
-            "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-15",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/282286302",
-            "price": 250,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/403205260",
-            "price": 100,
-            "name": "ボスの指令（アカギ）",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1568146048",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1006079255",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1077891743",
-            "price": 120,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/352363314",
-            "price": 80,
-            "name": "1枚80円 s12a",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/361630060",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1912582945",
-            "price": 200,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/571778619",
-            "price": 80,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-15",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/439549158",
-            "price": 300,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/676010229",
-            "price": 80,
-            "name": "1枚80円 s12a",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1455656391",
-            "price": 321,
-            "name": "ボスの指令[アカギ]",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38245",
-            "price": 80,
-            "name": "ボスの指令アカギ16",
-            "date": "2022-12-15",
-            "stock": 577
         }
     ]
 }

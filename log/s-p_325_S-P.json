@@ -1,6 +1,134 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/2047750756",
+            "price": 1750,
+            "name": "ルギアVSTAR 3",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25580",
+            "price": 2000,
+            "name": "ルギアVSTAR(P",
+            "date": "2022-12-28",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37629",
+            "price": 1980,
+            "name": "ルギアVSTAR32",
+            "date": "2022-12-28",
+            "stock": 21
+        },
+        {
+            "market": "magi",
+            "link": "/items/2047750756",
+            "price": 1750,
+            "name": "ルギアVSTAR 3",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25580",
+            "price": 2000,
+            "name": "ルギアVSTAR(P",
+            "date": "2022-12-27",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37629",
+            "price": 1980,
+            "name": "ルギアVSTAR32",
+            "date": "2022-12-27",
+            "stock": 21
+        },
+        {
+            "market": "magi",
+            "link": "/items/2047750756",
+            "price": 1750,
+            "name": "ルギアVSTAR 3",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25580",
+            "price": 2000,
+            "name": "ルギアVSTAR(P",
+            "date": "2022-12-26",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37629",
+            "price": 1980,
+            "name": "ルギアVSTAR32",
+            "date": "2022-12-26",
+            "stock": 17
+        },
+        {
+            "market": "magi",
+            "link": "/items/2047750756",
+            "price": 1800,
+            "name": "ルギアVSTAR 3",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25580",
+            "price": 1880,
+            "name": "ルギアVSTAR(P",
+            "date": "2022-12-25",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37629",
+            "price": 1980,
+            "name": "ルギアVSTAR32",
+            "date": "2022-12-25",
+            "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25580",
+            "price": 1880,
+            "name": "ルギアVSTAR(P",
+            "date": "2022-12-24",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37629",
+            "price": 1980,
+            "name": "ルギアVSTAR32",
+            "date": "2022-12-24",
+            "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25580",
+            "price": 1880,
+            "name": "ルギアVSTAR(P",
+            "date": "2022-12-23",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37629",
+            "price": 1980,
+            "name": "ルギアVSTAR32",
+            "date": "2022-12-23",
+            "stock": 17
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/25580",
             "price": 1880,
@@ -31,102 +159,6 @@
             "name": "ルギアVSTAR32",
             "date": "2022-12-21",
             "stock": 21
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25580",
-            "price": 1880,
-            "name": "ルギアVSTAR(P",
-            "date": "2022-12-20",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37629",
-            "price": 1980,
-            "name": "ルギアVSTAR32",
-            "date": "2022-12-20",
-            "stock": 18
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25580",
-            "price": 2000,
-            "name": "ルギアVSTAR(P",
-            "date": "2022-12-19",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37629",
-            "price": 1980,
-            "name": "ルギアVSTAR32",
-            "date": "2022-12-19",
-            "stock": 10
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25580",
-            "price": 2000,
-            "name": "ルギアVSTAR(P",
-            "date": "2022-12-18",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37629",
-            "price": 1980,
-            "name": "ルギアVSTAR32",
-            "date": "2022-12-18",
-            "stock": 21
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25580",
-            "price": 2000,
-            "name": "ルギアVSTAR(P",
-            "date": "2022-12-17",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37629",
-            "price": 1980,
-            "name": "ルギアVSTAR32",
-            "date": "2022-12-17",
-            "stock": 20
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25580",
-            "price": 2000,
-            "name": "ルギアVSTAR(P",
-            "date": "2022-12-16",
-            "stock": 41
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37629",
-            "price": 1980,
-            "name": "ルギアVSTAR32",
-            "date": "2022-12-16",
-            "stock": 13
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25580",
-            "price": 2000,
-            "name": "ルギアVSTAR(P",
-            "date": "2022-12-15",
-            "stock": 41
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37629",
-            "price": 1980,
-            "name": "ルギアVSTAR32",
-            "date": "2022-12-15",
-            "stock": 5
         }
     ]
 }

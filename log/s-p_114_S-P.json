@@ -1,19 +1,11 @@
 ﻿{
     "items": [
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17350",
-            "price": 500,
-            "name": "サンダース(PROM",
-            "date": "2022-12-22",
-            "stock": 2
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14927",
             "price": 180,
             "name": "サンダース114/S",
-            "date": "2022-12-22",
+            "date": "2022-12-28",
             "stock": 2
         },
         {
@@ -21,7 +13,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/30439",
             "price": 380,
             "name": "サンダース114/S",
-            "date": "2022-12-22",
+            "date": "2022-12-28",
             "stock": 10
         },
         {
@@ -29,23 +21,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/14638",
             "price": 480,
             "name": "サンダース114/S",
-            "date": "2022-12-22",
-            "stock": 20
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17350",
-            "price": 500,
-            "name": "サンダース(PROM",
-            "date": "2022-12-21",
-            "stock": 2
+            "date": "2022-12-28",
+            "stock": 22
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14927",
             "price": 180,
             "name": "サンダース114/S",
-            "date": "2022-12-21",
+            "date": "2022-12-27",
             "stock": 2
         },
         {
@@ -53,7 +37,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/30439",
             "price": 380,
             "name": "サンダース114/S",
-            "date": "2022-12-21",
+            "date": "2022-12-27",
             "stock": 10
         },
         {
@@ -61,15 +45,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/14638",
             "price": 480,
             "name": "サンダース114/S",
-            "date": "2022-12-21",
-            "stock": 20
+            "date": "2022-12-27",
+            "stock": 22
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14927",
             "price": 180,
             "name": "サンダース114/S",
-            "date": "2022-12-20",
+            "date": "2022-12-26",
             "stock": 2
         },
         {
@@ -77,7 +61,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/30439",
             "price": 380,
             "name": "サンダース114/S",
-            "date": "2022-12-20",
+            "date": "2022-12-26",
             "stock": 10
         },
         {
@@ -85,15 +69,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/14638",
             "price": 480,
             "name": "サンダース114/S",
-            "date": "2022-12-20",
-            "stock": 20
+            "date": "2022-12-26",
+            "stock": 22
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14927",
             "price": 180,
             "name": "サンダース114/S",
-            "date": "2022-12-19",
+            "date": "2022-12-25",
             "stock": 2
         },
         {
@@ -101,7 +85,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/30439",
             "price": 380,
             "name": "サンダース114/S",
-            "date": "2022-12-19",
+            "date": "2022-12-25",
             "stock": 10
         },
         {
@@ -109,31 +93,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/14638",
             "price": 480,
             "name": "サンダース114/S",
-            "date": "2022-12-19",
+            "date": "2022-12-25",
             "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14638",
-            "price": 480,
-            "name": "サンダース114/S",
-            "date": "2022-12-18",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14927",
-            "price": 180,
-            "name": "サンダース114/S",
-            "date": "2022-12-18",
-            "stock": 2
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30439",
             "price": 380,
             "name": "サンダース114/S",
-            "date": "2022-12-18",
+            "date": "2022-12-24",
             "stock": 10
         },
         {
@@ -141,7 +109,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/14638",
             "price": 480,
             "name": "サンダース114/S",
-            "date": "2022-12-17",
+            "date": "2022-12-24",
             "stock": 20
         },
         {
@@ -149,47 +117,15 @@
             "link": "https://www.cardrush-pokemon.jp/product/14927",
             "price": 180,
             "name": "サンダース114/S",
-            "date": "2022-12-17",
+            "date": "2022-12-24",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30439",
-            "price": 380,
-            "name": "サンダース114/S",
-            "date": "2022-12-17",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14927",
-            "price": 180,
-            "name": "サンダース114/S",
-            "date": "2022-12-16",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30439",
-            "price": 380,
-            "name": "サンダース114/S",
-            "date": "2022-12-16",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14638",
-            "price": 480,
-            "name": "サンダース114/S",
-            "date": "2022-12-16",
-            "stock": 21
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17350",
             "price": 500,
             "name": "サンダース(PROM",
-            "date": "2022-12-15",
+            "date": "2022-12-23",
             "stock": 1
         },
         {
@@ -197,7 +133,31 @@
             "link": "https://www.cardrush-pokemon.jp/product/14927",
             "price": 180,
             "name": "サンダース114/S",
-            "date": "2022-12-15",
+            "date": "2022-12-23",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14638",
+            "price": 480,
+            "name": "サンダース114/S",
+            "date": "2022-12-23",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30439",
+            "price": 380,
+            "name": "サンダース114/S",
+            "date": "2022-12-23",
+            "stock": 10
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17350",
+            "price": 500,
+            "name": "サンダース(PROM",
+            "date": "2022-12-22",
             "stock": 2
         },
         {
@@ -205,16 +165,56 @@
             "link": "https://www.cardrush-pokemon.jp/product/30439",
             "price": 380,
             "name": "サンダース114/S",
-            "date": "2022-12-15",
-            "stock": 8
+            "date": "2022-12-22",
+            "stock": 10
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14638",
             "price": 480,
             "name": "サンダース114/S",
-            "date": "2022-12-15",
-            "stock": 22
+            "date": "2022-12-22",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14927",
+            "price": 180,
+            "name": "サンダース114/S",
+            "date": "2022-12-22",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17350",
+            "price": 500,
+            "name": "サンダース(PROM",
+            "date": "2022-12-21",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30439",
+            "price": 380,
+            "name": "サンダース114/S",
+            "date": "2022-12-21",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14638",
+            "price": 480,
+            "name": "サンダース114/S",
+            "date": "2022-12-21",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14927",
+            "price": 180,
+            "name": "サンダース114/S",
+            "date": "2022-12-21",
+            "stock": 2
         }
     ]
 }

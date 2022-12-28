@@ -2,7 +2,367 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/540892475",
+            "price": 100,
+            "name": "s10D クレセリア",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/518657826",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/185797525",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1760787442",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22958",
+            "price": 100,
+            "name": "クレセリア(R){超",
+            "date": "2022-12-28",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34629",
+            "price": 80,
+            "name": "クレセリア028/0",
+            "date": "2022-12-28",
+            "stock": 154
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g028-067-S10D-B/",
+            "price": 44,
+            "name": "【ポケカ】Ｒ◇クレセ",
+            "date": "2022-12-28",
+            "stock": 12
+        },
+        {
+            "market": "magi",
+            "link": "/items/1760787442",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/540892475",
+            "price": 100,
+            "name": "s10D クレセリア",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/518657826",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/185797525",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22958",
+            "price": 100,
+            "name": "クレセリア(R){超",
+            "date": "2022-12-27",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34629",
+            "price": 80,
+            "name": "クレセリア028/0",
+            "date": "2022-12-27",
+            "stock": 154
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g028-067-S10D-B/",
+            "price": 44,
+            "name": "【ポケカ】Ｒ◇クレセ",
+            "date": "2022-12-27",
+            "stock": 12
+        },
+        {
+            "market": "magi",
+            "link": "/items/185797525",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/518657826",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1760787442",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/540892475",
+            "price": 100,
+            "name": "s10D クレセリア",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22958",
+            "price": 100,
+            "name": "クレセリア(R){超",
+            "date": "2022-12-26",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34629",
+            "price": 80,
+            "name": "クレセリア028/0",
+            "date": "2022-12-26",
+            "stock": 154
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g028-067-S10D-B/",
+            "price": 44,
+            "name": "【ポケカ】Ｒ◇クレセ",
+            "date": "2022-12-26",
+            "stock": 12
+        },
+        {
+            "market": "magi",
+            "link": "/items/185797525",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/518657826",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/540892475",
+            "price": 100,
+            "name": "s10D クレセリア",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1760787442",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22958",
+            "price": 100,
+            "name": "クレセリア(R){超",
+            "date": "2022-12-25",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34629",
+            "price": 80,
+            "name": "クレセリア028/0",
+            "date": "2022-12-25",
+            "stock": 154
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g028-067-S10D-B/",
+            "price": 44,
+            "name": "【ポケカ】Ｒ◇クレセ",
+            "date": "2022-12-25",
+            "stock": 12
+        },
+        {
+            "market": "magi",
+            "link": "/items/518657826",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/540892475",
+            "price": 100,
+            "name": "s10D クレセリア",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1760787442",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/185797525",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22958",
+            "price": 100,
+            "name": "クレセリア(R){超",
+            "date": "2022-12-24",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34874",
+            "price": 50,
+            "name": "クレセリア028/0",
+            "date": "2022-12-24",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34629",
+            "price": 80,
+            "name": "クレセリア028/0",
+            "date": "2022-12-24",
+            "stock": 154
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g028-067-S10D-B/",
+            "price": 44,
+            "name": "【ポケカ】Ｒ◇クレセ",
+            "date": "2022-12-24",
+            "stock": 12
+        },
+        {
+            "market": "magi",
+            "link": "/items/185797525",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1760787442",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/540892475",
+            "price": 100,
+            "name": "s10D クレセリア",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/518657826",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/692154901",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22958",
+            "price": 100,
+            "name": "クレセリア(R){超",
+            "date": "2022-12-23",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34629",
+            "price": 80,
+            "name": "クレセリア028/0",
+            "date": "2022-12-23",
+            "stock": 155
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34874",
+            "price": 50,
+            "name": "クレセリア028/0",
+            "date": "2022-12-23",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g028-067-S10D-B/",
+            "price": 44,
+            "name": "【ポケカ】Ｒ◇クレセ",
+            "date": "2022-12-23",
+            "stock": 12
+        },
+        {
+            "market": "magi",
+            "link": "/items/1760787442",
             "price": 100,
             "name": "クレセリア R 02",
             "date": "2022-12-22",
@@ -10,7 +370,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/1760787442",
+            "link": "/items/185797525",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/518657826",
             "price": 100,
             "name": "クレセリア R 02",
             "date": "2022-12-22",
@@ -26,15 +394,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/518657826",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/185797525",
+            "link": "/items/692154901",
             "price": 100,
             "name": "クレセリア R 02",
             "date": "2022-12-22",
@@ -74,14 +434,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/692154901",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/540892475",
             "price": 100,
             "name": "s10D クレセリア",
@@ -90,7 +442,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/518657826",
+            "link": "/items/1760787442",
             "price": 100,
             "name": "クレセリア R 02",
             "date": "2022-12-21",
@@ -106,7 +458,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/1760787442",
+            "link": "/items/518657826",
+            "price": 100,
+            "name": "クレセリア R 02",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/692154901",
             "price": 100,
             "name": "クレセリア R 02",
             "date": "2022-12-21",
@@ -142,438 +502,6 @@
             "price": 44,
             "name": "【ポケカ】Ｒ◇クレセ",
             "date": "2022-12-21",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/185797525",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/692154901",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1760787442",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/540892475",
-            "price": 100,
-            "name": "s10D クレセリア",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/518657826",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22958",
-            "price": 100,
-            "name": "クレセリア(R){超",
-            "date": "2022-12-20",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34629",
-            "price": 80,
-            "name": "クレセリア028/0",
-            "date": "2022-12-20",
-            "stock": 155
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34874",
-            "price": 50,
-            "name": "クレセリア028/0",
-            "date": "2022-12-20",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g028-067-S10D-B/",
-            "price": 44,
-            "name": "【ポケカ】Ｒ◇クレセ",
-            "date": "2022-12-20",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/540892475",
-            "price": 100,
-            "name": "s10D クレセリア",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/518657826",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1760787442",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/185797525",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/692154901",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22958",
-            "price": 100,
-            "name": "クレセリア(R){超",
-            "date": "2022-12-19",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34874",
-            "price": 50,
-            "name": "クレセリア028/0",
-            "date": "2022-12-19",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34629",
-            "price": 80,
-            "name": "クレセリア028/0",
-            "date": "2022-12-19",
-            "stock": 155
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g028-067-S10D-B/",
-            "price": 44,
-            "name": "【ポケカ】Ｒ◇クレセ",
-            "date": "2022-12-19",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/518657826",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/692154901",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1760787442",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/540892475",
-            "price": 100,
-            "name": "s10D クレセリア",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/185797525",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22958",
-            "price": 100,
-            "name": "クレセリア(R){超",
-            "date": "2022-12-18",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34629",
-            "price": 80,
-            "name": "クレセリア028/0",
-            "date": "2022-12-18",
-            "stock": 155
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34874",
-            "price": 50,
-            "name": "クレセリア028/0",
-            "date": "2022-12-18",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g028-067-S10D-B/",
-            "price": 44,
-            "name": "【ポケカ】Ｒ◇クレセ",
-            "date": "2022-12-18",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/185797525",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/540892475",
-            "price": 100,
-            "name": "s10D クレセリア",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1760787442",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/692154901",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/518657826",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22958",
-            "price": 100,
-            "name": "クレセリア(R){超",
-            "date": "2022-12-17",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34874",
-            "price": 50,
-            "name": "クレセリア028/0",
-            "date": "2022-12-17",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34629",
-            "price": 80,
-            "name": "クレセリア028/0",
-            "date": "2022-12-17",
-            "stock": 155
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g028-067-S10D-B/",
-            "price": 44,
-            "name": "【ポケカ】Ｒ◇クレセ",
-            "date": "2022-12-17",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/185797525",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1760787442",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/692154901",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/518657826",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/540892475",
-            "price": 100,
-            "name": "s10D クレセリア",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22958",
-            "price": 100,
-            "name": "クレセリア(R){超",
-            "date": "2022-12-16",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34874",
-            "price": 50,
-            "name": "クレセリア028/0",
-            "date": "2022-12-16",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34629",
-            "price": 80,
-            "name": "クレセリア028/0",
-            "date": "2022-12-16",
-            "stock": 155
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g028-067-S10D-B/",
-            "price": 44,
-            "name": "【ポケカ】Ｒ◇クレセ",
-            "date": "2022-12-16",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/518657826",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1760787442",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/540892475",
-            "price": 100,
-            "name": "s10D クレセリア",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/692154901",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/185797525",
-            "price": 100,
-            "name": "クレセリア R 02",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22958",
-            "price": 100,
-            "name": "クレセリア(R){超",
-            "date": "2022-12-15",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34874",
-            "price": 50,
-            "name": "クレセリア028/0",
-            "date": "2022-12-15",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34629",
-            "price": 80,
-            "name": "クレセリア028/0",
-            "date": "2022-12-15",
-            "stock": 155
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g028-067-S10D-B/",
-            "price": 44,
-            "name": "【ポケカ】Ｒ◇クレセ",
-            "date": "2022-12-15",
             "stock": 12
         }
     ]

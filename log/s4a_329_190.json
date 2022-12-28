@@ -1,11 +1,107 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/2121048099",
+            "price": 1125,
+            "name": "ザシアンV UR 3",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30918",
+            "price": 1230,
+            "name": "ザシアンV329/1",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17478",
             "price": 1480,
             "name": "ザシアンV329/1",
-            "date": "2022-12-22",
+            "date": "2022-12-28",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/2121048099",
+            "price": 1125,
+            "name": "ザシアンV UR 3",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30918",
+            "price": 1230,
+            "name": "ザシアンV329/1",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2121048099",
+            "price": 1125,
+            "name": "ザシアンV UR 3",
+            "date": "2022-12-26",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30918",
+            "price": 1230,
+            "name": "ザシアンV329/1",
+            "date": "2022-12-26",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/2121048099",
+            "price": 1125,
+            "name": "ザシアンV UR 3",
+            "date": "2022-12-25",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30918",
+            "price": 1230,
+            "name": "ザシアンV329/1",
+            "date": "2022-12-25",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/2121048099",
+            "price": 1249,
+            "name": "ザシアンV UR 3",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30918",
+            "price": 1230,
+            "name": "ザシアンV329/1",
+            "date": "2022-12-24",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30918",
+            "price": 1230,
+            "name": "ザシアンV329/1",
+            "date": "2022-12-23",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17478",
+            "price": 1480,
+            "name": "ザシアンV329/1",
+            "date": "2022-12-23",
             "stock": 8
         },
         {
@@ -18,11 +114,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30918",
-            "price": 1230,
+            "link": "https://www.cardrush-pokemon.jp/product/17478",
+            "price": 1480,
             "name": "ザシアンV329/1",
-            "date": "2022-12-21",
-            "stock": 3
+            "date": "2022-12-22",
+            "stock": 8
         },
         {
             "market": "cardrush",
@@ -37,48 +133,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/30918",
             "price": 1230,
             "name": "ザシアンV329/1",
-            "date": "2022-12-20",
+            "date": "2022-12-21",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30918",
-            "price": 1230,
-            "name": "ザシアンV329/1",
-            "date": "2022-12-19",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30918",
-            "price": 1230,
-            "name": "ザシアンV329/1",
-            "date": "2022-12-18",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30918",
-            "price": 1230,
-            "name": "ザシアンV329/1",
-            "date": "2022-12-17",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30918",
-            "price": 1230,
-            "name": "ザシアンV329/1",
-            "date": "2022-12-16",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17478",
-            "price": 1480,
-            "name": "ザシアンV329/1",
-            "date": "2022-12-15",
-            "stock": 10
         }
     ]
 }
