@@ -8,11 +8,12 @@ import random
 import datetime
 import gc
 import urllib.request
+import math
 
 
 # シティリーグ使用されたIDを表示
 class cityLeagueLister:
-    def getList(self):
+    def getList4w(self):
         array_id_4w = []
         with open("event/cl.json", "r", encoding="utf_8_sig") as f:
             data = json.load(f)
@@ -28,29 +29,160 @@ class cityLeagueLister:
         array_id_4w = list(set(array_id_4w))
         return array_id_4w
 
-# デッキタイプのインデックスを生成する
-class deckTypeIndexGen:
+    def getList(self):
+        array_id = []
+        with open("event/cl.json", "r", encoding="utf_8_sig") as f:
+            data = json.load(f)
+        if 'items' in data:
+            for item in data['items']:
+                if 'index' in item:
+                    if item['index'] >= 0 and item['index'] < 4:
+                        if 'card_list' in item:
+                            for card in item['card_list']:
+                                if 'card_id' in card:
+                                    array_id.append(card['card_id'])
+        array_id = list(set(array_id))
+        return array_id
+
+# 採用情報付きの価格情報を生成する
+class cityLeagueDeckCardProvider:
     def _get(self):
-        temp_dict = {'items':[]}
+        df = pd.DataFrame(index=[], columns=['card_id','count','card_id_rows'])
         with open("event/cl.json", "r", encoding="utf_8_sig") as f:
             data = json.load(f)
         if 'items' in data:
             for item in data['items']:
                 if 'index' in item:
                     if item['index'] == 0:
-                        if 'deck_type' in item:
-                            keys = item['deck_type'].keys()
-                            for key in keys:
-                                temp_dict['items'].append(key)
-        return temp_dict
+                        if 'card_list' in item:
+                            df = pd.DataFrame(item['card_list'])
+        return df
+
+    def _getDeckCount(self):
+        with open("event/cl.json", "r", encoding="utf_8_sig") as f:
+            data = json.load(f)
+        if 'items' in data:
+            for item in data['items']:
+                if 'index' in item:
+                    if item['index'] == 0:
+                        if 'deck_count' in item:
+                            return item['deck_count']
+        return 0
+
+    def get(self, df: pd.DataFrame):
+        count = self._getDeckCount()
+        partDf = self._get()
+        partDf = partDf.rename(columns={
+            'card_id': 'official_id',
+            'count': 'cl_count',
+            'card_id_rows': 'cl_deck',
+            })
+        newDf = pd.merge(df,partDf,how='left',on='official_id')
+        newDf = newDf.fillna({'cl_count': 0, 'cl_deck': 0})
+        if count > 0:
+            newDf['cl_rate'] = newDf['cl_deck'] / count * 100
+            newDf['cl_rate'] = newDf['cl_rate'].round(2)
+        else:
+            newDf['cl_rate'] = 0
+        return newDf
+
+# イベントのインデックスを生成する
+class eventIdIndexGen:
+    def _getIndex(self):
+        temp = []
+        with open("event/cl.json", "r", encoding="utf_8_sig") as f:
+            data = json.load(f)
+        if 'items' in data:
+            for item in data['items']:
+                if 'index' in item:
+                    if item['index'] == 0:
+                        if 'event_id' in item:
+                            for deck in item['event_id']:
+                                if deck['deck_type'] not in temp:
+                                    temp.append(deck['deck_type'])
+        return temp
+
     def output(self, file_name: str):
-        dict_tmp = self._get()
+        dict_tmp = {'items':self._getIndex()}
         with open(file_name, 'w', encoding='utf_8_sig') as f:
             json.dump(dict_tmp, f, ensure_ascii=False)
 
+# デッキタイプのインデックスを生成する
+class deckTypeIndexGen:
+    def _getIndex(self):
+        temp = []
+        with open("event/cl.json", "r", encoding="utf_8_sig") as f:
+            data = json.load(f)
+        if 'items' in data:
+            for item in data['items']:
+                if 'index' in item:
+                    if item['index'] == 0:
+                        if 'deck_list' in item:
+                            for deck in item['deck_list']:
+                                if deck['deck_type'] not in temp:
+                                    temp.append(deck['deck_type'])
+        return temp
+
+    def output(self, file_name: str):
+        dict_tmp = {'items':self._getIndex()}
+        with open(file_name, 'w', encoding='utf_8_sig') as f:
+            json.dump(dict_tmp, f, ensure_ascii=False)
+
+
+# シティリーグで使用されたデッキの分類をカウントする
+class cityLeagueDeckCounter:
+    def get(self, rank1: bool):
+        df = self._getDf()
+        if rank1:
+            df = df[df['rank'] == 1]
+        grouped = df.groupby('deck_type')
+        array = []
+        for deck_type, group in grouped:
+            array.append({
+                'name': deck_type,
+                'value': len(group)
+            })
+        array.sort(key=lambda x: x['value'], reverse=True)
+        df = pd.DataFrame(array)
+        return df
+
+    def _getDf(self):
+        with open("event/cl.json", "r", encoding="utf_8_sig") as f:
+            data = json.load(f)
+        if 'items' in data:
+            for item in data['items']:
+                if 'index' in item:
+                    if item['index'] == 0:
+                        if 'deck_list' in item:
+                            return pd.DataFrame(item['deck_list'])
+        return None
+
+    def _getRanking(self, df: pd.DataFrame):
+        df['rank'] = df.rank(ascending=False)['value']
+        df = df.sort_values(by=['rank'], ascending=[True])
+        topDf = df.head(10)
+        ranking = list()
+        for id, row in topDf.iterrows():
+            ranking.append({
+                'rank' : row['rank'],
+                'name' : row['name'],
+                'value': row['value'],
+            })
+        return ranking
+
+    def save(self, df: pd.DataFrame, file_name: str):
+        dict_tmp = {'ranking':[],'items': []}
+        dict_tmp['ranking'] = self._getRanking(df)
+        dict_tmp['items'] = df.to_dict(orient="record")
+        with open(file_name, 'w', encoding='utf_8_sig') as f:
+            json.dump(dict_tmp, f, ensure_ascii=False)
+
+
+
 # デッキ画像を生成するための構成情報を出力する
 class cityLeagueDeckRecipeProvider:
-    only_poke = False
+    only_rank1 = False
+    event_id = False
     priceDf = None
 
     def get(self):
@@ -61,41 +193,76 @@ class cityLeagueDeckRecipeProvider:
             for item in data['items']:
                 if 'index' in item:
                     if item['index'] == 0:
-                        if 'deck_type' in item:
-                            keys = item['deck_type'].keys()
-                            for key in keys:
-                                deck_item = item['deck_type'][key]
-                                l = []
-                                if 'deck_info' in deck_item:
-                                    for info in deck_item['deck_info']:
-                                        write_deck_info = {
-                                            'deck_id': info['deck_id'],
-                                            'datetime': info['datetime'],
-                                            'rank': info['rank'],
-                                            'event_name': info['event_name'],
-                                            'sponsorship': info['sponsorship'],
-                                            'player_name': info['player_name'],
-                                            'items': self._getRecipe(item,info['deck_id']),
-                                            'count': self._getRecipeCount(item,info['deck_id']),
-                                        }
-                                        write_deck_info['card_type'] = self._getDeckCardType(write_deck_info['items'])
-                                        write_deck_info['regulation'] = self._getDeckRegulation(write_deck_info['items'])
-                                        write_deck_info['price'] = self._getDeckPrice(write_deck_info['items'])
-                                        l.append(write_deck_info)
-                                if len(l) > 0:
-                                    data = pd.DataFrame()
-                                    df = data.from_dict(l)
-                                    df = df.sort_values(by=['rank','datetime'], ascending=[True,False])
-                                    l = df.to_dict(orient="record")
-                                temp_dict['items'].append({
-                                    'deck_type': key,
-                                    'items': l
-                                })
+                        if 'deck_list' in item:
+                            df = pd.DataFrame(item['deck_list'])
+                            if self.event_id == True:
+                                return self._getEvent(item, df)
+                            if self.only_rank1 == True:
+                                return self._getRank1(item, df)
+                            else:
+                                return self._getGroupType(item, df)
+        return temp_dict
+
+    def _getEvent(self, item, df: pd.DataFrame):
+        temp_dict = {'items':[]}
+        grouped = df.groupby('event_id')
+        for event_id, group in grouped:
+            temp_dict['items'].append({
+                'event_id': event_id,
+                'count': len(group),
+                'items': self._getDeckList(item, group.to_dict(orient='records'))
+            })
+        return temp_dict
+
+    def _getRank1(self, item, df: pd.DataFrame):
+        temp_dict = {'items':[]}
+        df = df[df['rank'] == 1]
+        temp_dict['items'].append({
+            'count': len(df),
+            'items': self._getDeckList(item, df.to_dict(orient='records'))
+        })
+        return temp_dict
+
+    def _getGroupType(self, item, df: pd.DataFrame):
+        temp_dict = {'items':[]}
+        grouped = df.groupby('deck_type')
+        for deck_type, group in grouped:
+            temp_dict['items'].append({
+                'deck_type': deck_type,
+                'count': len(group),
+                'items': self._getDeckList(item, group.to_dict(orient='records'))
+            })
         return temp_dict
 
     def save(self, data: dict, file_name: str):
         with open(file_name, 'w', encoding='utf_8_sig') as f:
             json.dump(data, f, ensure_ascii=False)
+
+    def _getDeckList(self, fileItem, decks):
+        l = []
+        for deck in decks:
+            write_deck_info = {
+                'deck_id': deck['deck_id'],
+                'event_id': deck['event_id'],
+                'deck_type': deck['deck_type'],
+                'datetime': deck['datetime'],
+                'rank': deck['rank'],
+                'event_name': deck['event_name'],
+                'sponsorship': deck['sponsorship'],
+                'player_name': deck['player_name'],
+                'items': self._getRecipe(fileItem,deck['deck_id']),
+                'count': self._getRecipeCount(fileItem,deck['deck_id']),
+            }
+            write_deck_info['card_type'] = self._getDeckCardType(write_deck_info['items'])
+            write_deck_info['regulation'] = self._getDeckRegulation(write_deck_info['items'])
+            write_deck_info['price'] = self._getDeckPrice(write_deck_info['items'])
+            l.append(write_deck_info)
+        if len(l) > 0:
+            data = pd.DataFrame()
+            df = data.from_dict(l)
+            df = df.sort_values(by=['rank','datetime'], ascending=[True,False])
+            l = df.to_dict(orient="record")
+        return l
 
     def _getDeckRegulation(self, deck_items):
         counts = {}
@@ -200,7 +367,7 @@ class cityLeagueDeckRecipeProvider:
         if 'deck_recipe' in item:
             if deck_id in item['deck_recipe']:
                 if 'items' in item['deck_recipe'][deck_id]:
-                    return self._mergePrice(self._filteredPoke(self._sortedPoke(item['deck_recipe'][deck_id]['items'])))
+                    return self._mergePrice(self._sortedPoke(item['deck_recipe'][deck_id]['items']))
         return []
 
     def _sortedPoke(self, l):
@@ -217,12 +384,6 @@ class cityLeagueDeckRecipeProvider:
             l = df.to_dict(orient="record")
         return l
 
-    def _filteredPoke(self, list):
-        if self.only_poke == True:
-            return [d for d in list if d["card_type"] == "P"]
-        else:
-            return list
-
     def _mergePrice(self, l):
         for item in l:
             item['price'] = self._getPrice(item['master_id'])
@@ -235,73 +396,9 @@ class cityLeagueDeckRecipeProvider:
         if 'deck_recipe' in item:
             if deck_id in item['deck_recipe']:
                 if 'items' in item['deck_recipe'][deck_id]:
-                    for item in self._filteredPoke(item['deck_recipe'][deck_id]['items']):
+                    for item in item['deck_recipe'][deck_id]['items']:
                         count += item['count']
         return count
-
-# シティリーグで使用されたデッキの分類をカウントする
-class cityLeagueDeckCounter:
-    def get(self):
-        array = []
-        with open("event/cl.json", "r", encoding="utf_8_sig") as f:
-            data = json.load(f)
-
-        if 'items' in data:
-            for item in data['items']:
-                if 'index' in item:
-                    if item['index'] == 0:
-                        if 'deck_type' in item:
-                            keys = item['deck_type'].keys()
-                            for key in keys:
-                                deck_item = item['deck_type'][key]
-                                array.append({
-                                    'name': key,
-                                    'value': deck_item['count']
-                                })
-        array.sort(key=lambda x: x['value'], reverse=True)
-        df = pd.DataFrame(array)
-        return df
-
-    def getRank1(self):
-        array = []
-        with open("event/cl.json", "r", encoding="utf_8_sig") as f:
-            data = json.load(f)
-
-        if 'items' in data:
-            for item in data['items']:
-                if 'index' in item:
-                    if item['index'] == 0:
-                        if 'deck_type_rank1' in item:
-                            keys = item['deck_type_rank1'].keys()
-                            for key in keys:
-                                deck_item = item['deck_type_rank1'][key]
-                                array.append({
-                                    'name': key,
-                                    'value': deck_item['count']
-                                })
-        array.sort(key=lambda x: x['value'], reverse=True)
-        df = pd.DataFrame(array)
-        return df
-
-    def _getRanking(self, df: pd.DataFrame):
-        df['rank'] = df.rank(ascending=False)['value']
-        df = df.sort_values(by=['rank'], ascending=[True])
-        topDf = df.head(10)
-        ranking = list()
-        for id, row in topDf.iterrows():
-            ranking.append({
-                'rank' : row['rank'],
-                'name' : row['name'],
-                'value': row['value'],
-            })
-        return ranking
-
-    def save(self, df: pd.DataFrame, file_name: str):
-        dict_tmp = {'ranking':[],'items': []}
-        dict_tmp['ranking'] = self._getRanking(df)
-        dict_tmp['items'] = df.to_dict(orient="record")
-        with open(file_name, 'w', encoding='utf_8_sig') as f:
-            json.dump(dict_tmp, f, ensure_ascii=False)
 
 
 # ログを生成
@@ -328,9 +425,15 @@ class logGen:
         return dfMarket
 
     def _getHeadRecord(self, df: pd.DataFrame):
-        df = df.sort_values(by=['stock'], ascending=[False])
-        df = df.head(2)
+        df = df.sort_values(by=['date','price','stock'], ascending=[False,True,False])
         return df
+
+    def _getSummaryRecord(self, df: pd.DataFrame):
+        lowDf = df.sort_values(by=['date','price'], ascending=[False,True]).head(1)
+        stockDf = df.sort_values(by=['date','stock'], ascending=[False,False]).head(2)
+        writeDf = pd.concat([lowDf, stockDf])
+        writeDf = writeDf[~writeDf.duplicated(keep='last', subset=['date','link'])]
+        return writeDf
 
     def output(self, file_name: str):
         dict_tmp = {'items':[]}
@@ -346,12 +449,13 @@ class logGen:
                     'log': []
                 })
                 continue
-            dfMagi = self._getHeadRecord(df[df['market'] == 'magi'])
-            dfHare = self._getHeadRecord(df[df['market'] == 'hareruya2'])
-            dfCaRu = self._getHeadRecord(df[df['market'] == 'cardrush'])
-            dfToCo = self._getHeadRecord(df[df['market'] == 'torecolo'])
+            df = df.sort_values(by=['date'], ascending=[False])
+            dfMagi = self._getSummaryRecord(df[df['market'] == 'magi'])
+            dfHare = self._getHeadRecord(df[df['market'] == 'hareruya2']).head(1)
+            dfCaRu = self._getHeadRecord(df[df['market'] == 'cardrush']).head(1)
+            dfToCo = self._getHeadRecord(df[df['market'] == 'torecolo']).head(1)
             writeDf = pd.concat([dfMagi, dfHare, dfCaRu, dfToCo])
-            writeDf = writeDf.sort_values(by=['date','market'], ascending=[False,True])
+            writeDf = writeDf.sort_values(by=['date','price','market'], ascending=[False,True,True])
             dict_tmp['items'].append({
                 'master_id': masterid,
                 'log': writeDf.to_dict(orient="record")
@@ -500,6 +604,49 @@ class dailyPriceFactory:
 
         return dfDaily
 
+    def getNewRegulation(self,df:pd.DataFrame):
+        # 同名扱いのカードはこのフラグで吸収
+        df['hakase'] = False
+        df['boss'] = False
+
+        df_modified = df.copy()
+        df_modified = df_modified[df_modified['card_type'] == 'トレーナーズ']
+        df_modified = df_modified[df_modified['regulation'] != '-']
+
+        dfHakase = df_modified[df_modified['name'].str.contains('博士の研究')]
+        dfHakase['hakase'] = True
+        df_modified.update(dfHakase)
+
+        dfBoss = df_modified[df_modified['name'].str.contains('ボスの指令')]
+        dfBoss['boss'] = True
+        df_modified.update(dfBoss)
+
+        df_modified = df_modified.sort_values(by=['regulation'], ascending=[True])
+
+        df_temp = df_modified[~df_modified.duplicated(keep='last', subset=['name'])]
+        # この時点で df_temp には名前が同じカードはない
+
+        # 同名カードのレギュレーションを最後のレギュレーションで上書き
+        for index, row in df_temp.iterrows():
+            df_modified.loc[df_modified['name'] == row['name'], 'regulation'] = row['regulation']
+
+        # 博士の研究を含むカード
+        df_temp = df_modified[df_modified['hakase'] == True]
+        df_temp = df_temp[~df_temp.duplicated(keep='last', subset=['hakase'])]
+        for index, row in df_temp.iterrows():
+            df_modified.loc[(df_modified['hakase'] == True), 'regulation'] = row['regulation']
+
+        # ボスの指令を含むカード
+        df_temp = df_modified[df_modified['boss'] == True]
+        df_temp = df_temp[~df_temp.duplicated(keep='last', subset=['boss'])]
+        for index, row in df_temp.iterrows():
+            df_modified.loc[(df_modified['boss'] == True), 'regulation'] = row['regulation']
+
+        # 更新
+        df.update(df_modified)
+        df = df.drop(columns={'hakase','boss'})
+
+        return df
 
     # tag : 50% or min
     def priceWeekly(self,data,tag):
@@ -657,7 +804,25 @@ class rankCalculator:
         dfPrice = dfPrice.fillna({'percent_24h': 0, 'percent_7d': 0})
         dfPrice = dfPrice.fillna('n/a')
         dfPrice = self._filterDuplicatedRank(dfPrice)
-        dfPrice = dfPrice.sort_values(by=['rank'], ascending=[True])
+        dfPrice = dfPrice.sort_values(by=['rank','latest_price'], ascending=[True,False])
+        return dfPrice
+
+    def rePriceRank(self, dfList: pd.DataFrame):
+        dfPrice = self._filterIDList(dfList)
+        dfPrice = self._filterExpansion(dfPrice)
+        dfPrice = self._filterRegulation(dfPrice)
+        dfPrice = self._addRank(dfPrice)
+
+        dfPrice['rarity'] = dfPrice['rarity'].str.replace('-','n/a')
+        dfPrice = dfPrice.replace([np.inf, -np.inf], 0.0)
+        dfPrice.loc[dfPrice.percent_24h == 'n/a','percent_24h']=0
+        dfPrice.loc[dfPrice.percent_7d == 'n/a','percent_7d']=0
+        dfPrice.loc[dfPrice.is_mirror == 'n/a','is_mirror']=False
+        dfPrice.loc[dfPrice.copyright == 'n/a','copyright']=False
+        dfPrice = dfPrice.fillna({'percent_24h': 0, 'percent_7d': 0})
+        dfPrice = dfPrice.fillna('n/a')
+        dfPrice = self._filterDuplicatedRank(dfPrice)
+        dfPrice = dfPrice.sort_values(by=['rank','latest_price'], ascending=[True,False])
         return dfPrice
 
     # sub_type : サポート or グッズ or スタジアム or ポケモンのどうぐ
@@ -847,28 +1012,15 @@ exp_fact = expansionFactory()
 daily_fact = dailyPriceFactory()
 expDf = exp_fact.get()
 dailyDf = daily_fact.get()
+dailyDf = daily_fact.getNewRegulation(dailyDf)
+
 
 # 全カード対象
 topCalc = calcTopPrice()
 ranks = rankCalculator()
 priceDf = ranks.getPriceRank(dailyDf,expDf)
-
-print('-------SA: priceDf------')
-print(priceDf[priceDf['expansion'] == 'SA'])
-print('------------------------')
-print('-------SJ: priceDf------')
-print(priceDf[priceDf['expansion'] == 'SJ'])
-print('------------------------')
-print('-------SC2: priceDf------')
-print(priceDf[priceDf['expansion'] == 'SC2'])
-print('------------------------')
-print('-------SH: priceDf------')
-print(priceDf[priceDf['expansion'] == 'SH'])
-print('------------------------')
-print('-------SK: priceDf------')
-print(priceDf[priceDf['expansion'] == 'SK'])
-print('------------------------')
-
+clCard = cityLeagueDeckCardProvider()
+priceDf = clCard.get(priceDf)
 
 safeFact= safeTypeDfFactory()
 priceDf = safeFact.get(priceDf)
@@ -892,11 +1044,13 @@ audit.saveRegulation(priceDf, rank_dir+'/all_stock_regu.json')
 audit.saveRarity(priceDf, rank_dir+'/all_stock_rarity.json')
 
 # CLデッキレシピ生成
-imageLoader = cityLeagueDeckRecipeProvider()
-imageLoader.priceDf = priceDf
-imageLoader.save(imageLoader.get(), recipe_dir+'/deck_recipe.json')
-imageLoader.only_poke = True
-imageLoader.save(imageLoader.get(), recipe_dir+'/deck_recipe_p.json')
+recipeProvider = cityLeagueDeckRecipeProvider()
+recipeProvider.priceDf = priceDf
+recipeProvider.save(recipeProvider.get(), recipe_dir+'/deck_recipe.json')
+recipeProvider.only_rank1 = True
+recipeProvider.save(recipeProvider.get(), recipe_dir+'/deck_recipe_rank1.json')
+recipeProvider.event_id = True
+recipeProvider.save(recipeProvider.get(), recipe_dir+'/deck_recipe_event.json')
 
 del priceDf
 gc.collect()  
@@ -921,11 +1075,15 @@ gc.collect()
 # シティリーグ対象
 topCalc = calcTopPrice()
 ranksCL = rankCalculator()
-ranksCL.filtered_id_list = cityLeagueLister().getList()
+ranksCL.rank_price_type = 'percent_7d'
+ranksCL.is_filtered_dupcard = True
 priceDf = ranksCL.getPriceRank(dailyDf,expDf)
-#ranksCL.save(priceDf,rank_dir+'/cl.json')
-#ranksCL.save(priceDf.head(50),rank_dir+'/cl_head.json')
-#ranksCL.rank_price_type = 'diff_7d'
+priceDf = clCard.get(priceDf)
+priceDf = ranksCL.rePriceRank(priceDf[priceDf['cl_count'] > 0])
+topDf = topCalc.get7daysTopPrice(priceDf)
+topCalc.save(topDf, rank_dir+'/cl_price_rise_top.json')
+
+'''
 ranksCL.rank_price_type = 'percent_7d'
 ranksCL.is_filtered_dupcard = True
 priceDf = ranksCL.getPriceRank(dailyDf,expDf)
@@ -935,11 +1093,12 @@ ranksCL.is_rank_invert = True
 priceDf = ranksCL.getPriceRank(dailyDf,expDf)
 topDf = topCalc.get7daysTopPrice(priceDf)
 topCalc.save(topDf, rank_dir+'/cl_price_fall_top.json')
+'''
 
 counterCL = cityLeagueDeckCounter()
-counterDf = counterCL.get()
+counterDf = counterCL.get(False)
 counterCL.save(counterDf,rank_dir+'/cl_deck_top.json')
-counterDf = counterCL.getRank1()
+counterDf = counterCL.get(True)
 counterCL.save(counterDf,rank_dir+'/cl_deck_rank1_top.json')
 
 del topDf
@@ -967,6 +1126,9 @@ gc.collect()
 dtypeGen = deckTypeIndexGen()
 dtypeGen.output(index_dir+'/deck_type.json')
 
+# イベントIDインデックス
+eventIdGen = eventIdIndexGen()
+eventIdGen.output(index_dir+'/event_id.json')
 
 # マーケットログ生成
 log = logGen()
