@@ -96,10 +96,10 @@ class eventIdIndexGen:
             for item in data['items']:
                 if 'index' in item:
                     if item['index'] == 0:
-                        if 'event_id' in item:
-                            for deck in item['event_id']:
-                                if deck['deck_type'] not in temp:
-                                    temp.append(deck['deck_type'])
+                        if 'deck_list' in item:
+                            for deck in item['deck_list']:
+                                if deck['event_id'] not in temp:
+                                    temp.append(deck['event_id'])
         return temp
 
     def output(self, file_name: str):
