@@ -1026,14 +1026,14 @@ safeFact= safeTypeDfFactory()
 priceDf = safeFact.get(priceDf)
 
 # 検索用チャンクデータ生成
-chunkFact = chunkDfFactory()
-chunksDf = chunkFact.get(priceDf)
-chunkFact.save(chunksDf,chunk_dir)
+#chunkFact = chunkDfFactory()
+#chunksDf = chunkFact.get(priceDf)
+#chunkFact.save(chunksDf,chunk_dir)
 
 indexer = masterIdIndexGen()
 indexer.output(priceDf,index_dir+'/id.json')
 
-#ranks.save(priceDf,rank_dir+'/all.json')
+ranks.save(priceDf,rank_dir+'/all.json')
 #ranks.save(priceDf.head(50),rank_dir+'/all_head.json')
 
 pchartProvider = priceChartDataProvider()
