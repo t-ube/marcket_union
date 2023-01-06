@@ -181,9 +181,16 @@ class cityLeagueDeckCounter:
 
 # デッキ画像を生成するための構成情報を出力する
 class cityLeagueDeckRecipeProvider:
+    all_recipe = False
     only_rank1 = False
     event_id = False
     priceDf = None
+
+    def __init__(self,priceDf):
+        self.all_recipe = False
+        self.only_rank1 = False
+        self.event_id = False
+        self.priceDf = priceDf
 
     def get(self):
         temp_dict = {'items':[]}
@@ -195,12 +202,19 @@ class cityLeagueDeckRecipeProvider:
                     if item['index'] == 0:
                         if 'deck_list' in item:
                             df = pd.DataFrame(item['deck_list'])
+                            if self.all_recipe == True:
+                                return self._getAll(item, df)
                             if self.event_id == True:
                                 return self._getEvent(item, df)
                             if self.only_rank1 == True:
                                 return self._getRank1(item, df)
                             else:
                                 return self._getGroupType(item, df)
+        return temp_dict
+
+    def _getAll(self, item, df: pd.DataFrame):
+        temp_dict = {'items':[]}
+        temp_dict['items'] = self._getDeckList(item, df.to_dict(orient='records'))
         return temp_dict
 
     def _getEvent(self, item, df: pd.DataFrame):
@@ -400,6 +414,27 @@ class cityLeagueDeckRecipeProvider:
                         count += item['count']
         return count
 
+class cityLeagueEventDeckRecipeProvider(cityLeagueDeckRecipeProvider):
+    def __init__(self,priceDf):
+        super().__init__(priceDf)
+        self.all_recipe = False
+        self.only_rank1 = False
+        self.event_id = True
+
+class cityLeagueAllDeckRecipeProvider(cityLeagueDeckRecipeProvider):
+    def __init__(self,priceDf):
+        super().__init__(priceDf)
+        self.all_recipe = True
+        self.only_rank1 = False
+        self.event_id = False
+
+class cityLeagueRank1DeckRecipeProvider(cityLeagueDeckRecipeProvider):
+    def __init__(self,priceDf):
+        super().__init__(priceDf)
+        self.all_recipe = False
+        self.only_rank1 = True
+        self.event_id = False
+
 
 # ログを生成
 class logGen:
@@ -501,7 +536,7 @@ class chunkDfFactory:
         for file in files:
             os.remove(file)
         for i, chunk in enumerate(chunks):
-            chunkFact._save(chunk,chunk_dir+f'/all_chunk_{i}.json')
+            self._save(chunk,chunk_dir+f'/all_chunk_{i}.json')
 
     def _save(self, df: pd.DataFrame, file_name: str):
         dict_tmp = {'items': []}
@@ -997,14 +1032,14 @@ output_dir = './dist'
 Path(output_dir).mkdir(parents=True, exist_ok=True)
 rank_dir = output_dir+'/rank'
 Path(rank_dir).mkdir(parents=True, exist_ok=True)
-chunk_dir = rank_dir+'/chunk'
-Path(chunk_dir).mkdir(parents=True, exist_ok=True)
+#chunk_dir = rank_dir+'/chunk'
+#Path(chunk_dir).mkdir(parents=True, exist_ok=True)
 recipe_dir = output_dir+'/recipe'
 Path(recipe_dir).mkdir(parents=True, exist_ok=True)
 chart_dir = output_dir+'/chart'
 Path(chart_dir).mkdir(parents=True, exist_ok=True)
-index_dir = output_dir+'/index'
-Path(index_dir).mkdir(parents=True, exist_ok=True)
+#index_dir = output_dir+'/index'
+#Path(index_dir).mkdir(parents=True, exist_ok=True)
 log_dir = output_dir+'/log'
 Path(log_dir).mkdir(parents=True, exist_ok=True)
 
@@ -1025,13 +1060,14 @@ priceDf = clCard.get(priceDf)
 safeFact= safeTypeDfFactory()
 priceDf = safeFact.get(priceDf)
 
-# 検索用チャンクデータ生成
+# 検索用チャンクデータ生成 -> 廃止
 #chunkFact = chunkDfFactory()
 #chunksDf = chunkFact.get(priceDf)
 #chunkFact.save(chunksDf,chunk_dir)
 
-indexer = masterIdIndexGen()
-indexer.output(priceDf,index_dir+'/id.json')
+# インデックス生成 -> 廃止
+#indexer = masterIdIndexGen()
+#indexer.output(priceDf,index_dir+'/id.json')
 
 ranks.save(priceDf,rank_dir+'/all.json')
 #ranks.save(priceDf.head(50),rank_dir+'/all_head.json')
@@ -1039,19 +1075,20 @@ ranks.save(priceDf,rank_dir+'/all.json')
 pchartProvider = priceChartDataProvider()
 pchartProvider.save(pchartProvider.getData(priceDf), chart_dir+'/all_line_charts.json')
 
+# 監査情報
 audit = auditStockLogger()
 audit.saveRegulation(priceDf, rank_dir+'/all_stock_regu.json')
 audit.saveRarity(priceDf, rank_dir+'/all_stock_rarity.json')
 
 # CLデッキレシピ生成
-recipeProvider = cityLeagueDeckRecipeProvider()
-recipeProvider.priceDf = priceDf
-recipeProvider.save(recipeProvider.get(), recipe_dir+'/deck_recipe.json')
-recipeProvider.only_rank1 = True
-recipeProvider.save(recipeProvider.get(), recipe_dir+'/deck_recipe_rank1.json')
-recipeProvider.event_id = True
-recipeProvider.save(recipeProvider.get(), recipe_dir+'/deck_recipe_event.json')
-
+#recipeProvider = cityLeagueDeckRecipeProvider(priceDf)
+#recipeProvider.save(recipeProvider.get(), recipe_dir+'/deck_recipe.json')
+#recipeProvider = cityLeagueRank1DeckRecipeProvider(priceDf)
+#recipeProvider.save(recipeProvider.get(), recipe_dir+'/deck_recipe_rank1.json')
+#recipeProvider = cityLeagueEventDeckRecipeProvider(priceDf)
+#recipeProvider.save(recipeProvider.get(), recipe_dir+'/deck_recipe_event.json')
+recipeProvider = cityLeagueAllDeckRecipeProvider(priceDf)
+recipeProvider.save(recipeProvider.get(), recipe_dir+'/deck_recipe_all.json')
 del priceDf
 gc.collect()  
 
@@ -1122,13 +1159,15 @@ gc.collect()
 
 # ---------------------
 
-# デッキインデックス
-dtypeGen = deckTypeIndexGen()
-dtypeGen.output(index_dir+'/deck_type.json')
+# デッキインデックス -> 廃止
+#dtypeGen = deckTypeIndexGen()
+#dtypeGen.output(index_dir+'/deck_type.json')
 
-# イベントIDインデックス
-eventIdGen = eventIdIndexGen()
-eventIdGen.output(index_dir+'/event_id.json')
+# イベントIDインデックス -> 廃止
+#eventIdGen = eventIdIndexGen()
+#eventIdGen.output(index_dir+'/event_id.json')
+
+# ---------------------
 
 # マーケットログ生成
 log = logGen()
