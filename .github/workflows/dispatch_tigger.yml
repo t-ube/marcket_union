@@ -21,6 +21,6 @@ jobs:
       - name: dispatch target-updated
         uses: peter-evans/repository-dispatch@v1
         with:
-          token: ${{ secrets.PERSONAL_TOKEN }}
+          token: ${{ secrets.UNION_PERSONAL_TOKEN }}
           repository: ${{ matrix.repo }}
           event-type: target-updated
