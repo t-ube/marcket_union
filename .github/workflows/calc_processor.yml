@@ -2,6 +2,8 @@ name: Process calc
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '30 14 * * *'
 
 jobs:
   build:
@@ -82,3 +84,16 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ steps.extract_branch.outputs.branch }}
+  dispatch-target-updated:
+    strategy:
+      matrix:
+        repo: ['t-ube/toreris']
+    name: dispatch-target-updated
+    runs-on: ubuntu-latest
+    steps:
+      - name: dispatch target-updated
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.UNION_PERSONAL_TOKEN }}
+          repository: ${{ matrix.repo }}
+          event-type: target-updated

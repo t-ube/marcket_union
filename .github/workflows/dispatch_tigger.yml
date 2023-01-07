@@ -2,13 +2,6 @@ name: Trigger update
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '30 14 * * *'
-  push:
-    branches:
-      - main
-    paths:
-      - 'dist/rank/all_price_top.json'
 
 jobs:
   dispatch-target-updated:
