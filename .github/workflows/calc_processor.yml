@@ -12,6 +12,7 @@ jobs:
     env:
       SUPABASE_URL: ${{secrets.SUPABASE_URL}}
       SUPABASE_ANON_KEY: ${{secrets.SUPABASE_ANON_KEY}}
+      SUPABASE_SERVICE_KEY: ${{secrets.SUPABASE_SERVICE_KEY}}
     steps:
       - name: Extract branch name
         shell: bash
