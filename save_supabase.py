@@ -109,9 +109,10 @@ class supabaseWriter:
 
 url: str = os.environ.get("SUPABASE_URL")
 key: str = os.environ.get("SUPABASE_ANON_KEY")
-
+service_key: str = os.environ.get("SUPABASE_SERVICE_KEY")
 
 supabase: Client = create_client(url, key)
+supabase.postgrest.auth(service_key)
 
 writer = supabaseWriter()
 writer.writeSummary(supabase)
