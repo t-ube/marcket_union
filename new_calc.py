@@ -1169,6 +1169,6 @@ gc.collect()
 
 # ---------------------
 
-# マーケットログ生成
-log = logGen()
-log.output(log_dir+'/market_price_log.json')
+# マーケットログ生成 -> 廃止
+#log = logGen()
+#log.output(log_dir+'/market_price_log.json')

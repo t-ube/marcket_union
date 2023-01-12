@@ -102,7 +102,6 @@ class supabaseWriter:
 
     def clearFiles(self):
         os.remove('./dist/rank/all.json')
-        os.remove('./dist/log/market_price_log.json')
         os.remove('./dist/chart/all_line_charts.json')
         os.remove('./dist/recipe/deck_recipe_all.json')
 
@@ -118,5 +117,4 @@ writer = supabaseWriter()
 writer.writeSummary(supabase)
 writer.writeRecipe(supabase)
 writer.writeChart(supabase)
-writer.writeLog(supabase)
 writer.clearFiles()
