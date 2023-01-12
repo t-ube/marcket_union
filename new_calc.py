@@ -7,9 +7,45 @@ from pathlib import Path
 import random
 import datetime
 import gc
+import httpx
+import postgrest
 import urllib.request
 import math
+from supabase import create_client, Client
 
+# supabase の読み取り
+class cardSummaryIndexReader:
+    def read(self, supabase:Client):
+        try:
+            data = supabase.table("card_market_result_index").select("master_id_list").execute()
+            if len(data.data) == 0:
+                return []
+            if data.data[0]['master_id_list'] == None:
+                return []
+            return data.data[0]['master_id_list'].split(',')
+        except httpx.ReadTimeout as e:
+            print("httpx.ReadTimeout")
+            print(e.args)
+        except postgrest.exceptions.APIError as e:
+            print("postgrest.exceptions.APIError")
+            print(e.args)
+        return []
+
+# supabase の読み取り
+class cardSummaryReader:
+    def read(self, supabase:Client, id_list):
+        try:
+            data = supabase.table("card_market_result").select("master_id,card_price").in_("master_id",id_list).execute()
+            if len(data.data) == 0:
+                return []
+            return data.data
+        except httpx.ReadTimeout as e:
+            print("httpx.ReadTimeout")
+            print(e.args)
+        except postgrest.exceptions.APIError as e:
+            print("postgrest.exceptions.APIError")
+            print(e.args)
+        return []
 
 # シティリーグ使用されたIDを表示
 class cityLeagueLister:
@@ -554,7 +590,7 @@ class masterIdIndexGen:
        
 # 価格情報の基本情報を生成
 class dailyPriceFactory:
-    marcket_files = "./marcket/*.json"
+    market_files = "./market/*.json"
 
     def get(self):
         listWeekly = {}
@@ -562,7 +598,7 @@ class dailyPriceFactory:
         listStock = {}
         listWeeklyPriceList = {}
         listHalfYearPriceList = {}
-        files = glob.glob(self.marcket_files)
+        files = glob.glob(self.market_files)
         for file in files:
             with open(file, encoding='utf_8_sig') as f:
                 masterid = os.path.splitext(os.path.basename(file))[0]
@@ -638,6 +674,20 @@ class dailyPriceFactory:
             dfDaily = pd.merge(dfDaily,readDf,how='inner',on='master_id')
 
         return dfDaily
+
+    def readSupabase(self, supabase:Client):
+        indexReader = cardSummaryIndexReader()
+        summaryReader = cardSummaryReader()
+        id_list = indexReader.read(supabase)
+        for i in range(0, len(id_list), 100):
+            batch = id_list[i: i+100]
+            print('Write log no.:'+str(i))
+            data = summaryReader.read(supabase,batch)
+            for j in data:
+                buffer = {"price":{}}
+                buffer['price'] = j['card_price']
+                with open('./market/'+j['master_id']+'.json', 'w') as f:
+                    json.dump(buffer, f, indent=4)
 
     def getNewRegulation(self,df:pd.DataFrame):
         # 同名扱いのカードはこのフラグで吸収
@@ -1028,6 +1078,15 @@ class auditStockLogger:
         with open(file_name, 'w', encoding='utf_8_sig') as f:
             json.dump(dict_tmp, f, ensure_ascii=False)
 
+
+url: str = os.environ.get("SUPABASE_URL")
+key: str = os.environ.get("SUPABASE_ANON_KEY")
+service_key: str = os.environ.get("SUPABASE_SERVICE_KEY")
+
+supabase: Client = create_client(url, key)
+supabase.postgrest.auth(service_key)
+
+Path('./market').mkdir(parents=True, exist_ok=True)
 output_dir = './dist'
 Path(output_dir).mkdir(parents=True, exist_ok=True)
 rank_dir = output_dir+'/rank'
@@ -1046,9 +1105,9 @@ Path(log_dir).mkdir(parents=True, exist_ok=True)
 exp_fact = expansionFactory()
 daily_fact = dailyPriceFactory()
 expDf = exp_fact.get()
+dailyDf = daily_fact.readSupabase(supabase)
 dailyDf = daily_fact.get()
 dailyDf = daily_fact.getNewRegulation(dailyDf)
-
 
 # 全カード対象
 topCalc = calcTopPrice()
@@ -1119,18 +1178,6 @@ priceDf = clCard.get(priceDf)
 priceDf = ranksCL.rePriceRank(priceDf[priceDf['cl_count'] > 0])
 topDf = topCalc.get7daysTopPrice(priceDf)
 topCalc.save(topDf, rank_dir+'/cl_price_rise_top.json')
-
-'''
-ranksCL.rank_price_type = 'percent_7d'
-ranksCL.is_filtered_dupcard = True
-priceDf = ranksCL.getPriceRank(dailyDf,expDf)
-topDf = topCalc.get7daysTopPrice(priceDf)
-topCalc.save(topDf, rank_dir+'/cl_price_rise_top.json')
-ranksCL.is_rank_invert = True
-priceDf = ranksCL.getPriceRank(dailyDf,expDf)
-topDf = topCalc.get7daysTopPrice(priceDf)
-topCalc.save(topDf, rank_dir+'/cl_price_fall_top.json')
-'''
 
 counterCL = cityLeagueDeckCounter()
 counterDf = counterCL.get(False)
