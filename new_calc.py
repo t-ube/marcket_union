@@ -665,13 +665,16 @@ class dailyPriceFactory:
         dfDaily['diff_24h'] = dfDaily['latest_price'] - dfDaily['price_24h']
         dfDaily['diff_7d'] = dfDaily['latest_price'] - dfDaily['price_7d']
 
+        card_list = []
         files = glob.glob("./card/*.csv")
         for file in files:
             readDf = pd.read_csv(
                 file,
                 encoding="utf_8_sig", sep=",",
                 header=0)
-            dfDaily = pd.merge(dfDaily,readDf,how='inner',on='master_id')
+            card_list.append(readDf)
+        readDfAll = pd.concat(card_list, axis=0, ignore_index=True, sort=True)
+        dfDaily = pd.merge(dfDaily,readDfAll,how='inner',on='master_id')
 
         return dfDaily
 
@@ -697,15 +700,8 @@ class dailyPriceFactory:
         df_modified = df.copy()
         df_modified = df_modified[df_modified['card_type'] == 'トレーナーズ']
         df_modified = df_modified[df_modified['regulation'] != '-']
-
-        dfHakase = df_modified[df_modified['name'].str.contains('博士の研究')]
-        dfHakase['hakase'] = True
-        df_modified.update(dfHakase)
-
-        dfBoss = df_modified[df_modified['name'].str.contains('ボスの指令')]
-        dfBoss['boss'] = True
-        df_modified.update(dfBoss)
-
+        df_modified.loc[df_modified['name'].str.contains('博士の研究'),'hakase'] = True
+        df_modified.loc[df_modified['name'].str.contains('ボスの指令'),'boss'] = True
         df_modified = df_modified.sort_values(by=['regulation'], ascending=[True])
 
         df_temp = df_modified[~df_modified.duplicated(keep='last', subset=['name'])]
