@@ -108,12 +108,17 @@ class cityLeagueDeckCardProvider:
     def get(self, df: pd.DataFrame):
         count = self._getDeckCount()
         partDf = self._get()
-        partDf = partDf.rename(columns={
-            'card_id': 'official_id',
-            'count': 'cl_count',
-            'card_id_rows': 'cl_deck',
-            })
-        newDf = pd.merge(df,partDf,how='left',on='official_id')
+        if len(partDf) > 0:
+            partDf = partDf.rename(columns={
+                'card_id': 'official_id',
+                'count': 'cl_count',
+                'card_id_rows': 'cl_deck',
+                })
+            newDf = pd.merge(df,partDf,how='left',on='official_id')
+        else:
+            newDf = df
+            newDf['cl_count'] = 0
+            newDf['cl_deck'] = 0
         newDf = newDf.fillna({'cl_count': 0, 'cl_deck': 0})
         if count > 0:
             newDf['cl_rate'] = newDf['cl_deck'] / count * 100
@@ -1191,10 +1196,15 @@ gc.collect()
 # 新弾対象
 topCalc = calcTopPrice()
 ranksNew = rankCalculator()
-ranksNew.filtered_expansion = 'S12a'
+ranksNew.filtered_expansion = 'SV1S'
 priceDf = ranksNew.getPriceRank(dailyDf,expDf)
 topDf = topCalc.get7daysTopPrice(priceDf)
-topCalc.save(topDf, rank_dir+'/new_product_price_top.json')
+topCalc.save(topDf, rank_dir+'/new_product_price_top_sv1s.json')
+
+ranksNew.filtered_expansion = 'SV1V'
+priceDf = ranksNew.getPriceRank(dailyDf,expDf)
+topDf = topCalc.get7daysTopPrice(priceDf)
+topCalc.save(topDf, rank_dir+'/new_product_price_top_sv1v.json')
 
 del topDf
 del priceDf
