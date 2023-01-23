@@ -174,6 +174,8 @@ class deckTypeIndexGen:
 class cityLeagueDeckCounter:
     def get(self, rank1: bool):
         df = self._getDf()
+        if len(df) == 0:
+            return pd.DataFrame(columns=['name','value'])
         if rank1:
             df = df[df['rank'] == 1]
         grouped = df.groupby('deck_type')
@@ -199,6 +201,8 @@ class cityLeagueDeckCounter:
         return None
 
     def _getRanking(self, df: pd.DataFrame):
+        if len(df) == 0:
+            return pd.DataFrame(columns=['rank','name','value'])
         df['rank'] = df.rank(ascending=False)['value']
         df = df.sort_values(by=['rank'], ascending=[True])
         topDf = df.head(10)
@@ -213,8 +217,9 @@ class cityLeagueDeckCounter:
 
     def save(self, df: pd.DataFrame, file_name: str):
         dict_tmp = {'ranking':[],'items': []}
-        dict_tmp['ranking'] = self._getRanking(df)
-        dict_tmp['items'] = df.to_dict(orient="record")
+        if len(df) > 0:
+            dict_tmp['ranking'] = self._getRanking(df)
+            dict_tmp['items'] = df.to_dict(orient="record")
         with open(file_name, 'w', encoding='utf_8_sig') as f:
             json.dump(dict_tmp, f, ensure_ascii=False)
 
@@ -918,7 +923,8 @@ class rankCalculator:
 
     def save(self, df: pd.DataFrame, file_name: str):
         dict_tmp = {'items': []}
-        dict_tmp['items'] = df.to_dict(orient="record")
+        if len(df) > 0:
+            dict_tmp['items'] = df.to_dict(orient="record")
         with open(file_name, 'w', encoding='utf_8_sig') as f:
             json.dump(dict_tmp, f, ensure_ascii=False)
 
@@ -1075,7 +1081,8 @@ class auditStockLogger:
 
     def _save(self, df: pd.DataFrame, file_name: str):
         dict_tmp = {'items': []}
-        dict_tmp['items'] = df.to_dict(orient="record")
+        if len(df) > 0:
+            dict_tmp['items'] = df.to_dict(orient="record")
         with open(file_name, 'w', encoding='utf_8_sig') as f:
             json.dump(dict_tmp, f, ensure_ascii=False)
 
@@ -1106,7 +1113,7 @@ Path(log_dir).mkdir(parents=True, exist_ok=True)
 exp_fact = expansionFactory()
 daily_fact = dailyPriceFactory()
 expDf = exp_fact.get()
-dailyDf = daily_fact.readSupabase(supabase)
+daily_fact.readSupabase(supabase)
 dailyDf = daily_fact.get()
 dailyDf = daily_fact.getNewRegulation(dailyDf)
 
