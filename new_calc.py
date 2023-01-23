@@ -108,12 +108,12 @@ class cityLeagueDeckCardProvider:
     def get(self, df: pd.DataFrame):
         count = self._getDeckCount()
         partDf = self._get()
+        partDf = partDf.rename(columns={
+            'card_id': 'official_id',
+            'count': 'cl_count',
+            'card_id_rows': 'cl_deck',
+            })
         if len(partDf) > 0:
-            partDf = partDf.rename(columns={
-                'card_id': 'official_id',
-                'count': 'cl_count',
-                'card_id_rows': 'cl_deck',
-                })
             newDf = pd.merge(df,partDf,how='left',on='official_id')
         else:
             newDf = df
