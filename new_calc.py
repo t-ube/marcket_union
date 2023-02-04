@@ -354,7 +354,7 @@ class cityLeagueDeckRecipeProvider:
         dfG = df[df['mark'] == 'G']
         dfH = df[df['mark'] == 'H']
         dfI = df[df['mark'] == 'I']
-        dfNan = df[df['mark'] == '']
+        dfNan = df[((df['mark'] == '') | (df['mark'] == '-'))]
         df = pd.concat([dfD,dfE,dfF,dfG,dfH,dfI,dfNan])
         result = df.to_dict(orient="record")
         return result
@@ -1200,22 +1200,22 @@ gc.collect()
 
 # ---------------------
 
-# 新弾対象
-topCalc = calcTopPrice()
-ranksNew = rankCalculator()
-ranksNew.filtered_expansion = 'SV1S'
-priceDf = ranksNew.getPriceRank(dailyDf,expDf)
-topDf = topCalc.get7daysTopPrice(priceDf)
-topCalc.save(topDf, rank_dir+'/new_product_price_top_sv1s.json')
+# 新弾対象 -> 廃止
+#topCalc = calcTopPrice()
+#ranksNew = rankCalculator()
+#ranksNew.filtered_expansion = 'SV1S'
+#priceDf = ranksNew.getPriceRank(dailyDf,expDf)
+#topDf = topCalc.get7daysTopPrice(priceDf)
+#topCalc.save(topDf, rank_dir+'/new_product_price_top_sv1s.json')
 
-ranksNew.filtered_expansion = 'SV1V'
-priceDf = ranksNew.getPriceRank(dailyDf,expDf)
-topDf = topCalc.get7daysTopPrice(priceDf)
-topCalc.save(topDf, rank_dir+'/new_product_price_top_sv1v.json')
+#ranksNew.filtered_expansion = 'SV1V'
+#priceDf = ranksNew.getPriceRank(dailyDf,expDf)
+#topDf = topCalc.get7daysTopPrice(priceDf)
+#topCalc.save(topDf, rank_dir+'/new_product_price_top_sv1v.json')
 
-del topDf
-del priceDf
-gc.collect() 
+#del topDf
+#del priceDf
+#gc.collect() 
 
 # ---------------------
 
