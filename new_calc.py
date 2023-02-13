@@ -634,10 +634,14 @@ class dailyPriceFactory:
                         'min_price': priceD_Min['latestPrice'],
                     }
                 stock = self.getCurrentStock(data)
+                stockW = self.stockDay(data,6)
+                stockD = self.stockDay(data,1)
                 if stock is not None:
                     listStock[len(listStock)] = {
                         'master_id': masterid,
                         'stock': stock,
+                        'stock_24h': stockD,
+                        'stock_7d': stockW,
                     }
                 weeklyPriceList = self.getWeeklyPriceList(data)
                 if weeklyPriceList is not None:
@@ -674,6 +678,8 @@ class dailyPriceFactory:
             })
         dfDaily['diff_24h'] = dfDaily['latest_price'] - dfDaily['price_24h']
         dfDaily['diff_7d'] = dfDaily['latest_price'] - dfDaily['price_7d']
+        dfDaily['diff_stock_24h'] = dfDaily['stock'] - dfDaily['stock_24h']
+        dfDaily['diff_stock_7d'] = dfDaily['stock'] - dfDaily['stock_7d']
 
         card_list = []
         files = glob.glob("./card/*.csv")
@@ -738,6 +744,21 @@ class dailyPriceFactory:
         df = df.drop(columns={'hakase','boss'})
 
         return df
+
+    # day = 6 (before 6days)
+    def stockDay(self,data,day):
+        if 'price' in data:
+            if 'weekly' in data['price'] and data['price']['weekly'] is not None:
+                week = data['price']['weekly']
+                if 'archive' in week and week['archive'] is not None:
+                    archive = week['archive']
+                    if 'data' in archive and archive['data'] is not None:
+                        array = archive['data']
+                        if len(array) <= day:
+                            return 0
+                        data = array[6-day]
+                        return data['count']
+        return 0
 
     # tag : 50% or min
     def priceWeekly(self,data,tag):
@@ -1189,9 +1210,9 @@ topCalc.save(topDf, rank_dir+'/cl_price_rise_top.json')
 
 counterCL = cityLeagueDeckCounter()
 counterDf = counterCL.get(False)
-counterCL.save(counterDf,rank_dir+'/cl_deck_top.json')
-counterDf = counterCL.get(True)
-counterCL.save(counterDf,rank_dir+'/cl_deck_rank1_top.json')
+#counterCL.save(counterDf,rank_dir+'/cl_deck_top.json')
+#counterDf = counterCL.get(True)
+#counterCL.save(counterDf,rank_dir+'/cl_deck_rank1_top.json')
 
 del topDf
 del priceDf
