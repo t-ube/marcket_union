@@ -328,10 +328,13 @@ class cityLeagueDeckRecipeProvider:
         counts = {}
         total = 0
         for d in deck_items:
-            if d['regulation'] in counts:
-                counts[d['regulation']] += d['count']
+            mark = d['regulation']
+            if mark == '' or mark == None:
+                mark = '-'
+            if mark in counts:
+                counts[mark] += d['count']
             else:
-                counts[d['regulation']] = d['count']
+                counts[mark] = d['count']
             total += d['count']
         result = []
         for reg, count in counts.items():
@@ -1182,19 +1185,19 @@ gc.collect()
 
 # ---------------------
 
-ranks.is_filtered_dupcard = True
-priceDf = ranks.getPriceRank(dailyDf,expDf)
-topDf = topCalc.get7daysTopPrice(priceDf)
-topCalc.save(topDf, rank_dir+'/all_price_top.json')
+#ranks.is_filtered_dupcard = True
+#priceDf = ranks.getPriceRank(dailyDf,expDf)
+#topDf = topCalc.get7daysTopPrice(priceDf)
+#topCalc.save(topDf, rank_dir+'/all_price_top.json')
 
-ranks.rank_price_type = 'percent_24h'
-ranks.is_filtered_dupcard = True
-priceDf = ranks.getPriceRank(dailyDf,expDf)
-topDf = topCalc.get7daysTopPrice(priceDf)
-topCalc.save(topDf, rank_dir+'/all_price_rise_24h_top.json')
+#ranks.rank_price_type = 'percent_24h'
+#ranks.is_filtered_dupcard = True
+#priceDf = ranks.getPriceRank(dailyDf,expDf)
+#topDf = topCalc.get7daysTopPrice(priceDf)
+#topCalc.save(topDf, rank_dir+'/all_price_rise_24h_top.json')
 
-del topDf
-gc.collect() 
+#del topDf
+#gc.collect() 
 # ---------------------
 
 # シティリーグ対象
