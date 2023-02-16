@@ -638,12 +638,14 @@ class dailyPriceFactory:
                     }
                 stock = self.getCurrentStock(data)
                 stockW = self.stockDay(data,6)
+                stock2D = self.stockDay(data,2)
                 stockD = self.stockDay(data,1)
                 if stock is not None:
                     listStock[len(listStock)] = {
                         'master_id': masterid,
                         'stock': stock,
                         'stock_24h': stockD,
+                        'stock_2d': stock2D,
                         'stock_7d': stockW,
                     }
                 weeklyPriceList = self.getWeeklyPriceList(data)
@@ -683,6 +685,7 @@ class dailyPriceFactory:
         dfDaily['diff_7d'] = dfDaily['latest_price'] - dfDaily['price_7d']
         dfDaily['diff_stock_24h'] = dfDaily['stock'] - dfDaily['stock_24h']
         dfDaily['diff_stock_7d'] = dfDaily['stock'] - dfDaily['stock_7d']
+        dfDaily['diff_stock_2d_24h'] = dfDaily['stock_24h'] - dfDaily['stock_2d']
 
         card_list = []
         files = glob.glob("./card/*.csv")
@@ -1201,26 +1204,26 @@ gc.collect()
 # ---------------------
 
 # シティリーグ対象
-topCalc = calcTopPrice()
-ranksCL = rankCalculator()
-ranksCL.rank_price_type = 'percent_7d'
-ranksCL.is_filtered_dupcard = True
-priceDf = ranksCL.getPriceRank(dailyDf,expDf)
-priceDf = clCard.get(priceDf)
-priceDf = ranksCL.rePriceRank(priceDf[priceDf['cl_count'] > 0])
-topDf = topCalc.get7daysTopPrice(priceDf)
-topCalc.save(topDf, rank_dir+'/cl_price_rise_top.json')
+#topCalc = calcTopPrice()
+#ranksCL = rankCalculator()
+#ranksCL.rank_price_type = 'percent_7d'
+#ranksCL.is_filtered_dupcard = True
+#priceDf = ranksCL.getPriceRank(dailyDf,expDf)
+#priceDf = clCard.get(priceDf)
+#priceDf = ranksCL.rePriceRank(priceDf[priceDf['cl_count'] > 0])
+#topDf = topCalc.get7daysTopPrice(priceDf)
+#topCalc.save(topDf, rank_dir+'/cl_price_rise_top.json')
 
-counterCL = cityLeagueDeckCounter()
-counterDf = counterCL.get(False)
+#counterCL = cityLeagueDeckCounter()
+#counterDf = counterCL.get(False)
 #counterCL.save(counterDf,rank_dir+'/cl_deck_top.json')
 #counterDf = counterCL.get(True)
 #counterCL.save(counterDf,rank_dir+'/cl_deck_rank1_top.json')
 
-del topDf
-del priceDf
-del counterDf
-gc.collect() 
+#del topDf
+#del priceDf
+#del counterDf
+#gc.collect() 
 
 # ---------------------
 
