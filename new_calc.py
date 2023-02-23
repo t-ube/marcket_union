@@ -1187,18 +1187,15 @@ del priceDf
 gc.collect()  
 
 # ---------------------
-
 #ranks.is_filtered_dupcard = True
 #priceDf = ranks.getPriceRank(dailyDf,expDf)
 #topDf = topCalc.get7daysTopPrice(priceDf)
 #topCalc.save(topDf, rank_dir+'/all_price_top.json')
-
 #ranks.rank_price_type = 'percent_24h'
 #ranks.is_filtered_dupcard = True
 #priceDf = ranks.getPriceRank(dailyDf,expDf)
 #topDf = topCalc.get7daysTopPrice(priceDf)
 #topCalc.save(topDf, rank_dir+'/all_price_rise_24h_top.json')
-
 #del topDf
 #gc.collect() 
 # ---------------------
