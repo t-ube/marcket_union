@@ -90,7 +90,7 @@ class supabaseWriter:
 
     def clearFiles(self):
         os.remove('./dist/rank/all.json')
-        os.remove('./dist/chart/all_line_charts.json')
+        #os.remove('./dist/chart/all_line_charts.json')
         os.remove('./dist/recipe/deck_recipe_all.json')
 
 '''
