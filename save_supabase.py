@@ -86,7 +86,14 @@ class supabaseWriter:
                     print('Begin error data')
                     print(batch_item)
                     print('End error data')
-    
+
+
+    def clearFiles(self):
+        os.remove('./dist/rank/all.json')
+        os.remove('./dist/chart/all_line_charts.json')
+        os.remove('./dist/recipe/deck_recipe_all.json')
+
+'''
     def writeChart(self, supabase:Client):
         timestamp = datetime.datetime.utcnow()
         with open("./dist/chart/all_line_charts.json", "r", encoding="utf_8_sig") as f:
@@ -156,11 +163,7 @@ class supabaseWriter:
                     print('Begin error data')
                     print(batch_item)
                     print('End error data')
-
-    def clearFiles(self):
-        os.remove('./dist/rank/all.json')
-        os.remove('./dist/chart/all_line_charts.json')
-        os.remove('./dist/recipe/deck_recipe_all.json')
+'''
 
 url: str = os.environ.get("SUPABASE_URL")
 key: str = os.environ.get("SUPABASE_ANON_KEY")
@@ -172,5 +175,5 @@ supabase.postgrest.auth(service_key)
 writer = supabaseWriter()
 writer.writeSummary(supabase)
 writer.writeRecipe(supabase)
-writer.writeChart(supabase)
+#writer.writeChart(supabase)
 writer.clearFiles()
