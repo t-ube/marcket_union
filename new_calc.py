@@ -1166,8 +1166,9 @@ priceDf = safeFact.get(priceDf)
 ranks.save(priceDf,rank_dir+'/all.json')
 #ranks.save(priceDf.head(50),rank_dir+'/all_head.json')
 
-pchartProvider = priceChartDataProvider()
-pchartProvider.save(pchartProvider.getData(priceDf), chart_dir+'/all_line_charts.json')
+# 値動き -> 廃止
+#pchartProvider = priceChartDataProvider()
+#pchartProvider.save(pchartProvider.getData(priceDf), chart_dir+'/all_line_charts.json')
 
 # 監査情報
 audit = auditStockLogger()
