@@ -334,7 +334,8 @@ class dailyPriceIOCSV():
             self.__calc_csv,
             encoding="utf_8_sig", sep=",",
             index_col="datetime",
-            header=0)
+            header=0,
+            float_precision='round_trip')
         self.__df.index = pd.to_datetime(self.__df.index, format='%Y-%m-%d %H:%M:%S')
 
     def save(self):
@@ -348,7 +349,8 @@ class dailyPriceIOCSV():
             index_label='datetime',
             encoding='utf_8_sig',
             columns=['count','mean','std','min','25%','50%','75%','max'],
-            date_format='%Y-%m-%d %H:%M:%S'
+            date_format='%Y-%m-%d %H:%M:%S',
+            float_format='%.15f'
             )
 
     def add(self, df):
