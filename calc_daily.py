@@ -100,8 +100,8 @@ for index, row in dfCards.iterrows():
         continue
     id_list.append(row['master_id'])
 
-for i in range(0, len(id_list), 30):
-    batch = id_list[i: i+30]
+for i in range(0, len(id_list), 90):
+    batch = id_list[i: i+90]
     print('Write log no.:'+str(i))
     data1 = dailyPriceReader.readLimit(supabase,batch,currentDT)
 
