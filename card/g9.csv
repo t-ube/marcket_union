@@ -46,9 +46,9 @@ sv-p_GRA,SV-P,GRA,エネルギー,草,基本草エネルギー,-,,,,-,42956,Fals
 sv-p_LIG,SV-P,LIG,エネルギー,雷,基本雷エネルギー,-,,,,-,42959,False,False
 sv-p_MET,SV-P,MET,エネルギー,鋼,基本鋼エネルギー,-,,,,-,42963,False,False
 sv-p_PSY,SV-P,PSY,エネルギー,超,基本超エネルギー,-,,,,-,42960,False,False
-sv-p_SV-P,SV-P,SV-P,トレーナーズ,グッズ,勝利のしるし(2位),-,,,,G,42954,False,False
-sv-p_SV-P,SV-P,SV-P,トレーナーズ,グッズ,勝利のしるし(3位),-,,,,G,42955,False,False
-sv-p_SV-P,SV-P,SV-P,トレーナーズ,グッズ,勝利のしるし(優勝),-,,,,G,42953,False,False
+sv-p_SV-P_42954,SV-P,SV-P,トレーナーズ,グッズ,勝利のしるし(2位),-,,,,G,42954,False,False
+sv-p_SV-P_42955,SV-P,SV-P,トレーナーズ,グッズ,勝利のしるし(3位),-,,,,G,42955,False,False
+sv-p_SV-P_42953,SV-P,SV-P,トレーナーズ,グッズ,勝利のしるし(優勝),-,,,,G,42953,False,False
 sv-p_WAT,SV-P,WAT,エネルギー,水,基本水エネルギー,-,,,,-,42958,False,False
 sv1a_001_073,SV1a,001/073,ポケモン,草,トロピウス,C,,リーフドレイン,なんごくのかぜ,G,42966,False,False
 sv1a_002_073,SV1a,002/073,ポケモン,草,タマゲタケ,C,,もようでつる,たたく,G,42967,False,False

@@ -26,6 +26,7 @@ def loadCardDf():
             header=0)
         card_list.append(readDf)
     readDfAll = pd.concat(card_list, axis=0, ignore_index=True, sort=True)
+    print(readDfAll[readDfAll.duplicated(subset=['master_id'], keep=False)])
     return readDfAll
 
 # 従来ファイルと同等フォーマットへの変換処理
