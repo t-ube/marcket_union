@@ -1,9 +1,7 @@
-name: Process calc
+name: Process calc manual
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '30 13 * * *'
 
 jobs:
   build:
@@ -73,7 +71,6 @@ jobs:
           rm -rf ptc_event
       - name: Build data
         run: |
-          python3 calc_shopitem.py
           python3 calc_daily.py
           python3 new_calc.py
           python3 save_supabase.py
