@@ -119,7 +119,32 @@ class batchEditor:
 
             items.append(batch_item)
         return items
-
+    
+    # card_base 用の情報を生成する
+    def getCardbase(self,item):
+        timestamp = datetime.datetime.utcnow()
+        record = {
+            "master_id": item['master_id'],
+            "updated_at": timestamp.strftime('%Y-%m-%d %H:%M:%S+00'),
+            "summary": {
+                "cn": item["cn"],
+                "name": item["name"],
+                "move1": item["move1"],
+                "move2": item["move2"],
+                "rarity": item["rarity"],
+                "ability": item["ability"],
+                "sub_type": item["sub_type"],
+                "card_type": item["card_type"],
+                "expansion": item["expansion"],
+                "master_id": item["master_id"],
+                "regulation": item["regulation"],
+                "official_id": item["official_id"],
+                "expansion_name": item["expansion_name"],
+                "copyright": item["copyright"],
+                "is_mirror": item["is_mirror"],
+            }
+        }
+        return record
 
 # 一括書き込み用
 class batchWriter:
