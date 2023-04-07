@@ -232,10 +232,12 @@ for id in id_list:
     cursor.execute(query)
     connection.commit()
 
+for id in id_list:
     query = getInsertQuery2Latest(id)
     cursor.execute(query)
     connection.commit()
 
+for id in id_list:
     query = getInsertQuery2Chart(id)
     cursor.execute(query)
     connection.commit()
