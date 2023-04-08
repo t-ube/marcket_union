@@ -167,7 +167,7 @@ def getInsertQuery2Latest(master_id:str):
 
 def getInsertQuery2Chart(master_id:str):
     query = "WITH td1 AS ("
-    query += " ((current_date::timestamp - n * interval '1 day')::timestamp AT TIME ZONE 'UTC')::date AS date"
+    query += " SELECT ((current_date::timestamp - n * interval '1 day')::timestamp AT TIME ZONE 'UTC')::date AS date"
     query += " FROM generate_series(0, 6) AS n"
     query += " ), td2 AS ("
     query += " SELECT "
@@ -240,6 +240,7 @@ connection = psycopg2.connect(supabase_uri, sslmode='require')
 cursor = connection.cursor()
 
 # 削除
+'''
 cursor.execute('DELETE FROM card_market_latest_price;')
 connection.commit()
 
@@ -255,7 +256,7 @@ for id in id_list:
     query = getInsertQuery2Latest(id)
     cursor.execute(query)
     connection.commit()
-
+'''
 for id in id_list:
     query = getInsertQuery2Chart(id)
     cursor.execute(query)
