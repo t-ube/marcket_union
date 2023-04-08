@@ -167,7 +167,7 @@ def getInsertQuery2Latest(master_id:str):
 
 def getInsertQuery2Chart(master_id:str):
     query = "WITH td1 AS ("
-    query += " SELECT (current_date - n * interval '1 day')::timestamp AT TIME ZONE 'Asia/Tokyo' AS datetime_jst"
+    query += " ((current_date::timestamp - n * interval '1 day')::timestamp AT TIME ZONE 'UTC')::date AS date"
     query += " FROM generate_series(0, 6) AS n"
     query += " ), td2 AS ("
     query += " SELECT "
@@ -194,14 +194,14 @@ def getInsertQuery2Chart(master_id:str):
     query += " 'max', (SELECT max(percent_50) FROM td2),"
     query += " 'items', jsonb_agg("
     query += " jsonb_build_object("
-    query += " 'datetime', TO_CHAR(td1.datetime_jst, 'YYYY-MM-DD 00:00:00'),"
+    query += " 'datetime', TO_CHAR(td1.date, 'YYYY-MM-DD 00:00:00'),"
     query += " 'min', td2.min,"
     query += " 'p50', td2.percent_50,"
     query += " 'stock', td2.stock"
-    query += " ) ORDER BY td1.datetime_jst ASC"
+    query += " ) ORDER BY td2.datetime_jst ASC"
     query += " )"
     query += " ) AS price_list_7d"
-    query += " FROM td1 LEFT JOIN td2 ON td1.datetime_jst::date = td2.datetime_jst::date"
+    query += " FROM td1 LEFT JOIN td2 ON td1.date = td2.datetime_jst::date"
     query += " ON CONFLICT (master_id) DO NOTHING;"
     return query
 
