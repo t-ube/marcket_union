@@ -240,7 +240,6 @@ connection = psycopg2.connect(supabase_uri, sslmode='require')
 cursor = connection.cursor()
 
 # 削除
-'''
 cursor.execute('DELETE FROM card_market_latest_price;')
 connection.commit()
 
@@ -256,7 +255,7 @@ for id in id_list:
     query = getInsertQuery2Latest(id)
     cursor.execute(query)
     connection.commit()
-'''
+
 for id in id_list:
     query = getInsertQuery2Chart(id)
     cursor.execute(query)
