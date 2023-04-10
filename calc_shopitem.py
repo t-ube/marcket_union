@@ -205,28 +205,6 @@ def getInsertQuery2Chart(master_id:str):
     query += " ON CONFLICT (master_id) DO NOTHING;"
     return query
 
-def getInsertQuery2IPI():
-    query = "INSERT INTO card_info_price_inventory"
-    query += " ("
-    query += " master_id, summary, datetime, p50, stock,"
-    query += " gap_1d_stock, gap_p50_1d, ratio_p50_1d,"
-    query += " gap_p50_7d, ratio_p50_7d, days_decreas_stock_7d, total_gap_stock_7d,"
-    query += " price_list_7d,"
-    query += " usage_total, unique_decks_per_card, usage_count_ratio, deck_ratio"
-    query += " )"
-    query += " SELECT "
-    query += " t1.master_id,t1.summary,t2.datetime, t2.p50, t2.stock,"
-    query += " t2.gap_1d_stock, t2.gap_p50_1d, t2.ratio_p50_1d,"
-    query += " t2.gap_p50_7d, t2.ratio_p50_7d, t2.days_decreas_stock_7d, t2.total_gap_stock_7d,"
-    query += " t3.price_list_7d,"
-    query += " t4.total_cards AS usage_total, t4.unique_decks_per_card, t4.count_ratio AS usage_count_ratio, t4.deck_ratio"
-    query += " FROM card_base AS t1"
-    query += " LEFT JOIN card_market_latest_price AS t2 ON t1.master_id=t2.master_id"
-    query += " LEFT JOIN card_market_daily_price_chart AS t3 ON t1.master_id=t3.master_id"
-    query += " LEFT JOIN card_usage AS t4 ON t1.master_id=t4.master_id"
-    query += " ON CONFLICT (master_id) DO NOTHING;"
-    return query
-
 def getInsertQuery2UsageDaily():
     query = """
         WITH td1 AS ( 
@@ -282,6 +260,31 @@ def getInsertQuery2Usage():
     ON CONFLICT (master_id) DO NOTHING;
     """
     return query
+
+def getInsertQuery2IPI():
+    query = """
+        INSERT INTO card_info_price_inventory
+        (
+        master_id, summary, datetime, p50, stock,
+        gap_1d_stock, gap_p50_1d, ratio_p50_1d,
+        gap_p50_7d, ratio_p50_7d, days_decreas_stock_7d, total_gap_stock_7d,
+        price_list_7d,
+        usage_total, unique_decks_per_card, usage_count_ratio, deck_ratio
+        )
+        SELECT 
+        t1.master_id,t1.summary,t2.datetime, t2.p50, t2.stock,
+        t2.gap_1d_stock, t2.gap_p50_1d, t2.ratio_p50_1d,
+        t2.gap_p50_7d, t2.ratio_p50_7d, t2.days_decreas_stock_7d, t2.total_gap_stock_7d,
+        t3.price_list_7d,
+        t4.total_cards AS usage_total, t4.unique_decks_per_card, t4.count_ratio AS usage_count_ratio, t4.deck_ratio
+        FROM card_base AS t1
+        LEFT JOIN card_market_latest_price AS t2 ON t1.master_id=t2.master_id
+        LEFT JOIN card_market_daily_price_chart AS t3 ON t1.master_id=t3.master_id
+        LEFT JOIN card_usage AS t4 ON t1.master_id=t4.master_id
+        ON CONFLICT (master_id) DO NOTHING;
+    """
+    return query
+
 
 supabase_uri: str = os.environ.get("SUPABASE_URI")
 
