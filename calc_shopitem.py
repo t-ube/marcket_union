@@ -211,17 +211,76 @@ def getInsertQuery2IPI():
     query += " master_id, summary, datetime, p50, stock,"
     query += " gap_1d_stock, gap_p50_1d, ratio_p50_1d,"
     query += " gap_p50_7d, ratio_p50_7d, days_decreas_stock_7d, total_gap_stock_7d,"
-    query += " price_list_7d"
+    query += " price_list_7d,"
+    query += " usage_total, unique_decks_per_card, usage_count_ratio, deck_ratio"
     query += " )"
     query += " SELECT "
     query += " t1.master_id,t1.summary,t2.datetime, t2.p50, t2.stock,"
     query += " t2.gap_1d_stock, t2.gap_p50_1d, t2.ratio_p50_1d,"
     query += " t2.gap_p50_7d, t2.ratio_p50_7d, t2.days_decreas_stock_7d, t2.total_gap_stock_7d,"
-    query += " t3.price_list_7d"
+    query += " t3.price_list_7d,"
+    query += " t4.total_cards AS usage_total, t4.unique_decks_per_card, t4.count_ratio AS usage_count_ratio, t4.deck_ratio"
     query += " FROM card_base AS t1"
     query += " LEFT JOIN card_market_latest_price AS t2 ON t1.master_id=t2.master_id"
     query += " LEFT JOIN card_market_daily_price_chart AS t3 ON t1.master_id=t3.master_id"
+    query += " LEFT JOIN card_usage AS t4 ON t1.master_id=t4.master_id"
     query += " ON CONFLICT (master_id) DO NOTHING;"
+    return query
+
+def getInsertQuery2UsageDaily():
+    query = """
+        WITH td1 AS ( 
+        WITH 
+        temp AS (SELECT * FROM event_deck_item WHERE date > current_date - interval '30 days'),
+        total_count AS (SELECT SUM(count) as total_count FROM temp),
+        unique_decks AS (SELECT COUNT(DISTINCT deck_id) as unique_decks FROM temp)
+        SELECT 
+        temp.master_id,
+        SUM(temp.count) as total_cards,
+        COUNT(DISTINCT temp.deck_id) as unique_decks_per_card,
+        SUM(temp.count)::FLOAT / total_count.total_count * 100 as count_ratio,
+        COUNT(DISTINCT temp.deck_id)::FLOAT / unique_decks.unique_decks * 100 as deck_ratio
+        FROM 
+        temp, total_count, unique_decks 
+        WHERE 
+        total_count.total_count > 0 AND unique_decks.unique_decks > 0
+        GROUP BY 
+        temp.master_id, total_count.total_count, unique_decks.unique_decks
+        )
+        INSERT INTO card_usage_daily (master_id, datetime, total_cards, unique_decks_per_card, count_ratio, deck_ratio)
+        SELECT 
+        master_id, current_date::timestamp AT TIME ZONE 'Asia/Tokyo', total_cards, unique_decks_per_card, count_ratio, deck_ratio
+        FROM td1
+        ON CONFLICT (master_id,datetime) DO NOTHING;
+    """
+    return query
+
+def getInsertQuery2Usage():
+    query = """
+    WITH td1 AS ( 
+    WITH 
+    temp AS (SELECT * FROM event_deck_item WHERE date > current_date - interval '30 days'),
+    total_count AS (SELECT SUM(count) as total_count FROM temp),
+    unique_decks AS (SELECT COUNT(DISTINCT deck_id) as unique_decks FROM temp)
+    SELECT 
+    temp.master_id,
+    SUM(temp.count) as total_cards,
+    COUNT(DISTINCT temp.deck_id) as unique_decks_per_card,
+    SUM(temp.count)::FLOAT / total_count.total_count * 100 as count_ratio,
+    COUNT(DISTINCT temp.deck_id)::FLOAT / unique_decks.unique_decks * 100 as deck_ratio
+    FROM 
+    temp, total_count, unique_decks 
+    WHERE 
+    total_count.total_count > 0 AND unique_decks.unique_decks > 0
+    GROUP BY 
+    temp.master_id, total_count.total_count, unique_decks.unique_decks
+    )
+    INSERT INTO card_usage (master_id, total_cards, unique_decks_per_card, count_ratio, deck_ratio)
+    SELECT 
+    master_id, total_cards, unique_decks_per_card, count_ratio, deck_ratio
+    FROM td1
+    ON CONFLICT (master_id) DO NOTHING;
+    """
     return query
 
 supabase_uri: str = os.environ.get("SUPABASE_URI")
@@ -246,6 +305,9 @@ connection.commit()
 cursor.execute('DELETE FROM card_market_daily_price_chart;')
 connection.commit()
 
+cursor.execute('DELETE FROM card_usage;')
+connection.commit()
+
 for id in id_list:
     query = getInsertQuery2Daily(id)
     cursor.execute(query)
@@ -261,6 +323,12 @@ for id in id_list:
     cursor.execute(query)
     connection.commit()
 
+cursor.execute(getInsertQuery2UsageDaily())
+connection.commit()
+cursor.execute(getInsertQuery2Usage())
+connection.commit()
+
+# 最終集計
 cursor.execute('DELETE FROM card_info_price_inventory;')
 connection.commit()
 cursor.execute(getInsertQuery2IPI())
