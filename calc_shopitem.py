@@ -147,7 +147,8 @@ def getInsertQuery2Latest(master_id:str):
     query += " gap_p50_7d,"
     query += " ratio_p50_7d,"
     query += " days_decreas_stock_7d,"
-    query += " total_gap_stock_7d"
+    query += " total_gap_stock_7d,"
+    query += " min"
     query += " )"
     query += " SELECT "
     query += " td4.master_id,"
@@ -160,7 +161,8 @@ def getInsertQuery2Latest(master_id:str):
     query += " td4.gap_p50_7d,"
     query += " ROUND(td4.ratio_p50_7d) AS ratio_p50_7d,"
     query += " td5.days_decreas_stock_7d,"
-    query += " td5.total_gap_stock_7d"
+    query += " td5.total_gap_stock_7d,"
+    query += " td4.min"
     query += " FROM td4 INNER JOIN td5 ON td4.datetime = td5.datetime"
     query += " ON CONFLICT (master_id) DO NOTHING;"
     return query
@@ -277,14 +279,18 @@ def getInsertQuery2IPI():
         gap_1d_stock, gap_p50_1d, ratio_p50_1d,
         gap_p50_7d, ratio_p50_7d, days_decreas_stock_7d, total_gap_stock_7d,
         price_list_7d,
-        usage_total, unique_decks_per_card, usage_count_ratio, deck_ratio
+        usage_total, unique_decks_per_card, usage_count_ratio, deck_ratio,
+        min,
+        usage_total_change, avg_cards_per_decks, deck_ratio_change
         )
         SELECT 
         t1.master_id,t1.summary,t2.datetime, t2.p50, t2.stock,
         t2.gap_1d_stock, t2.gap_p50_1d, t2.ratio_p50_1d,
         t2.gap_p50_7d, t2.ratio_p50_7d, t2.days_decreas_stock_7d, t2.total_gap_stock_7d,
         t3.price_list_7d,
-        t4.total_cards AS usage_total, t4.unique_decks_per_card, t4.count_ratio AS usage_count_ratio, t4.deck_ratio
+        t4.total_cards AS usage_total, t4.unique_decks_per_card, t4.count_ratio AS usage_count_ratio, t4.deck_ratio,
+        t2.min,
+        t4.total_cards_change AS usage_total_change, t4.avg_cards_per_decks, t4.deck_ratio_change
         FROM card_base AS t1
         LEFT JOIN card_market_latest_price AS t2 ON t1.master_id=t2.master_id
         LEFT JOIN card_market_daily_price_chart AS t3 ON t1.master_id=t3.master_id
@@ -292,7 +298,6 @@ def getInsertQuery2IPI():
         ON CONFLICT (master_id) DO NOTHING;
     """
     return query
-
 
 supabase_uri: str = os.environ.get("SUPABASE_URI")
 
