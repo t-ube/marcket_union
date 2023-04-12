@@ -235,27 +235,35 @@ def getInsertQuery2UsageDaily():
 
 def getInsertQuery2Usage():
     query = """
-    WITH td1 AS ( 
-    WITH 
-    temp AS (SELECT * FROM event_deck_item WHERE date > current_date - interval '30 days'),
-    total_count AS (SELECT SUM(count) as total_count FROM temp),
-    unique_decks AS (SELECT COUNT(DISTINCT deck_id) as unique_decks FROM temp)
+    WITH td1 AS (
+    SELECT
+    master_id,
+    total_cards,
+    unique_decks_per_card,
+    count_ratio,
+    deck_ratio,
+    total_cards - previous_total_cards AS total_cards_change,
+    total_cards / unique_decks_per_card AS avg_cards_per_decks,
+    deck_ratio - previous_deck_ratio AS deck_ratio_change
+    FROM (
+    SELECT
+    t1.master_id,
+    t1.deck_ratio,
+    t2.deck_ratio AS previous_deck_ratio,
+    t1.total_cards,
+    t2.total_cards AS previous_total_cards,
+    t1.unique_decks_per_card,
+    t2.unique_decks_per_card AS previous_unique_decks_per_card,
+    t1.count_ratio
+    FROM card_usage_daily t1
+    INNER JOIN card_usage_daily t2
+        ON t1.master_id = t2.master_id
+        AND t1.datetime = (SELECT MAX(datetime) FROM card_usage_daily)
+        AND t2.datetime = (SELECT MAX(datetime) - INTERVAL '1 day' FROM card_usage_daily)
+    ) AS subquery)
+    INSERT INTO card_usage (master_id, total_cards, unique_decks_per_card, count_ratio, deck_ratio, total_cards_change, avg_cards_per_decks, deck_ratio_change)
     SELECT 
-    temp.master_id,
-    SUM(temp.count) as total_cards,
-    COUNT(DISTINCT temp.deck_id) as unique_decks_per_card,
-    SUM(temp.count)::FLOAT / total_count.total_count * 100 as count_ratio,
-    COUNT(DISTINCT temp.deck_id)::FLOAT / unique_decks.unique_decks * 100 as deck_ratio
-    FROM 
-    temp, total_count, unique_decks 
-    WHERE 
-    total_count.total_count > 0 AND unique_decks.unique_decks > 0
-    GROUP BY 
-    temp.master_id, total_count.total_count, unique_decks.unique_decks
-    )
-    INSERT INTO card_usage (master_id, total_cards, unique_decks_per_card, count_ratio, deck_ratio)
-    SELECT 
-    master_id, total_cards, unique_decks_per_card, count_ratio, deck_ratio
+    master_id, total_cards, unique_decks_per_card, count_ratio, deck_ratio, total_cards_change, avg_cards_per_decks, deck_ratio_change
     FROM td1
     ON CONFLICT (master_id) DO NOTHING;
     """
