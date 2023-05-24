@@ -91,7 +91,9 @@ class expansionFactory:
 def getExpansionDf(df:pd.DataFrame):
     expa = expansionFactory()
     dfExpa = expa.get()
-    df = pd.merge(df,dfExpa,how='inner',on='expansion')
+    #df = pd.merge(df,dfExpa,how='inner',on='expansion')
+    df = pd.merge(df,dfExpa,how='outer',on='expansion')
+    df['expansion_name'] = df['expansion_name'].fillna('n/a')
     return df
 
 url: str = os.environ.get("SUPABASE_URL")
@@ -114,6 +116,7 @@ dfCards = getNewRegulationDf(dfCards)
 dfCards = getExpansionDf(dfCards)
 print(dfCards)
 
+
 data_list = []
 for index, row in dfCards.iterrows():
     if pd.isnull(row['master_id']):
@@ -126,3 +129,4 @@ for i in range(0, len(data_list), 500):
     batch = data_list[i: i+500]
     print('Write log no.:'+str(i))
     result1 = writer.write(supabase, "card_base", batch)
+
