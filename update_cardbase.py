@@ -120,8 +120,9 @@ print(dfCards)
 data_list = []
 for index, row in dfCards.iterrows():
     if pd.isnull(row['master_id']):
-        print('skip:'+row['name'])
+        print('skip:'+str(index))
         continue
+    print(str(index)+'/'+row['master_id']+':'+row['name'])
     record = editor.getCardbase(row)
     data_list.append(record)
 
