@@ -317,13 +317,13 @@ def getInsertQuery2LongChart(id_list:list[str]):
         WHERE now() - interval '294days' < td0.datetime AND td0.min IS NOT NULL
         ),
         td2 AS (
-        SELECT t1.master_id, t1.min, t1.p50, t1.date, t1.stock,
+        SELECT t1.master_id, t1.min, t1.p50, t1.date, t1.datetime, t1.stock,
         CASE WHEN t2.use_count IS NULL THEN 0 ELSE t2.use_count END AS use_count FROM td1 AS t1
         LEFT JOIN event_use_card_daily AS t2 ON t1.master_id = t2.master_id AND t1.date = to_char(t2.date,'YYYY-MM-DD')
         ORDER BY datetime
         ),
         td3 AS (
-        SELECT master_id, jsonb_agg(to_json(td2)) AS charts FROM td2
+        SELECT master_id, jsonb_agg(json_build_object('master_id', master_id, 'min', min, 'p50', p50, 'date', date, 'stock', stock, 'use_count', use_count) ORDER BY datetime) AS charts FROM td2
         GROUP BY master_id
         )
         INSERT INTO card_market_chart_long(master_id, chart_line) 
